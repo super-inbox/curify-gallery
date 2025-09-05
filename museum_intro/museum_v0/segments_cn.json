@@ -1,0 +1,52 @@
+[
+  {
+    "segment_id": 1,
+    "description": "引子：夜晚空无一人的宜昌博物馆内，太阳人石刻，穿着新石器时代衣服，带着墨镜边唱边跳，头发也是嘻哈风。全景展现文物所处大环境，其他文物也在做着可爱有趣的小动作。",
+    "music_effect": "宜昌当地特色乐器共同演奏出匹配rap的底乐，比如宜昌丝竹、锣鼓艺术等。",
+    "narration": "哟哟哟，听起 我是太阳人石刻超有脾气 穿越悠悠岁月带着底气 西南文化里头我是硬货等级",
+    "speaker": "太阳人",
+    "speak_id": "speak_0",
+    "duration": 10,
+    "frame_image": "scene1.jpg"
+  },
+  {
+    "segment_id": 2,
+    "description": "太阳人注意到了一个格外突出的⼩家伙。它在⼀旁给太阳人鼓掌，太阳人来到他身边，问：",
+    "music_effect": "",
+    "narration": "你是谁？我活了七千多年了，怎么从来没见过你？",
+    "speaker": "太阳人",
+    "speak_id": "speak_0",
+    "duration": 3,
+    "frame_image": "scene2.jpg"
+  },
+  {
+    "segment_id": 3,
+    "description": "博小翼满脸笑意的回答：",
+    "music_effect": "",
+    "narration": "您好，太阳人前辈，我叫博小翼，是今天新来的。",
+    "speaker": "博小翼",
+    "speak_id": "speak_1",
+    "duration": 2,
+    "frame_image": "scene3.jpg"
+  },
+  {
+    "segment_id": 4,
+    "description": "太阳人不解，看着博小翼穿着打扮长相都跟他们不一样，于是好奇的跟它聊了起来。",
+    "music_effect": "",
+    "narration": "你认得我？博小翼？看起来也不像鸟啊？这么潮流的现代产物也能进博物馆了？",
+    "speaker": "太阳人",
+    "speak_id": "speak_0",
+    "duration": 3,
+    "frame_image": "scene4.jpg"
+  },
+  {
+    "segment_id": 5,
+    "description": "先给到博小翼介绍自己时认真的神情，再加入实拍操作步骤的画面展现。比如怎么在文字框输入文字提问，如何发语音，拍照上传的按钮在哪里等等。同时产品功能做重点字幕展示。",
+    "music_effect": "",
+    "narration": "您误会了，我不是鸟，也不是展品。我是国内首款交互式讲解类大模型，拥有国内最全游前攻略，我能把你们的资料信息讲给游客听。他们可以选择在对话框里打文字、发语音的方式来问我，也可以拍一张你们的照片上传来了解。",
+    "speaker": "博小翼",
+    "speak_id": "speak_1",
+    "duration": 15,
+    "frame_image": "scene5.jpg"
+  }
+]

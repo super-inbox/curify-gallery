@@ -1,0 +1,13 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "scene": "Showcase structured, template-driven video generation.",
+      "visual": "Split-screen of templated 'inspiration videos' evolving into creative outputs — one screen shows a modern ad, another an emotional storybook scene, another a PPT slide transforming into a dynamic video.",
+      "overlay_text": "Template-Driven, Creative Freedom",
+      "transitions": "Clean UI animations, sliders and knobs adjusting visual elements (backgrounds, characters, transitions).",
+      "theme_colors": ["blue", "purple"],
+      "branding": "Curify"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+[
+  {
+    "segment_id": 1,
+    "description": "引子:夜晚空无一人的宜昌博物馆内，太阳人石刻穿著新石器时代衣服，带着墨镜边唱边跳，头发也是嘻哈风，全景展现文物所处大环境，其他文物也在做着可爱有趣的小动作。",
+    "music_effect": "宜昌当地特色乐器共同演奏出匹配rap的底乐，比如宜昌丝竹、锣鼓艺术等。",
+    "narration": "太阳人(四川话rap) : 哟哟哟，听起 我是太阳人石刻超有脾气 穿越悠悠岁月带着底气 西南文化里头我是硬货等级",
+    "speaker": "太阳人",
+    "speak_id": "speak_0",
+    "duration": 10,
+    "image_prompt": "夜晚空无一人的宜昌博物馆展厅中，一尊新石器时代的太阳人石刻在展柜中静静伫立。石刻通体为棕灰色砂岩，上部雕刻着放射状太阳图案，下方是面部轮廓清晰的拟人形象，眼睛深邃，表情庄严。此时它佩戴墨镜，双腿微屈，正边唱边跳，展现出活泼诙谐的一面。石刻周围陈列着古代青铜编钟与甬钟等展品，精致华丽，散发着历史的厚重感。整个博物馆环境幽暗，灯光从顶部斜射而下，打在文物表面，营造出静谧神秘的夜间参观氛围，部分文物拟人化，做出可爱的挥手或眨眼动作。",
+    "frame_image": ""
+  },
+  {
+    "segment_id": 2,
+    "description": "太阳人注意到了一个格外突出的小家伙,它在一旁给太阳人鼓掌。太阳人来到他身边,问:",
+    "music_effect": "",
+    "narration": "太阳人:你是谁?我活了七千多年了,怎么从来没见过你?",
+    "speaker": "太阳人",
+    "speak_id": "speak_1",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 3,
+    "description": "博小翼满脸笑意的回答。",
+    "music_effect": "",
+    "narration": "博小翼:您好，太阳人前辈，我叫博小翼，是今天新来的。",
+    "speaker": "博小翼",
+    "speak_id": "speak_2",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 4,
+    "description": "太阳人不解,看看博小翼穿着打扮长相都他们不一样,于是好奇的跟它聊了起来。",
+    "music_effect": "",
+    "narration": "太阳人:你认得我?博小翼?看起来也不想鸟啊?这么潮流的现代产物也能进博物馆了?",
+    "speaker": "太阳人",
+    "speak_id": "speak_3",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 5,
+    "description": "先给到博小翼介绍自己时认真的神情,再加入实拍操作步骤的画面展现。比如怎么在文字框输入文字提问,如何发语音,拍照上传的按钮在哪里等等。同时产品功能做重点字幕展示。",
+    "music_effect": "",
+    "narration": "博小翼:您误会了,我不是鸟,也不是展品，我是国内首款交互式讲解类大模型，拥有国内全游的攻略，我能把你们的资料信息讲给游客听，他们可以选择在对话框打文字、发语音的方式来问我,也可以拍一张你们的照片上传来了解。",
+    "speaker": "博小翼",
+    "speak_id": "speak_4",
+    "duration": 15,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 6,
+    "description": "太阳人恍然大悟的表情,右手握拳在左手上。",
+    "music_effect": "",
+    "narration": "太阳人:我晓得了，你是导游。",
+    "speaker": "太阳人",
+    "speak_id": "speak_5",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 7,
+    "description": "博小翼一副区区导游能力,不足挂齿的臭屁表情。再昂着头,略带神气的继续介绍自己。文字包装展示产品功能点。",
+    "music_effect": "",
+    "narration": "博小翼:不只是导游哦，我还能为游客答疑解惑，根据他们喜欢的历史话题进行深度挖掘，把一些隐藏的故事，延伸的知识讲给他们听。",
+    "speaker": "博小翼",
+    "speak_id": "speak_6",
+    "duration": 15,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 8,
+    "description": "太阳人听博小翼的介绍,对它有点儿感兴趣了。",
+    "music_effect": "",
+    "narration": "太阳人:这么厉害?你还是有点文化的嘛。",
+    "speaker": "太阳人",
+    "speak_id": "speak_7",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 9,
+    "description": "博物馆地图定位示意展现游客移动位置,实拍文博讲解大模型界面,展示游客提供信息的界面,以及深入追问信息的应答截面,同时包装字幕条展示产品功能点。",
+    "music_effect": "",
+    "narration": "博小翼:多謝前辈夸奖，我还能凭借精确的位置定位技术，根据游客所在方位，化身他们私人讲解小助手，提供伴随式讲解。比如他从你身边走到你旁边的文物身边，我都能精准的捕捉到他，给他提供实时的讲解。",
+    "speaker": "博小翼",
+    "speak_id": "speak_8",
+    "duration": 22,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 10,
+    "description": "实拍操作流程及界面展示画面:宜昌博物馆游客参观游览延时画面,体现人来人往,走马观花、",
+    "music_effect": "",
+    "narration": "博小翼:同时呢，游客还能根据自己的喜好手动点击感兴趣的文物，瞬间就能获取语音或者文字形式的详细讲解，满足不同游客的多元需求和参观节奏，让游客的每一次观展之旅都能收获满满，深入透彻地感悟历史文化的魅力与精髓，不再是走马观花的体验。",
+    "speaker": "博小翼",
+    "speak_id": "speak_9",
+    "duration": 25,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 11,
+    "description": "博小翼的介绍,引起了太阳人的好奇,同时表示怀疑,于是表示要考考博小翼。",
+    "music_effect": "",
+    "narration": "太阳人: 噢噢，这么全能?那我得考考你。",
+    "speaker": "太阳人",
+    "speak_id": "speak_10",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 12,
+    "description": "两人一问一答的回合在聊天互动",
+    "music_effect": "",
+    "narration": "博小翼:没问题，前辈请出招。 太阳人:行，那你先来说说我，我听听对不对。",
+    "speaker": "博小翼/太阳人",
+    "speak_id": "speak_11",
+    "duration": 5,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 13,
+    "description": "博小翼介绍的时候,太阳人时不时地点头表示它说的不错。在博小翼说到镇馆之宝的时候,太阳人表情神气又傲娇。同时在太阳人耳边出现文字框,展示文物信息点。",
+    "music_effect": "文字框弹出音效",
+    "narration": "博小翼:(深度思考后)/(仔细想了想之后)太阳人石刻前辈，您今年大概7000岁啦，是宜昌博物馆的镇馆之宝。",
+    "speaker": "博小翼",
+    "speak_id": "speak_12",
+    "duration": 5,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 14,
+    "description": "随着博小翼的介绍,太阳人石刻也在做着一些可爱活泼的动作展示自己,比如比划自己多高,多宽。",
+    "music_effect": "底乐从现代感音乐转为新石器时代古朴的音乐",
+    "narration": "博小翼:身高105厘米，宽20厘米，厚12厘米，本体是一块长方形褐色砂岩石。",
+    "speaker": "博小翼",
+    "speak_id": "speak_13",
+    "duration": 5,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 15,
+    "description": "推镜头越来越近的展示太阳人石刻上的图案,通过图案转场",
+    "music_effect": "",
+    "narration": "博小翼:通过你身上精美的图案，",
+    "speaker": "博小翼",
+    "speak_id": "speak_14",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 16,
+    "description": "下一场景展现新石器时代先民们生活场景、祭祀画面、追逐太阳,对太阳表示热爱和恭敬的画面,",
+    "music_effect": "生活场景环境音、祭祀声",
+    "narration": "博小翼:可以窥见先民们的生活场景和精神世界。",
+    "speaker": "博小翼",
+    "speak_id": "speak_15",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 17,
+    "description": "通过追逐太阳的先民们肢体语言转场,下一幅画面衔接先民们载歌载舞的画面,展现他们蓬勃热烈的原始生命力画面,通过跃动的火苗光芒转场。",
+    "music_effect": "载歌载舞的音乐声、环境音",
+    "narration": "博小翼:感受到他们对太阳的崇拜和对生命的热爱。",
+    "speaker": "博小翼",
+    "speak_id": "speak_16",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 18,
+    "description": "太阳人头像发放闪耀着神性的光芒,双手叉腰,表情神气又骄傲。",
+    "music_effect": "",
+    "narration": "博小翼:因此有学者亲切地称呼你为“太阳神像”。",
+    "speaker": "博小翼",
+    "speak_id": "speak_17",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 19,
+    "description": "太阳人凑近了一些博小翼,给了一点压力,一副我要继续考考你的表情",
+    "music_effect": "",
+    "narration": "太阳人:那你知道我生活的时代穿什么样子的衣服吗?",
+    "speaker": "太阳人",
+    "speak_id": "speak_18",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 20,
+    "description": "博小翼一副这算啥,根本难不倒我的表情,回答了太阳人的问题。素材画面展现新石器时代人们的穿着是什么样的。",
+    "music_effect": "",
+    "narration": "博小翼:当然了，你那个时代的衣服通常是披风、裙子和绑腿等，基本没有什么复杂的剪裁，而是直接用动物的皮毛或者植物纤维，比如麻、草等围在身上，有时候会用骨针或者石针来缝合。",
+    "speaker": "博小翼",
+    "speak_id": "speak_19",
+    "duration": 20,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 21,
+    "description": "太阳人继续追问,整个身体更靠近博小翼了,给博小翼施加压力的感觉,我看你这次还能不能回答上来的表情。",
+    "music_effect": "",
+    "narration": "太阳人:用什么东西吃饭呢?",
+    "speaker": "太阳人",
+    "speak_id": "speak_20",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 22,
+    "description": "博小翼泰然自若又底气十足的说出自己掌握到的信息,同时匹配相应素材画面来展示提到的餐具及食物。",
+    "music_effect": "",
+    "narration": "博小翼:用来吃饭的餐具有石器、陶器、骨器、木器和竹器，吃的东西基本以素食为主，包括谷物、豆类、蔬菜、水果等。",
+    "speaker": "博小翼",
+    "speak_id": "speak_21",
+    "duration": 15,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 23,
+    "description": "时间转场,从太阳人神气的表情转到博小翼讲解时认真的小表情上,随着博小翼的发言，太阳人表示不错,但是需要再考验考验它。",
+    "music_effect": "",
+    "narration": "太阳人:不错嘛,我已经有点儿喜欢你了，不过想当我同事，光做我的功课可不行，你知道秦王卑命铜钟在那里吗？不过你来第一天，对场馆的地形可否了解呢？你知道秦王卑命铜钟在哪里吗？",
+    "speaker": "太阳人",
+    "speak_id": "speak_22",
+    "duration": 5,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 24,
+    "description": "博小翼表示根本没在怕,它在前方空中为太阳人引路、通过拐角处转场,他们从远古西陵厅来到巴楚夷陵厅。",
+    "music_effect": "现代感轻松活泼音乐",
+    "narration": "博小翼:当然了，我们目前在远古西陵展区，它在巴楚夷陵厅，我知道一条近道儿，带你过去。",
+    "speaker": "博小翼",
+    "speak_id": "speak_23",
+    "duration": 8,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 25,
+    "description": "在他们行走时,地图包装实时展示标注他们位置,同时重点字幕标注。",
+    "music_effect": "",
+    "narration": "太阳人:行啊，这近道，连我这老员工都不知道",
+    "speaker": "太阳人",
+    "speak_id": "speak_24",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 26,
+    "description": "画面展示整个厅的环境,再分别展示不同的文物身影、镜头扫过,他们在展柜里跟博小翼和太阳人打招呼。同时重点标注秦王卑命铜钟的位置。",
+    "music_effect": "",
+    "narration": "博小翼: 哟，现在我们就到了，这个厅有两周到两汉时期。五颜六色的铜器、漆器、陶器和葬俗，展现了屈原文化、昭君文化和三国文化的靓丽色彩!站在C位的就是秦王卑命铜钟了。",
+    "speaker": "博小翼",
+    "speak_id": "speak_25",
+    "duration": 20,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 27,
+    "description": "太阳人表示惊奇,原来还有自己不知道的路线。",
+    "music_effect": "",
+    "narration": "太阳人:这么快,以后找老钟可方便多了!",
+    "speaker": "太阳人",
+    "speak_id": "speak_26",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 29,
+    "description": "打完招呼后,太阳人这时已经对博小翼很满意了。所以对它表示认可,但是还想继续了解一下博小翼,于是继续问它一些问题。",
+    "music_effect": "",
+    "narration": "太阳人:有点东西,全能ACE就是在说你了!不过我可不想听太多百科上的东西,你对这些藏品背后的故事有多少了解呢",
+    "speaker": "太阳人",
+    "speak_id": "speak_27",
+    "duration": 2,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 30,
+    "description": "博小翼讲话的时候,关于各个文物相关的文化资料相关故事。问答的语句等文字浮现在空间里。太阳人、秦王卑命铜钟看完后表示很惊奇,发出惊叹。",
+    "music_effect": "",
+    "narration": "博小翼:当然,有了deepseek的加持,我可是对各位同事的历史价值和文化价值了如指掌,而且我可不是只会百科的智能体,会讲故事,能够接受游客追问!太阳人、秦王卑命铜钟:哇,游客一定会为此多多看看我们的。",
+    "speaker": "博小翼",
+    "speak_id": "speak_28",
+    "duration": 10,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 31,
+    "description": "太阳人和博小翼跟秦王卑命铜钟碰面后,三人互相打招呼的画面。",
+    "music_effect": "",
+    "narration": "太阳人:你这么优秀,不会是来跟我争夺镇馆之宝位置的吧?",
+    "speaker": "太阳人",
+    "speak_id": "speak_29",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 32,
+    "description": "太阳人半开玩笑认真的问到",
+    "music_effect": "",
+    "narration": "博小翼:当然不是，我是来加入你们的，让游客们能更了解你们，更喜欢你们，增加他们的游览体验，毕竟天南海北的游客来一次也不容易，刚好我也能解决博物馆导游不足、讲解不深入的问题。",
+    "speaker": "博小翼",
+    "speak_id": "speak_30",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 33,
+    "description": "博小翼赶紧摇头否认,表示自己的作用是什么。实拍游客们参观宜昌博物馆的画面,游客们游览像走马观花,没办法深入了解文物信息和历史。",
+    "music_effect": "",
+    "narration": "博小翼:当然不是，我是来加入你们的，让游客们能更了解你们，更喜欢你们，增加他们的游览体验，毕竟天南海北的游客来一次也不容易，刚好我也能解决博物馆导游不足、讲解不深入的问题。",
+    "speaker": "博小翼",
+    "speak_id": "speak_31",
+    "duration": 20,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 34,
+    "description": "太阳人伸出自己的小手递给博小翼,表示对它的接纳。秦王卑命铜钟随后也伸出了自己的手,博小翼一手握住一个,三人开心的笑了。",
+    "music_effect": "",
+    "narration": "太阳人:goodboy,我老太阳认可你啦,从今以后,你就是我们的好朋友了,走,带你去认识一下我们的同事们吧!",
+    "speaker": "太阳人",
+    "speak_id": "speak_32",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 35,
+    "description": "博小翼和太阳人,秦王卑命铜钟一起在展馆内挨个跟文物们打招呼,一会儿就串成了一条线,向另一个展柜走去。画面定格或隐黑,音乐播放也是要结束的感觉。",
+    "music_effect": "",
+    "narration": "",
+    "speaker": "",
+    "speak_id": "speak_33",
+    "duration": 3,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 36,
+    "description": "当观众以为影片结束的时候,博小翼跳出来,对着镜头说话,说话同时,数据信息以重点字形式展现。",
+    "music_effect": "",
+    "narration": "博小翼(rap):走马观花不嗨皮,导游不足我顶起!自助讲解有问题,我的智能来升级!这就是我,一个集智慧与实用于一身的全能ACE文物讲解大模型。",
+    "speaker": "博小翼",
+    "speak_id": "speak_34",
+    "duration": 15,
+    "frame_image": ""
+  },
+  {
+    "segment_id": 37,
+    "description": "说完后从屏幕中间往屏幕右边走去,快走出画面的时候,脚在画面外,头在画面右侧边边,看着屏幕跟大家挥手说拜拜,展现博小翼活泼可爱,古灵精怪的一面",
+    "music_effect": "",
+    "narration": "博小翼:有空要来听我讲故事哦,拜拜~",
+    "speaker": "博小翼",
+    "speak_id": "speak_35",
+    "duration": 2,
+    "frame_image": ""
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 10,
+      "title": "Snow White transforms into Labubu",
+      "characters": ["Snow White", "Labubu"],
+      "prompt": "A magical Disney-style fairytale forest, glowing sunlight through trees. Snow White holds a shiny red apple, takes a bite, and suddenly transforms into Labubu — a cute, mischievous POP MART character with fluffy fur and big sparkling eyes. Magical sparkles and glowing dust swirl around her as the transformation happens. Smooth cinematic close-up, then dolly-out to reveal Labubu in Snow White’s dress, smiling playfully.",
+      "style": "cinematic fantasy, Disney fairytale mixed with POP MART toy design, vibrant colors, smooth animation"
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 20,
+      "title": "Labubu kisses Frog Prince, who becomes Molly",
+      "characters": ["Labubu", "Frog Prince", "Molly"],
+      "prompt": "A dreamy lily pond with glowing fireflies. The Frog Prince sits sadly on a lily pad. Labubu leans forward and kisses the frog gently. Bright magical light bursts — the frog transforms into Molly, the iconic POP MART doll with big round eyes and short bob hair. Molly looks surprised, then happy, surrounded by floating golden sparkles. Camera pans around them in a soft fairytale glow.",
+      "style": "dreamy, magical transformation, POP MART x Disney crossover style, cinematic camera pan"
+    },
+    {
+      "id": 3,
+      "start": 20,
+      "end": 30,
+      "title": "Molly freezes the Seven Dwarfs into POP MART letters",
+      "characters": ["Molly", "Seven Dwarfs"],
+      "prompt": "Molly walks into a cozy forest clearing where the Seven Dwarfs appear. She waves her hand, and a frosty blue magical aura covers the dwarfs, freezing them into shimmering ice sculptures. Each dwarf’s frozen shape transforms into one giant letter, forming the word 'P-O-P-M-A-R-T.' The letters sparkle like crystal ice, reflecting rainbow light. Cinematic wide shot with dramatic camera pull-back, magical branding energy.",
+      "style": "fantasy branding moment, crystalline ice sculpture aesthetic, wide cinematic pull-back"
+    }
+  ]
+}
