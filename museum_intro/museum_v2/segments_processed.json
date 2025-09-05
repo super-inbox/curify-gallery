@@ -1,0 +1,185 @@
+[
+  {
+    "segment_id": 1,
+    "animation_type": "body_motion",
+    "description": "引子:夜晚博物馆开场",
+    "image_prompt": {
+      "en": "Night scene in Yichang Museum. 7000-year-old Sun Man Stone Carving wearing Neolithic clothing, sunglasses and hip-hop hairstyle dancing in exhibition case. Other artifacts like bronze bells in background making subtle animated movements. Dramatic spotlight effect, mysterious atmosphere.",
+      "zh": "宜昌博物馆夜景。7000岁的太阳人石刻佩戴新石器时代服装、墨镜和嘻哈发型在展柜中跳舞。背景中的青铜编钟等文物做着微妙拟人动作。戏剧性的聚光效果，神秘氛围。"
+    },
+    "music_effect": "宜昌丝竹+锣鼓rap底乐",
+    "narration": "太阳人(四川话rap): 哟哟哟，听起 我是太阳人石刻超有脾气 穿越悠悠岁月带着底气 西南文化里头我是硬货等级",
+    "speaker": "太阳人",
+    "duration": 8
+  },
+  {
+    "segment_id": 2,
+    "animation_type": "body_motion",
+    "description": "太阳人发现博小翼",
+    "image_prompt": {
+      "en": "Medium shot: Sun Man Stone Carving noticing small, modern-looking robot 'Bo Xiaoyi' applauding nearby. Bo Xiaoyi has sleek white body with blue LED accents, standing at 1/3 height of stone carving. Dim museum lighting.",
+      "zh": "中景：太阳人石刻注意到现代风格的AI解说'博小翼'在附近鼓掌。博小翼她梳着高马尾，穿着橙红色中式服装，面带甜美微笑，并佩戴红色耳饰。博小翼高度约为石刻的1/3。昏暗的博物馆灯光。"
+    },
+    "narration": "太阳人:你是谁?我活了七千多年了,怎么从来没见过你?",
+    "speaker": "太阳人",
+    "duration": 3
+  },
+  {
+    "segment_id": 3,
+    "animation_type": "lip_sync",
+    "description": "博小翼自我介绍",
+    "image_prompt": {
+      "en": "Two-shot: Ancient stone carving (left) and modern robot (right) facing each other. Sun Man looking puzzled at Bo Xiaoyi's futuristic design. Bo Xiaoyi smiling with glowing eyes. Museum artifacts in soft-focus background.",
+      "zh": "双人镜头：太阳人石刻（左）现代风格的AI解说'博小翼'（右）面对面。博小翼她梳着高马尾，穿着橙红色中式服装，面带甜美微笑，并佩戴红色耳饰。太阳人对博小翼的未来感设计露出困惑表情。博小翼眼睛发光微笑。背景虚化的博物馆文物。"
+    },
+    "narration": "博小翼:您好，太阳人前辈，我叫博小翼，是今天新来的。\n太阳人:你认得我?博小翼?看起来也不想鸟啊?这么潮流的现代产物也能进博物馆了?",
+    "speaker": "博小翼/太阳人",
+    "duration": 5
+  },
+  {
+    "segment_id": 4,
+    "animation_type": "composite_motion",
+    "description": "AI功能展示合集",
+    "image_prompt": {
+      "en": "Montage: 1) Bo Xiaoyi projecting holographic interface showing text/voice input options 2) Map with moving visitor icons 3) Tourists using phones to scan artifacts 4) Close-up of Bo Xiaoyi's screen displaying 'DeepSeek AI' logo. Bright, tech-inspired lighting.",
+      "zh": "蒙太奇：1)现代风格的AI解说'博小翼'（右）投影全息界面显示文字/语音输入选项 2)带游客移动图标的地图 3)游客用手机扫描文物 4)博小翼屏幕显示'DeepSeek AI'标识的特写。明亮的科技感灯光。博小翼她梳着高马尾，穿着橙红色中式服装，面带甜美微笑，并佩戴红色耳饰。"
+    },
+    "narration": "博小翼:您误会了,我不是鸟,也不是展品，我是国内首款交互式讲解类大模型，拥有国内全游的攻略，我能把你们的资料信息讲给游客听，他们可以选择在对话框打文字、发语音的方式来问我,也可以拍一张你们的照片上传来了解。不只是导游哦，我还能为游客答疑解惑，根据他们喜欢的历史话题进行深度挖掘，把一些隐藏的故事，延伸的知识讲给他们听。我还能凭借精确的位置定位技术，根据游客所在方位，化身他们私人讲解小助手，提供伴随式讲解。同时呢，游客还能根据自己的喜好手动点击感兴趣的文物，瞬间就能获取语音或者文字形式的详细讲解。",
+    "speaker": "博小翼",
+    "duration": 18
+  },
+  {
+    "segment_id": 5,
+    "animation_type": "body_motion",
+    "description": "太阳人出题考验",
+    "image_prompt": {
+      "en": "Sun Man striking pose with hands on hips, challenging expression. Bo Xiaoyi standing attentively with slight confident tilt. Display cases visible in background.",
+      "zh": "太阳人石刻叉腰摆出挑战姿势。博小翼微微自信前倾站立。背景可见展示柜。博小翼她梳着高马尾，穿着橙红色中式服装，面带甜美微笑，并佩戴红色耳饰。"
+    },
+    "narration": "太阳人: 噢噢，这么全能?那我得考考你。\n博小翼:没问题，前辈请出招。\n太阳人:行，那你先来说说我，我听听对不对。",
+    "speaker": "太阳人/博小翼",
+    "duration": 5
+  },
+  {
+    "segment_id": 6,
+    "animation_type": "composite_motion",
+    "description": "博小翼讲解太阳人石刻",
+    "image_prompt": {
+      "en": "Split-screen: Left - Close-up of Sun Man's carved patterns. Right - Neolithic villagers worshiping sun. Transition effect connecting carving details to ancient scenes. Warm, golden lighting.",
+      "zh": "分屏：左侧-太阳人石刻图案特写。右侧-新石器时代先民崇拜太阳。雕刻细节与古代场景的转场效果。温暖的金色光线。"
+    },
+    "music_effect": "新石器时代古朴音乐",
+    "narration": "博小翼:(深度思考后)太阳人石刻前辈，您今年大概7000岁啦，是宜昌博物馆的镇馆之宝。身高105厘米，宽20厘米，厚12厘米，本体是一块长方形褐色砂岩石。通过你身上精美的图案，可以窥见先民们的生活场景和精神世界。感受到他们对太阳的崇拜和对生命的热爱。因此有学者亲切地称呼您为'太阳神像'。",
+    "speaker": "博小翼",
+    "duration": 12
+  },
+  {
+    "segment_id": 7,
+    "animation_type": "body_motion",
+    "description": "代表性质疑",
+    "image_prompt": {
+      "en": "Sun Man leaning close to Bo Xiaoyi, finger raised questioningly. Bo Xiaoyi maintaining calm composure. Shallow depth of field focusing on characters.",
+      "zh": "太阳人身体前倾靠近博小翼，手指质疑地举起。博小翼保持镇定。浅景深聚焦角色。"
+    },
+    "narration": "太阳人:那你知道我生活的时代穿什么样子的衣服吗?",
+    "speaker": "太阳人",
+    "duration": 2
+  },
+  {
+    "segment_id": 8,
+    "animation_type": "composite_motion",
+    "description": "穿衣问题解答",
+    "image_prompt": {
+      "en": "Bo Xiaoyi projecting hologram: Neolithic people wearing animal skin wraps and plant fiber garments. Stone needles visible. Sun Man nodding approval.",
+      "zh": "博小翼投影全息图：穿兽皮和植物纤维服装的新石器时代先民。可见石针。太阳人点头认可。"
+    },
+    "narration": "博小翼:当然了，你那个时代的衣服通常是披风、裙子和绑腿等，基本没有什么复杂的剪裁，而是直接用动物的皮毛或者植物纤维，比如麻、草等围在身上，有时候会用骨针或者石针来缝合。",
+    "speaker": "博小翼",
+    "duration": 8
+  },
+  {
+    "segment_id": 9,
+    "animation_type": "body_motion",
+    "description": "转向铜钟挑战",
+    "image_prompt": {
+      "en": "Sun Man pointing toward distance. Bo Xiaoyi following gesture. 'Ba-Chu Yiling Hall' sign partially visible. Dynamic camera angle.",
+      "zh": "太阳人指向远处。博小翼跟随手势。部分可见'巴楚夷陵厅'标识。动态镜头角度。"
+    },
+    "narration": "太阳人:不错嘛,我已经有点儿喜欢你了，不过想当我同事，光做我的功课可不行，你知道秦王卑命铜钟在那里吗？不过你来第一天，对场馆的地形可否了解呢？你知道秦王卑命铜钟在哪里吗？",
+    "speaker": "太阳人",
+    "duration": 4
+  },
+  {
+    "segment_id": 10,
+    "animation_type": "camera_motion",
+    "description": "寻钟蒙太奇",
+    "image_prompt": {
+      "en": "Tracking shot montage: 1) Bo Xiaoyi leading through museum corridors 2) Floating map showing path 3) Bronze bell gallery reveal 4) King Qin's Bell in spotlight center position. Fluid transitions between shots.",
+      "zh": "跟拍蒙太奇：1)博小翼带领穿过博物馆走廊 2)显示路径的悬浮地图 3)青铜钟展厅全景 4)聚光灯中心的秦王卑命铜钟。镜头间流畅转场。"
+    },
+    "music_effect": "现代感轻快音乐",
+    "narration": "博小翼:当然了，我们目前在远古西陵展区，它在巴楚夷陵厅，我知道一条近道儿，带你过去。\n太阳人:行啊，这近道，连我这老员工都不知道\n博小翼: 哟，现在我们就到了，这个厅有两周到两汉时期。五颜六色的铜器、漆器、陶器和葬俗，展现了屈原文化、昭君文化和三国文化的靓丽色彩!站在C位的就是秦王卑命铜钟了。",
+    "speaker": "博小翼/太阳人",
+    "duration": 10
+  },
+  {
+    "segment_id": 11,
+    "animation_type": "lip_sync",
+    "description": "深度能力验证",
+    "image_prompt": {
+      "en": "Three characters: Sun Man (left), Bo Xiaoyi (center), King Qin's Bell (right). Bell has simple facial features. Sun Man questioning expression.",
+      "zh": "三角色构图：太阳人石刻（左）、博小翼（中）、秦王钟（右）。铜钟有简易面部特征。太阳人质疑表情。"
+    },
+    "narration": "太阳人:有点东西,全能ACE就是在说你了!不过我可不想听太多百科上的东西,你对这些藏品背后的故事有多少了解呢",
+    "speaker": "太阳人",
+    "duration": 2
+  },
+  {
+    "segment_id": 12,
+    "animation_type": "composite_motion",
+    "description": "文化理解展示",
+    "image_prompt": {
+      "en": "Floating holographic text displays around trio showing historical facts/stories. Sun Man and bell showing surprised expressions (eyes wide, mouths O-shaped).",
+      "zh": "三人周围漂浮显示历史事实/故事的全息文字。太阳人和铜钟露出惊讶表情（瞪眼张嘴）。"
+    },
+    "narration": "博小翼:当然,有了deepseek的加持,我可是对各位同事的历史价值和文化价值了如指掌,而且我可不是只会百科的智能体,会讲故事,能够接受游客追问!\n太阳人、秦王卑命铜钟:哇,游客一定会为此多多看看我们的。",
+    "speaker": "博小翼/太阳人/铜钟",
+    "duration": 10
+  },
+  {
+    "segment_id": 13,
+    "animation_type": "body_motion",
+    "description": "团队接纳仪式",
+    "image_prompt": {
+      "en": "Low-angle shot: Three-way hand connection - Sun Man's stone hand, Bo Xiaoyi's robotic hand, Bell's metallic handle. Warm backlighting creating heroic silhouette. Other artifacts visible in background.",
+      "zh": "仰拍镜头：三方握手-太阳人的石手、博小翼的手、铜钟的金属柄。温暖的逆光形成英雄式剪影。背景可见其他文物。"
+    },
+    "narration": "太阳人:你这么优秀,不会是来跟我争夺镇馆之宝位置的吧?\n博小翼:当然不是，我是来加入你们的，让游客们能更了解你们，更喜欢你们，增加他们的游览体验，毕竟天南海北的游客来一次也不容易，刚好我也能解决博物馆导游不足、讲解不深入的问题。\n太阳人:goodboy,我老太阳认可你啦,从今以后,你就是我们的好朋友了,走,带你去认识一下我们的同事们吧!",
+    "speaker": "太阳人/博小翼",
+    "duration": 12
+  },
+  {
+    "segment_id": 14,
+    "animation_type": "composite_motion",
+    "description": "彩蛋rap",
+    "image_prompt": {
+      "en": "Bo Xiaoyi breaking fourth wall, facing camera directly with mic-holding pose. Dynamic data visualizations floating around: visitor stats, AI logos, 5-star ratings. Colorful concert lighting.",
+      "zh": "博小翼手持麦克风直面镜头。周围漂浮动态数据可视化：游客统计、AI标识、五星评分。多彩的舞台灯光。"
+    },
+    "narration": "博小翼(rap):走马观花不嗨皮,导游不足我顶起!自助讲解有问题,我的智能来升级!这就是我,一个集智慧与实用于一身的全能ACE文物讲解大模型。",
+    "speaker": "博小翼",
+    "duration": 8
+  },
+  {
+    "segment_id": 15,
+    "animation_type": "body_motion",
+    "description": "结尾互动",
+    "image_prompt": {
+      "en": "Dutch angle: Bo Xiaoyi halfway off screen, waving goodbye. Only head and waving hand visible. Playful wink expression. Museum exit sign in background.",
+      "zh": "荷兰式倾斜镜头：博小翼半出画挥手告别。仅头部和挥手可见。俏皮的眨眼表情。背景有博物馆出口标识。"
+    },
+    "narration": "博小翼:有空要来听我讲故事哦,拜拜~",
+    "speaker": "博小翼",
+    "duration": 2
+  }
+]

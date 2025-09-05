@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+accelerate
+torch==2.2.2
+diffusers
+transformers
+ftfy==6.3.1
+google-genai
+mediapy
+google-cloud-aiplatform
+openai
+dotenv
+coqpit-config
+coqui-tts
+coqui-tts-trainer
+moviepy==1.0.3
+gradio
+soundfile
+librosa
+Pillow
+python-dotenv

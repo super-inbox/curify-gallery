@@ -1,0 +1,56 @@
+[
+  {
+    "segment_id": 1,
+    "start": 0.1,
+    "end": 3.1,
+    "original": "哟哟哟，我是太阳人石刻超有脾气"
+  },
+  {
+    "segment_id": 2,
+    "start": 3.1,
+    "end": 7.8,
+    "original": "穿越悠悠岁月带着底气 西南文化里头我是硬货等级"
+  },
+  {
+    "segment_id": 3,
+    "start": 7.9,
+    "end": 9.2,
+    "original": "你是谁？"
+  },
+  {
+    "segment_id": 4,
+    "start": 9.2,
+    "end": 10.3,
+    "original": "我活了七千多年了，怎么从来没见过你？"
+  },
+  {
+    "segment_id": 5,
+    "start": 10.3,
+    "end": 13,
+    "original": "您好，太阳人前辈"
+  },
+  {
+    "segment_id": 6,
+    "start": 13,
+    "end": 15.4,
+    "original": "我叫博小翼，是今天新来的。"
+  },
+  {
+    "segment_id": 7,
+    "start": 15.4,
+    "end": 16.2,
+    "original": "你认得我？"
+  },
+  {
+    "segment_id": 8,
+    "start": 16.4,
+    "end": 19,
+    "original": "博小翼？看起来也不像鸟啊？"
+  },
+  {
+    "segment_id": 9,
+    "start": 19,
+    "end": 23,
+    "original": "这么潮流的现代产物也能进博物馆了？"
+  }
+]

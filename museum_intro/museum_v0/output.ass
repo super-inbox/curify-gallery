@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,32,&H00FFFF&,&H00FFFF&,&H000000&,&H000000&,0,0,0,0,100,100,0,0,1,1,0,2,64,64,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:03.10,Default,,0,0,0,,{\alpha&H19&}哟哟哟，我是太阳人石刻超有脾气
+Dialogue: 0,0:00:03.30,0:00:07.80,Default,,0,0,0,,{\alpha&H19&}穿越悠悠岁月带着底气 西南文化里头我是硬货等级
+Dialogue: 0,0:00:07.90,0:00:09.20,Default,,0,0,0,,{\alpha&H19&}你是谁？
+Dialogue: 0,0:00:09.20,0:00:10.20,Default,,0,0,0,,{\alpha&H19&}我活了七千多年了，怎么从来没见过你？
+Dialogue: 0,0:00:10.40,0:00:13.00,Default,,0,0,0,,{\alpha&H19&}您好，太阳人前辈
+Dialogue: 0,0:00:13.00,0:00:15.40,Default,,0,0,0,,{\alpha&H19&}我叫博小翼，是今天新来的。
+Dialogue: 0,0:00:15.40,0:00:16.20,Default,,0,0,0,,{\alpha&H19&}你认得我？
+Dialogue: 0,0:00:16.40,0:00:19.00,Default,,0,0,0,,{\alpha&H19&}博小翼？看起来也不像鸟啊？
+Dialogue: 0,0:00:19.00,0:00:23.00,Default,,0,0,0,,{\alpha&H19&}这么潮流的现代产物也能进博物馆了？

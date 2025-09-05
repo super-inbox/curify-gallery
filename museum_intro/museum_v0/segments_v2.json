@@ -1,0 +1,62 @@
+[
+  {
+    "segment_id": 1,
+    "description": "A dimly lit Yichang Museum at night. The Sun Man Statue lights up and begins moving with rhythmic beats. Wearing sunglasses and doing hip-hop moves.",
+    "music_effect": "Fusion of traditional Yichang instruments with modern hip-hop beat.",
+    "narration": "Yo yo yo, 看这儿！我是太阳人，穿越千年的文化担当！",
+    "speaker": "太阳人",
+    "speak_id": "speak_0",
+    "duration": 7,
+    "frame_image": "scene1.jpg"
+  },
+  {
+    "segment_id": 2,
+    "description": "Camera pans to a glowing orb turning into Bo Xiaoyi, a cute futuristic digital mascot, gently landing beside the statue.",
+    "music_effect": "Futuristic shimmer and soft landing tone.",
+    "narration": "你好呀，太阳人前辈！我是博小翼，刚来报到。",
+    "speaker": "博小翼",
+    "speak_id": "speak_1",
+    "duration": 4,
+    "frame_image": "scene2.jpg"
+  },
+  {
+    "segment_id": 3,
+    "description": "The Sun Man tilts his head in curiosity, circling Bo Xiaoyi and inspecting him playfully.",
+    "music_effect": "Playful drum hit and record scratch.",
+    "narration": "你这小家伙是哪来的？博物馆还能招AI啦？",
+    "speaker": "太阳人",
+    "speak_id": "speak_0",
+    "duration": 4,
+    "frame_image": "scene3.jpg"
+  },
+  {
+    "segment_id": 4,
+    "description": "Bo Xiaoyi projects a holographic interface showing dialogue, voice input, and a phone scanning a statue photo.",
+    "music_effect": "Glitchy UI sound + light synth tones.",
+    "narration": "我可厉害啦！游客可以和我打字、语音，甚至拍照提问呢～",
+    "speaker": "博小翼",
+    "speak_id": "speak_1",
+    "duration": 6,
+    "frame_image": "scene4.jpg"
+  },
+  {
+    "segment_id": 5,
+    "description": "The museum lights gently rise, showing more artifacts waking up curiously. The statue and Bo Xiaoyi laugh together.",
+    "music_effect": "Warm orchestral rise + soft ambient sound.",
+    "narration": "有你陪着，我们这些老家伙终于能被更多人看见啦～",
+    "speaker": "太阳人",
+    "speak_id": "speak_0",
+    "duration": 5,
+    "frame_image": "scene5.jpg"
+  },
+  {
+    "segment_id": 6,
+    "description": "Fade out with a CTA overlay: 'Yichang Museum x 博小翼 · 一起让文物说话！'",
+    "music_effect": "Gentle fade-out melody with final harp stroke.",
+    "narration": "博物馆，不只是看，更是对话的开始。",
+    "speaker": "博小翼",
+    "speak_id": "speak_1",
+    "duration": 4,
+    "frame_image": "scene6.jpg"
+  }
+]
