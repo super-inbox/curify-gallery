@@ -1,0 +1,60 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "start_time": 0.0,
+      "end_time": 11.25,
+      "transition_in": null,
+      "transition_out": null,
+      "scene_metadata": {
+        "duration": 11.25,
+        "description": "The scene opens with a sunset in the background, featuring a tree and silhouette of mountains. The focus is on the sunset, creating a peaceful and serene atmosphere.",
+        "key_objects": [],
+        "time_of_day": "Dusk",
+        "environment": "Outdoor",
+        "mood": "Calm",
+        "motion_intensity": 4.521337985992432,
+        "color_palette": [
+          "#fbb31b",
+          "#f18218",
+          "#ecc55e",
+          "#eed39c",
+          "#d0571c"
+        ],
+        "camera_analysis": {
+          "movement": "Still",
+          "shot_type": "Establishing",
+          "stability": 0.7739331007003785
+        },
+        "ai_description": "The scene opens with a sunset in the background, featuring a tree and silhouette of mountains. The focus is on the sunset, creating a peaceful and serene atmosphere.",
+        "key_subjects": [
+          "Sunset",
+          "Tree",
+          "Mountains"
+        ]
+      },
+      "shots": [
+        {
+          "shot": {
+            "shot_id": 1,
+            "shot_type": "Establishing",
+            "camera_move": "Still",
+            "framing": "unknown",
+            "visual_focus": "Sunset, Tree, Mountains",
+            "notes": "The lighting in this shot is warm and soft, with the sun's rays casting a golden glow over the landscape. The depth of field is shallow, with the tree and mountains in sharp focus while the foreground is slightly blurred, drawing attention to the main subjects. Color grading enhances the warm tones of the scene.",
+            "duration_seconds": 11.25
+          },
+          "start_time": 0.0,
+          "end_time": 11.25
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "video_path": "small.mp4",
+    "duration": 11.25,
+    "resolution": "960x540",
+    "fps": 24.0,
+    "frame_count": 270
+  }
+}
