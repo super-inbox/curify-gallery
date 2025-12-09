@@ -17,24 +17,22 @@ This dataset is used for:
 - Writing blog posts analyzing classical and modern video scenes
 
 ---
-
 ## 📁 Labeled Video–Storyboard Pairs
 
 | Video (.mp4) | Storyboard (.json) |
 |--------------|--------------------|
-| `cope.mp4` | `cope_story.json` |
-| *(Not a video)* | `old_story.json` |
-| `pop.mp4` | `pop_story.json` |
-| `sky.mp4` | `sky_story.json` |
-| `small.mp4` | *(No JSON provided)* |
-| `up.mp4` | *(JSON TBD)* |
-| *(Not a video)* | `china_story.json` |
-| *(Not a video)* | `hammer_story.json` |
-| *(Not a video)* | `magic_story.json` |
-| *(Not a video)* | `movie_story.json` |
-| *(Not a video)* | `music_story.json` |
-| *(Not a video)* | `youtube_story.json` |
-
+| [`cope.mp4`](./cope.mp4) | [`cope_story.json`](./cope_story.json) |
+| [`old.mp4`](./old.mp4) | [`old_story.json`](./old_story.json) |
+| [`pop.mp4`](./pop.mp4) | [`pop_story.json`](./pop_story.json) |
+| [`sky.mp4`](./sky.mp4) | [`sky_story.json`](./sky_story.json) |
+| [`small.mp4`](./small.mp4) | *(No JSON provided)* |
+| [`up.mp4`](./up.mp4) | *(JSON TBD)* |
+| *(Not a video)* | [`china_story.json`](./china_story.json) |
+| *(Not a video)* | [`hammer_story.json`](./hammer_story.json) |
+| *(Not a video)* | [`magic_story.json`](./magic_story.json) |
+| *(Not a video)* | [`movie_story.json`](./movie_story.json) |
+| *(Not a video)* | [`music_story.json`](./music_story.json) |
+| *(Not a video)* | [`youtube_story.json`](./youtube_story.json) |
 ---
 
 ## 🧪 Processing Pipeline
