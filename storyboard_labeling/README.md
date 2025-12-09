@@ -23,7 +23,7 @@ This dataset is used for:
 | Video (.mp4) | Storyboard (.json) |
 |--------------|--------------------|
 | `cope.mp4` | `cope_story.json` |
-| `old.mp4` | `old_story.json` |
+| *(Not a video)* | `old_story.json` |
 | `pop.mp4` | `pop_story.json` |
 | `sky.mp4` | `sky_story.json` |
 | `small.mp4` | *(No JSON provided)* |
