@@ -1,7 +1,15 @@
 # 🎬 Curify Video Gallery
 
-This repo showcases example projects, ad creatives, component effects, and product demos generated using different pipelines (ComfyUI, Python scripts, or direct video generation models).  
+Source media + pipeline notes for the demos used across **[Curify AI](https://www.curify-ai.com)** — an AI-powered video & visual-content platform. This repo showcases example projects, ad creatives, component effects, and product demos generated through different pipelines (ComfyUI, Python scripts, or direct video generation models).
 Each row links to inputs, methods, and output previews.
+
+The shipped, user-facing versions of these capabilities live on the product:
+
+- 🎬 [Video Dubbing](https://www.curify-ai.com/tools/video-dubbing) — multilingual video translation with lip-sync
+- 📝 [Bilingual Subtitles](https://www.curify-ai.com/tools/bilingual-subtitles) — dual-language subtitle generation
+- 🎨 [Style Transfer](https://www.curify-ai.com/tools/style-transfer) — Ghibli / Pixar / anime restyle of live-action video
+- 📚 [Manga Translation](https://www.curify-ai.com/tools/manga-translation) — comic-panel text translation with layout preserved
+- ✨ [Video Enhance](https://www.curify-ai.com/tools/video-enhance) — restore archival / low-res footage
 
 ---
 
