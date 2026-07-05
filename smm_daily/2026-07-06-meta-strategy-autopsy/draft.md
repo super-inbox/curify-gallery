@@ -1,5 +1,14 @@
 # SMM draft — Meta strategy autopsy (2026-07-06)
 
+> **Rendered assets (2026-07-06)** via `template-hot-event-analysis` + `gemini-3-pro-image-preview`
+> (pro model chosen for clean CJK; flash garbles it):
+> - `hot_event_zh_rednote_jay.jpeg` — Chinese 3-layer analysis infographic → RedNote·Jay
+> - `hot_event_en_x_curify.jpeg` — English version → X·Curify hot-news visual
+>
+> These productized-template infographics are the shipping visual. The 7-slide text-cover
+> essay below remains an alternate/complementary RedNote-Jay cut if you want the pure-text format.
+
+
 Routed via `smm-topic-positioning`. Two accounts, two re-cut assets.
 Source topic: Meta's cloud pivot after VR burn + shaky AI strategy + 6,000+ engineers
 reassigned to data-labeling.
