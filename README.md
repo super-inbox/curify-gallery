@@ -59,6 +59,17 @@ gallery/
 
 ---
 
+## 📁 Daily Inspirations — curated docs
+
+`daily_inspirations/` holds the daily content-research logs (dated `<Mon>_<DD>/` folders, each with a `README.md` + reference images). The substantive analysis/research documents that were scattered across those date folders are collected into two category directories — each moved doc is prefixed with its source date folder (e.g. `Jul_4__…`) for provenance:
+
+- **`daily_inspirations/_tooling-survey-diagnose/`** — tooling surveys, competitor comparisons, and feature/accuracy diagnostics. Includes the Miguo/Vizcom/Sketch-To software test (`软件测试`), Curify vs Google NotebookLM, Reddit search comparison (`reddit搜索对比`), Curify-vs-Pinterest coverage (`5.21`), template match-accuracy diagnosis (`匹配`), ComfyUI, and the image2image capability survey (`图生图`).
+- **`daily_inspirations/_merchandising-case-industry/`** — merchandising cases + 文创/POD industry research. Includes the 文创工厂 AI output/layout specs (`文创工厂…出图与排版规范`), 文创 collection & analysis (`文创搜集` / `文创分析`), plus two research batches: `Jun_5-merch-brand-portfolios/` (10 brand stories/portfolios) and `Jun_7-factory-oem/` (16 OEM/ODM manufacturer notes).
+
+Docs intentionally left in their date folders (not in either category): template/prompt JSON dumps (`nano-templates.json*.docx`, `inspiration card*.docx`, prompt-template content), SEO bridge articles (`SEO桥接*.docx`), blogs/guides, the SMM account breakdown (`账号全内容拆解`), the education-flashcard portfolio, and the `May_31/` SEO keyword-seed batch.
+
+---
+
 ## 🛠 Notes
 - Methods vary: some projects use **ComfyUI workflows**, some use **Python scripts**, and others use **prompt-based video generation models**.  
 - Outputs may be stored in `outputs/` folders (consider Git LFS if videos are large).  
