@@ -74,3 +74,12 @@ Docs intentionally left in their date folders (not in either category): template
 - Methods vary: some projects use **ComfyUI workflows**, some use **Python scripts**, and others use **prompt-based video generation models**.  
 - Outputs may be stored in `outputs/` folders (consider Git LFS if videos are large).  
 - Each project folder includes its own `README.md` with more details.
+
+## About Curify
+
+[Curify AI](https://curify-ai.com) is an applied-AI company building the **deterministic production layer above foundation models** — reliable, traceable, enterprise-grade pipelines, not a prompt wrapper. Our products span two lines:
+
+- **Enterprise AI** — an industrial-grade multimodal content engine + enterprise **document intelligence** (RAG with mandatory source citation, structured extraction, on-premise; *deterministic · traceable · data stays yours*).
+- **AI-Native Product** — creator / SMB-facing generation at [curify-ai.com](https://curify-ai.com): structured data & long-tail keywords → thousands of on-brand visual assets, multilingual video, and one-click design tools.
+
+**Links** · Website: [curify-ai.com](https://curify-ai.com) · Mentorship (founder, Jay Wang): [mentorcruise.com/mentor/jaywang](https://mentorcruise.com/mentor/jaywang/)
