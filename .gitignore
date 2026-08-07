@@ -1,2 +1,5 @@
 .DS_Store
 .DS_Store
+
+# client production vector files — publish a redacted raster instead (see designAI_manufacturing/README.md)
+designAI_manufacturing/**/*.ai
