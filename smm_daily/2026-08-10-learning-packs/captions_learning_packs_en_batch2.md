@@ -1,7 +1,8 @@
-# SMM · Curify — Learning Packs batch 2 (EN) · 2026-08-10
+# SMM · Curify — Learning Packs batch 2 (EN + 小红书) · 2026-08-10
 
-English-only copy for the four new education-workflow videos. Same campaign as
+Copy for the four new education-workflow videos. Same campaign as
 `captions_learning_packs.md` (batch 1: music / ocean / minibeasts), same CTA.
+English (Facebook + short social) first, 小红书 中文短文案 further down.
 
 **CTA (all posts):** https://www.curify-ai.com/topics/learning
 
@@ -126,6 +127,59 @@ version for Instagram / Reels / Threads / X, where the first line has to carry i
 > Today's lesson is already happening outside your window 🌧️
 > Weather → 6 print-ready bilingual pages, one pass.
 > #teachers #ESL #homeschool #printables
+
+---
+
+## 小红书 · 中文短文案（batch 2）
+
+小红书不便放外链：CTA 统一走**主页简介链接**（`/topics/learning`）+ 评论区引导，
+正文里不要贴 URL。四条都按「痛点一句话 → 单词 → 一次出6页 → 互动问题」压到最短。
+
+### P4 恐龙 🦖
+> **孩子能背 40 种恐龙的名字，却记不住"星期三" 🦖**
+>
+> 那就用他最爱的主题教英语。
+> 输入「恐龙」，一次出 6 页：单词卡 · 小测验 · 情景对话 · 主题图谱 · 双语阅读卡
+> dinosaur 恐龙 / fossil 化石 / claw 爪子 / footprint 脚印
+> 中英对照 + 配图例句，A4 打印就能发下去。
+>
+> 下一套做什么主题？火山，还是鲨鱼？
+>
+> #英语启蒙 #幼儿英语 #恐龙 #家庭教育 #可打印 #教学资源 #双语学习 #鸡娃
+
+### P5 草原动物 🦁
+> **全世界的课堂都能用的一个主题 🦁**
+>
+> 狮子、大象、长颈鹿、斑马、河马、犀牛——不用解释，孩子一眼就认识。
+> 这大概是唯一不用做"文化翻译"的启蒙主题。
+>
+> 输入主题，6 页双语教材直接生成，配图 + 例句 + 练习题全都有。
+>
+> 你班上哪只动物最抢戏？
+>
+> #英语启蒙 #亲子英语 #动物 #幼儿园教案 #教学资源 #可打印 #双语学习
+
+### P6 太空任务 🚀
+> **satellite 这种"难词"，配上图就不难了 🚀**
+>
+> rocket 火箭 / astronaut 宇航员 / planet 行星 / satellite 卫星 / spacesuit 宇航服
+> 看着难，其实孩子学得飞快——因为太空本身就好看。
+>
+> 一个主题 → 6 页可打印双语教材，一次生成。
+> 晚上再带娃看一次星星，这一周的课就齐了。
+>
+> #STEM #英语启蒙 #太空 #科学启蒙 #教学资源 #可打印 #亲子时光
+
+### P7 天气 🌧️
+> **今天最好的一节课，就在窗外 🌧️**
+>
+> 晴、雨、云、风、雪、彩虹、暴风雨、雷——
+> 每天早上都有一个新的真实例子，还不要钱。
+>
+> 输入「天气」，6 页双语教材一次生成，打印一次用一学期。
+> 出不去门的那几天，正好也能用。
+>
+> #英语启蒙 #亲子英语 #天气 #幼儿园 #教学资源 #可打印 #自然教育
 
 ---
 
