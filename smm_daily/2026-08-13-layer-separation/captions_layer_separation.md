@@ -15,6 +15,7 @@ us what you need to edit.*
 | P1 中文 | `layers_mbti_zh.jpg` | 同上 |
 | P2 EN | `layers_product_en.jpg` | CHICPUPPY packaging insert (line art, **residue 1.2%**) |
 | P2 中文 | `layers_product_zh.jpg` | 同上 |
+| P3 EN/中文 | `layers_labubu_{en,zh}.jpg` | Labubu plush photo (**residue 33.3%** — weakest case; see P3 note) |
 
 > **Post P2 as the second image in the same post, not a separate one.** The
 > packaging insert is by far the stronger proof (98.8% of the artwork explained by
@@ -108,6 +109,41 @@ reads as an illustration sample. Copy below is written so either can lead.
 > 平面插画、线稿类最合适。还没做成自助工具——**把你要改的图发我们**，我们按需求排。
 
 ---
+
+## P3 — Labubu plush (requested 2026-08-13) · `layers_labubu_{en,zh}.jpg`
+
+Generated as asked. **Two things to weigh before it goes out**, because neither is
+visible in the image itself:
+
+**1. It is the weakest of the four cases, and the image shows it.** Residue 0.333,
+LineArt 0.219 — but that LineArt is fur strands, not strokes, and Residue is the
+*top* card in the fan, so the most eye-catching panel reads as speckled noise
+rather than a clean layer. A designer scrolling past sees the failure mode first.
+The packaging insert (residue 0.012) sells the same tool far better.
+
+**2. Labubu is Pop Mart / Kasing Lung IP.** The other three heroes are safe —
+CHICPUPPY is a client's own product file, the MBTI poster is our own template.
+This one puts a third party's trademarked character in Curify's commercial
+marketing, which is a different thing from processing it as a client job. Same
+issue already logged for Crayon Shin-chan in the word-scene batch.
+
+**Recommendation:** use it as an *internal* range example, not a public post. If
+it must go out, the honest framing is the one that works anyway — "here is where
+it struggles":
+
+> **What it does NOT do well — a plush photo.**
+> Fur is not line art. Our LineArt layer starts chasing individual strands and a
+> third of the image ends up in Residue. Flat illustration and line-art packaging
+> split cleanly; photographic product shots do not. Posting the miss because you
+> should know the edge before you send us a file.
+
+> **不擅长的情况：实拍毛绒。**
+> 毛发不是线稿——线稿层会去追每一根毛，三分之一的画面掉进"余量"层。
+> 平面插画、线稿类分得很干净，实拍类不行。把不擅长的也发出来，
+> 是想让你在发文件之前就知道边界在哪。
+
+Used this way it is a credibility post rather than a capability post, and it does
+not need the IP question answered — but that call is yours.
 
 ## What we are claiming, and what we are not
 
