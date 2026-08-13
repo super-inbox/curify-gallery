@@ -16,6 +16,7 @@ us what you need to edit.*
 | P2 EN | `layers_product_en.jpg` | CHICPUPPY packaging insert (line art, **residue 1.2%**) |
 | P2 中文 | `layers_product_zh.jpg` | 同上 |
 | P3 EN/中文 | `layers_labubu_{en,zh}.jpg` | Labubu plush photo (**residue 33.3%** — weakest case; see P3 note) |
+| P4 EN/中文 | `layers_cinnamoroll_{en,zh}.jpg` | Cinnamoroll sticker (flat illustration, residue 13.6%; **best-looking, Sanrio IP** — see P4) |
 
 > **Post P2 as the second image in the same post, not a separate one.** The
 > packaging insert is by far the stronger proof (98.8% of the artwork explained by
@@ -144,6 +145,46 @@ it struggles":
 
 Used this way it is a credibility post rather than a capability post, and it does
 not need the IP question answered — but that call is yours.
+
+## P4 — Cinnamoroll teacup sticker · `layers_cinnamoroll_{en,zh}.jpg`
+
+**The best-looking image of the five**, and technically the second-best result:
+residue 0.136, recon MAE 0.0066, Shadow 0.003 / Highlight 0.001 — correctly near
+zero, because that artwork has no rendered shading. LineArt carries every outline
+*and* every Japanese character on its own transparent layer; FlatColor holds the
+pastel fills clean underneath. Unlike the Labubu card, Residue here is soft and
+faint rather than speckled noise, so the fan reads well at thumbnail size.
+
+⚠️ **Same IP question as P3 — and it corrects how I framed that one.** Cinnamoroll
+is Sanrio. Both this and the Labubu package come from `designAI_manufacturing/
+sticker-print/`, i.e. **client production jobs on third-party characters**, so the
+distinction I drew in P3 ("client file" vs "third-party IP") was the wrong cut.
+The real line is:
+
+- **CHICPUPPY (P2)** — the client's *own* brand and artwork. Safe to post, subject
+  to their permission.
+- **Cinnamoroll (P4) / Labubu (P3)** — third-party character IP that we processed
+  as a job. Fine to *process*; putting them in **Curify's own promotional feed** is
+  a different act, and Sanrio in particular enforces aggressively.
+- **MBTI poster (P1)** — our own template. Safe.
+
+**Recommendation:** P4 is the strongest visual we have, so it is worth using — but
+use it where IP exposure is lowest: **1:1 sales conversations, the deck, and the
+`/contact` reply**, rather than a public post. For public feeds, P2 (CHICPUPPY,
+residue 0.012) is both safe and the better technical proof. If you want a public
+post with this level of visual polish, the clean fix is to **re-run the pipeline on
+an original character we own** — same look, no IP question.
+
+Copy if it is used in a 1:1 or deck context:
+
+> Five layers off a finished sticker. Line art and every character of the copy on
+> their own transparent layer, flat colour clean underneath — recolour the fills
+> or swap the text without redrawing the linework. Shadow and highlight come back
+> near-empty here, which is correct: this artwork has no rendered shading.
+
+> 一张做完的贴纸拆成 5 层。线稿和每一个日文字符单独落在透明层上，
+> 底下的色块是干净的——改颜色、换文案，都不用重画线稿。
+> 这张的阴影/高光几乎是空的，这是对的：原图本来就没有明暗渲染。
 
 ## What we are claiming, and what we are not
 
