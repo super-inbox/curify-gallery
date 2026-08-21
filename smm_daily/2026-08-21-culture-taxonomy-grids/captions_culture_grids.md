@@ -73,5 +73,9 @@ it.** Either choose a commoner synonym or composite the label in afterwards with
 Also: asking for 「{title}」 put literal corner brackets in the rendered title. Say
 "no quotation marks or brackets" explicitly.
 
+**Watermarked** with `curify-frontend/scripts/lib/watermark.cjs` -> `applyTiledWatermark`
+(tiled Curify logo, slanted -30 degrees, 0.15 opacity). Clean unwatermarked masters are
+recoverable from git commit a37a93a if a version without the mark is ever needed.
+
 Images are 928x1152 (4:5 portrait) — works for Facebook and is close enough to Pinterest's
 2:3 to be usable there too.
