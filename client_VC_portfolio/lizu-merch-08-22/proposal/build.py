@@ -24,7 +24,8 @@ ASSETS = {
        for k in ("p_zhidiao", "p_rotate", "p_metal", "p_series", "p_scent")},
     # V3 (2026-08-24): 用客户真实图腾程序化渲染，非生成式产物
     **{k: (HERE / "assets/v3" / f"{k}.jpg", 1100)
-       for k in ("v3_library", "v3_colorways", "v3_shapes", "v3_products", "v3_negcases")},
+       for k in ("v3_library", "v3_colorways", "v3_shapes", "v3_products", "v3_negcases",
+                 "v3_magnet_diecut", "v3_magnet_mech")},
 }
 
 
