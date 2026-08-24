@@ -1,0 +1,591 @@
+<title>白查村黎族文创系列开发 · 整体方案</title>
+<style>
+  :root{
+    --paper:#ECEEE9; --card:#F6F7F4; --ink:#14202B; --ink-2:#38434E;
+    --muted:#6E767E; --rule:#D2D6CF; --rule-2:#E1E4DD;
+    --red:#C2352C; --gold:#C8952E; --jade:#4B7A5E; --sea:#1E3A5F;
+    --shadow:0 1px 2px rgba(20,32,43,.06),0 8px 24px rgba(20,32,43,.05);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --paper:#11171D; --card:#182028; --ink:#E8EAE4; --ink-2:#B9C0C6;
+      --muted:#8B949C; --rule:#2A333C; --rule-2:#222A32;
+      --red:#E4655A; --gold:#E8BC55; --jade:#77A98C; --sea:#5A9CB8;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3);
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#11171D; --card:#182028; --ink:#E8EAE4; --ink-2:#B9C0C6;
+    --muted:#8B949C; --rule:#2A333C; --rule-2:#222A32;
+    --red:#E4655A; --gold:#E8BC55; --jade:#77A98C; --sea:#5A9CB8;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3);
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",sans-serif;
+    font-size:16px; line-height:1.85; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1120px;margin:0 auto;padding:0 28px 100px}
+  .col{max-width:660px}
+  h1,h2,h3{font-family:"Songti SC","STSong","SimSun","Noto Serif CJK SC",serif;text-wrap:balance;margin:0}
+  .mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+
+  /* ── masthead ───────────────────────────────── */
+  header{padding:72px 0 40px;border-bottom:1px solid var(--rule)}
+  .eyebrow{font-size:12px;letter-spacing:.22em;color:var(--muted);margin-bottom:22px}
+  h1{font-size:clamp(30px,5vw,46px);line-height:1.28;font-weight:700;letter-spacing:.01em}
+  h1 em{font-style:normal;color:var(--red)}
+  .sub{margin-top:18px;color:var(--ink-2);font-size:17px;max-width:600px}
+  .facts{display:flex;flex-wrap:wrap;gap:0;margin-top:36px;border:1px solid var(--rule);border-radius:3px;overflow:hidden}
+  .fact{flex:1 1 150px;padding:14px 18px;border-right:1px solid var(--rule-2);background:var(--card)}
+  .fact:last-child{border-right:0}
+  .fact dt{font-size:11px;letter-spacing:.14em;color:var(--muted)}
+  .fact dd{margin:5px 0 0;font-size:17px;font-weight:600}
+
+  /* ── weave rule: 黎锦经纬 ───────────────────── */
+  .weave{height:7px;margin:0;border:0;background:
+    repeating-linear-gradient(90deg,var(--red) 0 12px,transparent 12px 20px),
+    repeating-linear-gradient(90deg,var(--gold) 20px 28px,transparent 28px 40px),
+    repeating-linear-gradient(90deg,var(--jade) 40px 46px,transparent 46px 60px);
+    background-color:var(--ink);opacity:.9}
+
+  section{padding-top:60px}
+  .num{font-size:11px;letter-spacing:.2em;color:var(--red);font-weight:700}
+  h2{font-size:clamp(21px,3vw,27px);font-weight:700;margin:10px 0 6px;line-height:1.4}
+  .lede{color:var(--muted);font-size:14.5px;margin:0 0 26px}
+  h3{font-size:17px;font-weight:700;margin:32px 0 10px}
+  p{margin:0 0 16px;color:var(--ink-2)}
+  strong{color:var(--ink);font-weight:600}
+
+  /* ── callouts ───────────────────────────────── */
+  .note{border-left:3px solid var(--red);background:var(--card);padding:16px 20px;margin:22px 0;border-radius:0 3px 3px 0}
+  .note p:last-child{margin-bottom:0}
+  .note .tag{font-size:11px;letter-spacing:.16em;color:var(--red);font-weight:700;display:block;margin-bottom:7px}
+  .note.warn{border-left-color:var(--gold)}
+  .note.warn .tag{color:var(--gold)}
+
+  /* ── palette ────────────────────────────────── */
+  .swatches{display:grid;grid-template-columns:repeat(auto-fit,minmax(128px,1fr));gap:12px;margin:22px 0}
+  .sw{border:1px solid var(--rule-2);border-radius:3px;overflow:hidden;background:var(--card)}
+  .sw i{display:block;height:62px}
+  .sw b{display:block;padding:9px 12px 2px;font-size:13.5px;font-weight:600}
+  .sw span{display:block;padding:0 12px 11px;font-size:11px;color:var(--muted)}
+
+  /* ── motif cards ────────────────────────────── */
+  .motifs{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:14px;margin:22px 0}
+  .motif{border:1px solid var(--rule-2);border-radius:3px;padding:16px;background:var(--card);text-align:center}
+  .motif svg{width:52px;height:52px;display:block;margin:0 auto 10px}
+  .motif b{display:block;font-size:14px;font-weight:600}
+  .motif span{display:block;font-size:12px;color:var(--muted);line-height:1.6;margin-top:3px}
+
+  /* ── directions ─────────────────────────────── */
+  .dirs{display:grid;gap:16px;margin:24px 0}
+  @media(min-width:820px){.dirs{grid-template-columns:repeat(3,1fr)}}
+  .dir{border:1px solid var(--rule);border-radius:3px;background:var(--card);padding:20px;box-shadow:var(--shadow)}
+  .dir.pick{border-color:var(--red);border-width:2px}
+  .dir .k{font-size:11px;letter-spacing:.16em;color:var(--muted);font-weight:700}
+  .dir.pick .k{color:var(--red)}
+  .dir h4{font-family:"Songti SC","STSong",serif;font-size:20px;margin:9px 0 4px;font-weight:700}
+  .dir .en{font-size:11.5px;letter-spacing:.1em;color:var(--muted);margin-bottom:11px}
+  .dir p{font-size:14px;margin:0 0 12px;line-height:1.75}
+  .dir ul{margin:0;padding-left:17px;font-size:13px;color:var(--muted);line-height:1.9}
+
+  /* ── tables ─────────────────────────────────── */
+  .scroll{overflow-x:auto;margin:22px 0;border:1px solid var(--rule);border-radius:3px;background:var(--card)}
+  table{border-collapse:collapse;width:100%;min-width:660px;font-size:13.5px}
+  th,td{padding:11px 13px;text-align:left;border-bottom:1px solid var(--rule-2);vertical-align:top}
+  thead th{background:var(--ink);color:var(--paper);font-size:11px;letter-spacing:.1em;font-weight:600;white-space:nowrap;border-bottom:0}
+  tbody tr:last-child td{border-bottom:0}
+  td.n,th.n{text-align:right;font-family:ui-monospace,"SF Mono",Menlo,monospace;font-variant-numeric:tabular-nums;white-space:nowrap}
+  tfoot td{background:var(--paper);font-weight:700;border-top:2px solid var(--ink);border-bottom:0}
+  .chip{display:inline-block;padding:2px 8px;border-radius:2px;font-size:11px;font-weight:600;white-space:nowrap}
+  .c-a{background:color-mix(in srgb,var(--red) 14%,transparent);color:var(--red)}
+  .c-b{background:color-mix(in srgb,var(--sea) 16%,transparent);color:var(--sea)}
+  .c-c{background:color-mix(in srgb,var(--gold) 20%,transparent);color:var(--gold)}
+  .c-d{background:color-mix(in srgb,var(--jade) 16%,transparent);color:var(--jade)}
+  .free{color:var(--jade);font-weight:600}
+
+  /* ── timeline ───────────────────────────────── */
+  .tl{margin:24px 0;border-left:2px solid var(--rule);padding-left:0;list-style:none}
+  .tl li{position:relative;padding:0 0 22px 26px}
+  .tl li::before{content:"";position:absolute;left:-6px;top:7px;width:10px;height:10px;border-radius:50%;background:var(--paper);border:2px solid var(--rule)}
+  .tl li.key::before{background:var(--red);border-color:var(--red)}
+  .tl .d{font-size:11.5px;letter-spacing:.1em;color:var(--muted);font-family:ui-monospace,Menlo,monospace}
+  .tl b{display:block;font-size:15.5px;margin:2px 0 4px}
+  .tl li.key b{color:var(--red)}
+  .tl p{font-size:13.5px;margin:0;color:var(--muted)}
+
+  .dir figure{margin:0 0 14px}
+  .dir img{width:100%;height:auto;display:block;border-radius:2px;border:1px solid var(--rule-2)}
+  .gal{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin:22px 0}
+  .gal figure{margin:0;border:1px solid var(--rule-2);border-radius:3px;overflow:hidden;background:var(--card)}
+  .gal img{width:100%;height:170px;object-fit:cover;display:block}
+  .gal figcaption{padding:10px 12px}
+  .gal b{display:block;font-size:13.5px;font-weight:600}
+  .gal span{display:block;font-size:11.5px;color:var(--muted);line-height:1.55;margin-top:2px}
+  ul.plain{margin:0 0 16px;padding-left:19px;color:var(--ink-2)}
+  ul.plain li{margin-bottom:7px}
+  footer{margin-top:70px;padding-top:26px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--muted)}
+  @media(max-width:560px){.wrap{padding:0 18px 70px}header{padding:44px 0 30px}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <p class="eyebrow">文创系列开发 · 方案 V2 · 8月22日会议后修订</p>
+  <h1>白查村黎族传统聚落<br>景区文创系列 ——<br><em>织一句吉祥</em></h1>
+  <p class="sub">以美孚方言黎锦为本、以墨蓝为主调的景区商品线。每个纹样对应一句吉祥寓意——游客带走的不是纪念品，是一句祝福。首批小批量试销，跑出畅销款后再加量。</p>
+  <dl class="facts">
+    <div class="fact"><dt>项目预算</dt><dd class="mono">¥2–3 万</dd></div>
+    <div class="fact"><dt>交付范围</dt><dd>设计 + 打样 + 生产整包</dd></div>
+    <div class="fact"><dt>方言区</dt><dd>美孚 · 已确认</dd></div>
+    <div class="fact"><dt>每款方案</dt><dd class="mono">3 选 1</dd></div>
+  </dl>
+</header>
+
+<hr class="weave">
+
+<section class="col">
+  <p class="num">01</p>
+  <h2>我们对这个项目的理解</h2>
+  <p class="lede">先说清楚我们准备怎么做，以及不打算怎么做。</p>
+
+  <p>贵司的需求不是"几个产品"，而是<strong>一条能向领导汇报、能上架、能持续补款的商品线</strong>。所以我们把它拆成两步：先把黎族文化提炼成一套可复用的<strong>设计语言</strong>，再把这套语言应用到不同品类上。方向定了，后面加 SKU 就是低成本的事。</p>
+
+  <div class="note">
+    <span class="tag">关于"不要太模式化"</span>
+    <p>您反馈的那版参考稿，问题不在画得好不好，而在于<strong>它是"一个卡通形象 × 十八种商品"</strong>——同一张图换个尺寸贴到笔记本、杯子、帆布袋上。这种做法在任何景区都能套用，换个动物就是另一个景区，所以看起来眼熟。</p>
+    <p>我们的做法是反过来：<strong>让每件产品的"器形"本身承载文化，而不只是表面印花。</strong>船型屋的拱顶天然是个容器，那就做成能开合、能出烟的香薰；黎锦是织出来的，那书签就做成经纬交错的镂空结构。这样每一款都有单独的说法，而不是同一个说法重复十一遍。</p>
+  </div>
+</section>
+
+<section class="col">
+  <p class="num">02</p>
+  <h2>设计元素：从白查村与黎锦中提炼</h2>
+  <p class="lede">文化研究 → 视觉基因（Design DNA）</p>
+
+  <p>白查村是保存最完整的黎族船型屋聚落，<strong>船型屋营造技艺</strong>与<strong>黎族传统纺染织绣技艺</strong>都是国家级非遗，后者更在 2009 年列入联合国教科文组织急需保护名录。这两样是这个景区区别于其他黎族景点的核心资产，也是整个系列的立足点。</p>
+
+  <h3>核心叙事：带一句吉祥回家</h3>
+  <p>黎族没有本民族文字，<strong>黎锦承担了记录的功能</strong>——祖先、婚嫁、丰收、祈愿都织进纹样里。一块锦就是一段话。而这些话里最常出现的，是<strong>祈福</strong>。</p>
+  <p>所以整个系列只讲一件事：<strong>每一个纹样对应一句吉祥寓意</strong>，产品吊牌写明这个纹样在黎锦中原本祈的是什么福。游客买走的不是一个纪念品，是一句被织下来的祝福。这也让"送人"成为成立的购买理由，而不只是"到此一游"。</p>
+
+  <h3>已确认：美孚方言区</h3>
+  <p>贵司确认白查村属<strong>美孚方言区</strong>，这直接决定了视觉基调，也和贵司提出的"深/墨蓝主色"完全一致：</p>
+  <p>美孚黎锦的签名工艺是 <strong>絣染（扎经染色）</strong>——先把经线扎结染色再上机织造，纹样边缘会留下自然的<strong>朦胧晕边</strong>。这是黎族五个方言区中美孚独有的技术标志，也是我们与其他黎族景区文创拉开差距的地方。美孚配色本就以<strong>藏青、墨蓝为底，蓝白为主</strong>，较其他方言区素雅——正好支撑"精致、有档次"的定位。</p>
+  <p>因此本系列的所有印花、镂空与纹样边缘，都会带上絣染的晕边处理，而不是干净的矢量硬边。这是一眼能认出"这是美孚"的细节。</p>
+
+  <h3>主色调（按会议意见调整为墨蓝主导）</h3>
+  <div class="swatches">
+    <div class="sw"><i style="background:#14202B"></i><b>靛墨</b><span>主色 · 深底</span></div>
+    <div class="sw"><i style="background:#1E3A5F"></i><b>墨蓝</b><span>主色 · 絣染底</span></div>
+    <div class="sw"><i style="background:#8CA9C4"></i><b>雾蓝</b><span>絣染晕边</span></div>
+    <div class="sw"><i style="background:#F0EDE4"></i><b>本白</b><span>未染纱线</span></div>
+    <div class="sw"><i style="background:#C2352C"></i><b>朱砂红</b><span>点缀 · 极少量</span></div>
+    <div class="sw"><i style="background:#C8952E"></i><b>陈金</b><span>点缀 · 提档次</span></div>
+  </div>
+  <p>红与金只作<strong>点缀</strong>，总占比控制在 5% 以内。素雅的墨蓝底 + 极少量暖色，是"有档次"与"民族风"之间的分界线——颜色一多就俗。</p>
+
+  <h3>八福：纹样与寓意对照</h3>
+  <p>这是整个系列的内容骨架。每款产品认领一到两个福，吊牌上写明出处与寓意。</p>
+  <div class="scroll">
+    <table style="min-width:520px">
+      <thead><tr><th>纹样</th><th>寓意</th><th>适配产品</th></tr></thead>
+      <tbody>
+        <tr><td>人形祖先纹（大力神）</td><td><strong>守护平安</strong></td><td>冰箱贴、徽章、挂绳</td></tr>
+        <tr><td>蛙纹</td><td><strong>多子丰饶</strong></td><td>冰箱贴、杯垫、香囊</td></tr>
+        <tr><td>甘工鸟纹</td><td><strong>姻缘美满</strong></td><td>挂绳、明信片、方巾</td></tr>
+        <tr><td>鹿纹</td><td><strong>福禄双全</strong></td><td>杯垫、帆布袋、纸雕本</td></tr>
+        <tr><td>鱼纹</td><td><strong>年年有余</strong></td><td>杯垫、冰箱贴</td></tr>
+        <tr><td>稻穗 / 田字纹</td><td><strong>五谷丰登</strong></td><td>帆布袋、纸雕本</td></tr>
+        <tr><td>水波纹</td><td><strong>生生不息</strong></td><td>方巾、杯垫底纹</td></tr>
+        <tr><td>太阳纹</td><td><strong>光明康泰</strong></td><td>徽章、明信片</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>可用纹样与母题</h3>
+  <div class="motifs">
+    <div class="motif">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><g fill="none" stroke="#C2352C" stroke-width="2.4" stroke-linecap="square"><path d="M20 7v9M12 11h16M20 16l-6 8M20 16l6 8M14 24v8M26 24v8"/></g></svg>
+      <b>大力神纹</b><span>祖先与守护，黎锦最核心的人形纹</span>
+    </div>
+    <div class="motif">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><g fill="none" stroke="#4B7A5E" stroke-width="2.4" stroke-linecap="square"><path d="M14 14h12v10H14zM14 14l-6-5M26 14l6-5M14 24l-6 6M26 24l6 6M18 18h4"/></g></svg>
+      <b>蛙纹</b><span>丰饶与繁衍，几何化的招福符号</span>
+    </div>
+    <div class="motif">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><g fill="none" stroke="#2C6B84" stroke-width="2.4"><path d="M5 16q5-6 10 0t10 0 10 0M5 26q5-6 10 0t10 0 10 0"/></g></svg>
+      <b>水波纹</b><span>渡海而来的族群记忆</span>
+    </div>
+    <div class="motif">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><g fill="none" stroke="#B4763C" stroke-width="2.4" stroke-linecap="square"><path d="M6 30q14-22 28 0M11 30v-6M29 30v-6M6 30h28"/></g></svg>
+      <b>船型屋</b><span>倒扣的船，聚落最强识别符号</span>
+    </div>
+    <div class="motif">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><g fill="none" stroke="#D9A62E" stroke-width="2.4" stroke-linecap="square"><path d="M20 8c6 4 9 9 9 14a9 9 0 01-18 0c0-5 3-10 9-14zM14 30l-4 4M26 30l4 4"/></g></svg>
+      <b>甘工鸟</b><span>黎族爱情传说，适合祈愿类</span>
+    </div>
+    <div class="motif">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><g fill="none" stroke="#C2352C" stroke-width="2.4"><path d="M8 12h24M8 20h24M8 28h24" stroke-dasharray="5 3"/><path d="M14 8v24M26 8v24" stroke="#14202B" opacity=".45"/></g></svg>
+      <b>絣染晕边</b><span>扎经染色的自然毛边，黎族独有</span>
+    </div>
+  </div>
+
+  <div class="note warn">
+    <span class="tag">文化红线 · 建议明确回避</span>
+    <p><strong>黎族纹面（纹身）不做具象化商品。</strong>纹面是黎族女性的成人礼与族群标识，现存者多为高龄老人，被视为"活着的文物"。做成卡通形象或印在杯子上极易引发舆情，对国企主体风险尤其大。若要表达，只做<strong>抽象几何转译</strong>，且不与"可爱化"造型绑定。</p>
+    <p>同理，<strong>龙被</strong>原用于祭祀与丧葬语境，作纹样借鉴可以，但不宜用在食器、母婴类产品上。这两条建议写进设计规范，避免后续返工。</p>
+  </div>
+</section>
+
+<hr class="weave">
+
+<section>
+  <div class="col">
+    <p class="num">03</p>
+    <h2>三个系列方向（请选其一）</h2>
+    <p class="lede">8 月 22 日会议已选定：<strong>方向 A 作为全系列主线深化</strong>；方向 C 的插画语言保留，仅用于明信片；方向 B 暂不展开。</p>
+  </div>
+
+  <div class="dirs">
+    <div class="dir pick">
+      <figure><img src="{{IMG:dir_a}}" alt="黎锦纹样视觉板"></figure>
+      <p class="k">方向 A · 已选定 · 深化中</p>
+      <h4>织一句吉祥</h4>
+      <p class="en">A WOVEN BLESSING</p>
+      <p>以美孚絣染 + 墨蓝为视觉基底，每款产品认领一句吉祥寓意，吊牌写明纹样出处与所祈之福。</p>
+      <ul>
+        <li>「八福」为骨架，纹样可持续扩充</li>
+        <li>絣染晕边 = 美孚独有识别</li>
+        <li>"送祝福"成立，客单价撑得住</li>
+      </ul>
+    </div>
+    <div class="dir">
+      <figure><img src="{{IMG:dir_b}}" alt="船型屋视觉板"></figure>
+      <p class="k">方向 B · 暂缓</p>
+      <h4>倒扣的船</h4>
+      <p class="en">THE UPTURNED BOAT</p>
+      <p>以船型屋为唯一母题。围绕"渡海—扣船为屋—安家"的迁徙叙事，主打立体器形与建筑感。</p>
+      <ul>
+        <li>船型屋元素并入方向 A 使用</li>
+        <li>原计划的摆件、灯具超出本次价格带</li>
+        <li>留作二期高单价线的储备</li>
+      </ul>
+    </div>
+    <div class="dir">
+      <figure><img src="{{IMG:dir_c}}" alt="白查十二时视觉板"></figure>
+      <p class="k">方向 C · 仅用于明信片</p>
+      <h4>白查十二时</h4>
+      <p class="en">A DAY IN BAICHA</p>
+      <p>以村落一日为线索的插画语言。会议确认<strong>只用于明信片</strong>——这类叙事场景适合平面阅读，不适合器物。</p>
+      <ul>
+        <li>明信片套装的专用视觉</li>
+        <li>配色改为墨蓝主调，与主线统一</li>
+        <li>不外扩到其他品类</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="num">04</p>
+    <h2>品类与选品</h2>
+    <p class="lede">按会议意见收窄：零售价带 ¥20–60，聚焦引流与主力，去掉礼盒与服饰，新增杯垫。</p>
+    <p>会议明确了三件事，这一版全部落实：<strong>价格带控制在 ¥20–60</strong>（个别可到 ¥68）、<strong>先做简单系列不做礼盒</strong>、<strong>服饰暂不涉及</strong>。摆件、灯具、毛绒这些原本撑高单价的品类一并移出——它们的零售价天然在 ¥100 以上，与这一版的定位冲突。</p>
+    <p>剩下的品类要靠<strong>工艺</strong>而不是靠品类稀奇来体现档次：絣染晕边、模切成图腾外形、烫金细线、哑光釉面。同样是一个冰箱贴，做成人形祖先纹的外轮廓、边缘带晕染，和做成一个印着图的圆片，是两个东西。</p>
+  </div>
+
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr><th>层级</th><th>品类</th><th>代表单品</th><th>工艺</th><th class="n">起订</th><th class="n">建议零售</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><span class="chip c-a">引流</span></td><td>冰箱贴</td><td>图腾外形亚克力冰箱贴、木质开门冰箱贴</td><td>UV + 激光切 / 木质模切</td><td class="n">300</td><td class="n">¥25–39</td></tr>
+        <tr><td><span class="chip c-a">引流</span></td><td>挂饰</td><td>亚克力钥匙扣、手机挂绳、行李牌</td><td>UV + 激光切</td><td class="n">300</td><td class="n">¥19–29</td></tr>
+        <tr><td><span class="chip c-a">引流</span></td><td>纸品</td><td>明信片套装（方向 C 插画）、贴纸组</td><td>四色印刷 / 模切</td><td class="n">200</td><td class="n">¥20–29</td></tr>
+        <tr><td><span class="chip c-a">引流</span></td><td>徽章</td><td>纹样金属徽章、太阳纹胸针</td><td>烤漆 / 蚀刻</td><td class="n">500</td><td class="n">¥25–35</td></tr>
+        <tr><td><span class="chip c-b">主力</span></td><td>杯垫 ★新增</td><td>陶瓷杯垫（八福纹样各一款）</td><td>釉面转印 + 软木底</td><td class="n">500</td><td class="n">¥29–39</td></tr>
+        <tr><td><span class="chip c-b">主力</span></td><td>包袋</td><td>覆膜帆布袋、束口袋</td><td>数码直喷 + 覆膜</td><td class="n">300</td><td class="n">¥49–59</td></tr>
+        <tr><td><span class="chip c-b">主力</span></td><td>香囊</td><td>黎族药草香囊、车挂香牌</td><td>布艺 + 绣标</td><td class="n">500</td><td class="n">¥29–39</td></tr>
+        <tr><td><span class="chip c-b">主力</span></td><td>方巾</td><td>絣染渐变方巾（53×53cm）</td><td>数码印花</td><td class="n">300</td><td class="n">¥55–68</td></tr>
+        <tr><td><span class="chip c-b">主力</span></td><td>纸雕本 ★</td><td>船型屋立体纸雕笔记本</td><td>现货结构 + 定制画稿</td><td class="n free">50</td><td class="n">¥58–68</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="col">
+    <div class="note">
+      <span class="tag">关于丝巾</span>
+      <p>会议说"丝巾可以"。需要提醒的是，真丝方巾的<strong>成本本身就在 ¥60–90</strong>，零售必然过百，超出这版价格带。所以这一版按 <strong>53×53cm 仿真丝方巾</strong>做（成本 ¥25–35，零售 ¥55–68）——絣染渐变在雪纺上的表现其实比真丝更接近黎锦的哑光质感。若日后要做真丝，放到二期高单价线。</p>
+    </div>
+  </div>
+  <div class="col">
+    <h3>工艺参考：档次靠工艺，不靠品类</h3>
+    <p>以下为合作工厂的<strong>过往案例实物</strong>（服务对象含故宫、国家博物馆、湖北省博物馆、南昌文旅等），非本项目设计稿，仅说明工艺水平。同样在 ¥20–60 的价格带里，工艺决定了它看起来是旅游纪念品还是文创商品。</p>
+  </div>
+
+  <div class="gal">
+    <figure><img src="{{IMG:p_zhidiao}}" alt="分层纸雕笔记本">
+      <figcaption><b>立体纸雕</b><span>封面嵌分层窗口，有真实景深 · 50 本起做</span></figcaption></figure>
+    <figure><img src="{{IMG:p_rotate}}" alt="可旋转金属冰箱贴">
+      <figcaption><b>互动结构</b><span>可转动，不只是一张贴片</span></figcaption></figure>
+    <figure><img src="{{IMG:p_metal}}" alt="金属镂空工艺">
+      <figcaption><b>镂空蚀刻</b><span>纹样本身即器形——本次用在图腾外形上</span></figcaption></figure>
+    <figure><img src="{{IMG:p_series}}" alt="成系列陈列的文创产品">
+      <figcaption><b>系列陈列</b><span>统一视觉铺满货架的效果</span></figcaption></figure>
+    <figure><img src="{{IMG:p_scent}}" alt="香氛礼盒与扩香石">
+      <figcaption><b>香氛</b><span>可对应黎族药草香囊的做法 · 二期</span></figcaption></figure>
+  </div>
+
+</section>
+
+<section>
+  <div class="col">
+    <p class="num">05</p>
+    <h2>设计方案：每款三选一</h2>
+    <p class="lede">按会议要求，每个产品出三个方向供选。以下为首批四款的设计草案。</p>
+    <p>三个选项不是三张不同的画，而是<strong>三种不同的做法</strong>：单一主体、横向纹样带、满版重复。选定做法之后，八福的其余纹样按同一逻辑铺开，系列就成立了。</p>
+  </div>
+
+  <div class="col">
+    <h3>亚克力冰箱贴 — 图腾即外形</h3>
+  </div>
+  <figure class="shot"><img src="{{IMG:v2_magnet}}" alt="三款图腾外形亚克力冰箱贴">
+    <figcaption>左：人形祖先纹 · 守护平安　中：蛙纹 · 多子丰饶　右：甘工鸟纹 · 姻缘美满</figcaption></figure>
+  <div class="col">
+    <p>会议特别提到"利用好黎族图腾的形状"——这一款就是直接回应：<strong>刀线沿图腾轮廓走，产品本身就是图腾</strong>，而不是一个圆片上印着图腾。三款可收集，构成第一组「福」。</p>
+  </div>
+
+  <div class="col">
+    <h3>陶瓷杯垫 — 新增品类</h3>
+  </div>
+  <figure class="shot"><img src="{{IMG:v2_coaster}}" alt="三款八福纹样陶瓷杯垫">
+    <figcaption>左：蛙纹 · 多子丰饶　中：鹿纹 · 福禄双全　右：鱼纹与水波 · 年年有余</figcaption></figure>
+  <div class="col">
+    <p>絣染的朦胧晕边在釉面上表现得最好，是这一版里最能体现"精致有档次"的一款。哑光釉 + 软木底，四款成套也可单卖。</p>
+  </div>
+
+  <div class="col">
+    <h3>覆膜帆布袋 — 三种版式</h3>
+  </div>
+  <figure class="shot"><img src="{{IMG:v2_tote}}" alt="三款版式的覆膜帆布袋">
+    <figcaption>左：单一主体居中　中：横向八福纹样带　右：满版重复小纹样</figcaption></figure>
+  <div class="col">
+    <p>这三种正是上面说的三种做法。中间那款把鸟、鹿、鱼、稻穗排成一条叙事带——一个袋子上装着四句吉祥，是最好讲的一款。</p>
+  </div>
+
+  <div class="col">
+    <h3>船型屋立体纸雕本</h3>
+  </div>
+  <figure class="shot"><img src="{{IMG:v2_book}}" alt="三款立体纸雕笔记本">
+    <figcaption>左：船型屋分层景深　中：织锦团花　右：鸟与稻穗 · 五谷丰登</figcaption></figure>
+  <div class="col">
+    <p>左款把船型屋做进分层纸雕窗，前景茅草顶、中景屋身与人、远景山影分层叠出，是整个系列里最适合拍照传播的一款，也是 50 本即可起做的一款。</p>
+  </div>
+</section>
+
+<section class="col">
+  <p class="num">06</p>
+  <h2>纹样准确性：我们怎么保证"不出偏差"</h2>
+  <p class="lede">会议强调图腾与黎锦不能有偏差。这一条必须单独说明，因为它决定了工作方式。</p>
+
+  <div class="note warn">
+    <span class="tag">请先明确：上面四张是"形式草案"，不是"考据定稿"</span>
+    <p>上面这些设计图是我们用于快速探索<strong>器形、版式与配色</strong>的草案，纹样是<strong>示意性的</strong>，不能直接下厂。任何用生成式工具画出来的民族纹样，都会在细节上出现偏差——比例、单元重复方式、经纬走向、纹样组合的规矩，都可能似是而非。</p>
+    <p>把这样的图当作"美孚黎锦"交付，是这个项目最大的风险，也是我们主动提出来的原因。</p>
+  </div>
+
+  <h3>正式设计阶段的三步做法</h3>
+  <ul class="plain">
+    <li><strong>一、考据取样。</strong>纹样只来自可追溯的源头：美孚方言区实物黎锦、当地非遗传承人提供的样本、博物馆藏品与公开出版的黎锦图录。每个纹样记录来源、方言区、原始寓意。<strong>这一项需要贵司协助提供本地实物或图录。</strong></li>
+    <li><strong>二、矢量还原。</strong>由设计师按实物<strong>逐一描摹矢量化</strong>，保持单元结构与重复规律，不做"看起来像"的再创作。这一步产出的是一套可复用的美孚纹样矢量库，也是贵司日后可持续使用的资产。</li>
+    <li><strong>三、受控应用。</strong>产品设计只负责<strong>取用</strong>这些矢量纹样并做排版、配色与絣染晕边处理，纹样本身不再改动。这样每一款产品上的纹样都能指回它的出处。</li>
+  </ul>
+
+  <p>建议在定稿前增加一道<strong>本地审核</strong>：由景区或当地文化部门指定一位熟悉美孚黎锦的人士（非遗传承人或文化馆老师）过一遍纹样与寓意，出具确认意见。这道程序对国企项目尤其必要，我们可以配合准备审核用的对照材料。</p>
+
+  <div class="note">
+    <span class="tag">同时保留的两条文化红线</span>
+    <p>黎族<strong>纹面</strong>不做具象化商品——现存纹面者多为高龄老人，被视为"活着的文物"，卡通化极易引发舆情。<strong>龙被</strong>原用于祭祀与丧葬语境，纹样可借鉴，但不用于食器与母婴类。这两条已写进设计规范。</p>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="num">07</p>
+    <h2>选品深度与首批配置</h2>
+    <p class="lede">7 款 SKU，约 2,000 件，全部落在 ¥20–60 零售带内。数量不是我们定的，是工厂起订量定的。</p>
+
+    <div class="note warn">
+      <span class="tag">先说一件必须说清楚的事：起订量</span>
+      <p>我们拿到三家工厂的正式报价单核对后，有一条要提前讲明：<strong>文创工厂的起订量普遍是每款 300–500 件，金属与毛绒类要到 500–1,000 件。</strong>这不是议价空间的问题，是开一次机、开一次模的经济性决定的。</p>
+      <p>这意味着"十几个品类、每款做一两百个"在工厂端<strong>做不出来</strong>。如果按每款 500 件的下限硬做 11 款，光货款就要 5–8 万，远超本次预算。任何按"每款 100 件"给您报的方案，要么是没核过工厂，要么会在打样后加价。</p>
+    </div>
+
+    <h3>我们的破解办法</h3>
+    <p>要在预算内同时做到"款式多"和"量不大"，只有三条路，我们三条都用上了：</p>
+    <ul class="plain">
+      <li><strong>同刀模、不同图案。</strong>起订量卡的是"一次生产运行"，不是"一个画面"。同一副亚克力刀模下，可以印 4 个不同纹样各 75 件——对游客来说是 4 款可收集的商品，对工厂只算 1 款 300 件的订单。这是本次能给出"系列感"的关键。</li>
+      <li><strong>现货结构 + 定制图案。</strong>纸雕本的模切结构是现成的，只换我们的画稿，<strong>50 本即可起做</strong>。这类"半定制"品是小批量试销的最优解。</li>
+      <li><strong>首批只碰低起订品类。</strong>亚克力与木质 300 件起、便签与卡套 200 件起；金属徽章、树脂摆件、毛绒这些 500–1,000 件起的，全部推到第二批——等试销数据出来，再用更大的量去摊模具费。</li>
+    </ul>
+  </div>
+
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr><th>层级</th><th>单品</th><th>工艺</th><th class="n">工厂起订</th><th class="n">打样/开模</th><th class="n">单价</th><th class="n">数量</th><th class="n">小计</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><span class="chip c-b">主力</span></td><td>船型屋立体纸雕本 ★</td><td>现货结构 + 定制画稿</td><td class="n free">50</td><td class="n free">免</td><td class="n">¥28.0</td><td class="n">100</td><td class="n">¥2,800</td></tr>
+        <tr><td><span class="chip c-a">引流</span></td><td>图腾外形亚克力冰箱贴（同模 3 纹样）</td><td>UV 打印 + 激光切</td><td class="n">300</td><td class="n">¥300</td><td class="n">¥5.0</td><td class="n">300</td><td class="n">¥1,800</td></tr>
+        <tr><td><span class="chip c-a">引流</span></td><td>木质开门冰箱贴</td><td>木质模切 + 丝印</td><td class="n">300</td><td class="n">¥300</td><td class="n">¥10.0</td><td class="n">300</td><td class="n">¥3,300</td></tr>
+        <tr><td><span class="chip c-a">引流</span></td><td>亚克力钥匙扣 / 挂绳（同模 3 款）</td><td>UV 打印 + 激光切</td><td class="n">300</td><td class="n">¥300</td><td class="n">¥4.0</td><td class="n">300</td><td class="n">¥1,500</td></tr>
+        <tr><td><span class="chip c-a">引流</span></td><td>明信片套装（方向 C 插画）</td><td>四色印刷</td><td class="n">200</td><td class="n">¥300</td><td class="n">¥7.0</td><td class="n">200</td><td class="n">¥1,700</td></tr>
+        <tr><td><span class="chip c-b">主力</span></td><td>陶瓷杯垫 ★新增（八福 4 款）</td><td>釉面转印 + 软木底</td><td class="n">500</td><td class="n">¥300</td><td class="n">¥3.6</td><td class="n">500</td><td class="n">¥2,100</td></tr>
+        <tr><td><span class="chip c-b">主力</span></td><td>覆膜帆布袋</td><td>数码直喷 + 覆膜</td><td class="n">300</td><td class="n">¥300</td><td class="n">¥15.0</td><td class="n">300</td><td class="n">¥4,800</td></tr>
+        </tbody>
+      <tfoot>
+        <tr><td colspan="6">生产小计（含打样与刀模费 ¥1,800）</td><td class="n">约 2,000 件</td><td class="n">¥18,000</td></tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <div class="col">
+    <p>7 款 SKU，但因为用了"同模不同图"，货架上实际是 <strong>16 个可收集的图案</strong>——冰箱贴 3 款、挂绳 3 款、杯垫 4 款，加上其余单品。对游客而言这就是一个系列；对工厂而言只是 7 张订单。</p>
+
+    <div class="scroll">
+      <table style="min-width:420px">
+        <thead><tr><th>费用项</th><th>说明</th><th class="n">金额</th></tr></thead>
+        <tbody>
+          <tr><td>系列创意设计</td><td>文化研究、Design DNA、3 个方向、全系列产品设计、汇报 Deck、2 轮修改</td><td class="n">¥9,800</td></tr>
+          <tr><td>首批生产</td><td>7 款 · 约 2,000 件（含打样与刀模费 ¥1,800）</td><td class="n">¥18,000</td></tr>
+        </tbody>
+        <tfoot><tr><td colspan="2">整包合计</td><td class="n">¥27,800</td></tr></tfoot>
+      </table>
+    </div>
+
+    <p>按前表建议零售价计算，<strong>首批货值约 ¥6.2 万</strong>，若正常动销，一轮试销即可覆盖本次全部投入并留出毛利。后续补单只付生产费，设计费不再重复收取。</p>
+
+    <div class="note">
+      <span class="tag">预算弹性</span>
+      <p>若希望压到 <strong>¥2.2 万</strong>：去掉木质开门冰箱贴与陶瓷杯垫（这两项合计 ¥5,400），保留 5 款、约 1,200 件，货值约 ¥4.3 万。杯垫是本次新增且最能体现质感的一款，若要砍，我们建议先砍木质冰箱贴。</p>
+    </div>
+
+    <div class="note">
+      <span class="tag">关于工厂的"订货免费设计"</span>
+      <p>报价单里能看到工厂标注"订货免费设计"。需要说明的是，那指的是<strong>把您给定的图稿排版成可生产的刀线文件</strong>，不含文化研究、视觉体系与系列策划。这也正是那版参考稿看起来模式化的原因——工厂的免费设计只能做到"把图放上去"。我们收的这 ¥9,800，买的是前面那一段。</p>
+    </div>
+
+    <div class="note">
+      <span class="tag">第二批：等数据说话</span>
+      <p>金属徽章、香囊、方巾、毛绒这些起订 500 件的品类，以及超出本次价格带的摆件与真丝制品，全部放在第二批。届时用首批的真实动销数据决定做哪几款——<strong>畅销款加量，滞销款不做</strong>，这正是您说的思路。这也是为什么第一批要把款式铺开、把量压低。</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="col">
+    <p class="num">08</p>
+    <h2>排期与预计签约时间</h2>
+    <p class="lede">以 8 月 22 日启动计。</p>
+  </div>
+
+  <div class="col">
+    <ul class="tl">
+      <li class="key">
+        <p class="d">8/22 → 8/30 · 8 天</p>
+        <b>提交《设计思路提案》</b>
+        <p>黎族文化与视觉元素板、Design DNA（主色 / 纹样 / 符号 / 字体）、3 个系列方向，每个方向配 2–3 款代表产品效果图。此阶段不收费。</p>
+      </li>
+      <li>
+        <p class="d">8/31 → 9/5</p>
+        <b>方向确认</b>
+        <p>贵司与领导选定 1 个方向，集中反馈一轮。同步确认品类圈选与预算档位。</p>
+      </li>
+      <li class="key">
+        <p class="d">9/1 → 9/5</p>
+        <b>预计签约 · 支付押金启动</b>
+        <p>方向确认后即以公司主体签订《文创产品开发合同》，<strong>支付 50% 押金作为项目启动款</strong>，我们随即投入系列全面设计与工厂排期。开具增值税专用发票。</p>
+      </li>
+      <li>
+        <p class="d">9/8 → 9/19 · 2 周</p>
+        <b>系列全面展开</b>
+        <p>11 款 SKU 完整设计、产品效果图、场景图、完整汇报 Deck（含故事线、设计理念、产品矩阵、陈列建议）。</p>
+      </li>
+      <li>
+        <p class="d">9/22 → 9/26</p>
+        <b>2 轮修改定稿 + 生产文件</b>
+        <p>输出可下厂的生产文件：刀线、出血、色值、材质与工艺说明。</p>
+      </li>
+      <li>
+        <p class="d">9/29 → 10/13</p>
+        <b>打样确认</b>
+        <p>关键 SKU 实物样寄送贵司确认。含国庆假期，工厂排产会顺延。</p>
+      </li>
+      <li>
+        <p class="d">10/14 → 11/4</p>
+        <b>首批生产与交付</b>
+        <p>约 3 周产出，含质检与包装，直发景区。</p>
+      </li>
+    </ul>
+
+    <div class="scroll">
+      <table style="min-width:460px">
+        <thead><tr><th>付款节点</th><th>触发条件</th><th class="n">比例</th><th class="n">金额</th></tr></thead>
+        <tbody>
+          <tr><td><strong>押金 · 启动款</strong></td><td>方向确认、签订合同当日</td><td class="n">50%</td><td class="n">¥13,900</td></tr>
+          <tr><td>设计定稿款</td><td>11 款 SKU 设计定稿、生产文件交付</td><td class="n">30%</td><td class="n">¥8,340</td></tr>
+          <tr><td>交货尾款</td><td>货到景区、验收无误</td><td class="n">20%</td><td class="n">¥5,560</td></tr>
+        </tbody>
+        <tfoot><tr><td colspan="3">合计</td><td class="n">¥27,800</td></tr></tfoot>
+      </table>
+    </div>
+    <p>押金的作用是锁定工厂排期与设计资源——尤其在赶国庆的路径下，工厂档期需要提前占位，押金到账当天我们就开始排产。押金支付后，若贵司中止项目，已完成的文化研究与设计成果<strong>版权仍归贵司所有</strong>，可自行另行落地。</p>
+
+    <div class="note warn">
+      <span class="tag">如需赶国庆黄金周上架</span>
+      <p>按标准排期首批到货在 11 月初，会错过国庆。若希望 <strong>10 月 1 日前上架</strong>，需要：8 月 28 日前口头确认方向、<strong>9 月 1 日完成签约</strong>，且首批只做 4 款低起订品（纸雕本、亚克力冰箱贴、亚克力挂绳、覆膜帆布袋），打样与生产并行压缩至 3 周。开模类（书签、香囊、摆件、礼盒）排入第二批。</p>
+      <p>这条路径的货值约 ¥3.1 万，但能吃到全年最大的一波客流，并在国庆后拿到真实动销数据来决定第二批做什么。<strong>如果国庆是目标，签约时间就是唯一的硬约束。</strong></p>
+    </div>
+  </div>
+</section>
+
+<hr class="weave">
+
+<section class="col">
+  <p class="num">09</p>
+  <h2>需要贵司提供的资料</h2>
+  <p class="lede">方向已定，下一步是把纹样做实。以下资料越早给到，正式设计越快开始。</p>
+  <ul class="plain">
+    <li><strong>景区正式名称与 Logo / VI</strong>（如有），以及对外宣传的定位口径</li>
+    <li><strong>现有文创产品照片</strong>，以及目前哪些好卖、哪些压货</li>
+    <li><strong>景区实景照片</strong>：船型屋、村落、织锦场景、代表性物件</li>
+    <li><strong>美孚黎锦实物或图录</strong>（最关键）：当地织锦高清实拍、非遗传承人样本或出版图录。这是纹样不出偏差的前提——没有可追溯的源头，就只能做到形似。</li>
+    <li><strong>目标客群与客单价</strong>：以本省游客还是外省为主，纪念品客单价大致区间</li>
+    <li><strong>销售场景</strong>：景区商店面积与货架条件，是否有线上渠道、团购或接待用礼品需求</li>
+    <li><strong>必须使用 / 必须回避的文化元素</strong>：是否有当地要求保留或忌讳的纹样、传说、人物</li>
+  </ul>
+  <p>方言区已在 8 月 22 日会议确认为<strong>美孚</strong>，这一项已解决。现在最关键的是<strong>美孚黎锦的实物纹样素材</strong>，它直接决定我们能否做到贵司要求的不出偏差。</p>
+</section>
+
+<section class="col">
+  <p class="num">10</p>
+  <h2>为什么是我们</h2>
+  <p>我们提供<strong>策划、设计、打样、生产的一整套服务</strong>，贵司只需要对接我们一方，不必分别管设计公司和工厂。</p>
+  <ul class="plain">
+    <li><strong>设计端</strong>：AI 辅助的系列化设计流程，同一套视觉基因可快速铺开到几十个 SKU 并保持一致性，这是我们能在小预算下给出"系列"而不是"几款"的原因。</li>
+    <li><strong>生产端</strong>：合作工厂为深圳自有厂房 8,000㎡、20 年文创生产经验，服务过故宫、国家博物馆、南京博物院、湖北省博物馆等 60 余家博物馆与多个 5A 景区，通过 ISO 质量管理体系认证。</li>
+    <li><strong>商务</strong>：以公司主体签约、开具正规发票，符合国企采购流程要求。</li>
+  </ul>
+</section>
+
+<footer>
+  <p>本方案为初步整体思路，设计元素、品类与数量均可按贵司反馈调整。价格为整包测算价，最终以确认的 SKU 清单与数量为准。<br>提案日期：2026 年 8 月 22 日</p>
+</footer>
+
+</div>
