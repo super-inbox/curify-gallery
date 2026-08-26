@@ -26,6 +26,9 @@ ASSETS = {
     **{k: (HERE / "assets/v3" / f"{k}.jpg", 1100)
        for k in ("v3_library", "v3_colorways", "v3_shapes", "v3_products", "v3_negcases",
                  "v3_magnet_diecut", "v3_magnet_mech")},
+    # V4 (2026-08-26): 附录追加候选 SKU
+    **{k: (HERE / "assets/v4" / f"{k}.jpg", 1100)
+       for k in ("v4_magnet_shapes", "v4_cheap_skus")},
 }
 
 
