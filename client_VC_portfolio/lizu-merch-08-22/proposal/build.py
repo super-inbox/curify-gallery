@@ -29,6 +29,9 @@ ASSETS = {
     # V4 (2026-08-26): 附录追加候选 SKU
     **{k: (HERE / "assets/v4" / f"{k}.jpg", 1100)
        for k in ("v4_magnet_shapes", "v4_cheap_skus")},
+    # V5 (2026-08-27): 祝福语 / 黎锦带 / 复合冰箱贴 / 白查十二时
+    **{k: (HERE / "assets/v5" / f"{k}.jpg", 1150)
+       for k in ("v5_blessings", "v5_brocade", "v5_magnet_composite", "v5_baicha12")},
 }
 
 
