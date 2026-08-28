@@ -3,3 +3,8 @@
 
 # client production vector files — publish a redacted raster instead (see designAI_manufacturing/README.md)
 designAI_manufacturing/**/*.ai
+
+# 2026-08-28: supplier quote, 232 MB — exceeds GitHub's 100 MB HARD limit, so it
+# can never be pushed. Kept on disk as reference; excluded from git deliberately.
+# If it must be versioned, it needs Git LFS (not installed in this repo).
+client_VC_portfolio/lizu-merch-08-22/苏橙文创报价方案-2026-图.xlsx
