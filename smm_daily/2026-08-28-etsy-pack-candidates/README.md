@@ -1,94 +1,112 @@
-# Etsy pack review + 4 new pack candidates — 2026-08-28
+# Etsy packs — 2026-08-28 build round
 
-## Audit of the 12 existing packs
+Five new SKUs built, registered in both registries, uploaded to Azure, and live.
+Catalogue went **12 → 17**.
 
-All 12 are `active: true` in both registries (frontend `lib/etsy_packs.json` and
-backend `app/data/etsy_packs.json`), and both are in sync. Two findings matter.
+| SKU | cards | ZIP | delivery PDF |
+|---|---|---|---|
+| `city-miniatures` | 30 | 28.5 MB | `etsy-packs/city-miniatures-delivery.pdf` |
+| `butcher-charts` | 30 | 25.3 MB | `etsy-packs/butcher-charts-delivery.pdf` |
+| `confusing-english-words` | 30 | 21.5 MB | `etsy-packs/confusing-english-words-delivery.pdf` |
+| `watercolor-maps` | 10 | 9.7 MB | `etsy-packs/watercolor-maps-delivery.pdf` |
+| `dessert-color-lab` | 10 | 6.2 MB | `etsy-packs/dessert-color-lab-delivery.pdf` |
 
-**None of them is actually listed on Etsy.** `etsy_listing_url` is null on all 12.
-We have built and uploaded 587 clean images across 12 ZIPs and wired a working
-redemption flow, and no buyer can reach any of it. That is the binding constraint —
-not the catalogue size.
+All `active: true`, ZIPs at `packs/sku/<sku>/pack-v1.zip`, ~150 clean
+(pre-watermark) images generated, gallery copies watermarked and synced to CDN.
+`etsy_listing_url` is null on all of them — that field is simply not backfilled;
+listings are created manually on Etsy.
 
-**Two packs carry third-party IP and should not be listed as-is:**
+## What each pack is
 
-| pack | issue |
-|---|---|
-| `mbti-character` (100 cards) | Titled "Marvel, Ghibli & Friends". Cover image is `template-mbti-marvel-en-captainamerica.jpg` — Captain America is the storefront image on a paid listing. |
-| `zhenhuan-mbti` (16 cards) | "Empresses in the Palace" (甄嬛传) is a licensed TV property. |
+- **city-miniatures** — 30 world cities as 3D miniature dioramas built on their own
+  antique street maps. Amsterdam, Istanbul, Kyoto, Prague, Seoul, Venice, Berlin,
+  Vienna, Reykjavik, Havana, Jaipur and more.
+- **butcher-charts** — 30 vintage butcher charts. Duck, turkey, goat, venison,
+  rabbit, salmon, tuna, lobster, crab, octopus, squid, quail, veal, bison and more,
+  each with labelled cuts and cooking methods.
+- **confusing-english-words** — 30 grammar posters. then/than, lay/lie, fewer/less,
+  who/whom, principal/principle, stationary/stationery, imply/infer, flout/flaunt
+  and more, each with both definitions, a worked example and a memory trick.
+- **watercolor-maps** — 10 watercolor region maps. British Isles, Scandinavia,
+  Mediterranean, Southeast Asia, Caribbean, Alps, Japan, Iberian Peninsula,
+  New Zealand, Central America.
+- **dessert-color-lab** — 10 nine-dessert grids, each built on one colour story:
+  blush pink, chocolate brown, citrus orange, matcha green, lavender, midnight
+  black, caramel gold, berry wine, cream & ivory, turquoise mint.
 
-Both are the *largest* and the most commercially obvious packs, which is exactly why
-they are the risk. Etsy's IP takedown process is complaint-driven and account-level:
-a single successful claim can suspend the shop, not just the listing. Recommend
-delisting both from any launch set and replacing `mbti-character` with `mbti-animal`
-(below), which covers the same buyer intent with no rights exposure.
+## The rule that decides whether a template is packable
 
-## 4 new pack candidates — screened, no IP
+**Short structured labels render correctly. Long prose paragraphs degrade into
+gibberish.** This predicts sellability without inspecting every file:
 
-Screened every template with ≥24 examples against a rights blocklist (studio IP,
-franchises, real-person likenesses). Rejected on screening: `word-scene` (5 Crayon
-Shin-chan entries), `mbti-nba` (5 real athletes), `mbti-siliconvalley` (4 real
-founders), `original-character-sticker-pack` (4 entries are Hello Kitty / Mario
-despite the template's "original-ip" tag).
+- Clean — butcher-chart cut labels (one or two words), word-pair definitions and
+  examples, dessert names, map country labels. Spot-checked and factually right:
+  the fewer/less poster gets countable-vs-uncountable correct, squid anatomy
+  correctly separates arms from tentacles.
+- Garbled — `great-minds` one-sentence achievement blurbs: *"GEOCERTAIC NODCE:
+  Beselaped the Earth-conterêd oaiverse Ibeary"*. Names and dates survive;
+  sentences do not.
 
-### 1. `mbti-animal` — 49 examples, 0 flags · **top pick**
-**Title:** MBTI Animal Personality Posters (49 Cards for All 16 Types)
-**Description:** Every MBTI type as an animal character, illustrated as a printable
-poster set. 49 cards covering all 16 types with trait summaries, cognitive-function
-notes, and matching colour palettes. Print for a classroom wall, a therapy or
-coaching practice, a team-building session, or a gift for the personality-test
-obsessive in your life. High-resolution files, no watermark, print at A4 or Letter.
+## `great-minds` — generated, NOT shipped
 
-*Why:* personality content is proven Etsy demand and it is the same buyer as the
-existing MBTI pack — without Marvel or Ghibli attached.
+10 images sit in `packs/great-minds/` and are deliberately unregistered. Two
+independent blockers:
 
-### 2. `education-card` — 72 examples, 0 flags
-**Title:** Illustrated Science & Learning Cards (72 Classroom Printables)
-**Description:** A 72-card illustrated reference set covering science and general
-knowledge, drawn in a clean cartoon style that reads at wall distance. Each card
-pairs a labelled diagram with a short explanation. Built for homeschool binders,
-classroom walls, and morning-basket routines. Print-ready, no watermark, A4/Letter.
+1. **The text is the product.** On a decorative print, garbled lettering reads as
+   texture. On a classroom reference poster, the blurb is what someone buys.
+2. **Right-of-publicity.** The template fills category themes (astronomers, poets)
+   with *named individuals*, and it chose **Carl Sagan** (d. 1996) and **Vera
+   Rubin** (d. 2016) — recent enough that heirs hold publicity rights.
 
-*Why:* largest clean pool we have, and homeschool printables are a durable Etsy
-category with year-round demand rather than a seasonal spike.
+Fixing it needs a pre-1900-deaths prompt constraint plus a regeneration.
 
-### 3. `kids-vocabulary-poster` — 25 examples, 0 real flags
-**Title:** Kids First Words Vocabulary Posters (25 Illustrated Wall Prints)
-**Description:** 25 illustrated vocabulary posters covering first-words themes —
-animals, food, colours, jobs, weather, and more. Each poster pairs bright artwork
-with clear labels, sized for a nursery wall or a preschool classroom. Print at A4 or
-Letter, no watermark, unlimited personal and single-classroom use.
+## Two existing packs carry third-party IP
 
-*Note:* the screen flagged `…-jobs`; that is occupations vocabulary, a false positive.
+Not from this round, but found while auditing and worth acting on:
 
-### 4. `english-dialogue-scene` — 26 examples, 0 flags
-**Title:** Everyday English Dialogue Scene Cards (26 ESL Conversation Posters)
-**Description:** 26 illustrated scene cards showing everyday English conversations —
-ordering food, asking directions, at the doctor, on the phone. Each card pairs a
-kawaii-style scene with the full dialogue, so learners see the situation and the
-language together. For ESL tutors, language classrooms, and self-study. Print-ready,
-no watermark.
+- **`mbti-character`** (100 cards) — titled "Marvel, Ghibli & Friends", and its
+  cover image is `template-mbti-marvel-en-captainamerica.jpg`, i.e. Captain America
+  is the storefront image on a paid listing.
+- **`zhenhuan-mbti`** (16 cards) — "Empresses in the Palace" is a licensed property.
 
-*Why:* ESL printables sell steadily and this is a format most competitors don't have —
-the scene and the script on one card.
+Etsy IP claims are account-level: one successful complaint can suspend the shop,
+not just the listing. `mbti-animal` (49 clean examples, screened) is the drop-in
+replacement at the same buyer intent.
 
-## Blocker before any of these can be sold
+Also screened and rejected as pack candidates: `word-scene` (5 Crayon Shin-chan),
+`mbti-nba` (5 real athletes), `mbti-siliconvalley` (4 real founders),
+`original-character-sticker-pack` (4 are Hello Kitty / Mario despite the
+template's own "original-ip" tag).
 
-The gallery images on disk are **watermarked**. Every shipped paid pack has clean
-renders in `packs/<sku>/` (12 dirs, 587 images); the `packs/template-*/` dirs are
-empty placeholders. So each new pack needs its clean set generated before it can be
-zipped and sold — roughly 172 images for all four. The free 5-card lead-magnet PDFs
-can be built from watermarked gallery images today and already exist under
-`raw/template-packs/` for `education-card` and `kids-vocabulary-poster`.
+## Tooling built this round
 
-## Delivery automation (shipped)
+- `scripts/build_etsy_delivery_pdf.py` — replaces the hand-made Canva file. One
+  hero + one **tappable** link per SKU with `?c=etsy-<sku>-listing` attribution.
+  Writes to `curify-gallery/etsy-packs/`. Uses the clean pack image as the hero,
+  not the same-named watermarked gallery copy.
+- `scripts/register_etsy_pack.py` — zips a pack folder and writes **both**
+  registries from one record, refusing a partial pair. Updates existing SKUs in
+  place, so a pack grown 10 → 30 does not keep advertising 10 cards.
+- Ordering that matters: register (inactive) → upload ZIP → `--activate`.
 
-`scripts/build_etsy_delivery_pdf.py` replaces the hand-made Canva file. One hero
-image + one **tappable** link per SKU, with `?c=etsy-<sku>-listing` attribution baked
-in so redemptions are traceable per listing.
+## Two traps worth remembering
 
-    python scripts/build_etsy_delivery_pdf.py                 # all active packs
-    python scripts/build_etsy_delivery_pdf.py mbti-animal     # one SKU
-    python scripts/build_etsy_delivery_pdf.py --code=etsy-fall-sale travel-maps
+**`build_topic_thumbnails.cjs` is not idempotent housekeeping.** Re-running it
+after a content drop deleted the `branding`, `packaging` and `social-media-posts`
+thumbnails and replaced `portrait`'s curated icon — `TopicStrip` drops any entry-bar
+item without a manifest thumbnail, so it would have silently removed three items
+from site-wide navigation. Check its diff against `lib/entry_bar.ts` before ever
+committing it.
 
-Output: `raw/etsy-packs/<sku>-delivery.pdf`.
+**Never filter the generator's output.** `generate_template_examples.cjs` prints a
+per-item `✗ {error}` line but ends with a tidy Added/Skipped/Failed block and
+**exits 0 even when every item fails**. A 60-image run returned 0/60 with exit 0;
+piping through `grep "^Added|^Failed"` hid the cause. It was
+`429 RESOURCE_EXHAUSTED — monthly spending cap`, visible only on an unfiltered rerun.
+
+## Next
+
+- Scale `watercolor-maps` and `dessert-color-lab` from 10 to 30 (both have unused
+  subject headroom).
+- Regenerate `great-minds` with a pre-1900 constraint, or drop it.
+- Replace `mbti-character` with `mbti-animal`; retire `zhenhuan-mbti`.
