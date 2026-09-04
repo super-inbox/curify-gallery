@@ -32,6 +32,9 @@ ASSETS = {
     # V5 (2026-08-27): 祝福语 / 黎锦带 / 复合冰箱贴 / 白查十二时
     **{k: (HERE / "assets/v5" / f"{k}.jpg", 1150)
        for k in ("v5_blessings", "v5_brocade", "v5_magnet_composite", "v5_baicha12")},
+    # V6 (2026-09-04): 国博参考新款 + 全线接触表
+    **{k: (HERE / "assets/v6" / f"{k}.jpg", 1200)
+       for k in ("v6_museum_skus", "v6_contact_sheet")},
 }
 
 
