@@ -35,6 +35,9 @@ ASSETS = {
     # V6 (2026-09-04): 国博参考新款 + 全线接触表
     **{k: (HERE / "assets/v6" / f"{k}.jpg", 1200)
        for k in ("v6_museum_skus", "v6_contact_sheet")},
+    # V7 (2026-09-04): 祝福语加字版（与无字版并存）
+    **{k: (HERE / "assets/v7" / f"{k}.jpg", 1200)
+       for k in ("v7_diecut_text", "v7_mech_text", "v7_sku_text")},
 }
 
 
