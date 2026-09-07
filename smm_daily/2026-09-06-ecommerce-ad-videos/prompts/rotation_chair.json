@@ -1,0 +1,86 @@
+{
+  "product": "rotation_chair",
+  "category": "furniture / hard goods",
+  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/rotation_chair.mp4",
+  "rendered_spec": {"duration_s": 10.0, "resolution": "720x1280", "orientation": "vertical"},
+  "clearance": "ship",
+  "as_run": {
+    "_comment": "The single free-form prompt behind the 10s asset already in the folder. Recorded verbatim for provenance -- do not edit.",
+    "mode": "single-prompt text-to-video",
+    "prompt": "360° display of a black ergonomic chair in a premium office. Close-up of the breathable mesh back with visualized airflow. Engineering animations of lumbar support and ergonomic curves. Multi-axis demo of adjustable armrests / seat height. Long working sessions with a designer / programmer / creative — postures relaxed and natural. 3D skeletal-support diagram illustrating no-fatigue prolonged sitting. Spatial-aesthetic interior styling. Ends with the text \"Where Inspiration and Comfort Coexist\" fading in. High-end minimalist, cool tones, professional futuristic feel, slow deliberate camera work.",
+    "what_landed": "Airflow viz through the mesh back, the HUD armrest readout, and the styled-interior 360 hero.",
+    "what_dropped": "The human working-session beats and the skeletal-support diagram never rendered, and the end-card text did not appear. Expected: this is eight scene ideas in one prompt for a single 10s clip. The series below is the fix -- one intent per generation."
+  },
+  "series": {
+    "engine": "MiniMax Hailuo (H3)",
+    "target": "8 shots -> ~26s vertical cut, or a 15s trim for feeds",
+    "shared_style": "High-end minimalist product film. Cool desaturated palette, charcoal / graphite / soft cyan accent. Soft large-source key with controlled specular falloff on matte plastic and aluminium. Shallow depth of field. Slow deliberate camera. Photoreal, no cartoon stylization, no lens flare, no text overlays.",
+    "negative": "no logos, no brand marks, no visible text or watermarks, no warped chair geometry, no extra or missing armrests, no floating parts, no distorted hands, no oversaturated colors",
+    "shots": [
+      {
+        "id": 1,
+        "beat": "hero reveal",
+        "duration_s": 6,
+        "mode": "text_to_video",
+        "prompt": "[Truck left] A black ergonomic mesh office chair stands alone at the centre of a bright minimalist studio office, soft daylight from a large window on the left. The camera glides slowly left to right around the chair, keeping it centred, revealing the silhouette from front three-quarter to profile. Charcoal mesh back, matte aluminium base, five castors. Cool neutral grey floor, softly blurred background. Photoreal product film, shallow depth of field, slow deliberate motion."
+      },
+      {
+        "id": 2,
+        "beat": "airflow through mesh — the shot you cannot photograph",
+        "duration_s": 6,
+        "mode": "text_to_video",
+        "prompt": "[Push in] Extreme close-up of the woven mesh backrest of a black ergonomic chair. Translucent pale-cyan airflow ribbons and fine luminous particles drift through the mesh weave from behind toward camera, curling around the taut fibres. The camera pushes in slowly on the weave. Dark studio background, single soft rim light catching the mesh edge. Photoreal macro with a clean semi-transparent motion-graphic overlay, cool tones."
+      },
+      {
+        "id": 3,
+        "beat": "lumbar geometry",
+        "duration_s": 6,
+        "mode": "text_to_video",
+        "prompt": "[Static shot] Profile view of a black ergonomic chair against a dark graphite background. A thin luminous cyan line traces the S-curve of the lumbar support from seat to headrest, drawing itself smoothly from bottom to top, then a soft glow pulses once along the curve. Precise technical-diagram feel over a photoreal chair. Cool tones, minimalist, no text."
+      },
+      {
+        "id": 4,
+        "beat": "armrest multi-axis adjust",
+        "duration_s": 6,
+        "mode": "text_to_video",
+        "prompt": "[Static shot] Close-up of the adjustable armrest of a black ergonomic office chair. The armrest pad glides upward and pivots inward in one smooth mechanical motion. Small floating cyan HUD tick-marks and a slim vertical scale track beside it, rising as the armrest moves. Soft studio light, blurred office background. Photoreal, precise, cool tones, no readable text."
+      },
+      {
+        "id": 5,
+        "beat": "seat-height lift",
+        "duration_s": 6,
+        "mode": "text_to_video",
+        "prompt": "[Tilt up] Low-angle close-up of the gas-lift cylinder and polished aluminium five-star base of a black office chair. The seat rises smoothly on the cylinder as the camera tilts up to follow it. A faint cyan measurement bracket floats alongside the cylinder, extending as the seat lifts. Dark reflective floor, soft key light, photoreal, cool tones."
+      },
+      {
+        "id": 6,
+        "beat": "the human beat — long working session",
+        "duration_s": 10,
+        "mode": "text_to_video",
+        "prompt": "[Slow orbit] A designer sits working at a wide desk with a large monitor in a calm minimalist studio, late afternoon light. They are seated in a black ergonomic mesh chair, posture relaxed and upright, one hand on a mouse, shoulders loose. They lean back into the chair, the backrest yielding slightly, then return to the desk. The camera orbits slowly behind and around them. Natural, unstaged, photoreal, cool neutral grading, shallow depth of field.",
+        "note": "The as-run prompt lost this beat entirely. Give it its own 10s generation. Face is incidental and turned away -- keep it that way; do not use a likeness reference."
+      },
+      {
+        "id": 7,
+        "beat": "posture / support diagram",
+        "duration_s": 6,
+        "mode": "text_to_video",
+        "prompt": "[Static shot] Profile silhouette of a seated person in a black ergonomic chair, rendered as a clean semi-transparent cyan wireframe against a dark graphite background. A luminous line runs along the spine and glows softly where the lumbar support meets the lower back, pulsing gently outward twice. Abstract, clinical, elegant. No text, no anatomical gore, cool tones."
+      },
+      {
+        "id": 8,
+        "beat": "closing hero in a styled interior",
+        "duration_s": 10,
+        "mode": "text_to_video",
+        "prompt": "[Pull back] A black ergonomic mesh chair stands on a pale round rug in a warm minimalist interior at dusk, two soft mushroom floor lamps glowing on either side, a low sofa blurred behind. The camera pulls back slowly and settles into a symmetrical wide composition, the chair centred and still. Cinematic, calm, cool tones warmed only by the lamps, photoreal, shallow depth of field.",
+        "end_card": "Add \"Where Inspiration and Comfort Coexist\" in post over the last 2s. Do not ask the model for on-screen text -- it renders unreliably."
+      }
+    ],
+    "assembly": "Shots 1,2,4,6,8 make the 15s feed cut. Add 3,5,7 for the 26s long version. Grade to a single cool LUT so the eight generations match -- separate generations drift in white balance. Music: one sustained ambient bed, no beat-driven cuts."
+  },
+  "notes": [
+    "MiniMax Hailuo generates fixed-length clips (6s / 10s granularity) -- a shot list of single-intent prompts, assembled in edit, is the working pattern. Confirm exact duration and resolution parameters against the API docs when the key lands rather than trusting these numbers in code.",
+    "Bracketed camera directives ([Push in], [Static shot], [Truck left]) follow MiniMax's documented camera-movement convention. Verify the exact accepted vocabulary before wiring this into a pipeline -- if unsupported, the bracket text is harmless as plain description.",
+    "Generate 2-3 seeds per shot. Per-shot cost is low; a reshoot after assembly is not."
+  ]
+}

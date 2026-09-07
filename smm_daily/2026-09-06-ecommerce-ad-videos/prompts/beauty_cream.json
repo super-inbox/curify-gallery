@@ -1,0 +1,55 @@
+{
+  "product": "beauty_cream",
+  "category": "beauty / skincare",
+  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/beauty_cream.mp4",
+  "rendered_spec": {"duration_s": 10.0, "resolution": "720x1280", "orientation": "vertical"},
+  "clearance": "internal",
+  "clearance_note": "The rendered asset carries the POND'S wordmark (Unilever trademark) legibly on the jar. Internal decks only. The series below is the de-branded re-render that makes this publishable.",
+  "as_run": {
+    "_comment": "The 10-scene / 20s brief behind the rendered asset. Recorded verbatim for provenance -- do not edit. Note the delivered file is 10s, not 20s: the branded storyboard was compressed.",
+    "mode": "scene-list, single render",
+    "brand_in_prompt": "POND'S White Beauty  <-- the reason the output is unpublishable",
+    "scenes": [
+      {"id": 1,  "t": "0:00-0:02", "prompt": "Pond's White Beauty jar amidst pink smoke and swirling white silk. 3D high-end cosmetic ad."},
+      {"id": 2,  "t": "0:02-0:03", "prompt": "Close-up pan of Pond's White Beauty lid with logo. Soft reflective lighting."},
+      {"id": 3,  "t": "0:03-0:05", "prompt": "Pond's jar centered on a blooming lotus. Floating silk and petals, radiant top lighting."},
+      {"id": 4,  "t": "0:05-0:07", "prompt": "Floating cream jar in pink space. Glowing light trails, bokeh, and bubbles."},
+      {"id": 5,  "t": "0:07-0:09", "prompt": "Cream jar on a glass podium. Swirling pink silk, falling diamonds, elegant pink background."},
+      {"id": 6,  "t": "0:09-0:11", "prompt": "Macro shot of swirling light pink cosmetic cream. Smooth and glossy texture."},
+      {"id": 7,  "t": "0:11-0:13", "prompt": "Young Asian woman smiling, applying cream to her cheek. Natural light, modern bathroom setting."},
+      {"id": 8,  "t": "0:13-0:15", "prompt": "Glowing jar resting in a pink lotus. Surrounded by floating petals, magic dust, and radiant effects."},
+      {"id": 9,  "t": "0:15-0:17", "prompt": "Cream jar on a clear glass podium. Backlit by strong, radiant sunbeams, pink background."},
+      {"id": 10, "t": "0:17-0:20", "prompt": "Packshot of Pond's jar on a reflective pink surface. Overlay text: 'POND'S White Beauty', 'Daily Skincare with SPF 15 PA++', 'Glow with Confidence'."}
+    ]
+  },
+  "series": {
+    "engine": "MiniMax Hailuo (H3)",
+    "target": "10 shots -> 20s vertical cut (the original brief's full length, which the single render did not reach)",
+    "branding": {
+      "placeholder": "«BRAND»",
+      "rule": "Every shot below says «BRAND» where the original said POND'S. Substitute the client's own mark, or a clearly fictional house name, before generating. Never a live third-party trademark -- that is the one change that moves this asset from internal-only to publishable.",
+      "safer_default": "Ask for an UNMARKED jar (no wordmark rendered at all) and composite the label in post. Generated wordmarks come out malformed at this scale anyway, so this is both the cleaner legal answer and the better-looking one."
+    },
+    "shared_style": "3D high-end cosmetic commercial. Soft rose-pink palette, pearlescent highlights, volumetric light. Glossy frosted-glass jar with a rose-gold rim. Immaculate studio render, no dust, no fingerprints. Photoreal CGI, shallow depth of field, slow floating camera.",
+    "negative": "no readable text, no logos, no third-party brand marks, no watermarks, no distorted hands or fingers, no extra jars, no melted or warped jar geometry, no harsh shadows",
+    "duration_note": "The brief wants 2s beats but Hailuo's floor is 6s. Generate each shot at 6s and cut the best 2s in edit -- you get three times the usable material per generation and a choice of where the motion peaks. Shot 7 gets 10s because human motion needs the room.",
+    "shots": [
+      {"id": 1,  "beat": "opening reveal",     "duration_s": 6,  "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Push in] A frosted rose-pink «BRAND» cosmetic cream jar with a rose-gold rim stands in soft billowing pink smoke, while lengths of white silk swirl slowly around it. The camera pushes in gently. Volumetric backlight through the smoke, pearlescent highlights on the glass. Photoreal 3D high-end cosmetic commercial, dreamy, slow motion."},
+      {"id": 2,  "beat": "lid detail",          "duration_s": 6,  "cut_to_s": 1, "mode": "text_to_video", "prompt": "[Pan right] Extreme close-up gliding across the polished lid of a rose-pink cosmetic jar, a soft specular highlight travelling over the smooth rose-gold surface and an embossed floral emblem catching the light. Shallow depth of field, soft reflective studio lighting, photoreal 3D macro, no text.", "note": "Embossed emblem, not a wordmark -- generated lettering breaks at macro scale."},
+      {"id": 3,  "beat": "lotus pedestal",      "duration_s": 6,  "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Tilt up] A rose-pink cream jar rests at the centre of a blooming pink lotus flower, petals slowly opening around it. Sheer silk ribbons and loose petals drift through the air. Radiant top light pours down onto the jar. Soft pink gradient background, photoreal 3D cosmetic commercial, serene, slow motion."},
+      {"id": 4,  "beat": "weightless float",    "duration_s": 6,  "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Orbit] A rose-pink cream jar floats weightless in a soft pink void, rotating slowly. Luminous light trails arc around it, iridescent bubbles and warm bokeh drift past the lens. Dreamlike, ethereal, photoreal 3D render, shallow depth of field."},
+      {"id": 5,  "beat": "podium + diamonds",   "duration_s": 6,  "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Static shot] A rose-pink cream jar sits on a clear glass podium. Pink silk swirls behind it and small faceted diamonds fall slowly through frame, catching light as they pass and settling around the base. Elegant pink studio background, glamorous key light, photoreal 3D cosmetic commercial, slow motion."},
+      {"id": 6,  "beat": "texture macro",       "duration_s": 6,  "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Push in] Extreme macro of pale pink cosmetic cream swirling slowly, folding into itself in smooth glossy ribbons with a satin sheen. Soft even light raking across the surface. Photoreal, luxurious, shallow depth of field, no jar, no hands."},
+      {"id": 7,  "beat": "the human proof",     "duration_s": 10, "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Static shot] A young woman with clear skin smiles softly and blends a small dot of pale pink cream into her cheek with two fingertips, a slow natural circular motion. Bright modern bathroom, soft diffused daylight from a window, neutral tones. Photoreal, warm, unstaged, shallow depth of field.", "note": "Longest generation and the highest failure rate -- hands and blending motion are where these break. Expect to run several seeds. Use no likeness reference: a synthetic face keeps this publishable."},
+      {"id": 8,  "beat": "glow in lotus",       "duration_s": 6,  "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Orbit] A rose-pink cream jar rests inside an open pink lotus, glowing softly from within. Petals and fine luminous dust float upward around it, drifting through warm radiant light. The camera orbits slowly. Magical, luxurious, photoreal 3D cosmetic commercial, slow motion."},
+      {"id": 9,  "beat": "sunburst backlight",  "duration_s": 6,  "cut_to_s": 2, "mode": "text_to_video", "prompt": "[Push in] A rose-pink cream jar on a clear glass podium, backlit by strong radiant sunbeams that burst around its silhouette and rake across the glass. Soft pink background, warm golden rim light on the jar's edge. Photoreal 3D cosmetic commercial, glowing, cinematic."},
+      {"id": 10, "beat": "packshot",            "duration_s": 6,  "cut_to_s": 3, "mode": "text_to_video", "prompt": "[Static shot] Final packshot: a rose-pink cream jar standing on a glossy reflective pink surface with a clean mirror reflection beneath it, soft pink gradient background. Almost still, the light drifting gently across the jar. Photoreal 3D cosmetic commercial, symmetrical composition, generous empty space above the jar for text.", "end_card": "Compose the three text lines in post over this shot. Do not ask the model to render them -- generated type is unreliable and the original brief's overlay text is exactly where the trademark re-enters. Keep the headline generic unless the client owns the mark, and drop any SPF or efficacy claim you cannot substantiate: that is a regulated advertising claim in most markets, not a copy choice."}
+    ],
+    "assembly": "Order 1-10 as listed; the brief's arc already works. Grade all ten to one pink LUT -- separate generations drift badly in a monochrome palette like this and the mismatch is very visible. Cut on the motion peak of each 6s clip, not the first frame."
+  },
+  "notes": [
+    "Confirm Hailuo's exact duration / resolution parameters against the API docs when the key lands rather than hard-coding these values.",
+    "Bracketed camera directives follow MiniMax's documented camera-movement convention -- verify the accepted vocabulary before wiring into a pipeline; if unsupported they degrade harmlessly to description.",
+    "Shots 2, 7 and 10 carry the risk: macro lettering, human hands, and the text-bearing packshot. Budget extra seeds there and keep text in post throughout."
+  ]
+}
