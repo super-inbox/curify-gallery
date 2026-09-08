@@ -2,10 +2,17 @@
 
 Two files so far, one per product that has a recorded prompt:
 
-| File | Product | As-run | H3 series | Asset clearance |
+| File | Product(s) | As-run | New prompts | Asset clearance |
 |---|---|---|---|---|
 | `rotation_chair.json` | ergonomic office chair | 1 free-form prompt | 8 shots → ~26s | ✅ ship |
 | `beauty_cream.json` | skincare jar | 10-scene brief | 10 shots → 20s | ⛔ internal (branded) |
+| `ecommerce_workflow_products.md` | blender · sneakers · perfume · candle | — (new products) | 2 paragraphs + 20 scenes | ✅ all unbranded |
+
+The two `.json` files cover products that **already had** a prompt, decomposed into
+per-shot H3 series. The `.md` file covers **four new products picked from
+`ecommerce_workflow`**, written in the source briefs' own two formats (paragraph for
+hard goods, timecoded scene list for hero products) rather than decomposed — that folder's
+29 videos are stills with caption bars, so these are the first motion prompts for it.
 
 ## Shape
 
