@@ -1,7 +1,7 @@
 # FB Groups · Child photography — 6 posts (2026-09-01)
 
 Third pass in the buyer-side pilot, after
-`2026-09-01-fb-retouching-ecommerce/`. Source material is **client-008**
+`2026-09-01-fb-retouching/` + `2026-09-01-fb-ecommerce/`. Source material is **client-008**
 (场景增强 — locked-subject background enrichment for a children's portrait studio),
 recorded at
 `agentic-adhoc-inbox/real-projects/projects/2026-08-31-client-008-context-enrichment.json`.
@@ -55,6 +55,15 @@ Other assets checked and rejected: `template-child-hobby-skill-*` (illustrated
 cartoon children, clean and Curify-branded, but parenting content — off-message in
 a photography-technique series); `costume_tryon/*` (adult identity-lock, but the
 subjects are footballers — real-person likeness, banned by `services_xianyu.md` §五).
+
+**Added 2026-09-10 — there is now a second asset that makes this argument, on a
+person.** `../2026-09-01-fb-retouching/07-locked-subject-three-backdrops.jpg` is one
+frame moved to three backdrops with the subject held: same face, same knit, same
+pose. The subject is **synthetic and an adult**, so it clears both constraints above
+— no likeness question, and no child-shaped image in front of a group of parents.
+It is the same claim as post 1's bottle, made on the body plan that actually matters
+to this audience, and it lands harder. The bottle post keeps its slot; treat 07 as a
+second post into `857871658366623` once we're a member, not a replacement.
 
 ---
 

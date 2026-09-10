@@ -1,4 +1,4 @@
-# FB Groups · Retouching series — 6 posts + 2 supply-side recuts (2026-09-01)
+# FB Groups · Retouching series — 8 posts + 2 supply-side recuts (2026-09-01)
 
 Follow-up to `curify-studio/docs/reddit-demand-mining-buyer-side-2026-08-31.md` §H,
 which named Facebook seller groups as the ⭐ first channel to test but explicitly
@@ -62,6 +62,12 @@ remover") — those read as a free toy and land us in the contested SERP.
 5. **`template-fashion-before-after-outfit-annotation-card-*` is NOT retouching
    proof.** It is labelled BEFORE/AFTER but the "after" only adds callout labels —
    no retouch happened. Excluded from the series.
+6. **"Our own output" has to mean our own pipeline.** `08-wedding-portrait-retouch.jpg`
+   was made in a third-party chat model, not on our stack — the source PNG carries
+   `kMDItemWhereFroms: https://chatgpt.com/` and a Chrome quarantine record. Red line 1
+   still holds (no client, no real person, no brand), but the series' standing phrasing
+   — *"in our own runs"*, *"we tried that"* — does not extend to it, and it cannot be
+   captioned as something our pipeline produced. See the gate on post 8.
 
 ---
 
@@ -243,6 +249,79 @@ The test for any brief, whether you're sending it to a retoucher or to a model: 
 
 ---
 
+# Post 7 — the giveaway is the floor, not the cut-out
+
+**Image:** `07-locked-subject-three-backdrops.jpg`
+*(from `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` — our own
+generated frame, moved to three backdrops. 894×1842; the same 1:2-ish strip shape as
+post 1, which already runs in-feed.)*
+
+## FB post copy
+
+🖼️ When a background replacement looks wrong, everyone blames the cut-out. It's almost never the cut-out.
+
+Matting handles hair now. What gives a composite away is that the subject and the new backdrop were lit by two different lights — and the place it shows up first is the floor at the subject's feet.
+
+Four checks, in this order:
+
+1️⃣ **Ground contact.** A standing subject throws a small, dark, hard-edged shadow directly under the shoe, and a softer one falling away from the light. Composites usually get the soft one and skip the contact shadow. The person then reads as hovering a centimetre off the floor — nobody can name it, everybody feels it.
+
+2️⃣ **Light direction.** Find the shadow side of the face. Then find where the light in the new plate comes from. Window camera-left, face lit camera-right, and there is no grade that saves it.
+
+3️⃣ **Colour spill.** A grey sweep throws grey into a cream knit. Drop that subject onto a warm daylight interior and the sweater stays slightly cold while everything around it is warm. Neutralise the spill *on the subject* — warming the plate just widens the gap.
+
+4️⃣ **Camera height.** The plate has a horizon and the subject was shot at some height. Plate at hip height, subject at chest height, and the floor plane meets the shoes at an angle that can't happen.
+
+The image is one frame on three backdrops — white sweep, grey plaster, daylight interior. Same face, same sweater ribbing, same trouser crease, same pose.
+
+And the part that actually matters, because it's where this goes wrong: that is **one photograph fed back in three times with only the backdrop changed.** It is not three generations of "woman in a cream sweater." Three generations give you three different women — different jaw, different knit, different fit — and a before/after built that way isn't a before/after. It's two pictures of two people.
+
+Same subject or it doesn't count. (The base frame here is our own generated model, by the way, not a client's file — we don't post client sessions.) 👇
+
+**First comment:** `Send me a full-length frame from your last session and I'll run three backdrops on it, so you can check the four things above yourself. I'll show you the ones that fail too — the floor is where they fail.`
+
+---
+
+# Post 8 — wedding & portrait, at set scale
+
+> ⚠️ **GATE — do not post until re-rendered on our own stack.**
+> The asset is a third-party-model card (red line 6). The copy below is written and
+> ready, and its claims are all method claims we can stand behind — but the series'
+> credibility rests on *every image here being our own output*, and this one isn't yet.
+> Re-run the three pairs through our own pipeline, swap the file, then post.
+> Two further conditions once it does run:
+> · **Never crop the footer.** *"AI-generated retouching concepts"* is the line that
+>   keeps this inside red line 2. Cropping it turns a concept card into a delivered-work
+>   claim.
+> · It is the closest thing in this series to the Image Solutions India service-ad
+>   format we said we can't honestly run. It goes to a group **after** a teardown from
+>   this series has already stood there — never as the opening post, and never into B1.
+
+**Image:** `08-wedding-portrait-retouch.jpg`
+*(1122×1402 — 4:5, the one asset in the series already cut to feed ratio. From
+`client_VC_portfolio/scene-enhancement-demo-09-07/wedding-retouch.png`.)*
+
+## FB post copy
+
+💍 The hard part of a wedding edit isn't any single frame. It's that four hundred frames have to look like one afternoon.
+
+The couple walked the cliff at five, under flat grey cloud. The ceremony ran long. The light you showed them in the sample gallery never arrived — so now every frame gets warmed by hand, and warmed by the *same* amount, or the gallery reads as three different days.
+
+That's the job, and it's most of why a wedding edit costs what it costs:
+
+· **Relight, consistently.** Not one hero frame graded beautifully. Every frame carrying the same sun position, the same warmth, the same falloff.
+· **Skin that stays skin.** Even the tone, drop the redness, keep the pores. A bride rendered as porcelain is the complaint that arrives a week later, when she's looked at it forty times.
+· **Cleanup the couple never saw.** The three strangers on the sand. The bin, the cable, the car in the treeline.
+· **The dress.** A veil and a chiffon train are semi-transparent against a bright sky — precisely where automatic tools eat the edge and hand it back as a hard line.
+
+What's above are **concepts, not a client gallery.** We don't publish client sessions, so that's our own material run against the same brief: left is the flat frame, right is a relight plus a skin pass plus a background cleanup, with the pose, the face and the fabric left alone.
+
+If you shoot volume — a studio, batch work, second shooters handing you two thousand frames a weekend — the consistency question is the one worth asking about before anything else. Ask it of any tool, including ours. 👇
+
+**First comment:** `Happy to run a few of your own frames so you can put them beside your own hand edit. Drop one below or DM.`
+
+---
+
 # Supply-side recut
 
 For `524557767708832` (29.0K, "EARN MORE BY DOING PHOTO RETOUCHING JOB"),
@@ -311,6 +390,8 @@ Supply groups: **S1** `524557767708832` (29.0K) · **S2** `452139992386987` (13.
 | 4 · ratio check | B1, B2 | week 2 |
 | 5 · wrong listing | B1, B4, B2 | week 3 — strongest for non-apparel sellers |
 | 6 · retouching notes | S3, B1 | week 3 |
+| 7 · locked subject | B2, B3 | week 4 |
+| 8 · wedding & portrait | ⛔ **held** — see gate | — |
 | Recut A | S1, S2, S3 | week 1 |
 | Recut B | S1, S2 | week 3 |
 
@@ -362,3 +443,34 @@ published. Palette is the company-deck palette (`#FAF8F2` ground, `#C0521E` acce
 Images are taken from `curify-frontend/public/images/nano_insp/`, which holds the
 **clean** copies. The `curify-gallery/` and `company-intro/deck/assets/` copies of
 the same shots are tile-watermarked and read heavy at feed size.
+
+## Posts 7–8, added 2026-09-10
+
+Both are copies of portfolio assets, not new builds. The originals stay where the
+outreach batches point at them — `curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json`
+attaches by absolute path, so **do not move or rename the
+`client_VC_portfolio/*-demo-*` folders.**
+
+| Here | Original | Made by | Status |
+|---|---|---|---|
+| `07-locked-subject-three-backdrops.jpg` | `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` | our own prompt, `gen_scene_demo.py` (prompt inline) | ✅ runnable |
+| `08-wedding-portrait-retouch.jpg` | `.../scene-enhancement-demo-09-07/wedding-retouch.png`, re-encoded to JPEG q92 | third-party chat model — see red line 6 | ⛔ held |
+
+`07` carries its own PROVENANCE record in the source folder: `00-base.png` is
+synthetic, so **no real person is in the frame**, and the three backdrops were made
+by feeding that one frame back in — which is the whole claim the post makes. That
+record is worth reading before answering any question in the comments about it.
+
+`08` has no such record and no generation script on disk; its provenance is what the
+xattr says and what its own footer admits. That asymmetry is the gate.
+
+## Post 7 is also the asset the child-photography series wanted
+
+`2026-09-01-fb-child-photography/` had to argue *subject drift under regeneration vs
+subject preserved under compositing* on a serum bottle, because it could not put a
+child in the frame and would not synthesise one. Post 7 makes the identical argument
+on an adult — a synthetic adult, so no likeness question, and no child-shaped image
+in front of a group of parents. It is a legitimate candidate for
+`857871658366623` **Babies and Kids Photoshoot** once we are a member there, and it
+lands harder than the bottle does. The bottle post keeps its place; this is a second
+shot on goal, not a replacement.

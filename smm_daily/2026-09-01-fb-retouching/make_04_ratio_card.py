@@ -108,5 +108,5 @@ d.text((M+30, by+52),
        font=f_small, fill=(196,192,184))
 d.text((M, H-42), "curify-ai.com  ·  /blog/ghost-mannequin-ai-guide", font=f_small, fill=MUTE)
 
-out="/Users/qqwjq/curify-gallery/smm_daily/2026-09-01-fb-retouching-ecommerce/04-two-ratio-check.jpg"
+out="/Users/qqwjq/curify-gallery/smm_daily/2026-09-01-fb-retouching/04-two-ratio-check.jpg"
 im.save(out, quality=94); print("saved", im.size)
