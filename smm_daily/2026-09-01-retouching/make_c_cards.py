@@ -97,7 +97,7 @@ d.text((78, y + 142), "we have not run this brief.", font=f_small, fill=MUTE)
 
 footer(d, "ASK YOUR EDITOR WHICH ONE THEY RUN.",
        "It is a fair question, and the answer changes what you are buying.")
-im.save(OUT + "b2-two-pipelines.jpg", quality=94)
+im.save(OUT + "c2-two-pipelines.jpg", quality=94)
 
 
 # ---------------------------------------------------------------- card 03
@@ -130,7 +130,7 @@ for num, title, sub in items:
 
 footer(d, "COMPARE AGAINST THE ORIGINAL FILE, NOT THE PREVIEW.",
        "A compressed preview hides exactly the detail you are checking for.")
-im.save(OUT + "b4-five-places-to-look.jpg", quality=94)
+im.save(OUT + "c4-five-places-to-look.jpg", quality=94)
 
 
 # ---------------------------------------------------------------- card 04
@@ -173,7 +173,7 @@ for title, lines in blocks:
 
 footer(d, "FIND THE GAP BEFORE YOU AGREE THE PRICE.",
        "Afterwards it is a change request you already sold at the old rate.")
-im.save(OUT + "b5-read-the-pictures-first.jpg", quality=94)
+im.save(OUT + "c5-read-the-pictures-first.jpg", quality=94)
 
 
 # ---------------------------------------------------------------- card 05
@@ -213,6 +213,6 @@ d.text((78, 962), "If an editor's portfolio is full of other people's children,"
        font=f_small, fill=(178, 174, 166))
 d.text((78, 992), "ask them who signed off on that.", font=f_small, fill=(178, 174, 166))
 d.text((78, H - 42), "curify-ai.com", font=f_small, fill=(122, 118, 108))
-im.save(OUT + "b6-we-do-not-publish-children.jpg", quality=94)
+im.save(OUT + "c6-we-do-not-publish-children.jpg", quality=94)
 
 print("done")

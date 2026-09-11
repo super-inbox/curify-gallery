@@ -140,9 +140,11 @@ re-read the demand rather than posting more.
 One group at a time, **~3 days apart**. Never the same asset into two groups on the
 same day — FB collapses it as duplicate distribution.
 
-**B1 last, always.** `105108073643190` carries an explicit anti-spam ban rule, and a
-video post reads more promotional than a teardown does. Let the retouching teardown
-(`../2026-09-01-retouching/posts_fb.md` A1) establish standing there first.
+**B1 last, always** — for videos and for W1/W2. `105108073643190` carries an explicit
+anti-spam ban rule, and a video post reads more promotional than a teardown does. The
+one thing that goes into B1 first is **A1**, the neck-joint teardown in `posts_fb.md`:
+it is the cheapest, least promotional thing in the folder, and it is the test of whether
+this register survives there at all. Nothing else runs in B1 until A1 has stood a week.
 
 **Category match is not optional.** Do not send the coffee maker to an apparel group,
 and do not send the serum bottle to B3 — that is the same mismatch the video table in

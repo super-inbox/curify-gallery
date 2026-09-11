@@ -1,86 +1,59 @@
-# FB Groups · Retouching — 14 posts + 2 supply-side recuts (2026-09-01)
+# FB Groups · Retouching — 9 posts in four voices (2026-09-01)
 
-_Consolidated 2026-09-11 from `2026-09-01-fb-retouching/` and
-`2026-09-01-fb-child-photography/`. They shared a register, a red-line list, a logging
-sink, a stop rule — and, it turned out, two images held under different names._
+_The buyer here is a **photographer or a studio**: someone who shoots people and needs
+post. Apparel and listing work moved to
+[`../2026-09-01-ecommerce/posts_fb.md`](../2026-09-01-ecommerce/posts_fb.md) on
+2026-09-11 — a clothing brand that needs listing images is an e-commerce buyer, not a
+retouching buyer, and the two pitches insult each other if crossed._
 
-Two series, one channel:
+**The register is the same in all four voices** — value teardown, soft CTA, one native
+image, CTA in the first comment. **What changes is who is on the other side of it,** and
+that changes more than the vocabulary: a wedding shooter's problem is 400 frames matching
+each other, a headshot studio's is a brief that says "glow-up", a children's studio's is
+that nobody may see the subject at all. A post written for one of them lands flat in the
+other's group — that is why this file is cut by voice rather than by post number.
 
-| | Buyer | Posts | Source material |
-|---|---|---|---|
-| **Series A** — apparel & e-commerce retouching | sellers, brands, and (recut) retouchers | A1–A8 + recuts | our own pipeline output, `/blog/ghost-mannequin-ai-guide` |
-| **Series B** — child photography | parents, small studios | B1–B6 | client-008 (场景增强), no image of theirs used |
+| Voice | Buyer | Their actual problem | Posts | Groups |
+|---|---|---|---|---|
+| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held | none joined yet |
+| 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 | B2, S3 |
+| 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 | the three child groups |
+| 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
 
-The 小红书 cut of the same material is **`posts_rednote.md`** in this folder. It is kept
-separate rather than merged because the constraint that governs it is not a Facebook
-constraint — it is an **account-positioning conflict** that has to be resolved before
-anything ships there at all. Same red lines, different channel problem.
+**S is the cross-genre voice.** It is the only one that can go into any of the others'
+groups without rewriting, because *did the subject survive the edit* is the same question
+at a wedding, in a headshot and on a four-year-old.
 
-**Image manifest** — 16 files, `a*` Series A, `b*` Series B, `shared-*` both, `rn*` 小红书:
+**Image manifest** — 9 files:
 
 | File | Used by |
 |---|---|
-| `a1-neck-joint-cycling-jersey.jpg` | A1, Recut A |
-| `a2-inner-layer-bleed.jpg` | A2 |
-| `a3-silhouette-drift.jpg` | A3 |
-| `a4-two-ratio-check.jpg` | A4, Recut B |
-| `a5-wrong-vs-right-listing.jpg` | A5 |
-| `a8-wedding-portrait-retouch.jpg` | A8 ⛔ held — see red line 6 |
-| `shared-retouching-blueprint.jpg` | **A6 + B3** |
-| `shared-locked-subject-backdrops.jpg` | **A7 + B bonus slot** |
-| `b1-look-at-what-moved.jpg` | B1 |
-| `b2-two-pipelines.jpg` | B2 |
-| `b4-five-places-to-look.jpg` | B4 |
-| `b5-read-the-pictures-first.jpg` | B5 |
-| `b6-we-do-not-publish-children.jpg` | B6 |
-| `rn1-批量一致性.jpg` · `rn2-模特图翻车点.jpg` · `rn3-场景增强.jpg` | 小红书 1–3 |
+| `w1-wedding-portrait-retouch.jpg` | W1 ⛔ held — red line 6 |
+| `shared-retouching-blueprint.jpg` | **P1 + C3** |
+| `shared-locked-subject-backdrops.jpg` | **S1**, cross-posted to the child groups |
+| `c1-look-at-what-moved.jpg` · `c2-two-pipelines.jpg` · `c4-five-places-to-look.jpg` · `c5-read-the-pictures-first.jpg` · `c6-we-do-not-publish-children.jpg` | C1, C2, C4, C5, C6 |
 
-⚠️ There is no `a6`, `a7` or `b3` file. Those three slots run the two `shared-*` images,
-which is the whole point of the consolidation — **do not "fix" the gap by re-copying.**
+⚠️ There is no `p1` or `c3` file — both run `shared-retouching-blueprint.jpg`. Do not
+"fix" the gap by re-copying; that duplicate is what this folder was consolidated to remove.
 
----
+**House constraints, every voice:** single image, never a carousel — proven dead on
+FB·Curify. No external link in the post body; FB throttles link-outs, so the CTA goes in
+the **first comment**. Upload natively.
 
-Follow-up to `curify-studio/docs/reddit-demand-mining-buyer-side-2026-08-31.md` §H,
-which named Facebook seller groups as the ⭐ first channel to test but explicitly
-flagged §H as **untested procedure** — no group joined, no contact made. These are
-the assets that make it runnable.
-
-**Account Positioning.** These go into **Groups**, never the FB·Curify Page feed.
-The Page identity is East-Asian language & culture edutainment (EN); a retouching
-teardown in the Page feed is Position Drift. Group posts do not carry that risk.
-Drift check: ✅ (group-scoped, off-Page).
+**Account positioning.** These go into **Groups**, never the FB·Curify Page feed. The Page
+identity is East-Asian language & culture edutainment; a retouching teardown in the Page
+feed is Position Drift. Drift check: ✅ group-scoped, off-Page.
 
 **Engine:** relationship / demand-mining. KPI is *replies*, not reach.
-
-**Register:** value teardown, soft CTA. Chosen because `105108073643190` carries an
-explicit ban rule — *"Let's not spam this group as you will be banned from the
-group then."* — and because the native competing format (Image Solutions India's
-service ads: before/after + bullet list + hashtag wall) is one we cannot honestly
-run yet (see Red lines).
-
-**House constraints carried over** (`2026-07-22-summer-festivals-sinosphere/caption_fb.md`,
-`2026-08-13-layer-separation/captions_layer_separation.md`):
-- **Single image. Never a carousel** — proven dead on FB·Curify.
-- **No external link in the post body** — FB throttles link-outs. CTA goes in the
-  **first comment**.
-- Upload the image natively.
 
 ---
 
 ## Sourcing — every claim below traces to something already public
 
-All substance is lifted from **`/blog/ghost-mannequin-ai-guide`** (shipped
-2026-09-01; `curify-frontend/messages/en/blog.json` → `blog.ghostMannequinAiGuide`)
-and **`/blog/50-ai-makeover-prompts`** (`blog.fiftyAiMakeoverPrompts`). Both are
-our own writing, already published under our own name. Nothing here is a claim we
-have not already made in public.
-
-SEO rationale for pointing at that blog rather than a tool page: `ghost mannequin ai`
-is **KD 1 / 110 vol / CPC $4.11** and `ai ghost mannequin` is **KD 0** — undefended
-trade vocabulary — versus `ai clothes changer` at **KD 52 / 9,900 vol / CPC $0.95**.
-Write in trade words (ghost mannequin, on-model, flat lay, placket, silhouette,
-neck joint). Never consumer-tool words ("AI clothes changer", "AI background
-remover") — those read as a free toy and land us in the contested SERP.
+All substance is lifted from **`/blog/preserve-facial-features-ai-generation`** and
+**`/blog/50-ai-makeover-prompts`** (`blog.fiftyAiMakeoverPrompts`), plus the client-008
+record. Both blogs are our own writing, already published under our own name. Nothing
+here is a claim we have not already made in public.
 
 ---
 
@@ -107,163 +80,82 @@ remover") — those read as a free toy and land us in the contested SERP.
    `kMDItemWhereFroms: https://chatgpt.com/` and a Chrome quarantine record. Red line 1
    still holds (no client, no real person, no brand), but the series' standing phrasing
    — *"in our own runs"*, *"we tried that"* — does not extend to it, and it cannot be
-   captioned as something our pipeline produced. See the gate on A8.
-
-(Series B adds one more, argued in full below: **no child in any frame,** including a generated one.)
+   captioned as something our pipeline produced. See the gate on W1.
 
 ---
 
-# Series A — apparel & e-commerce retouching
+# 💍 Voice W — Wedding & destination
 
-## A1 — the neck joint
+**Who:** someone shooting a wedding or a destination session, delivering hundreds of
+frames from one day.
 
-**Image:** `a1-neck-joint-cycling-jersey.jpg`
-*(from `nano_insp/template-fashion-ecommerce-cycling-jersey-aerodynamic.jpg` — the
-blog's own hero image, already published on curify-ai.com)*
+**What they actually buy:** not a beautiful hero frame — *sameness*. The complaint that
+arrives a week later is never "frame 212 is bad", it is "the gallery looks like three
+different days". Sell consistency, never retouch quality.
+
+⚠️ **Never claim to replace a wedding film or a second shooter.** This audience already
+buys both, and a pitch that sounds like it is coming for either gets read as a competitor
+rather than a supplier.
+
+**Groups to join** — none joined yet, so this voice cannot run at all:
+`Destination wedding photographers`, `Bali wedding photographers`, `Phuket photographers`,
+`Wedding photographers [region]`.
+
+## W1 — four hundred frames have to look like one afternoon
+
+> ⚠️ **GATE — do not post until re-rendered on our own stack.**
+> The asset is a third-party-model card (red line 6). The copy below is written and
+> ready, and its claims are all method claims we can stand behind — but the series'
+> credibility rests on *every image here being our own output*, and this one isn't yet.
+> Re-run the three pairs through our own pipeline, swap the file, then post.
+> Two further conditions once it does run:
+> · **Never crop the footer.** *"AI-generated retouching concepts"* is the line that
+>   keeps this inside red line 2. Cropping it turns a concept card into a delivered-work
+>   claim.
+> · It is the closest thing in this series to the Image Solutions India service-ad
+>   format we said we can't honestly run. It goes to a group **after** a teardown from
+>   this series has already stood there — never as the opening post, and never into B1.
+
+**Image:** `w1-wedding-portrait-retouch.jpg`
+*(1122×1402 — 4:5, the one asset in the series already cut to feed ratio. From
+`client_VC_portfolio/scene-enhancement-demo-09-07/wedding-retouch.png`.)*
 
 ### FB post copy
 
-🧵 A bad ghost mannequin gives itself away in one square inch of the frame — and it isn't the one people look at.
+💍 The hard part of a wedding edit isn't any single frame. It's that four hundred frames have to look like one afternoon.
 
-It's the inside of the back collar.
+The couple walked the cliff at five, under flat grey cloud. The ceremony ran long. The light you showed them in the sample gallery never arrived — so now every frame gets warmed by hand, and warmed by the *same* amount, or the gallery reads as three different days.
 
-Here's why. The traditional technique is two photographs: the garment on a form, and the garment turned so the **inside of the back collar** is visible. An editor cuts one into the other. That patch is the entire craft — everything else is background removal.
+That's the job, and it's most of why a wedding edit costs what it costs:
 
-AI collapses both frames into one. You upload a single photo, and the model is asked to *invent* an interior that was never photographed.
+· **Relight, consistently.** Not one hero frame graded beautifully. Every frame carrying the same sun position, the same warmth, the same falloff.
+· **Skin that stays skin.** Even the tone, drop the redness, keep the pores. A bride rendered as porcelain is the complaint that arrives a week later, when she's looked at it forty times.
+· **Cleanup the couple never saw.** The three strangers on the sand. The bin, the cable, the car in the treeline.
+· **The dress.** A veil and a chiffon train are semi-transparent against a bright sky — precisely where automatic tools eat the edge and hand it back as a hard line.
 
-So when a result looks wrong but you can't say why, check three things, in this order:
+What's above are **concepts, not a client gallery.** We don't publish client sessions, so that's our own material run against the same brief: left is the flat frame, right is a relight plus a skin pass plus a background cleanup, with the pose, the face and the fabric left alone.
 
-1️⃣ **The inside-back collar.** Is the colour right? Is there a facing, a contrast binding, a label that should be there — or one that shouldn't? This is where invention concentrates.
+If you shoot volume — a studio, batch work, second shooters handing you two thousand frames a weekend — the consistency question is the one worth asking about before anything else. Ask it of any tool, including ours. 👇
 
-2️⃣ **The shoulder line.** A real garment on a form has a shoulder seam that sits slightly proud. Generated ones round it off, and that's what makes an output read as inflated rather than worn.
-
-3️⃣ **The opening's depth.** A convincing neck opening shows *some* interior — a shadow, a hint of the back panel. Too flat and it reads as a sticker; too deep and the garment looks like it has a hole in it.
-
-The classic method composites something real. The AI method generates something plausible. Almost every failure follows from that one sentence.
-
-None of this needs a trained eye. It needs knowing which square inch to look at first — which is the part nobody tells you. 👇
-
-**First comment:** `We wrote the whole checklist up here → curify-ai.com/blog/ghost-mannequin-ai-guide`
+**First comment:** `Happy to run a few of your own frames so you can put them beside your own hand edit. Drop one below or DM.`
 
 ---
 
-## A2 — inner-layer bleed
+# 🎧 Voice P — Portrait, headshot & commercial
 
-**Image:** `a2-inner-layer-bleed.jpg`
-*(from `curify-frontend/raw/product-listing-fix-07-18/apparel_after.jpg` — our own
-output; a clean single-layer source photo beside the listing built from it)*
+**Who:** a portrait, headshot or commercial studio with a steady book and a post queue
+behind it.
 
-### FB post copy
+**What they actually buy:** a brief that executes without a conversation. This audience has
+been burned by "glow-up" and has usually started writing its own region-by-region notes
+already — so the post is recognition, not instruction.
 
-👕 If your AI ghost mannequin keeps showing the model's undershirt, the prompt isn't the problem. The source photo is.
+**Groups:** **B2** `765595303494969` Product Photographer USA (1.3K) · **S3**
+`729600757556835` (4.0K — supply-leaning, but the smallest and most conversational of the
+three retoucher groups). Also `Portrait photographers`, `Headshot photographers`,
+`Commercial photographers` — not joined.
 
-It's called **inner-layer bleed**, and in our own runs it is the single most common reason a take gets discarded outright.
-
-What happens: the source photo is on a model wearing a camisole or a tee under the product. That layer survives into the output. The placket reads open, the product looks like it's being worn over underwear, and the shot isn't "close" — it's unusable.
-
-The instinct is to add a line to the prompt. *Do not render the inner garment.* We tried that. Prompt instructions alone are unreliable here.
-
-The fix is upstream, in the input:
-
-✅ Pick source photos where the wearer's own top is a single layer — nothing underneath to carry over
-✅ Better, shoot on a dress form. The garment is already holding a correct shape, so less has to be generated at all
-✅ If the product is worn closed, say so explicitly — every button fastened, placket visible, and state that the reference's inner garment does not carry over
-
-You can't prompt your way out of a bad input. That turns out to be true of most of this work. 👇
-
-**First comment:** `Send me a garment photo and I'll run it — happy to show you what comes back, good or bad. Full failure list here → curify-ai.com/blog/ghost-mannequin-ai-guide`
-
----
-
-## A3 — silhouette drift & detail flattening
-
-**Image:** `a3-silhouette-drift.jpg`
-*(crop of the same cycling-jersey template — one garment rendered twice; the two
-silhouettes visibly differ through the torso)*
-
-### FB post copy
-
-📏 Silhouette drift is the expensive one.
-
-A boxy garment quietly comes back fitted. Nobody flags it, because the image looks good. The model just carries a prior about how clothes sit on bodies, and applies it.
-
-It changes the fit the buyer is judging. That shows up later as returns.
-
-Its cheaper cousin is **detail flattening**:
-
-· Button counts change
-· A pointed hem tab becomes a straight hem
-· Pocket seams vanish
-
-Countable details are where generation is least reliable — and, usefully, where checking is easiest. So count the buttons.
-
-One thing worth knowing before anyone builds a checker for this. In one of our own runs, three takes in a row flattened a hem into a plain ribbed band. All three were *correct*. Our spec said "notched V-split." The garment actually had a wide ribbed band angling into two pointed centre-front tabs, the right overlapping the left, fastened by two more buttons — nine in total, not seven.
-
-We fixed it by re-reading the garment photograph. Detail compliance went 0/3 to 3/3, with no checker involved.
-
-A gate on a generator that fails half the time just automates rejection. Read the product hard enough to describe it, before you decide you need something to catch what you failed to describe. 👇
-
-**First comment:** `The other two failure modes, and how to check them → curify-ai.com/blog/ghost-mannequin-ai-guide`
-
----
-
-## A4 — the two-ratio check
-
-**Image:** `a4-two-ratio-check.jpg`
-*(built for this series — see `Build note` at the bottom)*
-
-### FB post copy
-
-📐 Two ratios catch a bad ghost mannequin result in under a minute. Neither one is a pixel comparison.
-
-**Length** — (hem_y − shoulder_y) ÷ (hip_y − shoulder_y)
-**Width at bust** — garment_width_at_bust ÷ body_width_at_bust
-
-Both measured against pose landmarks, never against absolute pixels. Ratios survive crop and camera distance. Pixel measurements don't.
-
-And then the rule that matters more than either formula:
-
-⛔ **Do not measure the output against your source photo.**
-
-If your source is a garment on a dress form and your output is a garment holding a human shape, the two share no landmark, no scale and no pose. Any proportion you compute between them is measuring the dress form, not the error.
-
-Compare against your size chart in centimetres. Or against nothing at all — that is more honest than a number that means nothing.
-
-For discrete details, don't measure. **Count.** Buttons, buckles, visible seams, hem structure. It's the check most people skip because it feels too simple to be worth doing. 👇
-
-**First comment:** `Full method → curify-ai.com/blog/ghost-mannequin-ai-guide`
-
----
-
-## A5 — the image was fine, the listing was wrong
-
-**Image:** `a5-wrong-vs-right-listing.jpg`
-*(crop of `curify-frontend/raw/product-listing-fix-07-18/hairdryer_before-after.jpg`
-— our own documented failure beside our own fix)*
-
-### FB post copy
-
-🚨 The image was fine. The listing was wrong. Those are two different failures, and only one of them is visible.
-
-**Left**: a detail page we generated for a hair dryer. Read it. The headline says *Salon-grade fast drying.* The body copy says 100% Mulberry Silk. Soft & Breathable. Premium Craftsmanship. Lounge Ready. Effortless Elegance. There's a size chart with **bust, waist and hips.**
-
-For a hair dryer.
-
-Every individual image on that page is clean. The page is nonsense. What happened is that the template carried its category's attributes onto the wrong product, and nothing in an image review would ever catch it.
-
-**Right**: the same product rebuilt. High-velocity airflow. Ionic frizz control. 1600W, 580g, digital brushless motor, 2.7m cord, concentrator nozzle.
-
-The lesson we took from it: a listing isn't a set of images, it's a set of **claims** — and image QC doesn't touch claims. If you're building detail pages at SKU velocity, your checklist needs one line that has nothing to do with how anything looks:
-
-✅ *Does every attribute on this page actually belong to this product?*
-
-We're posting our own miss because this one costs money quietly. The page just converts badly, and nobody can say why. 👇
-
-**First comment:** `We built the fix into the flow here → curify-ai.com/tools/ecommerce-photo`
-
----
-
-## A6 — write the retouching notes out
+## P1 — "glow-up" is the word that ruins the result
 
 **Image:** `shared-retouching-blueprint.jpg`
 *(from `nano_insp/template-portrait-retouching-blueprint-en 1.jpg` — our own
@@ -293,214 +185,17 @@ The test for any brief, whether you're sending it to a retoucher or to a model: 
 
 ---
 
-## A7 — the giveaway is the floor, not the cut-out
+# 🧸 Voice C — Children & newborn
 
-**Image:** `shared-locked-subject-backdrops.jpg`
-*(from `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` — our own
-generated frame, moved to three backdrops. 894×1842; the same 1:2-ish strip shape as
-A1, which already runs in-feed.)*
+**Who:** children's and newborn studios, and the parents who sit in the same groups.
 
-### FB post copy
+**What they actually buy:** proof that the child survives the edit — and proof that we will
+not put their client's child on a feed. This voice carries a constraint none of the others
+do, argued in full immediately below because it shapes every post in it: **there is no
+child in any frame, including a generated one.**
 
-🖼️ When a background replacement looks wrong, everyone blames the cut-out. It's almost never the cut-out.
-
-Matting handles hair now. What gives a composite away is that the subject and the new backdrop were lit by two different lights — and the place it shows up first is the floor at the subject's feet.
-
-Four checks, in this order:
-
-1️⃣ **Ground contact.** A standing subject throws a small, dark, hard-edged shadow directly under the shoe, and a softer one falling away from the light. Composites usually get the soft one and skip the contact shadow. The person then reads as hovering a centimetre off the floor — nobody can name it, everybody feels it.
-
-2️⃣ **Light direction.** Find the shadow side of the face. Then find where the light in the new plate comes from. Window camera-left, face lit camera-right, and there is no grade that saves it.
-
-3️⃣ **Colour spill.** A grey sweep throws grey into a cream knit. Drop that subject onto a warm daylight interior and the sweater stays slightly cold while everything around it is warm. Neutralise the spill *on the subject* — warming the plate just widens the gap.
-
-4️⃣ **Camera height.** The plate has a horizon and the subject was shot at some height. Plate at hip height, subject at chest height, and the floor plane meets the shoes at an angle that can't happen.
-
-The image is one frame on three backdrops — white sweep, grey plaster, daylight interior. Same face, same sweater ribbing, same trouser crease, same pose.
-
-And the part that actually matters, because it's where this goes wrong: that is **one photograph fed back in three times with only the backdrop changed.** It is not three generations of "woman in a cream sweater." Three generations give you three different women — different jaw, different knit, different fit — and a before/after built that way isn't a before/after. It's two pictures of two people.
-
-Same subject or it doesn't count. (The base frame here is our own generated model, by the way, not a client's file — we don't post client sessions.) 👇
-
-**First comment:** `Send me a full-length frame from your last session and I'll run three backdrops on it, so you can check the four things above yourself. I'll show you the ones that fail too — the floor is where they fail.`
-
----
-
-## A8 — wedding & portrait, at set scale
-
-> ⚠️ **GATE — do not post until re-rendered on our own stack.**
-> The asset is a third-party-model card (red line 6). The copy below is written and
-> ready, and its claims are all method claims we can stand behind — but the series'
-> credibility rests on *every image here being our own output*, and this one isn't yet.
-> Re-run the three pairs through our own pipeline, swap the file, then post.
-> Two further conditions once it does run:
-> · **Never crop the footer.** *"AI-generated retouching concepts"* is the line that
->   keeps this inside red line 2. Cropping it turns a concept card into a delivered-work
->   claim.
-> · It is the closest thing in this series to the Image Solutions India service-ad
->   format we said we can't honestly run. It goes to a group **after** a teardown from
->   this series has already stood there — never as the opening post, and never into B1.
-
-**Image:** `a8-wedding-portrait-retouch.jpg`
-*(1122×1402 — 4:5, the one asset in the series already cut to feed ratio. From
-`client_VC_portfolio/scene-enhancement-demo-09-07/wedding-retouch.png`.)*
-
-### FB post copy
-
-💍 The hard part of a wedding edit isn't any single frame. It's that four hundred frames have to look like one afternoon.
-
-The couple walked the cliff at five, under flat grey cloud. The ceremony ran long. The light you showed them in the sample gallery never arrived — so now every frame gets warmed by hand, and warmed by the *same* amount, or the gallery reads as three different days.
-
-That's the job, and it's most of why a wedding edit costs what it costs:
-
-· **Relight, consistently.** Not one hero frame graded beautifully. Every frame carrying the same sun position, the same warmth, the same falloff.
-· **Skin that stays skin.** Even the tone, drop the redness, keep the pores. A bride rendered as porcelain is the complaint that arrives a week later, when she's looked at it forty times.
-· **Cleanup the couple never saw.** The three strangers on the sand. The bin, the cable, the car in the treeline.
-· **The dress.** A veil and a chiffon train are semi-transparent against a bright sky — precisely where automatic tools eat the edge and hand it back as a hard line.
-
-What's above are **concepts, not a client gallery.** We don't publish client sessions, so that's our own material run against the same brief: left is the flat frame, right is a relight plus a skin pass plus a background cleanup, with the pose, the face and the fabric left alone.
-
-If you shoot volume — a studio, batch work, second shooters handing you two thousand frames a weekend — the consistency question is the one worth asking about before anything else. Ask it of any tool, including ours. 👇
-
-**First comment:** `Happy to run a few of your own frames so you can put them beside your own hand edit. Drop one below or DM.`
-
----
-
-## Supply-side recut
-
-For `524557767708832` (29.0K, "EARN MORE BY DOING PHOTO RETOUCHING JOB"),
-`452139992386987` (13.6K, Dhaka freelance suppliers) and `729600757556835` (4.0K).
-
-⚠️ **These groups are supply, not demand.** Pitching retouching services at
-retouchers is the same error the reddit doc diagnosed on Reddit: asking the supply
-side of a market whether it contains demand. So these two posts ask for something
-instead of selling something. Do **not** post A1–A8 here unchanged.
-
-### Recut A — the reject list (adapted from A1 + A3)
-
-**Image:** `a1-neck-joint-cycling-jersey.jpg`
-
-👋 To the retouchers in here — a question, and a swap.
-
-We run AI-assisted apparel work (ghost mannequin, on-model, background replacement) and we keep a written taxonomy of what goes wrong, because none of it ships without a human pass. Four failures account for most of our rejects:
-
-· **Invented inside-back collar** — wrong colour more often than wrong shape
-· **Inner-layer bleed** — the source model's camisole survives into the output
-· **Silhouette drift** — a boxy garment comes back fitted
-· **Detail flattening** — button counts change, a pointed hem tab goes straight
-
-The generation does the volume. The judgement is still the part that doesn't automate — knowing that a shoulder seam should sit slightly proud, or that a neck opening needs *some* interior or it reads as a sticker.
-
-Two things:
-
-1️⃣ **What's on your reject list that isn't on ours?** Genuinely asking.
-2️⃣ We're building a bench of retouchers to hand overflow to, white-label. If you take that kind of work, say so below and I'll follow up.
-
-Not pitching services at this group — you're the people who'd be doing the work. 👇
-
-### Recut B — how do you QC it? (adapted from A4)
-
-**Image:** `a4-two-ratio-check.jpg`
-
-📐 Retouchers — how do you QC an AI-generated garment shot when there's no "original" to compare it against?
-
-We settled on two ratios, both measured against pose landmarks rather than absolute pixels:
-
-**Length** — (hem_y − shoulder_y) ÷ (hip_y − shoulder_y)
-**Width at bust** — garment_width_at_bust ÷ body_width_at_bust
-
-Ratios survive crop and camera distance. Pixels don't.
-
-The trap we fell into first was measuring the output against the source photo. If the source is a garment on a dress form and the output is a garment holding a human shape, they share no landmark, no scale and no pose — whatever number you get is measuring the dress form, not the error.
-
-Genuinely curious how people who do this by hand handle it. Do you check against the size chart, against a reference shot, or by eye? 👇
-
----
-
-## Placement matrix
-
-Buyer groups: **B1** `105108073643190` E-commerce product photography (5.2K, ⚠️ ban rule) ·
-**B2** `765595303494969` Product Photographer USA (1.3K) ·
-**B3** `313105103563214` Apparels/Fashion Sell & Buy US/CA/UK/AU (5.0K) ·
-**B4** `1212659302803905` Online E-Commerce sellers solution (6.9K).
-Supply groups: **S1** `524557767708832` (29.0K) · **S2** `452139992386987` (13.6K) ·
-**S3** `729600757556835` (4.0K).
-
-| Post | Goes to | When |
-|---|---|---|
-| A1 · neck joint | B1, B3 | **post this first**, into B1 only |
-| A2 · inner-layer bleed | B3, B2 | week 1 |
-| A3 · silhouette drift | B3, B1 | week 2 |
-| A4 · ratio check | B1, B2 | week 2 |
-| A5 · wrong listing | B1, B4, B2 | week 3 — strongest for non-apparel sellers |
-| A6 · retouching notes | S3, B1 | week 3 |
-| A7 · locked subject | B2, B3 | week 4 |
-| A8 · wedding & portrait | ⛔ **held** — see gate | — |
-| Recut A | S1, S2, S3 | week 1 |
-| Recut B | S1, S2 | week 3 |
-
-**Cadence: one post per group per ~3 days.** Never the same post into two groups on
-the same day — FB collapses it as duplicate distribution.
-
-**B1 first, alone.** It is the group with the explicit ban rule, so it is the
-strictest test of whether this register survives. If A1 stands for a week
-without moderation, roll out the rest. If it gets pulled, the register is wrong and
-the rest of the schedule should not run.
-
-`facebook.com/uniqretouch` is a **competitor Page** (9 followers, Houston,
-"high-end image retouching and editing company"). We cannot post there. Worth
-watching as a format benchmark — their pattern is a listicle hook plus
-*"Check list in comment section 👇"*, the same comment-CTA mechanic used here.
-
----
-
-## Build note
-
-`a4-two-ratio-check.jpg` is the only asset built for this series (1200×1200).
-Everything else is a copy or a crop of something already on disk and already
-published. Palette is the company-deck palette (`#FAF8F2` ground, `#C0521E` accent,
-`#93A3C4` rules) so it sits with the rest of our material.
-
-Images are taken from `curify-frontend/public/images/nano_insp/`, which holds the
-**clean** copies. The `curify-gallery/` and `company-intro/deck/assets/` copies of
-the same shots are tile-watermarked and read heavy at feed size.
-
-### A7–A8, added 2026-09-10
-
-Both are copies of portfolio assets, not new builds. The originals stay where the
-outreach batches point at them — `curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json`
-attaches by absolute path, so **do not move or rename the
-`client_VC_portfolio/*-demo-*` folders.**
-
-| Here | Original | Made by | Status |
-|---|---|---|---|
-| `shared-locked-subject-backdrops.jpg` | `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` | our own prompt, `gen_scene_demo.py` (prompt inline) | ✅ runnable |
-| `a8-wedding-portrait-retouch.jpg` | `.../scene-enhancement-demo-09-07/wedding-retouch.png`, re-encoded to JPEG q92 | third-party chat model — see red line 6 | ⛔ held |
-
-`shared-locked-subject-backdrops.jpg` carries its own PROVENANCE record in the source folder: `00-base.png` is
-synthetic, so **no real person is in the frame**, and the three backdrops were made
-by feeding that one frame back in — which is the whole claim the post makes. That
-record is worth reading before answering any question in the comments about it.
-
-`a8-wedding-portrait-retouch.jpg` has no such record and no generation script on disk; its provenance is what the
-xattr says and what its own footer admits. That asymmetry is the gate.
-
-### A7 is also the asset Series B wanted
-
-Series B had to argue *subject drift under regeneration vs subject preserved under
-compositing* on a serum bottle, because it could not put a child in the frame and
-would not synthesise one. A7 makes the identical argument on an adult — a synthetic adult, so no likeness question, and no child-shaped image
-in front of a group of parents. It is a legitimate candidate for
-`857871658366623` **Babies and Kids Photoshoot** once we are a member there, and it
-lands harder than the bottle does. B1 keeps its place; this is a second
-shot on goal, not a replacement.
-
-**This is the reason the two series now share a folder** — the argument, and the
-image that makes it, turned out not to belong to either one of them alone.
-
----
-
-# Series B — child photography
+⚠️ **This is the audience where a service ad reads worst.** C6 goes first, deliberately —
+leading with a stated limit on our own behaviour earns the right to post the rest.
 
 ## The image constraint, and how it was solved
 
@@ -518,7 +213,7 @@ image that makes it, turned out not to belong to either one of them alone.
    audience reads as a warning, not a feature.
 
 **The substitute is a real demonstration on a non-human subject, and it is better
-than a stock before/after would have been.** B1's image is built entirely from
+than a stock before/after would have been.** C1's image is built entirely from
 our own e-commerce pipeline output at
 `dev/jayw/video_pipelines/ecommerce_to_video/products/gen/`:
 
@@ -544,11 +239,11 @@ a photography-technique series); `costume_tryon/*` (adult identity-lock, but the
 subjects are footballers — real-person likeness, banned by `services_xianyu.md` §五).
 
 **Added 2026-09-10 — there is now a second asset that makes this argument, on a
-person.** `shared-locked-subject-backdrops.jpg` — Series A's A7 — is one
+person.** `shared-locked-subject-backdrops.jpg` — the Scene voice's S1 — is one
 frame moved to three backdrops with the subject held: same face, same knit, same
 pose. The subject is **synthetic and an adult**, so it clears both constraints above
 — no likeness question, and no child-shaped image in front of a group of parents.
-It is the same claim as B1's bottle, made on the body plan that actually matters
+It is the same claim as C1's bottle, made on the body plan that actually matters
 to this audience, and it lands harder. The bottle post keeps its slot; treat it as a
 second post into `857871658366623` once we're a member, not a replacement.
 
@@ -589,7 +284,7 @@ written for exactly this.
 
 ---
 
-## Sourcing
+## Sourcing — Voice C
 
 Every factual claim traces to the client-008 record or to already-published Curify
 writing (`/blog/preserve-facial-features-ai-generation`,
@@ -598,14 +293,14 @@ used, and no delivered outcome is claimed — because there is none.
 
 ⚠️ **One claim is hedged on the card itself and in the body**: the compositing
 thesis is logged as *"Recorded as a lead, NOT a decision — no approach has been
-chosen and none has been tested."* B2 says so. Do not let that line get edited
+chosen and none has been tested."* C2 says so. Do not let that line get edited
 out.
 
 ---
 
-## B1 — look at what moved
+## C1 — look at what moved
 
-**Image:** `b1-look-at-what-moved.jpg`
+**Image:** `c1-look-at-what-moved.jpg`
 
 ### FB post copy
 
@@ -625,9 +320,9 @@ If you're sending children's portraits out for background work, this is the whol
 
 ---
 
-## B2 — two pipelines
+## C2 — two pipelines
 
-**Image:** `b2-two-pipelines.jpg`
+**Image:** `c2-two-pipelines.jpg`
 
 ### FB post copy
 
@@ -647,7 +342,7 @@ If your editor can't tell you which of the two they do, that's information as we
 
 ---
 
-## B3 — write the notes out
+## C3 — write the notes out
 
 **Image:** `shared-retouching-blueprint.jpg`
 *(our own portrait-retouching template example, an adult — deliberately)*
@@ -668,7 +363,7 @@ Write it out instead, region by region:
 
 That last one isn't clever. It's the sort of line studios end up writing into their briefs in plain language after being burned a few times, and it works precisely because it says what *not* to do.
 
-The example image is an adult on purpose — reason in B6. The method is identical.
+The example image is an adult on purpose — reason in C6. The method is identical.
 
 The test for any brief, whether it's going to a person or a model: **could someone else execute it without asking you a question?** 👇
 
@@ -676,9 +371,9 @@ The test for any brief, whether it's going to a person or a model: **could someo
 
 ---
 
-## B4 — five places to look
+## C4 — five places to look
 
-**Image:** `b4-five-places-to-look.jpg`
+**Image:** `c4-five-places-to-look.jpg`
 
 ### FB post copy
 
@@ -704,9 +399,9 @@ None of this asks you to understand how any of it works. It asks you to know whe
 
 ---
 
-## B5 — read the pictures first
+## C5 — read the pictures first
 
-**Image:** `b5-read-the-pictures-first.jpg`
+**Image:** `c5-read-the-pictures-first.jpg`
 
 ### FB post copy
 
@@ -728,9 +423,9 @@ Posting it because the same two failures turn up in school and wedding volume wo
 
 ---
 
-## B6 — why there are no children in any of these posts
+## C6 — why there are no children in any of these posts
 
-**Image:** `b6-we-do-not-publish-children.jpg`
+**Image:** `c6-we-do-not-publish-children.jpg`
 
 ### FB post copy
 
@@ -756,44 +451,126 @@ Nobody imposed this rule on us. It's just the one we landed on. 👇
 
 ---
 
-## Placement
+# 🖼️ Voice S — Scene & background replacement
 
-| Post | Group | When |
-|---|---|---|
-| B6 · no children | `857871658366623` Babies and Kids Photoshoot | **first** — it's the introduction, and it earns the right to post the rest |
-| B1 · look at what moved | Babies and Kids Photoshoot · Inspired by Newborn Photography | week 1 — the strongest hook, and it needs B6 to explain the bottle |
-| B2 · two pipelines | Inspired by Newborn Photography | week 2 |
-| B4 · five places to look | Inspired by Newborn Photography · Photographers HIRING photographers | week 2 |
-| B3 · write the notes out (shared image) | Babies and Kids Photoshoot | week 3 |
-| B5 · read the pictures first | Photographers HIRING photographers | week 3 — the outsource-intent group |
+**Who:** anyone in the three voices above who is doing composites — and it is the one post
+that can go into any of their groups unchanged.
 
-**Join first, post later.** We are not yet a member of any of the three. Per §H1 the
-join can take days and is often screened; apply to all three now, and read each feed
-for a few days before posting so the register can be adjusted to what the group
-actually tolerates.
+**What they actually buy:** a check they can run themselves. S1 hands over four diagnostic
+steps and invites them to catch our failures too, which is why it survives in groups that
+would eject a service ad.
 
-**B6 goes first, deliberately.** In a parents-and-editors group, leading with a
-teardown reads as marketing. Leading with a stated limit on our own behaviour does
-not — and it also pre-answers the obvious question about B1, which is why there
-is a cosmetics bottle in a child-photography group.
+**Groups:** **B2**, **B3** `313105103563214`, and — once we are members —
+`857871658366623` Babies and Kids Photoshoot, where it lands harder than C1's bottle: the
+identical argument on a body plan this audience cares about, with a synthetic adult, so no
+likeness question arises.
+
+## S1 — the giveaway is the floor, not the cut-out
+
+**Image:** `shared-locked-subject-backdrops.jpg`
+*(from `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` — our own
+generated frame, moved to three backdrops. 894×1842 — a 1:2-ish strip, which reads
+fine in-feed.)*
+
+### FB post copy
+
+🖼️ When a background replacement looks wrong, everyone blames the cut-out. It's almost never the cut-out.
+
+Matting handles hair now. What gives a composite away is that the subject and the new backdrop were lit by two different lights — and the place it shows up first is the floor at the subject's feet.
+
+Four checks, in this order:
+
+1️⃣ **Ground contact.** A standing subject throws a small, dark, hard-edged shadow directly under the shoe, and a softer one falling away from the light. Composites usually get the soft one and skip the contact shadow. The person then reads as hovering a centimetre off the floor — nobody can name it, everybody feels it.
+
+2️⃣ **Light direction.** Find the shadow side of the face. Then find where the light in the new plate comes from. Window camera-left, face lit camera-right, and there is no grade that saves it.
+
+3️⃣ **Colour spill.** A grey sweep throws grey into a cream knit. Drop that subject onto a warm daylight interior and the sweater stays slightly cold while everything around it is warm. Neutralise the spill *on the subject* — warming the plate just widens the gap.
+
+4️⃣ **Camera height.** The plate has a horizon and the subject was shot at some height. Plate at hip height, subject at chest height, and the floor plane meets the shoes at an angle that can't happen.
+
+The image is one frame on three backdrops — white sweep, grey plaster, daylight interior. Same face, same sweater ribbing, same trouser crease, same pose.
+
+And the part that actually matters, because it's where this goes wrong: that is **one photograph fed back in three times with only the backdrop changed.** It is not three generations of "woman in a cream sweater." Three generations give you three different women — different jaw, different knit, different fit — and a before/after built that way isn't a before/after. It's two pictures of two people.
+
+Same subject or it doesn't count. (The base frame here is our own generated model, by the way, not a client's file — we don't post client sessions.) 👇
+
+**First comment:** `Send me a full-length frame from your last session and I'll run three backdrops on it, so you can check the four things above yourself. I'll show you the ones that fail too — the floor is where they fail.`
 
 ---
 
-## Build note
+# Weekly schedule
 
-- `b1-look-at-what-moved.jpg` — `make_b1_drift_card.py` (1200×1650). Reads
+One post per group per **~3 days**, and never the same post into two groups on the same day
+— FB collapses that as duplicate distribution. Four voices do **not** mean four parallel
+campaigns; the schedule runs them in sequence so each week has one thing to learn from.
+
+| Week | Voice | Post | Group | Why this slot |
+|---|---|---|---|---|
+| **0** | 🧸 C | **C6** · no children | Babies and Kids Photoshoot | The introduction. A stated limit on our own behaviour, before any teardown — it earns the right to post the rest |
+| **1** | 🧸 C | **C1** · look at what moved | Babies and Kids Photoshoot · Inspired by Newborn Photography | Strongest hook in the file, and it needs C6 to explain why there is a serum bottle in a child-photography group |
+| **1** | 🎧 P | **P1** · glow-up ruins it | S3 | Smallest, most conversational retoucher group — cheapest place to find out whether the register works |
+| **2** | 🧸 C | **C2** · two pipelines | Inspired by Newborn Photography | Follows C1 directly: the mechanism behind what C1 showed |
+| **2** | 🖼️ S | **S1** · the floor, not the cut-out | B2 | First test of the cross-genre voice, in the photographer group |
+| **3** | 🧸 C | **C4** · five places to look | Inspired by Newborn · Photographers HIRING photographers | A checklist travels further than a before/after; HIRING is the outsource-intent group |
+| **3** | 🎧 P | **P1** · glow-up ruins it | B2 | Re-run of the week-1 post in the buyer group, once S3 has said whether it lands |
+| **4** | 🧸 C | **C3** · write the notes out | Babies and Kids Photoshoot | Same argument as P1, re-voiced for parents — freckles, and the scab on the knee |
+| **4** | 🖼️ S | **S1** · the floor, not the cut-out | Babies and Kids Photoshoot | Only after C6 and C1 have stood there. Same claim as C1, on a body plan that matters more in this room |
+| **5** | 🧸 C | **C5** · read the pictures first | Photographers HIRING photographers | Volume-brief failures, aimed at the group whose stated purpose is outsourcing |
+| **5** | 🖼️ S | **S1** | B3 | Third and last placement of the cross-genre post |
+| **—** | 💍 W | **W1** · four hundred frames | ⛔ **blocked twice** | Needs (a) a wedding group joined and (b) the asset re-rendered on our own stack — see the gate |
+
+**Join first, post later.** We are not a member of any of the three child groups, nor of any
+wedding group. A join can take days and is often screened — apply now, and read each feed
+for a few days before posting so the register can be adjusted to what the group tolerates.
+
+**The weeks are a sequence, not a calendar.** If a group takes ten days to admit us, the
+numbers slide with it. What must not slide is the ordering: C6 before anything else in a
+child group, C1 before C2, and S1 into a child group only after C6 and C1 have stood there.
+
+**Two voices per week, maximum.** This is one pilot with a 20-comment stop rule across all
+of it. Running four voices at once burns the denominator before any single cell has enough
+n to read.
+
+---
+
+# Build notes
+
+## Children & newborn (C)
+
+- `c1-look-at-what-moved.jpg` — `make_c1_drift_card.py` (1200×1650). Reads
   `serum_scene_shelf.jpg`, `serum_scene_vanity.jpg` and `serum.png` from
-  `dev/jayw/video_pipelines/ecommerce_to_video/products/gen/`. The bottom row's
-  backdrops are gradient sweeps generated in the script, so the composite is
-  reproducible and provably uses one cutout twice.
-- `b2`, `b4`, `b5`, `b6` — `make_b_cards.py` (1200×1200).
-- **B3 has no image of its own.** It runs `shared-retouching-blueprint.jpg`, the same
-  file A6 runs — a copy of
+  `dev/jayw/video_pipelines/ecommerce_to_video/products/gen/`. The bottom row's backdrops
+  are gradient sweeps generated in the script, so the composite is reproducible and
+  provably uses one cutout twice.
+- `c2`, `c4`, `c5`, `c6` — `make_c_cards.py` (1200×1200).
+- **C3 has no image of its own.** It runs `shared-retouching-blueprint.jpg`, the same file
+  P1 runs — a copy of
   `curify-frontend/public/images/nano_insp/template-portrait-retouching-blueprint-en 1.jpg`.
   The two series held byte-identical copies under different names until 2026-09-11.
 
-Palette throughout is the company-deck one: `#FAF8F2` ground, `#C0521E` accent,
-`#3A6A54` for the good path, `#1A1A1A` reversed for B6.
+Palette is the company-deck one: `#FAF8F2` ground, `#C0521E` accent, `#3A6A54` for the good
+path, `#1A1A1A` reversed for C6.
+
+## Scene & wedding (S, W) — portfolio copies, not new builds
+
+The originals stay where the outreach batches point at them —
+`curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json` attaches by absolute path,
+so **do not move or rename the `client_VC_portfolio/*-demo-*` folders.**
+
+| Here | Original | Made by | Status |
+|---|---|---|---|
+| `shared-locked-subject-backdrops.jpg` | `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` | our own prompt, `gen_scene_demo.py` (prompt inline) | ✅ runnable |
+| `w1-wedding-portrait-retouch.jpg` | `.../scene-enhancement-demo-09-07/wedding-retouch.png`, re-encoded to JPEG q92 | third-party chat model — see red line 6 | ⛔ held |
+
+`shared-locked-subject-backdrops.jpg` carries its own PROVENANCE record in the source
+folder: `00-base.png` is synthetic, so **no real person is in the frame**, and the three
+backdrops were made by feeding that one frame back in — which is the whole claim S1 makes.
+Read it before answering any question in the comments about it.
+
+`w1-wedding-portrait-retouch.jpg` has no such record and no generation script on disk; its
+provenance is what the xattr says and what its own footer admits. That asymmetry is the gate
+on W1 — the copy is written and its claims are defensible method claims, but this voice's
+credibility rests on every image being our own output.
 
 ---
 
@@ -805,13 +582,13 @@ From the reddit doc §H0, and the thing most likely to be got wrong:
 > **评论区触达 — comment-section outreach**, not DMs. […] **DM only after they
 > reply to the comment.**
 
-These fourteen posts are the standing exhibit, not the motion. The motion is: read the
+These nine posts are the standing exhibit, not the motion. The motion is: read the
 group daily, find a post where someone **states a need in their own words**, and
 reply in the comments with output on *their* product category — not a link, not a
 deck, not a portfolio. The posts exist so that when someone clicks through after
 that comment, there is something credible to find.
 
-**Logging — one pilot, not three.** Series A, Series B and the 小红书 cut all log to
+**Logging — one pilot, not three.** All four voices and the 小红书 cut log to
 `gtm_tools/relationship_leads.json`, with `channel: "facebook_group"` or `"rednote"`,
 `need_verbatim` (their exact words) and `need_confidence: "stated"`.
 **Do not create a new file.**

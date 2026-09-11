@@ -120,5 +120,5 @@ d.text((M + 28, by + 52),
        font=f_small, fill=(196, 192, 184))
 d.text((M, H - 42), "curify-ai.com", font=f_small, fill=MUTE)
 
-im.save(OUT + "b1-look-at-what-moved.jpg", quality=94)
+im.save(OUT + "c1-look-at-what-moved.jpg", quality=94)
 print("saved", im.size)
