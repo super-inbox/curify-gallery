@@ -1,7 +1,7 @@
 # Souvenir video — SMM thread (2026-09-10)
 
 _The third product line. `smm_daily` already has threads for ecommerce
-(`2026-09-06-ecommerce-ad-videos`, `2026-09-01-fb-ecommerce`) and retouching
+(`2026-09-01-ecommerce`) and retouching
 (`2026-09-01-retouching` — `posts_fb.md` and `posts_rednote.md`); this opens the missing one._
 
 **Offer:** a visitor's photo becomes a 20–30s cinematic souvenir video — sold as an add-on to a photo
