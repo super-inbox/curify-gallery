@@ -206,28 +206,60 @@ the DM line.** And the place name and the video swap **together** — never one 
 
 ---
 
-# Weekly schedule
+# Schedule & progress
 
-One post per group per **~3 days**. Never the same destination video into two groups on the same day.
+One post per group per **~3 days**. Never the same destination video into two groups the
+same day. **Read the result per cell, not per channel** — `G3 × Kyoto` and `G4 × Dubai` are
+different businesses that happen to share a folder.
 
-| Week | Voice | Destination | Video | Why this slot |
-|---|---|---|---|---|
-| **1** | 👘 G3 | Kyoto | `kyoto-kimono-30s` | Tightest offer-to-buyer fit in the matrix, and the demo is the oldest and most finished. If this cell doesn't convert, none will |
-| **1** | 📸 G1 | Bali | `bali-resort-30s` | Four tracked Bali photographers, one already DM'd with nothing to show. Close that loop first |
-| **2** | 📸 G1 | Kyoto | `kyoto-kimono-30s` | Same voice, second destination — isolates place from trade |
-| **2** | 🚐 G4 | Dubai | `dubai-desert-30s` | Desert-safari operators are the clearest non-photographer buyer we have a demo for |
-| **3** | 💍 G2 | Bali | `bali-resort-30s` | Only after G1/Bali has stood a week — same groups overlap heavily, and the wedding framing is the riskier one |
-| **3** | 👘 G3 | China (汉服) | `tengwangge-30s` | Second costume cell; tests whether G3's fit is about kimono or about costume generally |
-| **4** | 🚐 G4 | Bali | `bali-resort-30s` | Villa & tour operators, once the photographer side has produced a reference |
-| **4** | 🏨 G5 | Dubai | `dubai-desert-30s` | Lowest-intent room, posted last on purpose — it's the one most likely to read as an ad |
-| **—** | any | Santorini | ❌ | **No demo. Do not post the pitch there** — rule 1 |
+**Status** ✅ sent · ◻︎ planned · ❌ no demo
 
-**Read the result per cell, not per channel.** The question is which `voice × destination` converts —
-`G3 × Kyoto` and `G4 × Dubai` are different businesses that happen to share a folder. Expand the
-neighbourhood of whichever cell works (`Bali → Phuket → Maldives`), and drop the ones that don't
-rather than rewording them a third time.
+| Status | Voice | Destination | Video | Group | Comments | DMs | Samples |
+|---|---|---|---|---|---|---|---|
+| ✅ **sent** | ⚠️ record | Kyoto | `kyoto-kimono-30s` | ⚠️ record name + size | | | |
+| ✅ **sent** | ⚠️ record | China (滕王阁) | `tengwangge-30s` | ⚠️ record name + size | | | |
+| ✅ **09-11** | 🚐 G4 / 🏨 G5 | Dubai | `dubai-desert-30s` | ×3 — *travel* · *agents* · *tourism* | | | |
+| ◻︎ | 📸 G1 | Bali | `bali-resort-30s` | `Bali photographers` — 4 tracked leads, one already DM'd with nothing to show | | | |
+| ◻︎ | 👘 G3 | Kyoto | `kyoto-kimono-30s` | `Kimono photographers` — tightest offer-to-buyer fit in the matrix | | | |
+| ◻︎ | 📸 G1 | Kyoto | `kyoto-kimono-30s` | `Kyoto photographers` — isolates place from trade | | | |
+| ◻︎ | 💍 G2 | Bali | `bali-resort-30s` | `Bali wedding photographers` — only after G1/Bali has stood a week | | | |
+| ◻︎ | 👘 G3 | China | `tengwangge-30s` | `Hanfu photography` — tests whether G3 is about kimono or costume generally | | | |
+| ◻︎ | 🚐 G4 | Bali | `bali-resort-30s` | `Bali villa & tour operators` | | | |
+| ❌ | any | Santorini | — | **no demo — do not post the pitch there** (rule 1) | | | |
 
 ---
+
+## ✅ 09-11 · Dubai, into travel / agents / tourism
+
+⭐ **These are G4/G5 rooms, not G1.** Travel agents, tour operators and tourism businesses
+**do not shoot** — so the G1 photographer copy ("no second shoot", "one of your photos",
+"the package you already offer") is meaningless or actively wrong there. G4 exists for
+exactly this audience and leads with the *guest*, not the camera.
+
+⚠️ **Confirm which copy went out.** If the G1 text was used, expect silence rather than
+objection — an operator reading *"sell it as an add-on to your session"* simply doesn't have
+a session. The repost should use **G4**, and the ask should be *"send me one guest photo"*,
+not *"send me a frame from a recent shoot"*.
+
+✅ **The destination match is right** — a Dubai video into Dubai groups satisfies rule 1, and
+`dubai-desert-30s` is the demo built for this cell.
+
+**What the replies will tell you.** G4 lands when the question is *"what does it cost per
+guest"* or *"can it carry our name"* — both are operator questions about a resellable
+add-on. If the replies are about camera gear or editing, the room is photographers after
+all, and the cell should be re-logged as G1.
+
+## ✅ earlier · Kyoto and Tengwangge
+
+Both went out before this doc had a log. **Record the groups and their sizes** — without
+them these two are unattributable, which is the exact failure already sitting in
+`gtm_tools/outreach_denominator.csv` for RedNote: a closed ¥27,800 deal with no denominator,
+so it compares to nothing.
+
+Kyoto is the highest-value cell to reconstruct: a `kimono` room is **G3** (the guest already
+paid for a souvenir, so upgrading it needs no argument) while `Kyoto photographers` is
+**G1**. Those are different businesses, and the same video serves both — knowing which one
+received it is the difference between a reusable finding and an anecdote.
 
 ## ⚠️ What must not be claimed
 
@@ -244,11 +276,12 @@ content.
 
 ## Log
 
-Same five columns as the other channels, into `gtm_tools/outreach_denominator.csv`, plus the voice:
+The table in **Schedule & progress** is the working record. Mirror each row into
+`gtm_tools/outreach_denominator.csv` so this channel stays comparable to email and RedNote:
 
 ```
 date | voice | destination | group | members | demo | views | comments | DMs | samples | paid
 ```
 
-Stop and evaluate per cell rather than per channel. The question is whether
-`destination photographer × souvenir video` converts, not whether "Facebook works".
+Stop and evaluate **per cell**, not per channel. The question is whether
+`destination photographer × souvenir video` converts — not whether "Facebook works".

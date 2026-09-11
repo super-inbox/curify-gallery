@@ -40,7 +40,7 @@ One asset per post.
 ⭐ **Finding new groups: search the storefront, not the craft.** A category word alone
 (`jewelry`, `fashion`) returns makers and designers — supply. Add `Shopify` / `Etsy
 sellers` / `ecommerce` and the results move to the people who sell, which is who every
-post in this file is written for. Recipe per category in the **Posted log** at the end.
+post in this file is written for. Recipe per category in **Schedule & progress** at the end.
 **Drift check:** ✅ group-scoped, off-Page — the Page identity is Sinosphere culture
 edutainment, so an ad-craft post in the Page feed would be Position Drift.
 
@@ -576,27 +576,6 @@ Genuinely curious how people who do this by hand handle it. Do you check against
 
 ---
 
-## Apparel placement
-
-| Post | Goes to | When |
-|---|---|---|
-| A1 · neck joint | B1, B3 | **the opener** — into B1 alone, and nothing else until it has stood a week |
-| A2 · inner-layer bleed | B3, B2 | week 1 |
-| A3 · silhouette drift | B3, B1 | week 2 |
-| A4 · ratio check | B1, B2 | week 2 |
-| A5 · wrong listing | B1, B4, B2 | week 3 — strongest for non-apparel sellers |
-| Recut A · reject list | S1, S2, S3 | week 1 |
-| Recut B · how do you QC it | S1, S2 | week 3 |
-
-**A1 first, alone, into B1.** B1 is the group with the explicit ban rule, so it is the
-strictest test of whether this register survives at all. If A1 stands for a week
-without moderation, roll out the rest — including W1/W2 and the ad videos. If it gets
-pulled, the register is wrong and none of the rest of this folder should run there.
-
-`facebook.com/uniqretouch` is a **competitor Page** (9 followers, Houston). We cannot
-post there. Worth watching as a format benchmark — their pattern is a listicle hook
-plus *"Check list in comment section 👇"*, the same comment-CTA mechanic used here.
-
 ## Apparel build note
 
 `a4-two-ratio-check.jpg` is the only asset built for this family (1200×1200,
@@ -610,55 +589,96 @@ shots are tile-watermarked and read heavy at feed size.
 
 ---
 
-# Posted log
+---
 
-_What actually went out. **Fill the metric columns in a few days after each post.**_
+# Schedule & progress
 
-| Date | Post | Category | Group | Found via | Views | Comments | DMs | Samples | Paid |
-|---|---|---|---|---|---|---|---|---|---|
-| 2026-09-11 | jewelry — ⚠️ asset to confirm | jewelry | ⚠️ record the group name + size | `珠宝` + `Shopify` + `Ecommerce` | | | | | |
+One group at a time, **~3 days apart**. Never the same asset into two groups the same day.
+**B1 last for everything except A1** — it carries the explicit anti-spam ban rule, and A1 is
+the cheapest, least promotional thing in the folder, so it is the test of whether the
+register survives there at all.
 
-## 2026-09-11 · first jewelry placement, and the qualifier that decides it
+**Status** ✅ sent · ◻︎ planned · ⚠️ held
+
+| Status | Post | Category | Group | Found via | Comments | DMs | Samples |
+|---|---|---|---|---|---|---|---|
+| ✅ **09-11** | serum workflow video | beauty | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
+| ✅ **09-11** | jewelry — ⚠️ record asset | jewelry | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
+| ◻︎ | **A1** · neck joint | apparel | B1 **first, alone** | — | | | |
+| ◻︎ | **A2** · inner-layer bleed | apparel | B3, B2 | — | | | |
+| ◻︎ | **A3** · silhouette drift | apparel | B3, B1 | — | | | |
+| ◻︎ | **A4** · two-ratio check | apparel | B1, B2 | — | | | |
+| ◻︎ | **A5** · wrong listing | any | B1, B4, B2 | — | | | |
+| ◻︎ | **Recut A** · reject list | — | S1, S2, S3 — **supply** | — | | | |
+| ◻︎ | **Recut B** · how do you QC it | — | S1, S2 — **supply** | — | | | |
+| ◻︎ | **W1** · shoot doesn't scale | category-matched | B3, B2, B4, then B1 | — | | | |
+| ◻︎ | **W2** · one photo, nine variants | beauty | B4, B2, then B1 — **not B3** | — | | | |
+| ◻︎ | `rotation_chair` | hard goods | B4 | — | | | |
+| ◻︎ | `angryalert` (landscape) | concept | B2 | — | | | |
+| ◻︎ | `kungfu_sf` | campaign | B3 | — | | | |
+| ◻︎ | `matcha_drink` | food & drink | B1 — last | — | | | |
+| ⚠️ | `model_standing` | apparel | B3 — **only after the likeness check** | — | | | |
+
+**Fill the metric columns a few days after each post.**
+
+---
+
+## ✅ 09-11 · serum workflow video, three groups
+
+Sent to **ecommerce**, **shopify** and **makeup** groups.
+
+✅ **The category match is right.** A serum into a beauty/makeup room is exactly what the
+video table exists to enforce — this is the rule that gets broken when posting quickly, and
+it wasn't.
+
+✅ **`ecommerce` and `shopify` are storefront words**, so those two rooms should be sellers.
+That is the qualifier working as intended.
+
+⚠️ **`makeup` is not a storefront word**, and that is the one to check. A group called
+*makeup* is more likely to be enthusiasts and MUAs than brand owners — consumers, not buyers.
+It is the same shape as the `FREE PHOTO EDITING` mega-groups the retouching thread rules out.
+**Read the feed:** are people posting products they sell, or looks they wore? If it is the
+second, the room is consumer-side and nothing in this folder converts there. The fix is the
+qualifier, not the copy — `skincare brand owners`, `beauty brand founders`, `indie beauty
+brands` + `Shopify`.
+
+## ✅ 09-11 · first jewelry placement, and the qualifier that decides it
 
 **How the group was found:** the category word (`珠宝` / `jewelry`) **plus a storefront
 word** — `Shopify`, `Ecommerce`.
 
-⭐ **That qualifier is the whole trick, and it should be the default from here on.**
-A category word on its own returns the people who *make* the thing — jewellery designers,
-makers, brand-identity studios. That is **supply**. Adding a storefront or commerce word
-moves the result to the people who *sell* it, which is the buyer, and the buyer is who
-these posts are written for.
+⭐ **That qualifier is the whole trick, and it is now the default.** A category word on its
+own returns the people who *make* the thing — designers, makers, brand-identity studios.
+That is **supply**. Adding a storefront or commerce word moves the result to the people who
+*sell* it, which is who every post in this file is written for.
 
-This is the same trap caught for the fourth time:
+Same trap, caught four times:
 
 | Where | Query | What came back |
 |---|---|---|
-| FB | `Product Photography` | photographers — the group clustered by profession, so it gathered supply |
+| FB | `Product Photography` | photographers — clustered by profession, gathered supply |
 | FB | `ghost mannequin` | retouching suppliers in Dhaka |
 | Pinterest | `jewelry brand` | **brand-identity designers** — *"brand" is a designer word* |
 | FB | `jewelry` alone | makers and designers, not sellers |
 
-> **Search the storefront, not the craft.** `jewelry Shopify sellers` beats `jewelry`;
-> `ecommerce sellers` beats `product photography`. If the group name describes a *skill*,
-> it is probably supply; if it describes a *shop*, it is probably demand.
+> **Search the storefront, not the craft.** If a group name describes a *skill*, it is
+> probably supply; if it describes a *shop*, it is probably demand.
 
 **Category × qualifier for the next ones** — every demo below already exists in
-`curify-gallery/ecommerce_workflow/`, so these need no new production:
+`curify-gallery/ecommerce_workflow/`, so none of this needs new production:
 
 | Category | Search | Demo |
 |---|---|---|
 | Jewelry | `jewelry` + `Shopify` / `Etsy sellers` / `ecommerce` | `jewelry_viral_en.mp4` |
-| Beauty / skincare | `skincare brand owners` + `Shopify` | `skincare_viral_en.mp4` |
+| Beauty / skincare | `skincare brand owners` + `Shopify` — **not** `makeup` | `skincare_viral_en.mp4`, `serum_marketing_kit_en.mp4` |
 | Fashion / apparel | `boutique owners` + `Shopify` — **not** `fashion photography` | `sneakers_viral_en.mp4` |
 | Home / furniture | `home decor sellers` + `Etsy` | `home_textiles_viral_en.mp4` |
 | Food / drink | `specialty coffee roasters` + `ecommerce` | `coffee_viral_en.mp4` |
 
-⚠️ **Record which asset went out.** If it was a workflow video, the category must match
-the group — a jewelry group gets `jewelry_viral_en.mp4`, never the coffee maker. That
-rule is the reason the video table exists, and it is the easiest one to break when posting
-quickly.
+⚠️ **Record which asset went out** for the jewelry post — if it was a workflow video, the
+category must match the group (`jewelry_viral_en.mp4`, never the coffee maker).
 
-⚠️ **This is a new group, so it has no standing yet.** Whatever went out is now the first
-thing that room has seen from us. Do not follow it with a second post for ~3 days, and do
-not follow it with a harder-selling one — the order that works everywhere else in this
-folder is teardown first, video second.
+⚠️ **All these groups are new, so none has standing yet.** Do not follow any of them with a
+second post for ~3 days, and do not follow with a harder-selling one. The order that works
+everywhere else in this folder is **teardown first, video second** — which means A1–A5 are
+the right follow-ups in the seller rooms, not another video.
