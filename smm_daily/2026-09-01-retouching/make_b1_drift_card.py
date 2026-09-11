@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 SRC = "/Users/qqwjq/curify-studio/dev/jayw/video_pipelines/ecommerce_to_video/products/gen/"
-OUT = "/Users/qqwjq/curify-gallery/smm_daily/2026-09-01-fb-child-photography/"
+OUT = "/Users/qqwjq/curify-gallery/smm_daily/2026-09-01-retouching/"
 
 W, H = 1200, 1650
 BG   = (250, 248, 242)
@@ -120,5 +120,5 @@ d.text((M + 28, by + 52),
        font=f_small, fill=(196, 192, 184))
 d.text((M, H - 42), "curify-ai.com", font=f_small, fill=MUTE)
 
-im.save(OUT + "01-look-at-what-moved.jpg", quality=94)
+im.save(OUT + "b1-look-at-what-moved.jpg", quality=94)
 print("saved", im.size)

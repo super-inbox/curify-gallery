@@ -1,6 +1,6 @@
 # FB Groups · E-commerce workflow — 2 posts (2026-09-01, post 2 added 09-10)
 
-Companion to `../2026-09-01-fb-retouching/posts_retouching.md`. Into the four
+Companion to `../2026-09-01-retouching/posts_fb.md`. Into the four
 buyer-side groups.
 
 | Post | Format | Asset |
@@ -130,7 +130,7 @@ Reused rather than reinvented — these lines are already ours and already publi
   拿到其中一两种，而且换季、换色、上新就要重来。」*
 
 The one line that is not lifted is *"we've shipped that mistake ourselves"* — that
-refers to the hair-dryer listing in `../2026-09-01-fb-retouching/posts_retouching.md` post 5, which is our own
+refers to the hair-dryer listing in `../2026-09-01-retouching/posts_fb.md` A5, which is our own
 documented failure and safe to reference.
 
 ---
@@ -181,7 +181,7 @@ inline image2image generate block. Confirm it loads before posting, and still do
 The drift description in paragraph 2 is not hypothetical and not borrowed — it is
 `serum_scene_shelf.jpg` vs `serum_scene_vanity.jpg` in
 `dev/jayw/video_pipelines/ecommerce_to_video/products/gen/`, the same pair
-`../2026-09-01-fb-child-photography/posts_child_photography.md` reads out in its post 1.
+`../2026-09-01-retouching/posts_fb.md` reads out in B1.
 Two independently generated scenes of one product; the collar, the label and the
 shoulder all move. Ours, observed, unstaged.
 

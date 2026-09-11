@@ -2,7 +2,7 @@
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 SRC = "/Users/qqwjq/curify-studio/dev/jayw/video_pipelines/ecommerce_to_video/products/gen/"
-OUT = "/Users/qqwjq/curify-gallery/smm_daily/2026-09-01-rednote-retouching/"
+OUT = "/Users/qqwjq/curify-gallery/smm_daily/2026-09-01-retouching/"
 
 W, H = 1080, 1440                      # RedNote 3:4
 BG   = (250, 248, 242)
@@ -110,7 +110,7 @@ d.text((M, r2 + PH + 20), "逐像素相同 —— 不是提示词写了，是主
        font=fb(24), fill=GOOD)
 foot(d, "一个瓶子，重画的只是标签。",
      "一整批模特图，跑偏的是买家正在量的版型。", top=H - 176)
-im.save(OUT + "01-批量一致性.jpg", quality=94)
+im.save(OUT + "rn1-批量一致性.jpg", quality=94)
 
 
 # ============================================================ 02 四个翻车点
@@ -134,7 +134,7 @@ for num, title, lines in items:
 
 foot(d, "别拿成品去比原图。",
      "挂拍和上身没有共同的基准点 —— 要比，比你自己的尺码表。")
-im.save(OUT + "02-模特图翻车点.jpg", quality=94)
+im.save(OUT + "rn2-模特图翻车点.jpg", quality=94)
 
 
 # ============================================================ 03 场景增强
@@ -181,6 +181,6 @@ for i, ln in enumerate([
 
 foot(d, "批量的难点是一致，不是好看。",
      "全身 / 半身 / 特写三种景别，按套走量，量大单价明显往下走。")
-im.save(OUT + "03-场景增强.jpg", quality=94)
+im.save(OUT + "rn3-场景增强.jpg", quality=94)
 
 print("done")
