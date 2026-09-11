@@ -15,7 +15,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 
 | Voice | Buyer | Their actual problem | Posts | Groups |
 |---|---|---|---|---|
-| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held | **first post went out 2026-09-11** — see Posted log |
+| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 🔴 **posted 09-11 on the held asset** | see Posted log |
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
@@ -75,12 +75,15 @@ here is a claim we have not already made in public.
 5. **`template-fashion-before-after-outfit-annotation-card-*` is NOT retouching
    proof.** It is labelled BEFORE/AFTER but the "after" only adds callout labels —
    no retouch happened. Excluded from the series.
-6. **"Our own output" has to mean our own pipeline.** `08-wedding-portrait-retouch.jpg`
+6. **"Our own output" has to mean our own pipeline.** `w1-wedding-portrait-retouch.jpg`
    was made in a third-party chat model, not on our stack — the source PNG carries
    `kMDItemWhereFroms: https://chatgpt.com/` and a Chrome quarantine record. Red line 1
    still holds (no client, no real person, no brand), but the series' standing phrasing
    — *"in our own runs"*, *"we tried that"* — does not extend to it, and it cannot be
-   captioned as something our pipeline produced. See the gate on W1.
+   captioned as something our pipeline produced.
+   🔴 **This one was crossed on 2026-09-11** — the file went out in W1's first placement.
+   See the block at the top of W1 and the Posted log. The rule stands; the asset still
+   needs re-rendering here before the post runs anywhere again.
 
 ---
 
@@ -107,18 +110,47 @@ Still worth joining, because place × trade is the narrower and better-qualified
 
 ## W1 — four hundred frames have to look like one afternoon
 
-> ⚠️ **GATE — do not post until re-rendered on our own stack.**
-> The asset is a third-party-model card (red line 6). The copy below is written and
-> ready, and its claims are all method claims we can stand behind — but the series'
-> credibility rests on *every image here being our own output*, and this one isn't yet.
-> Re-run the three pairs through our own pipeline, swap the file, then post.
-> Two further conditions once it does run:
+> 🔴 **POSTED 2026-09-11 with the gate uncleared.** `w1-wedding-portrait-retouch.jpg`
+> went out as-is — the ChatGPT-rendered card, not a re-render on our own stack. The gate
+> below is kept as written because it is still the standing rule; what follows is what
+> that means now that it has been crossed once.
+>
+> **What is NOT a problem.** Red line 1 holds: no client imagery, no real person, no
+> brand, nothing of anyone else's in the frame. Ownership is not in question either —
+> the output is ours to use commercially. Nobody outside is harmed by this post and
+> there is nothing to retract on those grounds.
+>
+> **What IS the problem**, and it is one sentence: the post says *"that's our own
+> material run against the same brief"* and ends *"Ask it of any tool, including ours."*
+> **"Our own material" is true. The implied pipeline is not ours.** If anyone in that
+> thread asks what made it, the honest answer is ChatGPT — and that answer sits badly
+> next to "including ours."
+>
+> ⚠️ **The live exposure is the first comment, not the post.** It offers *"happy to run
+> a few of your own frames."* If someone takes that up, our own stack has to produce
+> something that stands next to the card they just saw. That is now a delivery
+> commitment made against an asset we did not generate.
+>
+> **What to do, in order:**
+> 1. **Do not delete the post.** No rule protecting anyone else was broken, and pulling
+>    a first post from a group we just joined is more conspicuous than leaving it.
+> 2. **Re-render the three pairs on our own stack now** — not to fix the post, but
+>    because the sample offer is live and we need to know whether we can match it.
+> 3. **If asked what made it, say so plainly:** *"That card is an AI-generated concept —
+>    I made it to show what the brief asks for, not as output from our pipeline. Send me
+>    a frame and I'll run it on ours so you can compare."* That answer is fine. Being
+>    caught not volunteering it is not.
+> 4. **Do not repeat this post anywhere** until the swapped file exists.
+>
+> **The standing rule, unchanged:**
 > · **Never crop the footer.** *"AI-generated retouching concepts"* is the line that
 >   keeps this inside red line 2. Cropping it turns a concept card into a delivered-work
->   claim.
+>   claim. ⚠️ Confirm it is legible in what actually went out.
 > · It is the closest thing in this series to the Image Solutions India service-ad
 >   format we said we can't honestly run. It goes to a group **after** a teardown from
 >   this series has already stood there — never as the opening post, and never into B1.
+>   **It went out as an opening post**, which is the second thing this placement got
+>   ahead of.
 
 **Image:** `w1-wedding-portrait-retouch.jpg`
 *(1122×1402 — 4:5, the one asset in the series already cut to feed ratio. From
@@ -521,7 +553,7 @@ campaigns; the schedule runs them in sequence so each week has one thing to lear
 | **4** | 🖼️ S | **S1** · the floor, not the cut-out | Babies and Kids Photoshoot | Only after C6 and C1 have stood there. Same claim as C1, on a body plan that matters more in this room |
 | **5** | 🧸 C | **C5** · read the pictures first | Photographers HIRING photographers | Volume-brief failures, aimed at the group whose stated purpose is outsourcing |
 | **5** | 🖼️ S | **S1** | B3 | Third and last placement of the cross-genre post |
-| **—** | 💍 W | **W1** · four hundred frames | ⚠️ **one gate cleared, one standing** | A wedding group now exists (09-11). The asset is still ⛔ held until re-rendered on our own stack — see the gate, and Posted log |
+| ~~—~~ **ran 09-11** | 💍 W | **W1** · four hundred frames | a `摄影`+`婚礼` group | 🔴 Went out **ahead of the schedule and on the held asset**, as that group's opening post. Do not repeat until the file is re-rendered on our own stack. Next placement there should be P1 or S1 — see Posted log |
 
 **Join first, post later.** We are not a member of any of the three child groups, nor of any
 wedding group. A join can take days and is often screened — apply now, and read each feed
@@ -544,7 +576,7 @@ days after each post** — the stop rule counts real comments, not posts made._
 
 | Date | Voice | Post | Group | Found via | Views | Comments | DMs | Samples | Paid |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-09-11 | 💍 W | wedding — ⚠️ asset to confirm | ⚠️ record the group name + size | `摄影` + `婚礼` | | | | | |
+| 2026-09-11 | 💍 W | **W1** · `w1-wedding-portrait-retouch.jpg` 🔴 held asset | ⚠️ record the group name + size | `摄影` + `婚礼` | | | | | |
 
 ## 2026-09-11 · first wedding placement
 
@@ -559,16 +591,29 @@ second post, read the feed and answer one question: *are the posts in here photo
 talking shop, or brides asking for recommendations?* If it is the second, the group is
 consumer-side and Voice W's copy will read as an ad.
 
-⚠️ **Two things to confirm, because W1 is gated and this is the voice it sits in:**
+🔴 **The held asset went out.** `w1-wedding-portrait-retouch.jpg` — the
+ChatGPT-rendered card — was posted, and posted as the group's first impression of us.
+Full assessment and the response sequence are in the block at the top of **W1** above.
+The short version:
 
-1. **Which image went out.** `w1-wedding-portrait-retouch.jpg` is ⛔ **held under red
-   line 6** — made in a third-party chat model, not on our stack. If that file was the one
-   posted, the series' standing phrasing (*"in our own runs"*) does not cover it and the
-   post should not be repeated until the asset is re-rendered here. If something else went
-   out, record what.
-2. **Whether the footer survived.** If it was the held asset, *"AI-generated retouching
-   concepts"* must be visible and uncropped. That line is what keeps the post inside red
-   line 2 — crop it and a concept card becomes a claim about delivered client work.
+- **Nothing owed to anyone outside.** No client material, no real person, no brand, and
+  the output is ours to use. Red line 1 is intact and there is nothing to retract.
+- **One sentence in the copy is now doing work it can't support** — *"our own material
+  run against the same brief"*, closing on *"Ask it of any tool, including ours."* The
+  material is ours; the pipeline that made it isn't.
+- **The first comment is the live end of this**, not the post: it offers to run the
+  reader's own frames. That is a delivery promise measured against a card our stack did
+  not produce. **Re-render the three pairs on our own stack now** — to find out whether
+  we can match it, before someone sends frames.
+- **Still to check:** that the *"AI-generated retouching concepts"* footer is legible in
+  what went out. If it was cropped, that is a separate and worse problem — red line 2 —
+  and the post should come down.
+
+**The rule that actually failed here is sequencing, not the asset.** W1 was the one post
+in this file carrying a gate, and it went out first, into a brand-new group, before any
+teardown had established standing there. The schedule puts W last for that reason. The
+next placement in this group should be a teardown — P1 or S1, both clean, both our own —
+so the room sees the method posts the credibility is supposed to rest on.
 
 **What the replies will tell you.** This voice has a specific trap: if comments read as
 *"do you also do the film?"* or *"what's your rate per gallery?"*, the positioning landed.
