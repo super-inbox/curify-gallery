@@ -15,7 +15,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 
 | Voice | Buyer | Their actual problem | Posts | Groups |
 |---|---|---|---|---|
-| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held | none joined yet |
+| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held | **first post went out 2026-09-11** — see Posted log |
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
@@ -97,7 +97,11 @@ different days". Sell consistency, never retouch quality.
 buys both, and a pitch that sounds like it is coming for either gets read as a competitor
 rather than a supplier.
 
-**Groups to join** — none joined yet, so this voice cannot run at all:
+**Groups.** A first placement went out **2026-09-11**, into a group found on `摄影` +
+`婚礼` — trade + occasion rather than place + trade. See **Posted log** for what still has
+to be confirmed about it, including which image was used: W1's own asset is ⛔ held.
+
+Still worth joining, because place × trade is the narrower and better-qualified cut:
 `Destination wedding photographers`, `Bali wedding photographers`, `Phuket photographers`,
 `Wedding photographers [region]`.
 
@@ -517,7 +521,7 @@ campaigns; the schedule runs them in sequence so each week has one thing to lear
 | **4** | 🖼️ S | **S1** · the floor, not the cut-out | Babies and Kids Photoshoot | Only after C6 and C1 have stood there. Same claim as C1, on a body plan that matters more in this room |
 | **5** | 🧸 C | **C5** · read the pictures first | Photographers HIRING photographers | Volume-brief failures, aimed at the group whose stated purpose is outsourcing |
 | **5** | 🖼️ S | **S1** | B3 | Third and last placement of the cross-genre post |
-| **—** | 💍 W | **W1** · four hundred frames | ⛔ **blocked twice** | Needs (a) a wedding group joined and (b) the asset re-rendered on our own stack — see the gate |
+| **—** | 💍 W | **W1** · four hundred frames | ⚠️ **one gate cleared, one standing** | A wedding group now exists (09-11). The asset is still ⛔ held until re-rendered on our own stack — see the gate, and Posted log |
 
 **Join first, post later.** We are not a member of any of the three child groups, nor of any
 wedding group. A join can take days and is often screened — apply now, and read each feed
@@ -530,6 +534,46 @@ child group, C1 before C2, and S1 into a child group only after C6 and C1 have s
 **Two voices per week, maximum.** This is one pilot with a 20-comment stop rule across all
 of it. Running four voices at once burns the denominator before any single cell has enough
 n to read.
+
+---
+
+# Posted log
+
+_What actually went out, against the schedule above. **Fill the metric columns in a few
+days after each post** — the stop rule counts real comments, not posts made._
+
+| Date | Voice | Post | Group | Found via | Views | Comments | DMs | Samples | Paid |
+|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-11 | 💍 W | wedding — ⚠️ asset to confirm | ⚠️ record the group name + size | `摄影` + `婚礼` | | | | | |
+
+## 2026-09-11 · first wedding placement
+
+**How the group was found:** searched on **trade + occasion** — `摄影` + `婚礼` — rather
+than on a destination.
+
+That is a different cut from the one Voice W proposes above, which is **place × trade**
+(`Bali wedding photographers`, `Destination wedding photographers`). Trade-alone is the
+broader net and will find more groups; it will also pull in **couples planning their own
+wedding and vendors selling into them**, neither of which is our buyer. So before the
+second post, read the feed and answer one question: *are the posts in here photographers
+talking shop, or brides asking for recommendations?* If it is the second, the group is
+consumer-side and Voice W's copy will read as an ad.
+
+⚠️ **Two things to confirm, because W1 is gated and this is the voice it sits in:**
+
+1. **Which image went out.** `w1-wedding-portrait-retouch.jpg` is ⛔ **held under red
+   line 6** — made in a third-party chat model, not on our stack. If that file was the one
+   posted, the series' standing phrasing (*"in our own runs"*) does not cover it and the
+   post should not be repeated until the asset is re-rendered here. If something else went
+   out, record what.
+2. **Whether the footer survived.** If it was the held asset, *"AI-generated retouching
+   concepts"* must be visible and uncropped. That line is what keeps the post inside red
+   line 2 — crop it and a concept card becomes a claim about delivered client work.
+
+**What the replies will tell you.** This voice has a specific trap: if comments read as
+*"do you also do the film?"* or *"what's your rate per gallery?"*, the positioning landed.
+If they read as *"we already work with a videographer"*, the post was heard as coming for a
+line item they already sell — and the fix is in the copy, not the group.
 
 ---
 

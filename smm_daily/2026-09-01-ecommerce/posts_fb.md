@@ -36,6 +36,11 @@ throttles link-outs, and a native upload is not a link-out. CTA in the first com
 One asset per post.
 
 **Engine:** relationship / demand-mining. KPI is replies, not reach.
+
+⭐ **Finding new groups: search the storefront, not the craft.** A category word alone
+(`jewelry`, `fashion`) returns makers and designers — supply. Add `Shopify` / `Etsy
+sellers` / `ecommerce` and the results move to the people who sell, which is who every
+post in this file is written for. Recipe per category in the **Posted log** at the end.
 **Drift check:** ✅ group-scoped, off-Page — the Page identity is Sinosphere culture
 edutainment, so an ad-craft post in the Page feed would be Position Drift.
 
@@ -602,3 +607,58 @@ disk and already published. Palette is the company-deck one (`#FAF8F2` ground,
 Images come from `curify-frontend/public/images/nano_insp/`, which holds the **clean**
 copies — the `curify-gallery/` and `company-intro/deck/assets/` copies of the same
 shots are tile-watermarked and read heavy at feed size.
+
+---
+
+# Posted log
+
+_What actually went out. **Fill the metric columns in a few days after each post.**_
+
+| Date | Post | Category | Group | Found via | Views | Comments | DMs | Samples | Paid |
+|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-11 | jewelry — ⚠️ asset to confirm | jewelry | ⚠️ record the group name + size | `珠宝` + `Shopify` + `Ecommerce` | | | | | |
+
+## 2026-09-11 · first jewelry placement, and the qualifier that decides it
+
+**How the group was found:** the category word (`珠宝` / `jewelry`) **plus a storefront
+word** — `Shopify`, `Ecommerce`.
+
+⭐ **That qualifier is the whole trick, and it should be the default from here on.**
+A category word on its own returns the people who *make* the thing — jewellery designers,
+makers, brand-identity studios. That is **supply**. Adding a storefront or commerce word
+moves the result to the people who *sell* it, which is the buyer, and the buyer is who
+these posts are written for.
+
+This is the same trap caught for the fourth time:
+
+| Where | Query | What came back |
+|---|---|---|
+| FB | `Product Photography` | photographers — the group clustered by profession, so it gathered supply |
+| FB | `ghost mannequin` | retouching suppliers in Dhaka |
+| Pinterest | `jewelry brand` | **brand-identity designers** — *"brand" is a designer word* |
+| FB | `jewelry` alone | makers and designers, not sellers |
+
+> **Search the storefront, not the craft.** `jewelry Shopify sellers` beats `jewelry`;
+> `ecommerce sellers` beats `product photography`. If the group name describes a *skill*,
+> it is probably supply; if it describes a *shop*, it is probably demand.
+
+**Category × qualifier for the next ones** — every demo below already exists in
+`curify-gallery/ecommerce_workflow/`, so these need no new production:
+
+| Category | Search | Demo |
+|---|---|---|
+| Jewelry | `jewelry` + `Shopify` / `Etsy sellers` / `ecommerce` | `jewelry_viral_en.mp4` |
+| Beauty / skincare | `skincare brand owners` + `Shopify` | `skincare_viral_en.mp4` |
+| Fashion / apparel | `boutique owners` + `Shopify` — **not** `fashion photography` | `sneakers_viral_en.mp4` |
+| Home / furniture | `home decor sellers` + `Etsy` | `home_textiles_viral_en.mp4` |
+| Food / drink | `specialty coffee roasters` + `ecommerce` | `coffee_viral_en.mp4` |
+
+⚠️ **Record which asset went out.** If it was a workflow video, the category must match
+the group — a jewelry group gets `jewelry_viral_en.mp4`, never the coffee maker. That
+rule is the reason the video table exists, and it is the easiest one to break when posting
+quickly.
+
+⚠️ **This is a new group, so it has no standing yet.** Whatever went out is now the first
+thing that room has seen from us. Do not follow it with a second post for ~3 days, and do
+not follow it with a harder-selling one — the order that works everywhere else in this
+folder is teardown first, video second.
