@@ -1,12 +1,27 @@
-# Souvenir video — SMM thread (2026-09-10)
+# Souvenir video — SMM thread (2026-09-10, extended 2026-09-12)
 
 _The third product line. `smm_daily` already has threads for ecommerce
 (`2026-09-01-ecommerce`) and retouching
 (`2026-09-01-retouching` — `posts_fb.md` and `posts_rednote.md`); this opens the missing one._
 
+> **📄 2026-09-12 — this folder is now three files.** The copy moved out into per-channel files
+> and **this file is the strategy, the asset registry and the log**:
+>
+> | file | what it holds |
+> |---|---|
+> | **[`posts_fb.md`](posts_fb.md)** | English copy, **5 destinations**, dual traveller + resort/hotel voice. CTA: DM in body, `curify-ai.com` in first comment |
+> | **[`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md)** | 中文 copy, same 5 destinations. CTA: **私信 only, no link anywhere** |
+> | **this file** | place × trade matrix, the G1–G5 voices, red lines, schedule & log |
+>
+> The G1–G5 matrix below is still correct and is what single-trade rooms use. The new
+> dual-audience copy in `posts_fb.md` is for **destination groups**, where travellers and
+> businesses sit in the same room.
+
 **Offer:** a visitor's photo becomes a 20–30s cinematic souvenir video — sold as an add-on to a photo
 package that already exists, with no second shoot.
-**CTA:** DM, or WhatsApp **+86 176 9219 0183**.
+**CTA:** DM. English adds `curify-ai.com` in the first comment; Chinese adds nothing.
+_(WhatsApp **+86 176 9219 0183** appears in the older copy blocks below and still works, but the
+current CTA for new posts is the DM line above.)_
 
 ## The two rules that decide whether this works
 
@@ -25,32 +40,47 @@ pitch that failed in `Product Photography`-type groups.
 
 ## Assets
 
+**5 destinations as of 2026-09-12.** Bali and Dubai were rebuilt from scratch; Granada is new.
+All under `cultural_videos/`.
+
 | Destination | File | Status |
 |---|---|---|
-| Kyoto / kimono | `cultural_videos/kyoto/kyoto-kimono-30s-watermarked.mp4` (30MB) | ✅ ready |
-| China heritage (滕王阁) | `cultural_videos/tengwangge/tengwangge-30s-preview-watermarked.mp4` (22MB) | ✅ ready |
+| **Bali · melukat** | `bali/bali-melukat-30s-watermarked.mp4` (39MB) | ✅ **current, built 09-12** |
+| **Dubai · the creek** | `dubai/dubai-creek-30s-watermarked.mp4` (28MB) | ✅ **current, built 09-12** |
+| **Granada · Alhambra** | `granada/granada-alhambra-30s-watermarked.mp4` (36MB) | ✅ **current, built 09-12** |
+| Kyoto / kimono | `kyoto/kyoto-kimono-30s-watermarked.mp4` (30MB) | ✅ ready |
+| China heritage (滕王阁) | `tengwangge/tengwangge-30s-preview-watermarked.mp4` (22MB) | ✅ **preview cut ONLY** |
 | — compressed for email | `client_VC_portfolio/tourism-souvenir-demo-09-08/tengwangge-30s-souvenir-preview.mp4` (3MB) | ✅ |
-| **Bali** | `cultural_videos/bali/bali-resort-30s-watermarked.mp4` (26MB, 1080x1920) | ✅ **built 2026-09-10** |
-| — compressed for email | `client_VC_portfolio/tourism-souvenir-demo-09-08/bali-30s-souvenir-preview.mp4` (3.5MB) | ✅ |
-| Dubai / desert | `cultural_videos/dubai/dubai-desert-30s-watermarked.mp4` (21MB) | ✅ built 09-10 |
-| Santorini | — | ❌ |
+| ~~Bali v1 · resort~~ | `bali/bali-resort-30s-watermarked.mp4` | ❌ **superseded — do not post** |
+| ~~Dubai v1 · desert~~ | `dubai/dubai-desert-30s-watermarked.mp4` | ❌ **superseded — do not post** |
+| 滕王阁 `-realmodel` / `-v3` | `tengwangge/…` | ⛔ **never post — real model, no release** |
+| Santorini | — | ❌ no demo |
 
-✅ **The Bali gap is closed (2026-09-10).** Four Bali photographers are tracked in
-`relationship_leads.json` and one was already DM'd about this offer with nothing to show; there is now
-a Bali demo for that conversation.
+### Why v1 Bali and Dubai were rebuilt (2026-09-12)
 
-Built through `dev/jayw/video_pipelines/costume_story_video/projects/bali-resort/` — an original
-character look-locked from a costume sheet, 11 shots (cliff sunrise → temple gate → rice terrace →
-water temple → jungle swing → beach → frangipani courtyard → ocean pool → cliff temple → sunset
-shoreline → last light), exactly 30.0s at 9:16. No real person, no real resort or brand mark, and
-every sign left blank by instruction.
+Both were technically clean and commercially flat, and the diagnosis was the same twice:
+**eleven near-identical full-body wides**, one light (nine of eleven Bali frames were golden
+hour), nobody else in frame, and a wardrobe that fought the piece — Bali's ivory maxi dress is
+not admissible temple dress, and Dubai's cream abaya vanished against cream sand for eleven
+consecutive shots.
 
-⚠️ **Music is a neutral placeholder** (`leberch-travel`). It is deliberately NOT the Kyoto track
-(Japanese) or the Tengwangge cue (guzheng) — either reads as the wrong country — but it was chosen for
-neutrality, not because it is the right piece of music. Swap it before this becomes the flagship.
+The rebuilds fix the shot grammar (4 wides / 4 mediums / 2 no-face detail shots / exactly one
+close-up on the emotional beat), put the character *inside* a named ritual instead of walking
+past scenery, fill the frames with other people, and walk the light from cold dawn to lamplight.
+Two shipped bugs also surfaced and are fixed: v1 Bali's **final frame is rotated 90°**, and both
+v1 pieces ran their theme line off the bottom of the frame reading `one photo, one fi`.
 
-The costume try-on library is **Chinese costumes only**. Extending it — kimono, abaya, Greek, Balinese
-— is what unlocks destinations beyond the two we have.
+Full post-mortem: `curify-studio/dev/jayw/video_pipelines/costume_story_video/README.md`.
+The cultural research behind the three Latin destinations — which ritual, which landmark, which
+garment, and why each earned its frame — is in that pipeline's `STORYLINES.md`, with sources.
+
+⚠️ **Music on Bali / Dubai / Granada is a neutral placeholder** (`leberch-travel`). Each
+`project.json` records what its edit is actually scored for (gamelan/suling · oud over frame
+drum · nylon-string guitar into bulería). Fine for a group post; replace before any of these
+becomes a paid deliverable or a flagship ad.
+
+The costume try-on library is still **Chinese costumes only** — extending it is what unlocks
+destinations beyond these five.
 
 ---
 
@@ -67,8 +97,8 @@ Five trades sit inside the destination groups, and each buys a different thing. 
 | 🚐 **G4** Tour operator / safari / villa | `Japan tour operators`, `Bali villa & tour operators`, `Dubai desert safari operators` | **does not shoot** — sells seats and stays | a per-guest upsell requiring no photography skill |
 | 🏨 **G5** Luxury travel trade & expat business | `UAE luxury travel`, `Bali expats & business owners` | hotels, concierges, agencies | marketing content for their own property, and a referral line |
 
-**Destinations, per voice:** Kyoto · Bali · Dubai · China heritage (滕王阁). Santorini has no demo —
-do not post the pitch there.
+**Destinations, per voice:** Kyoto · Bali · Dubai · **Granada** · China heritage (滕王阁).
+Santorini has no demo — do not post the pitch there.
 
 ---
 
@@ -219,13 +249,27 @@ different businesses that happen to share a folder.
 | ✅ **sent** | ⚠️ record | Kyoto | `kyoto-kimono-30s` | ⚠️ record name + size | | | |
 | ✅ **sent** | ⚠️ record | China (滕王阁) | `tengwangge-30s` | ⚠️ record name + size | | | |
 | ✅ **09-11** | 🚐 G4 / 🏨 G5 | Dubai | `dubai-desert-30s` | ×3 — *travel* · *agents* · *tourism* | | | |
-| ◻︎ | 📸 G1 | Bali | `bali-resort-30s` | `Bali photographers` — 4 tracked leads, one already DM'd with nothing to show | | | |
+| ◻︎ | 🌍 **dual** | Bali | `bali-melukat-30s` | a **destination** group (travellers + businesses) — first test of the dual-audience copy | | | |
+| ◻︎ | 📸 G1 | Bali | `bali-melukat-30s` | `Bali photographers` — 4 tracked leads, one already DM'd with nothing to show | | | |
 | ◻︎ | 👘 G3 | Kyoto | `kyoto-kimono-30s` | `Kimono photographers` — tightest offer-to-buyer fit in the matrix | | | |
 | ◻︎ | 📸 G1 | Kyoto | `kyoto-kimono-30s` | `Kyoto photographers` — isolates place from trade | | | |
-| ◻︎ | 💍 G2 | Bali | `bali-resort-30s` | `Bali wedding photographers` — only after G1/Bali has stood a week | | | |
-| ◻︎ | 👘 G3 | China | `tengwangge-30s` | `Hanfu photography` — tests whether G3 is about kimono or costume generally | | | |
-| ◻︎ | 🚐 G4 | Bali | `bali-resort-30s` | `Bali villa & tour operators` | | | |
+| ◻︎ | 🌍 **dual** | **Granada** | `granada-alhambra-30s` | a Spain / Andalucía travel group — **brand-new destination, no prior cell** | | | |
+| ◻︎ | 🏨 G5 | **Granada** | `granada-alhambra-30s` | Granada hotels / carmen & tourism trade | | | |
+| ◻︎ | 🌍 **dual** | Dubai | `dubai-creek-30s` | re-run of the 09-11 Dubai cell with the **rebuilt** film and dual copy | | | |
+| ◻︎ | 💍 G2 | Bali | `bali-melukat-30s` | `Bali wedding photographers` — only after G1/Bali has stood a week | | | |
+| ◻︎ | 👘 G3 | China | `tengwangge-30s-preview` | `Hanfu photography` — tests whether G3 is about kimono or costume generally | | | |
+| ◻︎ | 🚐 G4 | Bali | `bali-melukat-30s` | `Bali villa & tour operators` | | | |
+| ◻︎ | 快手 | China | `tengwangge-30s-preview` | Kuaishou — no positioning conflict, highest 文旅/汉服 base. See `posts_rednote_kuaishou.md` | | | |
+| ⛔ | any | China | `tengwangge-realmodel` / `-v3` | **never — real model, no release on file** | | | |
 | ❌ | any | Santorini | — | **no demo — do not post the pitch there** (rule 1) | | | |
+
+⚠️ **The two 09-11/earlier rows above used `bali-resort-30s` / `dubai-desert-30s`, which are now
+superseded.** Any re-post of those cells must use `bali-melukat-30s` / `dubai-creek-30s`. The v1
+files stay in the gallery as the "before" side of the rebuild comparison, not as deliverable work.
+
+🌍 **`dual` is a new voice row**, added 2026-09-12: the traveller + property copy in
+[`posts_fb.md`](posts_fb.md), for destination groups rather than trade groups. It is a genuinely
+untested cell — read it on *which half replies*, per the note at the end of that file.
 
 ---
 
