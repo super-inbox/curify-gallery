@@ -55,26 +55,34 @@ asset on a garment first.
 `curify-gallery/ecommerce_workflow/` — **29 videos, all 1080×1920, h264+AAC**, two
 families:
 
-| Family | Count | Length | Structure | On-screen language |
-|---|---:|---|---|---|
-| `<product>_marketing_kit_en.mp4` | 9 | ~12.6 s | `PRODUCT PHOTO → HERO POSTER → AMAZON LISTING → SOCIAL CAMPAIGNS` | ✅ **fully English** — EN narration over ducked music, EN cards |
-| `<product>_viral_en.mp4` | 20 | ~15–30 s | title card → 5 captioned product shots → CTA card | ⚠️ **Chinese headline** + small EN subhead |
+| Family | Count | Length | Structure | Text | Audio |
+|---|---:|---|---|---|---|
+| `<product>_marketing_kit_en.mp4` | 9 | ~12.6 s | `PRODUCT PHOTO → HERO POSTER → AMAZON LISTING → SOCIAL CAMPAIGNS` | **English only** | music |
+| `<product>_viral_en.mp4` | 20 | ~15–30 s | title card → 5 captioned product shots → CTA card | **bilingual** CN + EN | music |
 
-🚨 **`_en` in the filename does not mean the video is in English.** The `viral` family
-leads with a Chinese title card — `红酒 · 电商视觉`, `精致珠宝 · 电商主图` — with the English
-line ("Wine, listing-ready.") set small underneath. Only the `marketing_kit` family is
-English throughout.
+**Both families are music-only — there is no speech in any of these videos.** That makes
+them language-portable by construction: the same file works in an English group and a
+Chinese one, and nothing has to be dubbed or subtitled. It also means autoplay-muted costs
+us nothing, which is most of the feed.
 
-**For an English-language group, prefer a `marketing_kit`.** Where only a `viral` exists
-for the category, that is a deliberate trade-off to make, not an accident to discover after
-posting: a Chinese title card in a US/UK seller group either reads as a China-supply-chain
-signal (sometimes useful — many of these sellers source there) or as simply foreign. It is
-not neutral, and it undercuts English post copy.
+**The `viral` family is bilingual, not Chinese.** Every card carries both — `红酒 · 电商视觉`
+with *"Wine, listing-ready."* under it, `04 场景图 / Lifestyle`, `03 戒指细节 / Ring Detail`.
+An English reader gets the meaning. The only real difference is **prominence**: the Chinese
+line is set larger, so the card reads Chinese-first at a glance even though it is legible in
+both.
 
-**Categories with no English option at all:** wine, coffee, tea, chocolate, jewelry,
-sneakers, candle, flowers, perfume, eyewear, home textiles, backpack, desk lamp, game
-stick, speaker, water bottle, fruit drinks. Re-cutting the title card of the top few is
-cheap and is the highest-leverage production task for this folder.
+**What that is worth knowing for, and what it isn't.** It is not a comprehension barrier and
+not a reason to hold a post. It is a positioning signal: a bilingual card in a US/UK seller
+room reads as a China-supply-chain operation, which for this audience is often a *feature* —
+many of these sellers source there — but it should be a choice, not a surprise. When you
+want English to lead visually, use a `marketing_kit`; when the bilingual read is fine or
+helpful, `viral` is fine.
+
+**Categories that exist only as `viral`** (bilingual, CN set larger): wine, coffee, tea,
+chocolate, jewelry, sneakers, candle, flowers, perfume, eyewear, home textiles, backpack,
+desk lamp, game stick, speaker, water bottle, fruit drinks. Nothing is blocked by this —
+swapping the type hierarchy on the top few title cards is a cheap polish job, not a
+prerequisite.
 
 **Pick the video that matches the group's category** — do not send the coffee maker
 to an apparel group:
@@ -618,9 +626,9 @@ register survives there at all.
 
 | Status | Post | Category | Group | Found via | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|
-| ✅ **09-12** | `wine_viral_en.mp4` ⚠️ CN headline | food & drink | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
-| ✅ **09-11** | `serum_marketing_kit_en.mp4` ✅ EN |  beauty | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
-| ✅ **09-11** | jewelry — ⚠️ record asset; if `jewelry_viral_en` it is CN headline | jewelry | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
+| ✅ **09-12** | `wine_viral_en.mp4` · bilingual | food & drink | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
+| ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | beauty | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
+| ✅ **09-11** | jewelry — ⚠️ record asset | jewelry | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
 | ◻︎ | **A1** · neck joint | apparel | B1 **first, alone** | — | | | |
 | ◻︎ | **A2** · inner-layer bleed | apparel | B3, B2 | — | | | |
 | ◻︎ | **A3** · silhouette drift | apparel | B3, B1 | — | | | |
@@ -655,12 +663,13 @@ search lands on drinkers far more often than on sellers. The buyer-side qualifie
 `liquor store owners`. **Read the feed before posting there again:** are people posting
 bottles they *sell*, or bottles they *drank*?
 
-⚠️ **The video leads in Chinese.** `wine_viral_en.mp4` opens on `红酒 · 电商视觉` with
-"Wine, listing-ready." small underneath — see the language warning in the workflow library
-section above. It went into three English-language rooms. **And there is no English wine
-video to have used instead** — wine exists only in the `viral` family. So this was not an
-avoidable mistake today; it is a production gap, and it is worth closing because food &
-drink is a category where we have five demos and no English cut of any of them.
+**On language — the card is bilingual and there is no speech, so nothing was lost here.**
+`wine_viral_en.mp4` carries `红酒 · 电商视觉` with *"Wine, listing-ready."* underneath and
+`04 场景图 / Lifestyle` on the scene card; an English reader gets all of it, and the audio is
+music, so there is nothing to mishear. The Chinese is simply set larger, so the card reads
+Chinese-first at a glance. In a US/UK seller room that reads as a China-supply-chain
+operation — often a *feature* for this audience, many of whom source there, but worth
+knowing you are sending it. See the workflow library section above.
 
 ✅ **The bottle labels are fictional** — `RESERVA / 2020`, `CHÂTEAU LUMIÈRE` — synthetic and
 not a real winery's marks, so red line 4 (no third-party brands in the imagery) holds.
@@ -680,10 +689,10 @@ Sent to **ecommerce**, **shopify** and **makeup** groups.
 video table exists to enforce — this is the rule that gets broken when posting quickly, and
 it wasn't.
 
-✅ **And the asset was the English one.** Serum exists only as `serum_marketing_kit_en.mp4`,
-which is English throughout — so this post did not carry the Chinese-title-card problem the
-09-12 wine post did. That was luck rather than choice, which is why the language column now
-exists in the table below.
+✅ **The asset was an English-only card.** Serum exists only as `serum_marketing_kit_en.mp4`
+— the `marketing_kit` family is English throughout, where `viral` is bilingual. Neither has
+speech. The table below now records which is which, so the choice is made rather than
+discovered.
 
 ✅ **`ecommerce` and `shopify` are storefront words**, so those two rooms should be sellers.
 That is the qualifier working as intended.
@@ -721,18 +730,18 @@ Same trap, caught four times:
 **Category × qualifier for the next ones** — every demo below already exists in
 `curify-gallery/ecommerce_workflow/`, so none of this needs new production:
 
-| Category | Search | Demo | On-screen language |
+| Category | Search | Demo | Text |
 |---|---|---|---|
-| Jewelry | `jewelry` + `Shopify` / `Etsy sellers` / `ecommerce` | `jewelry_viral_en.mp4` | ⚠️ CN headline |
-| Beauty / skincare | `skincare brand owners` + `Shopify` — **not** `makeup` | **`serum_marketing_kit_en.mp4`** | ✅ EN |
-| | | `skincare_viral_en.mp4` | ⚠️ CN headline |
-| Fashion / apparel | `boutique owners` + `Shopify` — **not** `fashion photography` | **`handbag_marketing_kit_en.mp4`** | ✅ EN |
-| | | `sneakers_viral_en.mp4` | ⚠️ CN headline |
-| Home / appliance | `home decor sellers` + `Etsy` | **`blender_marketing_kit_en.mp4`**, `diffuser_marketing_kit_en.mp4` | ✅ EN |
-| | | `home_textiles_viral_en.mp4`, `candle_viral_en.mp4` | ⚠️ CN headline |
-| Food / drink | `specialty coffee roasters` + `ecommerce` | `coffee_viral_en.mp4`, `tea_viral_en.mp4`, `wine_viral_en.mp4` | ⚠️ CN headline — **no EN option exists** |
-| Electronics / accessories | `ecommerce sellers` + `Shopify` | **`earbuds_marketing_kit_en.mp4`**, `camera_marketing_kit_en.mp4`, `watch_marketing_kit_en.mp4`, `suitcase_marketing_kit_en.mp4` | ✅ EN |
-| Any / flagship | — | **`product_to_marketing_kit_en.mp4`** | ✅ EN |
+| Jewelry | `jewelry` + `Shopify` / `Etsy sellers` / `ecommerce` | `jewelry_viral_en.mp4` | bilingual |
+| Beauty / skincare | `skincare brand owners` + `Shopify` — **not** `makeup` | **`serum_marketing_kit_en.mp4`** | EN only |
+| | | `skincare_viral_en.mp4` | bilingual |
+| Fashion / apparel | `boutique owners` + `Shopify` — **not** `fashion photography` | **`handbag_marketing_kit_en.mp4`** | EN only |
+| | | `sneakers_viral_en.mp4` | bilingual |
+| Home / appliance | `home decor sellers` + `Etsy` | **`blender_marketing_kit_en.mp4`**, `diffuser_marketing_kit_en.mp4` | EN only |
+| | | `home_textiles_viral_en.mp4`, `candle_viral_en.mp4` | bilingual |
+| Food / drink | `specialty coffee roasters` + `ecommerce` | `coffee_viral_en.mp4`, `tea_viral_en.mp4`, `wine_viral_en.mp4` | bilingual — no EN-only cut |
+| Electronics / accessories | `ecommerce sellers` + `Shopify` | **`earbuds_marketing_kit_en.mp4`**, `camera_marketing_kit_en.mp4`, `watch_marketing_kit_en.mp4`, `suitcase_marketing_kit_en.mp4` | EN only |
+| Any / flagship | — | **`product_to_marketing_kit_en.mp4`** | EN only |
 
 ⚠️ **Record which asset went out** for the jewelry post — if it was a workflow video, the
 category must match the group (`jewelry_viral_en.mp4`, never the coffee maker).
