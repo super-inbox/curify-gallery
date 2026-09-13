@@ -158,14 +158,14 @@ endpoint both 404 until those go out.
 
 | SKU | cards | ZIP | delivery PDF |
 |---|---|---|---|
-| `character-breakdown` | 10 | 9.2 MB | — none built — |
-| `travel-scrapbook` | 10 | 9.5 MB | — none built — |
-| `landmark-posters` | 10 | 11.3 MB | — none built — |
-| `travel-journal` | 10 | 11.1 MB | — none built — |
-| `world-drinks` | 9 | 7.8 MB | — none built — |
-| `artist-bios` | 10 | 10.7 MB | — none built — |
-| `fashion-collage` | 10 | 9.0 MB | — none built — |
-| `clothing-evolution` | 10 | 7.1 MB | — none built — |
+| `character-breakdown` | 10 | 9.2 MB | `etsy-packs/character-breakdown-delivery.pdf` |
+| `travel-scrapbook` | 10 | 9.5 MB | `etsy-packs/travel-scrapbook-delivery.pdf` |
+| `landmark-posters` | 10 | 11.3 MB | `etsy-packs/landmark-posters-delivery.pdf` |
+| `travel-journal` | 10 | 11.1 MB | — blocked — |
+| `world-drinks` | 9 | 7.8 MB | — blocked — |
+| `artist-bios` | 10 | 10.7 MB | `etsy-packs/artist-bios-delivery.pdf` |
+| `fashion-collage` | 10 | 9.0 MB | — blocked — |
+| `clothing-evolution` | 10 | 7.1 MB | `etsy-packs/clothing-evolution-delivery.pdf` |
 
 Card counts and ZIP sizes were verified against the archives and match the registry
 exactly. Watermark separation is correct: every pack copy spot-checked differs from
@@ -259,13 +259,13 @@ with the caveat in *Print size* below.
 
 > Clothing-history timelines for Scottish, Mexican, Russian, Victorian English, Spanish, Italian, Vietnamese, Nigerian, Turkish and Greek dress. Six eras per poster, each with a cartoon figure in period dress, the era name, a short style note and a numbered dotted timeline. Clean, kawaii and legible from across a room. For classrooms, costume departments and fashion-history teaching.
 
-## Visual review — 3 ship, 1 fixable, 4 blocked
+## Visual review — 5 uploading, 3 blocked
 
 The 08-28 rule held exactly: **short structured labels render correctly, long prose
 degrades**. Every pack that survived review is label-driven; every pack that failed
 asked the model to write sentences.
 
-### Ship after a size pass
+### Uploading to Etsy (5)
 
 - **`landmark-posters`** — strongest of the round. Spot-checked facts are right: Taj
   Mahal 1632–1653, dome ~73 m, UNESCO 1983; Stonehenge earliest phase ~3000 BC,
@@ -278,30 +278,43 @@ asked the model to write sentences.
 - **`travel-scrapbook`** — attractive and legible. Nits: "Kyoto Chronicles**.**" has a
   stray full stop, one caption ends mid-sentence on a comma, and the Kyoto postmark
   reads **OCT 15, 1998** while a polaroid on the same sheet is captioned **'23**.
+- **`clothing-evolution`** — content is accurate throughout: the 1746 Dress Act ban,
+  the Victorian romantic revival, Turkey's Tulip Period, Mexico's Independence &
+  Porfiriato, and Vietnam's Dong Son → Lý-Trần → Lê → Nguyễn (with the Nhật Bình
+  collar) → French colonial → modern all check out. **Correction to the first pass:**
+  I initially blocked this over the "Curify" mark baked into each top-left corner. It
+  is a small corner badge on our own product and the operator's call is that it ships.
+  One of them was also described here as reading like a Google/Microsoft mark — on a
+  4× zoom it is a generic gradient "C". What genuinely remains is cosmetic: the badge
+  is a *different* invented mark on each of the ten sheets, and one renders
+  "Curify**,**" with a stray comma.
+- **`character-breakdown`** — ships, but read the cover note below first. The art is
+  excellent and the annotation *structure* is right; the **text is not proofed**. On the
+  Sun Wukong sheet alone: "Fo**o**cuing gaze", "Playful **emirk**", "**Bronze bronze**
+  Mirror", "Jade Rabbit **deesign**", "Moisturizing **calve**" (salve). Lin Daiyu has
+  "**Miniatare** Incense Burner"; Guan Yu has "Cetton Wrap" and "Engravd & Brass". That
+  sheet also gives a Ming-dynasty mythological figure an **"Intimate Undergarment
+  Layer"** of micro-fibre boxer briefs, *"Nimbus" brand*, plus a tube of *"Heavenly
+  Glow"* moisturiser — Lin Daiyu handles the same slot correctly with a period 肚兜.
 
-### Fixable
+  ⚠️ **The cover image is the worst sheet in the pack.** `cover_image` is
+  `template-character-guan-yu.jpg`, and that sheet carries **no character name** — in
+  its place is a garbled sentence: *"Redesigned Guan Yu mn a traditional styles and each
+  concept, coal for desisgned roins, and the once words."* It is the Etsy storefront
+  hero **and** the hero embedded in the delivery PDF, so it is the first thing a buyer
+  sees twice over. Swapping `cover_image` to a cleanly titled sheet and rebuilding the
+  PDF is a one-line change with no regeneration — `zhuge-liang`, `lin-daiyu`,
+  `lin-chong` and `nezha` are all properly titled.
 
-- **`character-breakdown`** — art is excellent, text is not proofed. On the Sun Wukong
-  sheet alone: "Fo**o**cuing gaze", "Playful **emirk**", "**Bronze bronze** Mirror",
-  "Jade Rabbit **deesign**", and "Moisturizing **calve**" (salve). Lin Daiyu has
-  "**Miniatare** Incense Burner". Two further problems: headers are inconsistent across
-  the set (*Sun Wukong / Journey to the West* vs *DREAM OF THE RED CHAMBER — LIN DAIYU:
-  CONCEPT DEPTH BREAKDOWN* vs *NEZHA: PANORAMIC CHARACTER D…*), as are the layout
-  systems; and the Sun Wukong sheet gives a Ming-dynasty mythological figure an
-  **"Intimate Undergarment Layer"** of micro-fibre boxer briefs, *"Nimbus" brand*, plus
-  a tube of *"Heavenly Glow"* moisturiser. Lin Daiyu handles the same slot correctly
-  with a period 肚兜.
+  Header audit across the ten: **six are titled** (Lin Chong, Lin Daiyu, Nezha, Sun
+  Wukong, Tang Sanzang, Zhuge Liang), in six different typographic treatments;
+  **`jia-baoyu`, `wu-song` and `zhu-bajie` carry no character name at all**, and
+  `zhu-bajie` is headed only with the generic "CHARACTER DEPTH BREAKDOWN". Four of ten
+  sheets therefore do not identify who they depict. Filenames are correct, the posters
+  are not.
 
-### Blocked
+### Blocked (3)
 
-- **`clothing-evolution`** — *content is clean and accurate* (the 1746 Dress Act ban,
-  the Victorian romantic revival and the six-era structure are all right), but **all
-  ten posters carry a fabricated "Curify" logo baked into the top-left corner**, and
-  it is a *different invented mark on every sheet* — a sun, a bee, a magnifying glass
-  with a face, a blue badge, one rendered "Curify**,**" with a stray comma, and one
-  multicolour "C" roundel that reads as a Google/Microsoft mark. This is in the **paid
-  pack files**, not the watermarked gallery copies. Regenerate with the brand mark
-  suppressed; nothing else about this pack needs work.
 - **`world-drinks`** — four independent problems. **(1) Live trademarks rendered as
   branded product**: Drambuie and Irn-Bru (Scottish), Angostura Bitters and Mount Gay
   Rum (Caribbean), Metaxa (Greek), and a stag-head green bottle that is Jägermeister
@@ -368,12 +381,36 @@ Checked against `HEAD`: none of the 42 missing ids existed before this round, so
 is lost writes, not `Skip (exists)`. The staging-dir collision is fixed (pid + random
 suffix), but the JSON race is not — **run sequentially**, or re-sync the gallery after.
 
+## Delivery PDFs — 5 of 8 built (2026-09-13)
+
+Built with `scripts/build_etsy_delivery_pdf.py` into `curify-gallery/etsy-packs/`, for
+the five SKUs going up on Etsy: `landmark-posters`, `artist-bios`, `travel-scrapbook`,
+`clothing-evolution`, `character-breakdown`. Verified by rendering page 1, not by exit
+code — each carries the **clean** pre-watermark hero (the builder resolves
+`packs/<sku>/` ahead of the same-named watermarked gallery file), the right card count,
+and a real `/URI` link annotation rather than painted text.
+
+Not built for the three blocked SKUs: the hero is embedded in the PDF, so any built now
+is discarded when the pack is regenerated.
+
+⚠️ **`curify-gallery/etsy-packs/` is untracked in git** — `?? etsy-packs/`, not
+ignored, simply never committed. That includes the seven PDFs from 08-28 that serve the
+live listings. They regenerate from the script plus the registry, so nothing is
+unrecoverable, but the only copy of the artifact that carries a paying buyer to their
+download currently lives on one laptop.
+
 ## Next
 
-- Regenerate `clothing-evolution` without the brand mark — best content-to-effort ratio
-  in the round.
-- Proofread and re-render `character-breakdown`; drop the modern-underwear slot.
-- Decide on `world-drinks`, `fashion-collage`, `travel-journal`: each needs a prompt
-  change, not a retouch. All three are currently `active: true` in both registries.
+- Swap `character-breakdown`'s `cover_image` off the garbled Guan Yu sheet and rebuild
+  its PDF — one line, no regeneration, and it is the storefront hero.
+- Proofread and re-render `character-breakdown`; title the four untitled sheets and drop
+  the modern-underwear slot.
+- Set `active: false` on `world-drinks`, `fashion-collage` and `travel-journal` before
+  the registry ships. All three are currently `active: true` in both registries, so a
+  deploy as-is puts the Lorem Ipsum page and the Drambuie/Irn-Bru artwork on sale.
+- Then fix them at the prompt, not by retouching: drop named brands from `world-drinks`,
+  drop the shop-footer from `fashion-collage`, and constrain `travel-journal`'s journal
+  text to short dated lines rather than paragraphs.
 - Re-sync the 42 lost gallery records.
-- Append the format line to all 8 descriptions; build the 8 delivery PDFs.
+- Append the format line to all 8 descriptions, with the DPI caveat resolved.
+- Commit `curify-gallery/etsy-packs/`, or add it to the large-asset sync.
