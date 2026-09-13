@@ -1,7 +1,7 @@
 # 小红书 · 快手 —— 旅行纪念短片 · 5 个目的地（2026-09-12）
 
 _英文 Facebook 版本在 **[`posts_fb.md`](posts_fb.md)**。
-place × trade 矩阵、投放日程和素材规则仍在 **[`posts_souvenir_video.md`](posts_souvenir_video.md)**。
+素材表、发布状态、place × trade 矩阵、红线与投放日志在 **[`README.md`](README.md)**。
 本文件只放**中文文案**。_
 
 **2026-09-12 新增：** 巴厘岛「melukat」、迪拜「河湾」、格拉纳达「阿尔罕布拉」三条新片，
@@ -235,8 +235,8 @@ place × trade 矩阵、投放日程和素材规则仍在 **[`posts_souvenir_vid
 
 ## 记录
 
-每发一条，回填 [`posts_souvenir_video.md`](posts_souvenir_video.md) 的
-**Schedule & progress** 表，再镜像到 `gtm_tools/outreach_denominator.csv`。
+每发一条，回填 [`README.md`](README.md) 的 **Schedule & log** 表，
+再镜像到 `gtm_tools/outreach_denominator.csv`。
 **必须记下账号、平台和当时的粉丝数／播放量** —— 没有分母，
 这条渠道就重复了 `outreach_denominator.csv` 里 RedNote 那一行的老毛病：
 一单 ¥27,800 成交，但没有分母，跟谁都没法比。

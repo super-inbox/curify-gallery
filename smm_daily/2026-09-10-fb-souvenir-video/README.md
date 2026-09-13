@@ -1,22 +1,175 @@
-# 2026-09-10-fb-souvenir-video
+# Souvenir video — SMM thread (opened 2026-09-10)
 
-The souvenir-video SMM thread: a visitor's photo becomes a ~30s cinematic film of the place
-they were. Three files.
+A visitor's photo becomes a ~30s cinematic film of the place they were. Sold as an add-on to a
+photo package that already exists, with **no second shoot**.
+
+This file is the whole strategy: assets, publish status, the voice matrix, the red lines and the
+log. The copy lives in two channel files.
 
 | file | what it is |
 |---|---|
-| [`posts_souvenir_video.md`](posts_souvenir_video.md) | **Start here.** Strategy, the place × trade matrix (G1–G5), the asset registry, red lines, and the schedule log |
-| [`posts_fb.md`](posts_fb.md) | English copy for Facebook groups — 5 destinations, dual traveller + resort/hotel voice. CTA: DM in body, `curify-ai.com` in first comment |
+| [`posts_fb.md`](posts_fb.md) | English copy for Facebook groups — 5 destinations, dual traveller + resort/hotel voice, plus the five single-trade variants. CTA: DM in body, `curify-ai.com` in first comment |
 | [`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md) | 中文 copy for 小红书 / 快手 — same 5 destinations. CTA: 私信 only, **no link anywhere** |
 
-**5 destinations:** Bali · Dubai · Granada · Kyoto · 滕王阁. Videos live in
-`curify-gallery/cultural_videos/<destination>/`, built by
+---
+
+## Assets × publish status
+
+**5 destinations.** Videos in `curify-gallery/cultural_videos/<destination>/`, built by
 `curify-studio/dev/jayw/video_pipelines/costume_story_video/`.
 
-## Three things to check before posting anything
+✅ posted · ◻︎ not yet · ⛔ never
 
-1. ⛔ **Never post `tengwangge-30s-realmodel` or `-v3`** — they reproduce a real model's likeness
-   and no release is on file. The `-preview` cut is the one that posts.
-2. ⛔ **Never post `bali-resort-30s` or `dubai-desert-30s`** — superseded by the 09-12 rebuilds.
-3. ⚠️ **小红书 has an account-positioning conflict** that must be resolved before posting there.
-   Kuaishou does not. See the second section of `posts_rednote_kuaishou.md`.
+| Destination | Asset (`cultural_videos/`) | FB groups | 小红书 | 快手 |
+|---|---|---|---|---|
+| **Bali · melukat** | `bali/bali-melukat-30s-watermarked.mp4` (39MB) | ✅ **09-13** — found via `bali photographer`, `bali villa` | ✅ **09-13** | ✅ **09-13** |
+| **Dubai · the creek** | `dubai/dubai-creek-30s-watermarked.mp4` (28MB) | ✅ **09-13** — `dubai resorts`, `dubai travel` | ✅ **09-13** | ✅ **09-13** |
+| **Granada · Alhambra** | `granada/granada-alhambra-30s-watermarked.mp4` (36MB) | ✅ **09-13** — `granada`, `granada tour` | ✅ **09-13** | ✅ **09-13** |
+| **Kyoto · kimono** | `kyoto/kyoto-kimono-30s-watermarked.mp4` (30MB) | ◻︎ *(an earlier cut went out pre-log — group unrecorded)* | ◻︎ | ◻︎ |
+| **China · 滕王阁** | `tengwangge/tengwangge-30s-preview-watermarked.mp4` (22MB) | ◻︎ *(earlier, pre-log)* | ◻︎ | ◻︎ **best first pick** — no positioning conflict, largest 文旅/汉服 base |
+| ~~Bali v1 · resort~~ | `bali/bali-resort-30s-watermarked.mp4` | ⛔ superseded | ⛔ | ⛔ |
+| ~~Dubai v1 · desert~~ | `dubai/dubai-desert-30s-watermarked.mp4` | ⛔ superseded | ⛔ | ⛔ |
+| 滕王阁 `-realmodel` / `-v3` | `tengwangge/…` | ⛔ **never** | ⛔ | ⛔ |
+| Santorini | — | ❌ no demo — do not post the pitch there | ❌ | ❌ |
+
+### Two things the 09-13 round still owes the log
+
+1. **Group names and member counts.** The search keywords above record *how* the groups were
+   found, not *which* groups received the post or how big they were. Without the group and its
+   size there is no denominator, and the cell cannot be compared to anything — the exact failure
+   already sitting in `gtm_tools/outreach_denominator.csv` for RedNote, where a ¥27,800 close has
+   no denominator and so compares to nothing. Fill these in from the posting history while it is
+   still recoverable.
+2. **小红书 went out against the positioning docs.** `posts_rednote_kuaishou.md` warns that both
+   existing 小红书 accounts (Jay, Curify) have positioning documents that explicitly forbid 硬广,
+   and that Curify's is 文字为主 besides. Three destination posts have now gone out anyway. That
+   is a decision, and it needs to be *recorded* as one: either update
+   `curify-frontend/docs/smm-account-positioning-playbook-2026-07-05.md` to permit it, or open the
+   third (service) account and move these there. Leaving the docs contradicting the behaviour is
+   the thing to avoid.
+
+⚠️ **Music on Bali / Dubai / Granada is a neutral placeholder** (`leberch-travel`). Each
+`project.json` records what its edit is actually scored for (gamelan/suling · oud over frame drum ·
+nylon-string guitar into bulería). Fine for a group post; replace before any of these becomes a
+paid deliverable or a flagship ad.
+
+### Why v1 Bali and Dubai were rebuilt (2026-09-12)
+
+Both were technically clean and commercially flat, same diagnosis twice: **eleven near-identical
+full-body wides**, one light (nine of eleven Bali frames were golden hour), nobody else in frame,
+and a wardrobe that fought the piece — Bali's ivory maxi dress is not admissible temple dress, and
+Dubai's cream abaya vanished against cream sand for eleven consecutive shots.
+
+The rebuilds fix the shot grammar (4 wides / 4 mediums / 2 no-face detail shots / exactly one
+close-up on the emotional beat), put the character *inside* a named ritual instead of walking past
+scenery, fill the frames with people, and walk the light from cold dawn to lamplight. Two shipped
+bugs also surfaced and are fixed: v1 Bali's **final frame is rotated 90°**, and both v1 pieces ran
+their theme line off the bottom of the frame reading `one photo, one fi`.
+
+Full post-mortem and the cultural research with sources: that pipeline's `README.md` and
+`STORYLINES.md`.
+
+The costume try-on library is still **Chinese costumes only** — extending it is what unlocks
+destinations beyond these five.
+
+---
+
+## The two rules that decide whether this works
+
+**1. The demo must be of the place the group is about.** A Kyoto video in a Bali group is the
+generic pitch this whole design exists to avoid — the advantage is that the viewer recognises their
+own location before reading a word. **The place name and the video swap together, never one
+without the other.**
+
+**2. The voice must match the trade, not just the place.** These groups are *not* one audience cut
+five ways by geography. A destination photographer sells sessions; a tour operator sells seats and
+has never edited a photo; a hotel sells rooms and is buying marketing, not a product to resell. To
+a photographer "no second shoot" is the hook; to an operator it is meaningless because they were
+never shooting.
+
+Both apply at once: **place × trade**. Get either wrong and it reads as the cold pitch that failed
+in `Product Photography`-type groups.
+
+## Groups × voice
+
+Pick the row by **who is in the group**, then swap in the destination and its video. Full copy for
+each is in [`posts_fb.md`](posts_fb.md).
+
+| Voice | Group shape | Who they are | What they're actually buying |
+|---|---|---|---|
+| 🌍 **dual** | destination groups — travellers *and* businesses in one room | both | *the* default since 09-12; traveller para + property para, one ask |
+| 📸 **G1** Destination photographer | `Bali photographers`, `Kyoto photographers` | sells sessions, edits their own work | a new line item on a package they already sell |
+| 💍 **G2** Wedding / elopement | `Bali wedding photographers`, `Destination weddings` | higher ticket, already sells a film | ⚠️ **not** a film. The short social cut the couple posts that week |
+| 👘 **G3** Costume & cultural experience | `Kimono photographers`, `Hanfu photography` | rents the costume, shoots as part of the experience | the souvenir the guest came for, upgraded |
+| 🚐 **G4** Tour operator / safari / villa | `Bali villa & tour operators`, `Dubai desert safari operators` | **does not shoot** — sells seats and stays | a per-guest upsell needing no photography skill |
+| 🏨 **G5** Luxury travel trade & expat business | `UAE luxury travel`, `Bali expats & business owners` | hotels, concierges, agencies | content for their own property, and a referral line |
+
+| | G1 photographer | G2 wedding | G3 costume | G4 operator | G5 trade |
+|---|---|---|---|---|---|
+| **Opening noun** | your session | your couple | your guest | your guest | your property |
+| **The hook** | add-on to an existing package | fills the six weeks before the film | the souvenir they came for | per-guest upsell, no skill needed | content you already own the stills for |
+| **Free sample asked of them** | a frame from a recent session | a sneak-peek frame | a guest or promo frame | a guest phone photo | either, or an introduction |
+| **Must never say** | — | "replaces your film" | — | anything about shooting, sessions or editing | a long pitch |
+
+---
+
+## Red lines
+
+1. ⛔ **Never post `tengwangge-30s-realmodel` or `-v3`.** They reproduce the likeness of a **real
+   model** whose photographs a client supplied for a tender, and **no release is on file**. Tender
+   material in a private repo. The `-preview` cut is synthetic and is the one that posts. In doubt,
+   post Kyoto.
+2. ⛔ **Never post `bali-resort-30s` or `dubai-desert-30s`.** Superseded 09-12.
+3. ⛔ **No client claims.** The only closed deal in this vertical (client-007, ¥27,800) was 文创
+   merchandise, **not video**. **No attraction, hotel, photographer or operator has bought this
+   format.** Every film is an example of the *format*. "Who else have you done this for" is the
+   first question in a trade room; the honest answer is "nobody yet — that's why the first is free."
+4. ⛔ **Never caption a demo** as a guest, a client session, or a named property's content. Every
+   character is invented and depicts nobody.
+5. ⛔ **No prices** in the post body. Price is a DM conversation.
+6. **Single native video, never a carousel.** Proven dead on FB·Curify.
+7. **Groups only, never the FB·Curify Page feed** — the Page identity is East-Asian language &
+   culture edutainment, and a souvenir pitch there is Position Drift.
+
+---
+
+## Schedule & log
+
+One post per group per **~3 days**. Never the same destination video into two groups the same day.
+**Read the result per cell** (`destination × trade`), not per channel: `G3 × Kyoto` and `G4 × Dubai`
+are different businesses that happen to share a folder.
+
+| Status | Voice | Destination | Channel / group | Members | Comments | DMs | Samples |
+|---|---|---|---|---|---|---|---|
+| ✅ **09-13** | 🌍 dual | Bali | FB — via `bali photographer`, `bali villa` | ⚠️ record | | | |
+| ✅ **09-13** | 🌍 dual | Dubai | FB — via `dubai resorts`, `dubai travel` | ⚠️ record | | | |
+| ✅ **09-13** | 🌍 dual | Granada | FB — via `granada`, `granada tour` | ⚠️ record | | | |
+| ✅ **09-13** | 中文 | Bali · Dubai · Granada | 小红书 ×3 | ⚠️ record | | | |
+| ✅ **09-13** | 中文 | Bali · Dubai · Granada | 快手 ×3 | ⚠️ record | | | |
+| ✅ 09-11 | 🚐 G4 / 🏨 G5 | Dubai | FB ×3 — *travel* · *agents* · *tourism* | ⚠️ record | | | |
+| ✅ earlier | ⚠️ unrecorded | Kyoto | FB — pre-log | ⚠️ record | | | |
+| ✅ earlier | ⚠️ unrecorded | China (滕王阁) | FB — pre-log | ⚠️ record | | | |
+| ◻︎ | 快手 | China (滕王阁) | **next pick** — no positioning conflict, biggest 文旅/汉服 base | | | | |
+| ◻︎ | 👘 G3 | Kyoto | `Kimono photographers` — tightest offer-to-buyer fit | | | | |
+| ◻︎ | 📸 G1 | Kyoto | `Kyoto photographers` — isolates place from trade | | | | |
+| ◻︎ | 🏨 G5 | Granada | Granada hotels / carmen & tourism trade | | | | |
+| ◻︎ | 💍 G2 | Bali | `Bali wedding photographers` — only after Bali has stood a week | | | | |
+| ◻︎ | 🚐 G4 | Bali | `Bali villa & tour operators` | | | | |
+| ❌ | any | Santorini | **no demo — do not post** (rule 1) | | | | |
+
+Mirror each row into `gtm_tools/outreach_denominator.csv` so this channel stays comparable to
+email and RedNote:
+
+```
+date | voice | destination | group | members | demo | views | comments | DMs | samples | paid
+```
+
+**The signal to watch, now that 09-13 is out:** *which half replies.* If travellers reply and
+properties don't, the offer is B2C and should be priced and sold that way. If properties reply and
+travellers don't, drop the traveller paragraph and go back to the G1–G5 matrix. If neither, the
+destination is wrong, not the copy.
+
+Related: 40 hotels in Bali / Dubai / Granada / Kyoto were emailed the same films in their own
+languages on 09-12 — `curify-studio/gtm_tools/HOTEL_VIDEO_BATCH_2026-09-12.md`. That batch and
+these posts hit the **same buyers in the same week**, so a property replying to either should be
+checked against both before it is counted twice.
