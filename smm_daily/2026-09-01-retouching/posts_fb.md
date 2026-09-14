@@ -1,4 +1,4 @@
-# FB Groups · Retouching — 11 posts in four voices (2026-09-01)
+# FB Groups · Retouching — 12 posts in four voices (2026-09-01)
 
 _The buyer here is a **photographer or a studio**: someone who shoots people and needs
 post. Apparel and listing work moved to
@@ -16,8 +16,8 @@ other's group — that is why this file is cut by voice rather than by post numb
 | Voice | Buyer | Their actual problem | Posts | Groups |
 |---|---|---|---|---|
 | 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held · **W2 Kyoto + W3 Dubai ✅ new** | see Schedule & progress |
-| 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 | B2, S3 |
-| 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 | the three child groups |
+| 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 · **P2 ✅ new** | B2, S3 |
+| 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 · **no C7, by design** | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
 
 **S is the cross-genre voice.** It is the only one that can go into any of the others'
@@ -34,8 +34,8 @@ at a wedding, in a headshot and on a four-year-old.
 | `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` | **S1**, cross-posted to the child groups |
 | `demos/retouch-kyoto-demo-09-10/_sheet-kyoto.jpg` | **W2** — new 09-14 |
 | `demos/retouch-dubai-demo-09-10/_sheet-dubai.jpg` | **W3** — new 09-14 |
-| `demos/retouch-children-demo-09-10/_sheet-children.jpg` | the C-voice still image, if a sheet is wanted over a built card |
-| `demos/retouch-portrait-demo-09-10/_sheet-portrait.jpg` | the P-voice still image, same |
+| `demos/retouch-children-demo-09-10/_sheet-children.jpg` | ⛔ **1:1 only — never a feed.** Contains a synthetic child, which C6 rules out in writing. See “there is no C7” |
+| `demos/retouch-portrait-demo-09-10/_sheet-portrait.jpg` | **P2** — new 09-14 |
 
 ⚠️ There is no `p1` or `c3` file — both run `shared-retouching-blueprint.jpg`. Do not
 "fix" the gap by re-copying; that duplicate is what this folder was consolidated to remove.
@@ -308,6 +308,39 @@ The test for any brief, whether you're sending it to a retoucher or to a model: 
 
 ---
 
+---
+
+## P2 — one sitting, four places to put it
+
+**Image:** `demos/retouch-portrait-demo-09-10/_sheet-portrait.jpg`
+*(one source frame + four backdrops: white sweep, editorial concrete, street at golden
+hour, bright interior. Same model, same blazer, same pose, same crop across all five
+panels. Footer: "AI-generated retouching concepts", `curify-ai.com`.)*
+
+### FB post copy
+
+🎧 The headshot brief that eats a whole afternoon: "can we get it on white for the website, something warmer for LinkedIn, and something with the city in it for the press page?"
+
+Three looks. One person, one outfit, one hour of their time — and if you shot it in the studio, two of the three need a location day you did not quote for.
+
+Above is one frame moved to four settings: white sweep, editorial concrete, street at golden hour, bright interior. Same model, same blazer, same lapel roll, same pose.
+
+Two things decide whether this is usable or a party trick:
+
+1️⃣ **Held subject, not re-generated.** That is one photograph fed back in four times, with only the plate behind her changing. Four separate generations give you four different women wearing four different blazers — and then it is not a set, it is four unrelated images with a family resemblance.
+
+2️⃣ **The join.** Look at the floor at her feet, then the direction of the light on her face against the light in the plate. Those two are where composites announce themselves, and they are the only two you need to check.
+
+Where I think it actually earns money: corporate and personal-brand work, where the client wants the same sitting on three surfaces and the alternative is a second booking they will not pay for.
+
+Where it does not: anything where the location is the point. If the brief is "shoot me in my workshop," shoot them in their workshop.
+
+These are concepts, not a client's session — no real person sat for this.
+
+If you shoot headshots or commercial portraits: send me one full-length frame and I'll run three backdrops on it, including the ones that fail. The failures are more useful than the wins here. 👇
+
+**First comment:** `Drop a frame below or DM. I'll show you the misses too — on a standing subject the contact shadow is where they go wrong, every time.`
+
 # 🧸 Voice C — Children & newborn
 
 **Who:** children's and newborn studios, and the parents who sit in the same groups.
@@ -418,6 +451,57 @@ used, and no delivered outcome is claimed — because there is none.
 thesis is logged as *"Recorded as a lead, NOT a decision — no approach has been
 chosen and none has been tested."* C2 says so. Do not let that line get edited
 out.
+
+---
+
+---
+
+## ⛔ C7 — there is no C7, and the reason is C6
+
+The children sheet that moved in with `demos/` on 2026-09-14 —
+`demos/retouch-children-demo-09-10/_sheet-children.jpg` — is the single best commercial
+argument in this folder for a children's studio. Same child, same jumper, same pose, four
+backdrops: white, autumn park, library, festive. That is **shoot once, sell the seasonal
+minis** — autumn packages and Christmas packages off one sitting, which is exactly how that
+ICP makes its money.
+
+**It still cannot be posted here, and the blocker is our own post.** C6 says, without
+qualification:
+
+> We don't publish photographs of children. Not our clients'. Not our own. **Not generated
+> ones either.** […] A synthetic child is still a child-shaped image posted into a group
+> full of parents.
+
+C6 goes out **first** in the child groups — it is the introduction, and it earns the right
+to post the rest by stating a limit on our own behaviour. Posting a generated child after
+that is not a nuance anyone will grant us; it is the exact thing we said we would not do,
+from the same account, to the same room. It would cost more than the post could earn, and
+it would take C1–C6 down with it.
+
+The sheet's own `PROVENANCE.md` is clean — `00-source.png` is synthetic, no real child is
+in any frame, nothing derives from client material. **The conflict is not an ethics problem,
+it is a consistency one**, and consistency is the whole asset C6 buys.
+
+### Where it goes instead
+
+**1:1, never to a feed.** A DM or an email to a studio that has already asked what we do is
+not publishing — it is showing a method to one buyer who requested it, and C6's promise is
+about what we put on a feed. That is the right home for this sheet:
+
+- as an attachment when a children's studio replies to C1–C6 and asks for proof;
+- in the `studio_portfolio` email motion, where `gtm_tools/batch_*.json` already attach
+  `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` the same way.
+
+**If we ever want it as a public post, C6 has to change first** — and C6 should not change.
+It is the only post in this file whose entire value is that it gives something up.
+
+### The version that could be posted
+
+Re-run `_sheet-children.jpg`'s construction on a **non-child subject the same audience
+cares about** — the prop, the outfit, the chair, the seasonal set dressing itself. Same
+claim (locked subject, four backdrops, shoot once and sell four), no child in frame, no
+contradiction with C6. That is a generation job, not a copywriting one, and it is the only
+route to a C7 that survives its own series.
 
 ---
 
@@ -628,6 +712,11 @@ FB collapses that as duplicate distribution. **Two voices per week, maximum.** T
 pilot with a single 20-comment stop rule; four voices at once burns the denominator before
 any cell has enough n to read.
 
+⚠️ **P2 takes the week-3 P slot that used to be a P1 re-run.** A new post beats repeating
+one, and P1 has already run into three group types — what it still lacks is a *result*, not
+another placement. If P1 turns out to have landed in a supply group (see 09-11 below), P2 is
+also the better thing to put in a buyer group first.
+
 **Status** ✅ sent · 🔴 sent off-plan · ◻︎ planned · ⛔ blocked
 
 | Status | Wk | Voice | Post | Group | Found via | Comments | DMs | Samples |
@@ -636,16 +725,22 @@ any cell has enough n to read.
 | ✅ **09-11** | 1 | 🎧 P | **P1** · glow-up ruins it | ×3 — *photographer* · *retouching* · *events + portrait* | trade keywords | | | |
 | ◻︎ | 0 | 🧸 C | **C6** · no children | Babies and Kids Photoshoot | — | | | |
 | ◻︎ | 1 | 🧸 C | **C1** · look at what moved | Babies and Kids · Inspired by Newborn | — | | | |
+| ◻︎ | **2** | 💍 W | **W2** · Kyoto backdrops | the `摄影`+`婚礼` group from 09-11 | — | | | |
 | ◻︎ | 2 | 🧸 C | **C2** · two pipelines | Inspired by Newborn | — | | | |
-| ◻︎ | 2 | 🖼️ S | **S1** · the floor, not the cut-out | B2 | — | | | |
+| ◻︎ | **3** | 🎧 P | **P2** · one sitting, four places | B2 | — | | | |
 | ◻︎ | 3 | 🧸 C | **C4** · five places to look | Inspired by Newborn · Photographers HIRING | — | | | |
-| ◻︎ | 3 | 🎧 P | **P1** re-run | B2 | — | | | |
+| ◻︎ | 4 | 🖼️ S | **S1** · the floor, not the cut-out | B2 | — | | | |
 | ◻︎ | 4 | 🧸 C | **C3** · write the notes out | Babies and Kids | — | | | |
-| ◻︎ | 4 | 🖼️ S | **S1** | Babies and Kids — only after C6 + C1 | — | | | |
+| ◻︎ | 5 | 🖼️ S | **S1** | Babies and Kids — only after C6 + C1 | — | | | |
 | ◻︎ | 5 | 🧸 C | **C5** · read the pictures first | Photographers HIRING | — | | | |
-| ◻︎ | 5 | 🖼️ S | **S1** | B3 | — | | | |
-| ◻︎ | **next** | 💍 W | **W2** · Kyoto backdrops | the `摄影`+`婚礼` group from 09-11 | — | | | |
 | ◻︎ | 6 | 💍 W | **W3** · Dubai backdrops | a destination-wedding group, once joined | — | | | |
+| ◻︎ | 6 | 🖼️ S | **S1** | B3 | — | | | |
+| ◻︎ | 7 | 🎧 P | **P2** re-run | S3, if P1 landed there | — | | | |
+| ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | **never a feed** — 1:1 only, blocked by C6 | — | | | |
+
+**Two voices per week, never three**, and the table above holds to it: wk 2 = W+C, wk 3 =
+P+C, wk 4 = S+C, wk 5 = S+C, wk 6 = W+S, wk 7 = P. The 🧸 C ladder is the spine because it
+is the only voice whose posts must run in order; the other three slot around it.
 
 **Ordering that must not slide** (the week numbers may — a join can take days): C6 before
 anything else in a child group · C1 before C2 · S1 into a child group only after C6 and C1
@@ -771,7 +866,7 @@ From the reddit doc §H0, and the thing most likely to be got wrong:
 > **评论区触达 — comment-section outreach**, not DMs. […] **DM only after they
 > reply to the comment.**
 
-These eleven posts are the standing exhibit, not the motion. The motion is: read the
+These twelve posts are the standing exhibit, not the motion. The motion is: read the
 group daily, find a post where someone **states a need in their own words**, and
 reply in the comments with output on *their* product category — not a link, not a
 deck, not a portfolio. The posts exist so that when someone clicks through after
