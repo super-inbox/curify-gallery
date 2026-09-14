@@ -41,6 +41,18 @@ social posts and the `demos/` cuts for email — a 39MB attachment will not send
 | 滕王阁 `-realmodel` / `-v3` | `tengwangge/…` | ⛔ **never** | ⛔ | ⛔ |
 | Santorini | — | ❌ no demo — do not post the pitch there | ❌ | ❌ |
 
+### 🔴 09-14 · 和修图线撞群的风险（Dubai）
+
+`../2026-09-01-retouching/posts_fb.md` 的 **W3** 在 09-14 发进了四类群，其中一类是
+**`dubai travel`** —— 而本线程 09-11 的迪拜投放正是 *travel · agents · tourism*。
+
+**如果是同一个群，它在三天内收到了我们两个不同的报价**：先是给他们客人做的纪念短片，
+再是给摄影师做的修图。这读起来就是广撒网，而"评论区触达"这套打法的全部前提是不广撒网。
+
+⚠️ **下一条迪拜内容发出去之前，把两个线程的群 ID 对一遍。** 两张排期表互相看不见 ——
+它们是两个文件、两张表，这是第一次撞上。真撞了就**给那个房间只留一个 offer**：
+**留旅拍短片** —— 那批人手里有的是客人，不是相机；修图那条对他们没有意义。
+
 ### Two things the 09-13 round still owes the log
 
 1. **Group names and member counts.** The search keywords above record *how* the groups were
@@ -154,7 +166,7 @@ are different businesses that happen to share a folder.
 | ✅ **09-13** | 🌍 dual | Granada | FB — via `granada`, `granada tour` | ⚠️ record | | | |
 | ◻︎ | 中文 | Bali · Dubai · Granada | 小红书 ×3 | 🔴 **更正 09-14：没有发过。** 之前记成 ✅ 09-13，是错的 | | | |
 | ⚠️ | 中文 | Bali · Dubai · Granada | 快手 ×3 | **待确认** —— 同一批记录里小红书那行是错的，这行也要核 | | | |
-| ✅ 09-11 | 🚐 G4 / 🏨 G5 | Dubai | FB ×3 — *travel* · *agents* · *tourism* | ⚠️ record | | | |
+| ✅ 09-11 | 🚐 G4 / 🏨 G5 | Dubai | FB ×3 — *travel* · *agents* · *tourism* | 🔴 **可能与修图线撞群** —— 见下 | | | |
 | ✅ earlier | ⚠️ unrecorded | Kyoto | FB — pre-log | ⚠️ record | | | |
 | ✅ earlier | ⚠️ unrecorded | China (滕王阁) | FB — pre-log | ⚠️ record | | | |
 | ◻︎ | 快手 | China (滕王阁) | **next pick** — no positioning conflict, biggest 文旅/汉服 base | | | | |

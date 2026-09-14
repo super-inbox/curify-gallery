@@ -15,7 +15,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 
 | Voice | Buyer | Their actual problem | Posts | Groups |
 |---|---|---|---|---|
-| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held · **W2 Kyoto + W3 Dubai ✅ new** | see Schedule & progress |
+| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 🔴 · W2 ◻︎ · W3 ✅ | see Schedule & progress |
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 ✅ · P2 ✅ | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 · **no C7, by design** | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
@@ -24,23 +24,181 @@ other's group — that is why this file is cut by voice rather than by post numb
 groups without rewriting, because *did the subject survive the edit* is the same question
 at a wedding, in a headshot and on a four-year-old.
 
-**Image manifest** — 9 files:
+---
 
-| File | Used by |
-|---|---|
-| `shared-retouching-blueprint.jpg` | **P1 + C3** |
-| `c1-look-at-what-moved.jpg` · `c2-two-pipelines.jpg` · `c4-five-places-to-look.jpg` · `c5-read-the-pictures-first.jpg` · `c6-we-do-not-publish-children.jpg` | C1, C2, C4, C5, C6 |
-| `w1-wedding-portrait-retouch.jpg` | W1 ⛔ held — red line 6 |
-| `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` | **S1**, cross-posted to the child groups |
-| `demos/retouch-kyoto-demo-09-10/_sheet-kyoto.jpg` | **W2** — new 09-14 |
-| `demos/retouch-dubai-demo-09-10/_sheet-dubai.jpg` | **W3** — new 09-14 |
-| `demos/retouch-children-demo-09-10/_sheet-children.jpg` | ⛔ **1:1 only — never a feed.** Contains a synthetic child, which C6 rules out in writing. See “there is no C7” |
-| `demos/retouch-portrait-demo-09-10/_sheet-portrait.jpg` | **P2** — new 09-14 |
+# Schedule & progress
 
-⚠️ There is no `p1` or `c3` file — both run `shared-retouching-blueprint.jpg`. Do not
-"fix" the gap by re-copying; that duplicate is what this folder was consolidated to remove.
+One post per group per **~3 days**; never the same post into two groups on the same day —
+FB collapses that as duplicate distribution. **Two voices per week, maximum.** This is one
+pilot with a single 20-comment stop rule; four voices at once burns the denominator before
+any cell has enough n to read.
 
-### `demos/` — the masters, moved in 2026-09-14
+⚠️ **P2 takes the week-3 P slot that used to be a P1 re-run.** A new post beats repeating
+one, and P1 has already run into three group types — what it still lacks is a *result*, not
+another placement. If P1 turns out to have landed in a supply group (see 09-11 below), P2 is
+also the better thing to put in a buyer group first.
+
+**Status** ✅ sent · 🔴 sent off-plan · ◻︎ planned · ⛔ blocked
+
+**Paths.** `_sheet-*.jpg` and `_contact-sheet.jpg` live in the matching
+`demos/<folder>/`; everything else sits flat in this folder.
+
+| Status | Wk | Voice | Post | Image | Group · found via | Comments | DMs | Samples |
+|---|---|---|---|---|---|---|---|---|
+| 🔴 **09-11** | — | 💍 W | **W1** · four hundred frames | `w1-wedding-portrait-retouch.jpg` ⛔ held, red line 6 | a wedding group · `摄影`+`婚礼` | | | |
+| ✅ **09-11** | 1 | 🎧 P | **P1** · glow-up ruins it | `shared-retouching-blueprint.jpg` | ×3 — *photographer* · *retouching* · *events+portrait* | | | |
+| ✅ **09-14** | 3→now | 🎧 P | **P2** · one sitting, four places | `_sheet-portrait.jpg` | ×3 — *photo* · *photographer* · *bali model/photographer* | | | |
+| ◻︎ | 0 | 🧸 C | **C6** · no children | `c6-we-do-not-publish-children.jpg` | Babies and Kids Photoshoot | | | |
+| ◻︎ | 1 | 🧸 C | **C1** · look at what moved | `c1-look-at-what-moved.jpg` | Babies and Kids · Inspired by Newborn | | | |
+| ◻︎ | **2** | 💍 W | **W2** · Kyoto backdrops | `_sheet-kyoto.jpg` | the `摄影`+`婚礼` group from 09-11 | | | |
+| ◻︎ | 2 | 🧸 C | **C2** · two pipelines | `c2-two-pipelines.jpg` | Inspired by Newborn | | | |
+| ◻︎ | 3 | 🧸 C | **C4** · five places to look | `c4-five-places-to-look.jpg` | Inspired by Newborn · Photographers HIRING | | | |
+| ◻︎ | 4 | 🖼️ S | **S1** · the floor, not the cut-out | `_contact-sheet.jpg` | B2 | | | |
+| ◻︎ | 4 | 🧸 C | **C3** · write the notes out | `shared-retouching-blueprint.jpg` ← same file as P1 | Babies and Kids | | | |
+| ◻︎ | 5 | 🖼️ S | **S1** | `_contact-sheet.jpg` | Babies and Kids — only after C6 + C1 | | | |
+| ◻︎ | 5 | 🧸 C | **C5** · read the pictures first | `c5-read-the-pictures-first.jpg` | Photographers HIRING | | | |
+| ✅ **09-14** | 6→now | 💍 W | **W3** · Dubai backdrops | `_sheet-dubai.jpg` | ×4 — *retouching* · *dubai travel* · *dubai photographer* · *UAE photographer* | | | |
+| ◻︎ | 6 | 🖼️ S | **S1** | `_contact-sheet.jpg` | B3 | | | |
+| ◻︎ | 7 | 🎧 P | **P2** re-run | `_sheet-portrait.jpg` | S3, if P1 landed there | | | |
+| ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | `_sheet-children.jpg` | **never a feed** — 1:1 only, blocked by C6 | | | |
+
+**11 postable files for 12 posts**, because two are shared: `shared-retouching-blueprint.jpg`
+runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
+and is the cross-post into the child groups. A 12th file, `_sheet-children.jpg`, is listed
+only so its ⛔ sits next to everything else — it is never uploaded anywhere.
+
+⚠️ There is no `p1` or `c3` file: both run `shared-retouching-blueprint.jpg`. Do not "fix"
+the gap by re-copying — that duplicate is what this folder was consolidated to remove.
+
+**Two voices per week, never three**, and the table above holds to it: wk 2 = W+C, wk 3 =
+P+C, wk 4 = S+C, wk 5 = S+C, wk 6 = W+S, wk 7 = P. The 🧸 C ladder is the spine because it
+is the only voice whose posts must run in order; the other three slot around it.
+
+**Ordering that must not slide** (the week numbers may — a join can take days): C6 before
+anything else in a child group · C1 before C2 · S1 into a child group only after C6 and C1
+have stood there.
+
+**Fill the metric columns from the group a few days after each post.** The stop rule counts
+comments left and replies received, not posts made.
+
+---
+
+## 🔴 09-11 · W1, on the held asset
+
+The ChatGPT-rendered card went out, as that group's opening post. Full assessment and the
+response sequence are in the block at the top of **W1**. In short: nothing is owed to anyone
+outside — red line 1 holds, and the output is ours — but the copy's *"our own material run
+against the same brief"* implies a pipeline that isn't ours, and **the first comment offers
+to run the reader's own frames**, which is a delivery promise against an asset our stack did
+not produce. ⚠️ **The stated remediation is blocked.** "Re-render the three pairs on our own stack" needs
+`gen_scene_demo.py`, and that script **is not in any repo** — see Build notes. So the fix is
+not a re-render right now; it is **W2/W3**, which say the same thing on assets that do not
+carry the question. Do not repeat W1 until its file is swapped.
+
+Group was found on `摄影` + `婚礼` — trade + occasion, not place × trade. Broader net, but it
+also pulls in couples and the vendors selling to them. Before posting again there, read the
+feed: photographers talking shop, or brides asking for recommendations?
+
+## ✅ 09-14 · W3 into four group types — two right, one wrong buyer, one supply
+
+Sent to **retouching**, **dubai travel**, **dubai photographer**, **UAE photographer**.
+
+✅ **`dubai photographer` and `UAE photographer` are exactly right.** Destination shooters
+are W's buyer, and W3's copy is written for them — *"the backdrop you want is a forty-minute
+drive and a permit away."* This is the first time a W post has gone into a room it was
+actually written for.
+
+⚠️ **`retouching` is the craft word again.** Same flag as P1 on 09-11: a group named for the
+skill gathers **supply** — retouchers — and pitching retouching to retouchers asks the supply
+side of a market whether it contains demand. The two posts that *ask* rather than sell
+(Recut A / Recut B) moved to `../2026-09-01-ecommerce/posts_fb.md` with the apparel family;
+if this is one of S1–S3, the follow-up belongs there, not here.
+
+⚠️ **`dubai travel` is the wrong buyer for this voice — and it may already have us in it.**
+A travel room is tourists and travel trade; they do not buy retouching. Worse, **the souvenir
+thread posted the Dubai video into *travel · agents · tourism* rooms on 09-11**
+(`../2026-09-10-fb-souvenir-video/README.md`). If any of those is the same group, it has now
+received **two different offers from us in three days** — a souvenir video for their guests,
+then retouching for photographers. That reads as spray, and it is the one thing the
+comment-first motion is supposed to avoid.
+
+🔴 **Check the group IDs across both threads before the next Dubai post.** Neither schedule
+can see the other — they are separate files with separate tables, and this is the first time
+they have collided. If they overlap, pick **one** offer for that room: the souvenir video, because
+that audience owns guests, not cameras.
+
+**Sequencing.** W3 was queued for week 6; it ran now, making it the third post to jump its
+slot after W1 and P2. It also ran **before W2**, which was queued for week 2 into the wedding
+group from 09-11 — so the W voice has now gone W1 (held asset) → W3, skipping the one post
+aimed at a room we already have standing in. W2 is the obvious next placement.
+
+## ✅ 09-14 · P2 into three group types, one of them a different voice
+
+Sent to **photo**, **photographer**, and **bali model / bali photographer** groups.
+
+✅ **`photographer` is the on-target one** — that is Voice P's buyer, and P2 is the post
+written for them.
+
+⚠️ **`photo` alone is very broad.** It is a category word with no trade qualifier, so it
+gathers hobbyists and phone-camera consumers as readily as working studios — the same shape
+as `makeup` and `wine` on the ecommerce side. Check the feed: people posting client work and
+pricing questions, or people posting their holiday snaps? `photography business`,
+`professional photographers`, `studio owners` are the buyer-side cuts.
+
+⭐ **`bali model / bali photographer` is the interesting one, and it is not Voice P.**
+That is a **destination** room — Voice W's audience, and a cell we already have standing in:
+four Bali photographers are tracked in `relationship_leads.json`, one was DM'd about the
+souvenir offer, and `2026-09-10-fb-souvenir-video` has Bali as a live posted cell.
+
+**The mismatch is in P2's copy, not in the placement.** P2 opens on *"white for the website,
+warmer for LinkedIn, something with the city for the press page"* — that is a **corporate
+headshot** brief. A Bali destination shooter does not have that brief; they shoot couples and
+travel portraits, and their version of the same problem is *"the light turned and the
+location was closed."* Which is **W2's** opening line, written for exactly this room.
+
+So: the argument travels, the framing does not. If this cell shows any life, follow it with
+**W2 (Kyoto backdrops)** rather than another P post — same claim, same construction, copy
+that matches what that room actually sells. W2 is already queued for week 2.
+
+⚠️ **`bali model` may also be a supply room.** Groups named for *models* gather talent —
+people looking to be shot, not people who pay for retouching. If the feed is casting calls
+and portfolios-for-hire, that is the supply side again, and neither P nor W converts there.
+
+**This went out ahead of schedule.** P2 was queued for week 3 into B2; it ran on 09-14 into
+three rooms instead, which is now the second post to jump its slot after W1. That is not a
+problem in itself — but B2 has still not received anything, and B2 is the one group in this
+voice we actually know the size and character of.
+
+## ✅ 09-11 · P1 into three group types
+
+Sent to **photographer**, **retouching**, and **events + portrait photographer** groups.
+Two of those three are on-plan and one needs watching.
+
+- **photographer** and **events + portrait** — on target. *Events* is a new cell and a good
+  instinct: event shooters carry volume and rarely have a retoucher, which is the P thesis
+  exactly. Log it separately from portrait, because it is a different buyer.
+- ⚠️ **retouching** — this is the one to check. A group named for the *craft* gathers
+  **supply**, which is the trap this folder keeps re-learning (`Product Photography` → peers;
+  `ghost mannequin` → Dhaka outsourcing shops). The schedule does send P1 to **S3**
+  `729600757556835` deliberately — it is 4.0K and conversational — but the two large ones,
+  **S1** `524557767708832` (29.0K) and **S2** `452139992386987` (13.6K), are outsourcing
+  suppliers. **Pitching retouching to retouchers is asking the supply side of a market
+  whether it contains demand.**
+
+  ⚠️ **And the posts that were written for those groups are no longer in this file.** Recut A
+  and Recut B — the two that *ask* rather than sell — moved to
+  [`../2026-09-01-ecommerce/posts_fb.md`](../2026-09-01-ecommerce/posts_fb.md) with the
+  apparel family. If the group that received P1 was S1 or S2, the right follow-up is a recut
+  from there, not a second teardown from here.
+
+**What the replies will tell you.** P1 works when the response is *"we write ours out too"*
+or someone posts their own region list — that is a peer confirming the thesis, and in a buyer
+group it converts. In a supply group the same reply means nothing commercially: they are
+agreeing because they do this for a living.
+
+---
+
+## `demos/` — where the image files live
 
 Five demo folders moved here from `client_VC_portfolio/smm/`. Each is a complete set:
 `00-source.png`, the numbered variants, the flattened `_sheet-*.jpg` that is the single
@@ -704,132 +862,6 @@ Same subject or it doesn't count. (The base frame here is our own generated mode
 **First comment:** `Send me a full-length frame from your last session and I'll run three backdrops on it, so you can check the four things above yourself. I'll show you the ones that fail too — the floor is where they fail.`
 
 ---
-
-# Schedule & progress
-
-One post per group per **~3 days**; never the same post into two groups on the same day —
-FB collapses that as duplicate distribution. **Two voices per week, maximum.** This is one
-pilot with a single 20-comment stop rule; four voices at once burns the denominator before
-any cell has enough n to read.
-
-⚠️ **P2 takes the week-3 P slot that used to be a P1 re-run.** A new post beats repeating
-one, and P1 has already run into three group types — what it still lacks is a *result*, not
-another placement. If P1 turns out to have landed in a supply group (see 09-11 below), P2 is
-also the better thing to put in a buyer group first.
-
-**Status** ✅ sent · 🔴 sent off-plan · ◻︎ planned · ⛔ blocked
-
-| Status | Wk | Voice | Post | Group | Found via | Comments | DMs | Samples |
-|---|---|---|---|---|---|---|---|---|
-| 🔴 **09-11** | — | 💍 W | **W1** · four hundred frames | a wedding group | `摄影` + `婚礼` | | | |
-| ✅ **09-11** | 1 | 🎧 P | **P1** · glow-up ruins it | ×3 — *photographer* · *retouching* · *events + portrait* | trade keywords | | | |
-| ◻︎ | 0 | 🧸 C | **C6** · no children | Babies and Kids Photoshoot | — | | | |
-| ◻︎ | 1 | 🧸 C | **C1** · look at what moved | Babies and Kids · Inspired by Newborn | — | | | |
-| ◻︎ | **2** | 💍 W | **W2** · Kyoto backdrops | the `摄影`+`婚礼` group from 09-11 | — | | | |
-| ◻︎ | 2 | 🧸 C | **C2** · two pipelines | Inspired by Newborn | — | | | |
-| ✅ **09-14** | 3→now | 🎧 P | **P2** · one sitting, four places | ×3 — *photo* · *photographer* · *bali model/photographer* | trade + destination keywords | | | |
-| ◻︎ | 3 | 🧸 C | **C4** · five places to look | Inspired by Newborn · Photographers HIRING | — | | | |
-| ◻︎ | 4 | 🖼️ S | **S1** · the floor, not the cut-out | B2 | — | | | |
-| ◻︎ | 4 | 🧸 C | **C3** · write the notes out | Babies and Kids | — | | | |
-| ◻︎ | 5 | 🖼️ S | **S1** | Babies and Kids — only after C6 + C1 | — | | | |
-| ◻︎ | 5 | 🧸 C | **C5** · read the pictures first | Photographers HIRING | — | | | |
-| ◻︎ | 6 | 💍 W | **W3** · Dubai backdrops | a destination-wedding group, once joined | — | | | |
-| ◻︎ | 6 | 🖼️ S | **S1** | B3 | — | | | |
-| ◻︎ | 7 | 🎧 P | **P2** re-run | S3, if P1 landed there | — | | | |
-| ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | **never a feed** — 1:1 only, blocked by C6 | — | | | |
-
-**Two voices per week, never three**, and the table above holds to it: wk 2 = W+C, wk 3 =
-P+C, wk 4 = S+C, wk 5 = S+C, wk 6 = W+S, wk 7 = P. The 🧸 C ladder is the spine because it
-is the only voice whose posts must run in order; the other three slot around it.
-
-**Ordering that must not slide** (the week numbers may — a join can take days): C6 before
-anything else in a child group · C1 before C2 · S1 into a child group only after C6 and C1
-have stood there.
-
-**Fill the metric columns from the group a few days after each post.** The stop rule counts
-comments left and replies received, not posts made.
-
----
-
-## 🔴 09-11 · W1, on the held asset
-
-The ChatGPT-rendered card went out, as that group's opening post. Full assessment and the
-response sequence are in the block at the top of **W1**. In short: nothing is owed to anyone
-outside — red line 1 holds, and the output is ours — but the copy's *"our own material run
-against the same brief"* implies a pipeline that isn't ours, and **the first comment offers
-to run the reader's own frames**, which is a delivery promise against an asset our stack did
-not produce. ⚠️ **The stated remediation is blocked.** "Re-render the three pairs on our own stack" needs
-`gen_scene_demo.py`, and that script **is not in any repo** — see Build notes. So the fix is
-not a re-render right now; it is **W2/W3**, which say the same thing on assets that do not
-carry the question. Do not repeat W1 until its file is swapped.
-
-Group was found on `摄影` + `婚礼` — trade + occasion, not place × trade. Broader net, but it
-also pulls in couples and the vendors selling to them. Before posting again there, read the
-feed: photographers talking shop, or brides asking for recommendations?
-
-## ✅ 09-14 · P2 into three group types, one of them a different voice
-
-Sent to **photo**, **photographer**, and **bali model / bali photographer** groups.
-
-✅ **`photographer` is the on-target one** — that is Voice P's buyer, and P2 is the post
-written for them.
-
-⚠️ **`photo` alone is very broad.** It is a category word with no trade qualifier, so it
-gathers hobbyists and phone-camera consumers as readily as working studios — the same shape
-as `makeup` and `wine` on the ecommerce side. Check the feed: people posting client work and
-pricing questions, or people posting their holiday snaps? `photography business`,
-`professional photographers`, `studio owners` are the buyer-side cuts.
-
-⭐ **`bali model / bali photographer` is the interesting one, and it is not Voice P.**
-That is a **destination** room — Voice W's audience, and a cell we already have standing in:
-four Bali photographers are tracked in `relationship_leads.json`, one was DM'd about the
-souvenir offer, and `2026-09-10-fb-souvenir-video` has Bali as a live posted cell.
-
-**The mismatch is in P2's copy, not in the placement.** P2 opens on *"white for the website,
-warmer for LinkedIn, something with the city for the press page"* — that is a **corporate
-headshot** brief. A Bali destination shooter does not have that brief; they shoot couples and
-travel portraits, and their version of the same problem is *"the light turned and the
-location was closed."* Which is **W2's** opening line, written for exactly this room.
-
-So: the argument travels, the framing does not. If this cell shows any life, follow it with
-**W2 (Kyoto backdrops)** rather than another P post — same claim, same construction, copy
-that matches what that room actually sells. W2 is already queued for week 2.
-
-⚠️ **`bali model` may also be a supply room.** Groups named for *models* gather talent —
-people looking to be shot, not people who pay for retouching. If the feed is casting calls
-and portfolios-for-hire, that is the supply side again, and neither P nor W converts there.
-
-**This went out ahead of schedule.** P2 was queued for week 3 into B2; it ran on 09-14 into
-three rooms instead, which is now the second post to jump its slot after W1. That is not a
-problem in itself — but B2 has still not received anything, and B2 is the one group in this
-voice we actually know the size and character of.
-
-## ✅ 09-11 · P1 into three group types
-
-Sent to **photographer**, **retouching**, and **events + portrait photographer** groups.
-Two of those three are on-plan and one needs watching.
-
-- **photographer** and **events + portrait** — on target. *Events* is a new cell and a good
-  instinct: event shooters carry volume and rarely have a retoucher, which is the P thesis
-  exactly. Log it separately from portrait, because it is a different buyer.
-- ⚠️ **retouching** — this is the one to check. A group named for the *craft* gathers
-  **supply**, which is the trap this folder keeps re-learning (`Product Photography` → peers;
-  `ghost mannequin` → Dhaka outsourcing shops). The schedule does send P1 to **S3**
-  `729600757556835` deliberately — it is 4.0K and conversational — but the two large ones,
-  **S1** `524557767708832` (29.0K) and **S2** `452139992386987` (13.6K), are outsourcing
-  suppliers. **Pitching retouching to retouchers is asking the supply side of a market
-  whether it contains demand.**
-
-  ⚠️ **And the posts that were written for those groups are no longer in this file.** Recut A
-  and Recut B — the two that *ask* rather than sell — moved to
-  [`../2026-09-01-ecommerce/posts_fb.md`](../2026-09-01-ecommerce/posts_fb.md) with the
-  apparel family. If the group that received P1 was S1 or S2, the right follow-up is a recut
-  from there, not a second teardown from here.
-
-**What the replies will tell you.** P1 works when the response is *"we write ours out too"*
-or someone posts their own region list — that is a peer confirming the thesis, and in a buyer
-group it converts. In a supply group the same reply means nothing commercially: they are
-agreeing because they do this for a living.
 
 # Build notes
 
