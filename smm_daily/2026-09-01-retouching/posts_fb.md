@@ -16,7 +16,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 | Voice | Buyer | Their actual problem | Posts | Groups |
 |---|---|---|---|---|
 | 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held · **W2 Kyoto + W3 Dubai ✅ new** | see Schedule & progress |
-| 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 · **P2 ✅ new** | B2, S3 |
+| 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 ✅ · P2 ✅ | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 · **no C7, by design** | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
 
@@ -727,7 +727,7 @@ also the better thing to put in a buyer group first.
 | ◻︎ | 1 | 🧸 C | **C1** · look at what moved | Babies and Kids · Inspired by Newborn | — | | | |
 | ◻︎ | **2** | 💍 W | **W2** · Kyoto backdrops | the `摄影`+`婚礼` group from 09-11 | — | | | |
 | ◻︎ | 2 | 🧸 C | **C2** · two pipelines | Inspired by Newborn | — | | | |
-| ◻︎ | **3** | 🎧 P | **P2** · one sitting, four places | B2 | — | | | |
+| ✅ **09-14** | 3→now | 🎧 P | **P2** · one sitting, four places | ×3 — *photo* · *photographer* · *bali model/photographer* | trade + destination keywords | | | |
 | ◻︎ | 3 | 🧸 C | **C4** · five places to look | Inspired by Newborn · Photographers HIRING | — | | | |
 | ◻︎ | 4 | 🖼️ S | **S1** · the floor, not the cut-out | B2 | — | | | |
 | ◻︎ | 4 | 🧸 C | **C3** · write the notes out | Babies and Kids | — | | | |
@@ -766,6 +766,43 @@ carry the question. Do not repeat W1 until its file is swapped.
 Group was found on `摄影` + `婚礼` — trade + occasion, not place × trade. Broader net, but it
 also pulls in couples and the vendors selling to them. Before posting again there, read the
 feed: photographers talking shop, or brides asking for recommendations?
+
+## ✅ 09-14 · P2 into three group types, one of them a different voice
+
+Sent to **photo**, **photographer**, and **bali model / bali photographer** groups.
+
+✅ **`photographer` is the on-target one** — that is Voice P's buyer, and P2 is the post
+written for them.
+
+⚠️ **`photo` alone is very broad.** It is a category word with no trade qualifier, so it
+gathers hobbyists and phone-camera consumers as readily as working studios — the same shape
+as `makeup` and `wine` on the ecommerce side. Check the feed: people posting client work and
+pricing questions, or people posting their holiday snaps? `photography business`,
+`professional photographers`, `studio owners` are the buyer-side cuts.
+
+⭐ **`bali model / bali photographer` is the interesting one, and it is not Voice P.**
+That is a **destination** room — Voice W's audience, and a cell we already have standing in:
+four Bali photographers are tracked in `relationship_leads.json`, one was DM'd about the
+souvenir offer, and `2026-09-10-fb-souvenir-video` has Bali as a live posted cell.
+
+**The mismatch is in P2's copy, not in the placement.** P2 opens on *"white for the website,
+warmer for LinkedIn, something with the city for the press page"* — that is a **corporate
+headshot** brief. A Bali destination shooter does not have that brief; they shoot couples and
+travel portraits, and their version of the same problem is *"the light turned and the
+location was closed."* Which is **W2's** opening line, written for exactly this room.
+
+So: the argument travels, the framing does not. If this cell shows any life, follow it with
+**W2 (Kyoto backdrops)** rather than another P post — same claim, same construction, copy
+that matches what that room actually sells. W2 is already queued for week 2.
+
+⚠️ **`bali model` may also be a supply room.** Groups named for *models* gather talent —
+people looking to be shot, not people who pay for retouching. If the feed is casting calls
+and portfolios-for-hire, that is the supply side again, and neither P nor W converts there.
+
+**This went out ahead of schedule.** P2 was queued for week 3 into B2; it ran on 09-14 into
+three rooms instead, which is now the second post to jump its slot after W1. That is not a
+problem in itself — but B2 has still not received anything, and B2 is the one group in this
+voice we actually know the size and character of.
 
 ## ✅ 09-11 · P1 into three group types
 
