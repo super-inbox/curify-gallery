@@ -18,5 +18,5 @@ rejected over a visible CAMEL logo).
 disclosure line and a DM CTA on the card.
 
 For the children / fashion cells, generate fresh from our own prompt the way
-`client_VC_portfolio/scene-enhancement-demo-09-07/` was built (~$0.40 per set). That set is clean
+`smm_daily/2026-09-01-retouching/demos/scene-enhancement-demo-09-07/` was built (~$0.40 per set). That set is clean
 precisely because it was rebuilt this way after the same issue surfaced on 2026-09-07.

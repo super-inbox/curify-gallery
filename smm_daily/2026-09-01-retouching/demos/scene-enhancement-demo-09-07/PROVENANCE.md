@@ -60,5 +60,6 @@ What that does and does not change:
   no-delivered-outcome rule.
 
 To make it usable as proof rather than as a poster, re-render the three pairs through
-our own pipeline and replace the file. `smm_daily/2026-09-01-fb-retouching/`
-post 8 is written and held pending exactly that.
+our own pipeline and replace the file. `smm_daily/2026-09-01-retouching/posts_fb.md` **W1** is written and held pending exactly
+that. ⚠️ 2026-09-14: `gen_scene_demo.py` is not in any repo, so that re-render is currently
+blocked — W2 (Kyoto) and W3 (Dubai) are the clean alternatives.

@@ -209,7 +209,7 @@ E/F/G/H 的案例全部是**自有原创、当场生成、无第三方 IP、无�
 - **白标**：可不出现我们任何信息，客人只看到你的交付
 
 配图（**五套自有案例，当场生成，无客片**）：
-`client_VC_portfolio/retouch-children-demo-09-10/_sheet-children.jpg`（儿童）、
+`smm_daily/2026-09-01-retouching/demos/retouch-children-demo-09-10/_sheet-children.jpg`（儿童）、
 `retouch-portrait-demo-09-10/_sheet-portrait.jpg`（人像／商业）、
 `retouch-kyoto-demo-09-10/_sheet-kyoto.jpg`（和服）、
 `retouch-dubai-demo-09-10/_sheet-dubai.jpg`（中东）、
@@ -236,7 +236,7 @@ E/F/G/H 的案例全部是**自有原创、当场生成、无第三方 IP、无�
 
 配图/样片（**现成的 29 条品类视频＋变体图，全部自有**）：
 `ecommerce_workflow/` 珠宝／美妆／服饰／家居／食品各有成片；
-`client_VC_portfolio/ad-variants-demo-09-10/_one-to-nine.jpg`（一张商品图 → 九个投放变体）。
+`smm_daily/2026-09-01-ecommerce/demos/ad-variants-demo-09-10/_one-to-nine.jpg`（一张商品图 → 九个投放变体）。
 
 > **卖点一句话**：一张商品照进去，一整套上架素材出来 —— 不是一张 AI 图。
 

@@ -11,7 +11,7 @@ week apart, not because they were two campaigns._
 | **`posts_kuaishou.md`** | 快手 —— 5 条中文文案，和 FB 是不同的语气，不是翻译 |
 | `index.json` | machine-readable index of `curify-gallery/ecommerce_ad_videos` |
 | `prompts/` | prompt provenance + the Minimax H3 series |
-| `w2-one-photo-nine-variants.jpg` | the only image in this folder — W2's asset |
+| `demos/ad-variants-demo-09-10/` | W2's asset and its master set — source, nine variants, `PROVENANCE.md`. Also a live email attachment |
 
 **This file holds what governs both channels.** Clearance, the group list, cadence
 and the stop rule are not per-channel and are not repeated in the two post files.
@@ -25,13 +25,13 @@ and the stop rule are not per-channel and are not repeated in the two post files
 | **Workflow** | `curify-gallery/ecommerce_workflow/` — 29 videos + the nine-variant still | 29 × 1080×1920 h264+AAC | W1, W2 |
 | **Ad videos** | `curify-gallery/ecommerce_ad_videos/` — 10 videos | see `index.json` | 5 shippable, by `id` |
 
-Neither set is in this folder — only `w2-one-photo-nine-variants.jpg` is, and that is
-itself a copy. **Videos are a manual native upload from the local file**; only 5 of the
+Neither video set is in this folder. The only images here are `demos/ad-variants-demo-09-10/`
+(moved in 2026-09-14) and the five apparel teardown stills `a1`–`a5`. **Videos are a manual native upload from the local file**; only 5 of the
 29 workflow videos are on CDN/YouTube and none are in the autopost pool
 (`project_fb_follower_growth.md`).
 
-⚠️ `w2-one-photo-nine-variants.jpg` is byte-identical to
-`client_VC_portfolio/ad-variants-demo-09-10/_one-to-nine.jpg` (the original) and to
+⚠️ `demos/ad-variants-demo-09-10/_one-to-nine.jpg` is byte-identical to
+`demos/ad-variants-demo-09-10/_one-to-nine.jpg` (the master, moved into this thread 09-14) and to
 `smm_daily/2026-08-21-xianyu-services/H-one-sku-nine-variants.jpg` (the 闲鱼/淘宝 copy).
 **Leave the portfolio original where it is** —
 `curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json` attaches it by

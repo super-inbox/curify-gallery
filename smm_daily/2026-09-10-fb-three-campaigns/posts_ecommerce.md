@@ -34,7 +34,7 @@ between shots — same piece, every frame. Happy to show that on yours.
 ## B2 · Beauty / skincare
 
 **Assets:** `ecommerce_workflow/skincare_viral_en.mp4`, `ecommerce_workflow/serum_marketing_kit_en.mp4`,
-`client_VC_portfolio/ad-variants-demo-09-10/_one-to-nine.jpg`
+`smm_daily/2026-09-01-ecommerce/demos/ad-variants-demo-09-10/_one-to-nine.jpg`
 **Groups:** Beauty brand founders · Skincare business owners · Indie beauty brands
 
 > One bottle. Nine ad-ready variants — white packshot, marble, bathroom, outdoor, dark luxe,

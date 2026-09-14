@@ -1,4 +1,4 @@
-# FB Groups · Retouching — 9 posts in four voices (2026-09-01)
+# FB Groups · Retouching — 11 posts in four voices (2026-09-01)
 
 _The buyer here is a **photographer or a studio**: someone who shoots people and needs
 post. Apparel and listing work moved to
@@ -15,7 +15,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 
 | Voice | Buyer | Their actual problem | Posts | Groups |
 |---|---|---|---|---|
-| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 🔴 **posted 09-11 on the held asset** | see Schedule & progress |
+| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ⛔ held · **W2 Kyoto + W3 Dubai ✅ new** | see Schedule & progress |
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
@@ -28,13 +28,33 @@ at a wedding, in a headshot and on a four-year-old.
 
 | File | Used by |
 |---|---|
-| `w1-wedding-portrait-retouch.jpg` | W1 ⛔ held — red line 6 |
 | `shared-retouching-blueprint.jpg` | **P1 + C3** |
-| `shared-locked-subject-backdrops.jpg` | **S1**, cross-posted to the child groups |
 | `c1-look-at-what-moved.jpg` · `c2-two-pipelines.jpg` · `c4-five-places-to-look.jpg` · `c5-read-the-pictures-first.jpg` · `c6-we-do-not-publish-children.jpg` | C1, C2, C4, C5, C6 |
+| `w1-wedding-portrait-retouch.jpg` | W1 ⛔ held — red line 6 |
+| `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` | **S1**, cross-posted to the child groups |
+| `demos/retouch-kyoto-demo-09-10/_sheet-kyoto.jpg` | **W2** — new 09-14 |
+| `demos/retouch-dubai-demo-09-10/_sheet-dubai.jpg` | **W3** — new 09-14 |
+| `demos/retouch-children-demo-09-10/_sheet-children.jpg` | the C-voice still image, if a sheet is wanted over a built card |
+| `demos/retouch-portrait-demo-09-10/_sheet-portrait.jpg` | the P-voice still image, same |
 
 ⚠️ There is no `p1` or `c3` file — both run `shared-retouching-blueprint.jpg`. Do not
 "fix" the gap by re-copying; that duplicate is what this folder was consolidated to remove.
+
+### `demos/` — the masters, moved in 2026-09-14
+
+Five demo folders moved here from `client_VC_portfolio/smm/`. Each is a complete set:
+`00-source.png`, the numbered variants, the flattened `_sheet-*.jpg` that is the single
+postable file, and (for three of the five) a `PROVENANCE.md`.
+
+**They are also live email attachments.** `gtm_tools/batch_*.json` attach
+`_contact-sheet.jpg` and `_one-to-nine.jpg` by absolute path. Those paths were **broken**
+before this move — the folders had been moved into `client_VC_portfolio/smm/` outside git,
+and eight batch files still pointed at the old top-level location. They are repointed here
+and now resolve. **Do not move these folders again without updating `gtm_tools/*.json`.**
+
+`shared-locked-subject-backdrops.jpg` is gone as a separate file: it was byte-identical to
+`demos/scene-enhancement-demo-09-07/_contact-sheet.jpg`, which is also the file the email
+batches attach. One copy, one source of truth.
 
 **House constraints, every voice:** single image, never a carousel — proven dead on
 FB·Curify. No external link in the post body; FB throttles link-outs, so the CTA goes in
@@ -101,12 +121,23 @@ buys both, and a pitch that sounds like it is coming for either gets read as a c
 rather than a supplier.
 
 **Groups.** A first placement went out **2026-09-11**, into a group found on `摄影` +
-`婚礼` — trade + occasion rather than place + trade. See **Schedule & progress** for what still has
-to be confirmed about it, including which image was used: W1's own asset is ⛔ held.
+`婚礼` — trade + occasion rather than place + trade. See **Schedule & progress**; it went out
+on the ⛔ held asset.
 
 Still worth joining, because place × trade is the narrower and better-qualified cut:
 `Destination wedding photographers`, `Bali wedding photographers`, `Phuket photographers`,
 `Wedding photographers [region]`.
+
+✅ **This voice is no longer asset-blocked (2026-09-14).** Two destination sheets moved in
+with `demos/` — **W2 Kyoto** and **W3 Dubai** — and neither carries W1's problem. They are
+built the way S1 is built: one source frame fed back in, backdrop changed, subject held.
+Kyoto is the same woman in the same kimono across clean / machiya alley / maple / bamboo;
+Dubai is the same woman in the same abaya across clean / dune / old town / skyline. Both
+carry the *"AI-generated retouching concepts"* footer and a `curify-ai.com` mark.
+
+**So the runnable W posts are W2 and W3. W1 stays held.** Post W2 or W3 into the wedding
+group instead of repeating W1 — same voice, same claim, an asset that survives the question
+*"what made this?"*
 
 ## W1 — four hundred frames have to look like one afternoon
 
@@ -154,7 +185,7 @@ Still worth joining, because place × trade is the narrower and better-qualified
 
 **Image:** `w1-wedding-portrait-retouch.jpg`
 *(1122×1402 — 4:5, the one asset in the series already cut to feed ratio. From
-`client_VC_portfolio/scene-enhancement-demo-09-07/wedding-retouch.png`.)*
+`demos/scene-enhancement-demo-09-07/wedding-retouch.png`.)*
 
 ### FB post copy
 
@@ -176,6 +207,62 @@ If you shoot volume — a studio, batch work, second shooters handing you two th
 **First comment:** `Happy to run a few of your own frames so you can put them beside your own hand edit. Drop one below or DM.`
 
 ---
+
+---
+
+## W2 — the same bride, four cities' worth of backdrop
+
+**Image:** `demos/retouch-kyoto-demo-09-10/_sheet-kyoto.jpg`
+*(one source frame + four backdrops: clean sweep, machiya alley at dusk, maple, bamboo.
+Same face, same kimono, same obi knot, same pose across all five panels.)*
+
+### FB post copy
+
+📍 Destination shooters — the frame you got is not always the frame you sold.
+
+The light turned, the location was closed, a coach party walked through the courtyard at exactly the wrong moment. You still owe the couple the gallery you showed them.
+
+Above is one photograph, moved to four different places. Same face, same kimono, same obi knot, same pose — only what is behind her changes.
+
+The part that matters is *how*, because it decides whether you can use it:
+
+· That is **one photograph fed back in four times.** It is not four generations of "woman in a kimono" — four generations give you four different women, four different fabrics, four different faces, and a before/after built that way is just two pictures of two people.
+· The subject is never regenerated, so the thing your client will actually check — her face — cannot drift.
+
+What it is not: a replacement for being there in good light. It is what you reach for when the location you promised is under scaffolding, or when the couple wants the maple version and you shot in August.
+
+Being straight about the asset: these are AI-generated concepts, made to show the method. Nobody's wedding is in this image.
+
+If you shoot destination work, send me one full-length frame and I'll move it to three backdrops so you can check the edges yourself — including the ones that fail. 👇
+
+**First comment:** `Happy to run one of your own frames — drop it below or DM. The tell is always the floor at the subject's feet; I'll point out where mine fall short too.`
+
+---
+
+## W3 — same method, Gulf palette
+
+**Image:** `demos/retouch-dubai-demo-09-10/_sheet-dubai.jpg`
+*(clean sweep, dune, old town, skyline at blue hour. Same woman, same abaya, same pose.)*
+
+### FB post copy
+
+🏜️ The backdrop you want is a forty-minute drive and a permit away. The client has an hour.
+
+One photograph above, moved to four settings — studio sweep, dune, old town, skyline at blue hour. Same woman, same abaya, same fall of the fabric, same pose.
+
+Three things worth knowing before anyone buys this kind of work, ours included:
+
+1️⃣ **Ask whether the subject is regenerated or preserved.** If the pipeline re-invents the person for each backdrop, you get a different person each time and the fabric drifts with her. Held subject means the source pixels never entered the model.
+
+2️⃣ **Check the ground contact.** A standing subject throws a small hard shadow directly under the shoe. Composites usually get the soft shadow and skip that one, and the person reads as hovering — nobody can name it, everybody feels it.
+
+3️⃣ **Check the light direction against the plate.** Window camera-left and face lit camera-right is not a grade you can fix.
+
+These are AI-generated concepts, not a client's session — the footer says so, and it stays on.
+
+Shooting in the Gulf or anywhere the location access is the bottleneck: send one frame and I'll run three backdrops, misses included. 👇
+
+**First comment:** `Drop a full-length frame below or DM. I'll show you the ones that fail as well — that's more useful than a portfolio.`
 
 # 🎧 Voice P — Portrait, headshot & commercial
 
@@ -275,7 +362,7 @@ a photography-technique series); `costume_tryon/*` (adult identity-lock, but the
 subjects are footballers — real-person likeness, banned by `services_xianyu.md` §五).
 
 **Added 2026-09-10 — there is now a second asset that makes this argument, on a
-person.** `shared-locked-subject-backdrops.jpg` — the Scene voice's S1 — is one
+person.** `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` — the Scene voice's S1 — is one
 frame moved to three backdrops with the subject held: same face, same knit, same
 pose. The subject is **synthetic and an adult**, so it clears both constraints above
 — no likeness question, and no child-shaped image in front of a group of parents.
@@ -503,8 +590,8 @@ likeness question arises.
 
 ## S1 — the giveaway is the floor, not the cut-out
 
-**Image:** `shared-locked-subject-backdrops.jpg`
-*(from `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` — our own
+**Image:** `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg`
+*(the master in this folder — our own
 generated frame, moved to three backdrops. 894×1842 — a 1:2-ish strip, which reads
 fine in-feed.)*
 
@@ -557,6 +644,8 @@ any cell has enough n to read.
 | ◻︎ | 4 | 🖼️ S | **S1** | Babies and Kids — only after C6 + C1 | — | | | |
 | ◻︎ | 5 | 🧸 C | **C5** · read the pictures first | Photographers HIRING | — | | | |
 | ◻︎ | 5 | 🖼️ S | **S1** | B3 | — | | | |
+| ◻︎ | **next** | 💍 W | **W2** · Kyoto backdrops | the `摄影`+`婚礼` group from 09-11 | — | | | |
+| ◻︎ | 6 | 💍 W | **W3** · Dubai backdrops | a destination-wedding group, once joined | — | | | |
 
 **Ordering that must not slide** (the week numbers may — a join can take days): C6 before
 anything else in a child group · C1 before C2 · S1 into a child group only after C6 and C1
@@ -574,8 +663,10 @@ response sequence are in the block at the top of **W1**. In short: nothing is ow
 outside — red line 1 holds, and the output is ours — but the copy's *"our own material run
 against the same brief"* implies a pipeline that isn't ours, and **the first comment offers
 to run the reader's own frames**, which is a delivery promise against an asset our stack did
-not produce. **Re-render the three pairs on our own stack now.** Do not repeat the post
-until the file is swapped.
+not produce. ⚠️ **The stated remediation is blocked.** "Re-render the three pairs on our own stack" needs
+`gen_scene_demo.py`, and that script **is not in any repo** — see Build notes. So the fix is
+not a re-render right now; it is **W2/W3**, which say the same thing on assets that do not
+carry the question. Do not repeat W1 until its file is swapped.
 
 Group was found on `摄影` + `婚礼` — trade + occasion, not place × trade. Broader net, but it
 also pulls in couples and the vendors selling to them. Before posting again there, read the
@@ -626,6 +717,30 @@ agreeing because they do this for a living.
 Palette is the company-deck one: `#FAF8F2` ground, `#C0521E` accent, `#3A6A54` for the good
 path, `#1A1A1A` reversed for C6.
 
+## ⚠️ The three cited generators are not in the repo (found 2026-09-14)
+
+Every `PROVENANCE.md` in `demos/` names the script that made its set:
+
+| Set | Cited generator | On disk? |
+|---|---|---|
+| `scene-enhancement-demo-09-07` | `gen_scene_demo.py` | ❌ |
+| `retouch-children-demo-09-10` | `gen_retouch_sets.py` | ❌ |
+| `../2026-09-01-ecommerce/demos/ad-variants-demo-09-10` | `gen_variants.py` | ❌ |
+
+None exists in `curify-studio`, `curify-frontend` or `curify-gallery`, and none appears in
+git history. **What this does and does not mean:**
+
+- **It does not make the assets dirty.** The evidence separating them from W1's card is
+  still there and still one-sided: `wedding-retouch.png` carries a Chrome quarantine record
+  (`kMDItemWhereFroms: https://chatgpt.com/`), and `00-source.png` / `00-base.png` in every
+  other set carry none. The `PROVENANCE.md` files are contemporaneous written records.
+- **It does block one specific thing.** The standing fix for W1 is "re-render the three
+  pairs through our own pipeline" — that needs `gen_scene_demo.py`, so it cannot be done
+  today. This is why **W2 and W3 exist as the runnable W posts** rather than a re-rendered W1.
+- **It weakens re-verification, not the claim.** "Our own prompt, end to end" can no longer
+  be checked by re-running it. If those scripts exist on a machine outside these repos,
+  committing them closes this — and closes the W1 remediation at the same time.
+
 ## Scene & wedding (S, W) — portfolio copies, not new builds
 
 The originals stay where the outreach batches point at them —
@@ -634,11 +749,10 @@ so **do not move or rename the `client_VC_portfolio/*-demo-*` folders.**
 
 | Here | Original | Made by | Status |
 |---|---|---|---|
-| `shared-locked-subject-backdrops.jpg` | `client_VC_portfolio/scene-enhancement-demo-09-07/_contact-sheet.jpg` | our own prompt, `gen_scene_demo.py` (prompt inline) | ✅ runnable |
-| `w1-wedding-portrait-retouch.jpg` | `.../scene-enhancement-demo-09-07/wedding-retouch.png`, re-encoded to JPEG q92 | third-party chat model — see red line 6 | ⛔ held |
+| `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` | now the master, in this folder | our own prompt, `gen_scene_demo.py` | ⚠️ script not in the repo — see below |
+| `w1-wedding-portrait-retouch.jpg` | `demos/scene-enhancement-demo-09-07/wedding-retouch.png`, re-encoded to JPEG q92 | third-party chat model — see red line 6 | ⛔ held |
 
-`shared-locked-subject-backdrops.jpg` carries its own PROVENANCE record in the source
-folder: `00-base.png` is synthetic, so **no real person is in the frame**, and the three
+That folder carries its own `PROVENANCE.md`: `00-base.png` is synthetic, so **no real person is in the frame**, and the three
 backdrops were made by feeding that one frame back in — which is the whole claim S1 makes.
 Read it before answering any question in the comments about it.
 
@@ -657,7 +771,7 @@ From the reddit doc §H0, and the thing most likely to be got wrong:
 > **评论区触达 — comment-section outreach**, not DMs. […] **DM only after they
 > reply to the comment.**
 
-These nine posts are the standing exhibit, not the motion. The motion is: read the
+These eleven posts are the standing exhibit, not the motion. The motion is: read the
 group daily, find a post where someone **states a need in their own words**, and
 reply in the comments with output on *their* product category — not a link, not a
 deck, not a portfolio. The posts exist so that when someone clicks through after

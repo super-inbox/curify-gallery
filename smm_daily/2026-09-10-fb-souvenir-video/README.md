@@ -15,8 +15,17 @@ log. The copy lives in two channel files.
 
 ## Assets × publish status
 
-**5 destinations.** Videos in `curify-gallery/cultural_videos/<destination>/`, built by
+**5 destinations.** Post masters (22–39MB, watermarked) in
+`curify-gallery/cultural_videos/<destination>/`, built by
 `curify-studio/dev/jayw/video_pipelines/costume_story_video/`.
+
+**`demos/tourism-souvenir-demo-09-08/`** — moved into this thread 2026-09-14 from
+`client_VC_portfolio/smm/`. These are the **email-sized cuts** (2.5–5.4MB) of the same five
+destinations, and they are **live attachments**: `gtm_tools/batch_tourism_2026-09-08.json`
+and `batch_hotels_2026-09-12.json` attach them by absolute path. Those paths had been broken
+since the folder was moved outside git; they are repointed here and now resolve. **Do not
+move `demos/` without updating those two files.** Use the `cultural_videos/` masters for
+social posts and the `demos/` cuts for email — a 39MB attachment will not send.
 
 ✅ posted · ◻︎ not yet · ⛔ never
 

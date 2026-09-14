@@ -18,7 +18,7 @@ demand** — they get the two recuts, which *ask* rather than sell. Never the bu
 | Post | Format | Asset | Goes to |
 |---|---|---|---|
 | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 |
-| **W2** · one photo, nine variants | text + native image | `w2-one-photo-nine-variants.jpg` | B4, B2, then B1 — **not B3** |
+| **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** |
 | `rotation_chair` | native video | ad-video library | B4 |
 | `angryalert` (landscape cut) | native video | ad-video library | B2 |
 | `kungfu_sf` | native video | ad-video library | B3 |
@@ -96,15 +96,21 @@ to an apparel group:
 
 ### W2's asset
 
-`w2-one-photo-nine-variants.jpg` (1272×1118) — a copy of
-`client_VC_portfolio/ad-variants-demo-09-10/_one-to-nine.jpg`. One source pack shot
-and the nine variants generated from it, captioned by setting.
+`demos/ad-variants-demo-09-10/_one-to-nine.jpg` (1272×1118) — one source pack shot and the
+nine variants generated from it, captioned by setting. **The whole master set moved into
+`demos/` on 2026-09-14** (`00-source.png`, the nine variants, `PROVENANCE.md`), so the
+source, the sheet and the record now sit together.
 
-Generated end-to-end from our own prompt (`gen_variants.py`, prompt inline); the
-bottle is synthetic, and there is no brand, no logo and no client product in the
-frame — the label is blank on purpose. Full record in that folder's `PROVENANCE.md`.
-**Leave the original where it is**: `curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json`
-attaches it by absolute path.
+`PROVENANCE.md` records it as generated end-to-end from our own prompt
+(`gen_variants.py`, prompt inline); the bottle is synthetic, and there is no brand, no logo
+and no client product in the frame — the label is blank on purpose.
+
+⚠️ **`gen_variants.py` is not in any repo** — see the note in the retouching thread's build
+notes, which found the same for all three cited generators. The provenance record stands as
+a contemporaneous account; it just cannot be re-verified by re-running it.
+
+⚠️ **`gtm_tools/batch_marketing_agency_2026-09-10.json` attaches this file by absolute
+path**, and that path now points here. Do not move `demos/` without updating it.
 
 One honest limit, and the post says so: a blank label is an easier thing to hold
 steady across nine renders than printed artwork is. This demonstrates that the
@@ -185,7 +191,7 @@ safe to reference precisely because it is ours.
 
 ## W2 — one photo, nine variants
 
-**Image:** `w2-one-photo-nine-variants.jpg`
+**Image:** `demos/ad-variants-demo-09-10/_one-to-nine.jpg`
 
 ### FB post copy
 
