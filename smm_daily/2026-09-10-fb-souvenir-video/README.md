@@ -31,9 +31,9 @@ social posts and the `demos/` cuts for email — a 39MB attachment will not send
 
 | Destination | Asset (`cultural_videos/`) | FB groups | 小红书 | 快手 |
 |---|---|---|---|---|
-| **Bali · melukat** | `bali/bali-melukat-30s-watermarked.mp4` (39MB) | ✅ **09-13** — found via `bali photographer`, `bali villa` | ✅ **09-13** | ✅ **09-13** |
-| **Dubai · the creek** | `dubai/dubai-creek-30s-watermarked.mp4` (28MB) | ✅ **09-13** — `dubai resorts`, `dubai travel` | ✅ **09-13** | ✅ **09-13** |
-| **Granada · Alhambra** | `granada/granada-alhambra-30s-watermarked.mp4` (36MB) | ✅ **09-13** — `granada`, `granada tour` | ✅ **09-13** | ✅ **09-13** |
+| **Bali · melukat** | `bali/bali-melukat-30s-watermarked.mp4` (39MB) | ✅ **09-13** — found via `bali photographer`, `bali villa` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
+| **Dubai · the creek** | `dubai/dubai-creek-30s-watermarked.mp4` (28MB) | ✅ **09-13** — `dubai resorts`, `dubai travel` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
+| **Granada · Alhambra** | `granada/granada-alhambra-30s-watermarked.mp4` (36MB) | ✅ **09-13** — `granada`, `granada tour` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
 | **Kyoto · kimono** | `kyoto/kyoto-kimono-30s-watermarked.mp4` (30MB) | ◻︎ *(an earlier cut went out pre-log — group unrecorded)* | ◻︎ | ◻︎ |
 | **China · 滕王阁** | `tengwangge/tengwangge-30s-preview-watermarked.mp4` (22MB) | ◻︎ *(earlier, pre-log)* | ◻︎ | ◻︎ **best first pick** — no positioning conflict, largest 文旅/汉服 base |
 | ~~Bali v1 · resort~~ | `bali/bali-resort-30s-watermarked.mp4` | ⛔ superseded | ⛔ | ⛔ |
@@ -49,13 +49,12 @@ social posts and the `demos/` cuts for email — a 39MB attachment will not send
    already sitting in `gtm_tools/outreach_denominator.csv` for RedNote, where a ¥27,800 close has
    no denominator and so compares to nothing. Fill these in from the posting history while it is
    still recoverable.
-2. **小红书 went out against the positioning docs.** `posts_rednote_kuaishou.md` warns that both
-   existing 小红书 accounts (Jay, Curify) have positioning documents that explicitly forbid 硬广,
-   and that Curify's is 文字为主 besides. Three destination posts have now gone out anyway. That
-   is a decision, and it needs to be *recorded* as one: either update
-   `curify-frontend/docs/smm-account-positioning-playbook-2026-07-05.md` to permit it, or open the
-   third (service) account and move these there. Leaving the docs contradicting the behaviour is
-   the thing to avoid.
+2. 🔴 **更正（09-14）：小红书那三条没有发过。** 这一条原本写的是"三条已经违反定位文档发出去了"，
+   并据此要求去改 `smm-account-positioning-playbook-2026-07-05.md`。**前提是错的，要求也撤回。**
+   小红书这条渠道还没开张，定位冲突仍然是**未解的前置条件**，不是既成事实 ——
+   处理方式见 `../2026-09-01-retouching/posts_rednote.md` 开头那一节：改文档，或者开第三个号，二选一。
+   同一批记录里的快手三条也需要核实。
+   ⚠️ 教训：**把没发的记成已发，比空着更危险** —— 空着只是缺数据，记错会让后面每个判断都建在假分母上。
 
 ⚠️ **Music on Bali / Dubai / Granada is a neutral placeholder** (`leberch-travel`). Each
 `project.json` records what its edit is actually scored for (gamelan/suling · oud over frame drum ·
@@ -153,8 +152,8 @@ are different businesses that happen to share a folder.
 | ✅ **09-13** | 🌍 dual | Bali | FB — via `bali photographer`, `bali villa` | ⚠️ record | | | |
 | ✅ **09-13** | 🌍 dual | Dubai | FB — via `dubai resorts`, `dubai travel` | ⚠️ record | | | |
 | ✅ **09-13** | 🌍 dual | Granada | FB — via `granada`, `granada tour` | ⚠️ record | | | |
-| ✅ **09-13** | 中文 | Bali · Dubai · Granada | 小红书 ×3 | ⚠️ record | | | |
-| ✅ **09-13** | 中文 | Bali · Dubai · Granada | 快手 ×3 | ⚠️ record | | | |
+| ◻︎ | 中文 | Bali · Dubai · Granada | 小红书 ×3 | 🔴 **更正 09-14：没有发过。** 之前记成 ✅ 09-13，是错的 | | | |
+| ⚠️ | 中文 | Bali · Dubai · Granada | 快手 ×3 | **待确认** —— 同一批记录里小红书那行是错的，这行也要核 | | | |
 | ✅ 09-11 | 🚐 G4 / 🏨 G5 | Dubai | FB ×3 — *travel* · *agents* · *tourism* | ⚠️ record | | | |
 | ✅ earlier | ⚠️ unrecorded | Kyoto | FB — pre-log | ⚠️ record | | | |
 | ✅ earlier | ⚠️ unrecorded | China (滕王阁) | FB — pre-log | ⚠️ record | | | |

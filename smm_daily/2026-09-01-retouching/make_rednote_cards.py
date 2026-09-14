@@ -183,4 +183,46 @@ foot(d, "批量的难点是一致，不是好看。",
      "全身 / 半身 / 特写三种景别，按套走量，量大单价明显往下走。")
 im.save(OUT + "rn3-场景增强.jpg", quality=94)
 
+# ============================================================ W1 一致性（婚纱/旅拍）
+im = Image.new("RGB", (W, H), BG); d = ImageDraw.Draw(im)
+head(d, "婚纱 · 旅拍 · 一整套片子", "四百张，", "要像同一个下午。")
+
+y = 300
+d.text((M, y), "客人记得的不是第 12 张", font=fb(30), fill=INK)
+d.text((M, y + 44), "是翻到第 200 张时，那天好像变成了三天。", font=fr(24), fill=MUTE)
+
+# 三条并排的"色温漂移"示意
+y = 400
+BAR_H = 118
+tints = [(246, 238, 226), (238, 240, 244), (250, 236, 220)]
+labels = ["上午 · 偏暖", "云来了 · 偏冷", "补光 · 又偏暖"]
+bw = (W - 2 * M - 2 * 18) // 3
+for i, (t, lab) in enumerate(zip(tints, labels)):
+    x = M + i * (bw + 18)
+    d.rounded_rectangle([x, y, x + bw, y + BAR_H], radius=12, fill=t, outline=RULE, width=2)
+    d.text((x + 14, y + BAR_H - 38), lab, font=fr(20), fill=(90, 86, 78))
+d.text((M, y + BAR_H + 22), "同一场婚礼，同一个人 —— 三种白平衡。", font=fr(23), fill=ACC)
+d.text((M, y + BAR_H + 66), "没人拦，因为每一张单看都挺好。", font=fr(23), fill=MUTE)
+
+# 分隔
+d.line([(M, y + BAR_H + 122), (W - M, y + BAR_H + 122)], fill=RULE, width=2)
+
+# 三条要点
+y2 = y + BAR_H + 168
+items = [
+    ("统一复原光线", "不是把某一张调好看，是让每一张带同一个太阳位置、同一个暖度。"),
+    ("皮肤要留得住毛孔", "新娘被磨成瓷娃娃，投诉是一周后来的 —— 她看了四十遍以后。"),
+    ("客人当时没看见的东西", "沙滩上的三个陌生人、垃圾桶、电线、树影里那辆车。"),
+]
+for i, (t, sub) in enumerate(items):
+    yy = y2 + i * 152
+    d.rounded_rectangle([M, yy, W - M, yy + 128], radius=14, fill=CARD, outline=RULE, width=2)
+    d.ellipse([M + 24, yy + 52, M + 38, yy + 66], fill=ACC)
+    d.text((M + 56, yy + 28), t, font=fb(28), fill=INK)
+    d.text((M + 56, yy + 74), sub, font=fr(21), fill=MUTE)
+
+foot(d, "难的不是修得好看，是四百张一个标准。",
+     "婚纱 / 旅拍 / 影楼批量可以私信聊 —— 先看量和景别，再谈报价。")
+im.save(OUT + "rn-W1-一致性.jpg", quality=94)
+
 print("done")
