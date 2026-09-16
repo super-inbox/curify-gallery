@@ -19,7 +19,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 ✅ · P2 ✅ | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 · **no C7, by design** | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
-| 🏠 **R** Real estate & property | listing photographers, property-media firms | turnaround and consistency against an MLS deadline | R1–R3 ✅ new 09-16 | none joined — see voice |
+| 🏠 **R** Real estate & property | listing photographers, property-media firms | turnaround and consistency against an MLS deadline | R1 ✅ 09-16 · R2 ◻︎ · R3 ◻︎ | ⚠️ 2 job-named groups — see Schedule & progress |
 
 **S is the cross-genre voice.** It is the only one that can go into any of the others'
 groups without rewriting, because *did the subject survive the edit* is the same question
@@ -61,9 +61,9 @@ also the better thing to put in a buyer group first.
 | ✅ **09-14** | 6→now | 💍 W | **W3** · Dubai backdrops | `_sheet-dubai.jpg` | ×4 — *retouching* · *dubai travel* · *dubai photographer* · *UAE photographer* | | | |
 | ◻︎ | 6 | 🖼️ S | **S1** | `_contact-sheet.jpg` | B3 | | | |
 | ◻︎ | 7 | 🎧 P | **P2** re-run | `_sheet-portrait.jpg` | S3, if P1 landed there | | | |
-| ◻︎ | **next** | 🏠 R | **R1** · edit, don't recreate | `r1-edit-not-recreate.jpg` | a real-estate photography group, once joined | | | |
-| ◻︎ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | same | | | |
-| ◻︎ | 9 | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | same | | | |
+| ✅ **09-16** | next→now | 🏠 R | **R1** · edit, don't recreate | `r1-edit-not-recreate.jpg` | ×2 — *real estate photo editing* · *real estate photo editing services* | | | |
+| ⚠️ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | **hold** until the 09-16 rooms are read — R2 ends in "send me frames", which pitches competitors if they are supply | | | |
+| ⚠️ | 9 | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | **hold**, same reason; plus a buyer-side group (`real estate photographers`) still needs joining | | | |
 | ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | `_sheet-children.jpg` | **never a feed** — 1:1 only, blocked by C6 | | | |
 
 **14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
@@ -88,6 +88,48 @@ have stood there.
 comments left and replies received, not posts made.
 
 ---
+
+## ✅ 09-16 · R1 into two groups — and both are named for the job, not the trade
+
+Sent to **real estate photo editing** and **real estate photo editing services**.
+
+⚠️ **Both group names are job nouns, which is the one search mistake Voice R warns against
+in writing.** Its own §J5 note says: *the job nouns are landing-page and Google words —
+inside a community they retrieve the **supply** side, because vendor ads are written in the
+buyer's voice on purpose. Search the trade, not the job.* `…editing services` is
+particularly exposed: that is how an editing vendor names itself, not how a photographer
+describes their own room.
+
+**This is the third time this session.** P1 (09-11) went into a `retouching` group; W3
+(09-14) went into a `retouching` group; R1 now into two `photo editing` groups. The pattern
+is consistent — searching the craft finds people who sell the craft. The buyer-side cut is
+**`real estate photographers`**, `property photographers`, `real estate photography
+[region]`, or — better still, since this lane's evidence came from there —
+agent-side rooms where the buyer's buyer sits.
+
+**Read the feed before posting again, and the tell is unambiguous here:**
+
+| what the feed looks like | what the room is | what to do |
+|---|---|---|
+| Editors posting rate cards, turnaround promises, "DM for a free trial edit" | **supply** — our peers | R1 is still fine *as a method post* (it costs nothing to be read by editors and it is not a pitch), but do not follow it with R2/R3 and expect buyers |
+| Photographers asking *who do you use*, *what do you charge*, posting frames for critique | **demand** — the right room | run R2 next, then R3 |
+
+⭐ **R1 is the one post in this voice that survives either answer**, which is a piece of luck
+worth naming. It makes no offer and states a method plus a number; in a supply room it reads
+as a peer contributing a distinction, not a vendor pitching. **R2 and R3 do not have that
+property** — both end in "send me frames", which in a room full of editors is pitching to
+competitors.
+
+**What the replies will tell you.** If the response is other editors arguing about masking
+versus generative fill, the room is supply and the finding is the group, not the post. If a
+photographer asks *"how do I check my current editor is doing this?"* — that is the buyer,
+and R2 is written for exactly that question.
+
+⚠️ **Still true and unchanged:** no delivered-outcome claim is available in this vertical
+(§F1 — we have never quoted, delivered or been paid for a real-estate edit). If anyone asks
+for a portfolio, the honest answer is that R1's claim is about our pipeline, and the offer is
+to run one of *their* frames. Do not reach for the home-organization templates — see Build
+notes for why they would prove the opposite of the point.
 
 ## 🔴 09-11 · W1, on the held asset
 
@@ -913,11 +955,13 @@ paid for a real-estate edit, and have no client evidence in this vertical.* The 
 measured; **our fit is inferred** from client-008's locked-subject work. Every claim in these
 posts is a method claim about our own pipeline — keep it that way.
 
-**Groups:** not joined yet. Search `real estate photographers`, `real estate photography
-[region]`, `property photographers`, `real estate photo editing`. ⚠️ Per §J5, the job nouns
+**Groups:** R1 went out 09-16 into two groups found on `real estate photo editing` /
+`…editing services` — ⚠️ **both job-named, see the note below and the 09-16 entry in
+Schedule & progress.** The buyer-side searches are `real estate photographers`,
+`property photographers`, `real estate photography [region]`. ⚠️ Per §J5, the job nouns
 above are **landing-page and Google words** — inside a community they retrieve the *supply*
 side, because vendor ads are written in the buyer's voice on purpose. Search the trade, not
-the job.
+the job. **This was already got wrong once on 09-16** — see Schedule & progress.
 
 ---
 
