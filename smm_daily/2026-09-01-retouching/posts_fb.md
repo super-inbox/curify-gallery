@@ -1,4 +1,4 @@
-# FB Groups · Retouching — 12 posts in four voices (2026-09-01)
+# FB Groups · Retouching — 15 posts in five voices (2026-09-01)
 
 _The buyer here is a **photographer or a studio**: someone who shoots people and needs
 post. Apparel and listing work moved to
@@ -19,6 +19,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 ✅ · P2 ✅ | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 · **no C7, by design** | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
+| 🏠 **R** Real estate & property | listing photographers, property-media firms | turnaround and consistency against an MLS deadline | R1–R3 ✅ new 09-16 | none joined — see voice |
 
 **S is the cross-genre voice.** It is the only one that can go into any of the others'
 groups without rewriting, because *did the subject survive the edit* is the same question
@@ -60,11 +61,16 @@ also the better thing to put in a buyer group first.
 | ✅ **09-14** | 6→now | 💍 W | **W3** · Dubai backdrops | `_sheet-dubai.jpg` | ×4 — *retouching* · *dubai travel* · *dubai photographer* · *UAE photographer* | | | |
 | ◻︎ | 6 | 🖼️ S | **S1** | `_contact-sheet.jpg` | B3 | | | |
 | ◻︎ | 7 | 🎧 P | **P2** re-run | `_sheet-portrait.jpg` | S3, if P1 landed there | | | |
+| ◻︎ | **next** | 🏠 R | **R1** · edit, don't recreate | `r1-edit-not-recreate.jpg` | a real-estate photography group, once joined | | | |
+| ◻︎ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | same | | | |
+| ◻︎ | 9 | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | same | | | |
 | ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | `_sheet-children.jpg` | **never a feed** — 1:1 only, blocked by C6 | | | |
 
-**11 postable files for 12 posts**, because two are shared: `shared-retouching-blueprint.jpg`
+**14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
-and is the cross-post into the child groups. A 12th file, `_sheet-children.jpg`, is listed
+and is the cross-post into the child groups. `r1`–`r3` are diagram cards built by `make_r_cards.py` — Voice R has no before/after
+because we have never delivered a real-estate edit (see the voice). A 15th file,
+`_sheet-children.jpg`, is listed
 only so its ⛔ sits next to everything else — it is never uploaded anywhere.
 
 ⚠️ There is no `p1` or `c3` file: both run `shared-retouching-blueprint.jpg`. Do not "fix"
@@ -863,6 +869,145 @@ Same subject or it doesn't count. (The base frame here is our own generated mode
 
 ---
 
+# 🏠 Voice R — Real estate & property media
+
+**Who:** real-estate photographers and the small property-media firms that shoot listings —
+plus, in these rooms, the agents who buy from them.
+
+**Why this voice exists, and why it is the best-evidenced one in the file.** Every other
+voice here was proposed by reasoning. This one was measured first —
+[`curify-studio/docs/reddit-demand-mining-retouching-2026-09-15.md`](../../../curify-studio/docs/reddit-demand-mining-retouching-2026-09-15.md)
+§B2, on matched 180-day windows against the wedding lane:
+
+| | wedding | **real estate** |
+|---|---:|---:|
+| buyer-side posts | 92% | **93%** |
+| **already paying someone ④** | 11% | **41%** |
+| qualified posts / month | 0.17 | **1.33** |
+| mention outsourcing (identical `editing` query) | 8% | **24%** |
+| bodies removed by mods (② proxy) | **55%** | 22% |
+
+**Outsourcing is the default posture here, not the exception.** Volume is structural rather
+than inferred — every listing is a shoot, every week, against an MLS deadline.
+
+**What they actually buy:** turnaround and consistency. The published reason photographers
+switch vendors is a 24–48h window slipping to three days, then four — not craft. That is a
+**capacity** pitch, which is the pitch this folder already knows how to write.
+
+### ⚠️ Three rules that are specific to this room
+
+**1. Never say "AI".** This lane is more permissive than the wedding one but it is *not*
+AI-friendly, and the objection is precise: **over-processed and recreated**, not automated.
+A buyer in this very lane wrote *"I don't want to use any AI editors."* **Lead with the
+constraint — the room is not regenerated, nothing moves but what you asked for — never with
+the automation.** Same `sell capacity, never craft` rule, one level deeper.
+
+**2. Never say "retouching".** It is a vendor word. This trade says **editing**, and names
+the jobs: **window pulls · flambient · HDR merge · sky replacement · day-to-dusk ·
+item removal · virtual staging**. Frequency in the corpus: item removal **23%**, HDR 19%,
+flambient 5%, turnaround 4%, sky replacement 2%, day-to-dusk 2%. Say **overnight**, not
+"fast turnaround" — overnight is the trade word and the agent's real deadline.
+
+**3. ⛔ Claim nothing delivered.** §F1 is explicit: *we have never quoted, delivered or been
+paid for a real-estate edit, and have no client evidence in this vertical.* The demand is
+measured; **our fit is inferred** from client-008's locked-subject work. Every claim in these
+posts is a method claim about our own pipeline — keep it that way.
+
+**Groups:** not joined yet. Search `real estate photographers`, `real estate photography
+[region]`, `property photographers`, `real estate photo editing`. ⚠️ Per §J5, the job nouns
+above are **landing-page and Google words** — inside a community they retrieve the *supply*
+side, because vendor ads are written in the buyer's voice on purpose. Search the trade, not
+the job.
+
+---
+
+## R1 — edit the photo, don't recreate it
+
+**Image:** `r1-edit-not-recreate.jpg`
+
+> ⭐ **This post is the buyer's own words.** The top thread in the lane is a real-estate
+> agent asking, unprompted, for exactly the discipline we adopted on measurement:
+> *"Are there AI platforms that photographers use to actually edit the photo, not recreate
+> it? Some photos I've seen on the MLS look good but then you zoom in and you can tell it's
+> just slop!"* — 38 comments. Post this one first.
+
+### FB post copy
+
+🏠 An agent asked this in a photography group last month and nobody really answered it: when a photo gets "AI edited", is it still your photo — or is it a new picture that looks like your photo?
+
+It's a fair question and it has a concrete answer, because there are two different methods and they are not variations of each other.
+
+**Whole-frame regeneration.** The entire image goes into the model and an entire image comes out. Every pixel is rewritten by construction — the worktop, the window frame, the floor grain. It often looks fine at thumbnail size. Zoom to 100% and the grout stops lining up. That's the "slop" agents mean.
+
+**Editing in place.** You mask the thing you want changed, that region is filled, and the rest of the file is never handed to the model at all. The pixels you didn't point at are untouched — not because anyone promised, but because they never entered the process.
+
+Being straight about our own side of it: we tested the first method and dropped it. Detail correlation against the input frame measured 0.007. That's not a tuning problem, that's the method telling you what it is.
+
+Two things worth asking any editor, in-house or outsourced:
+
+· Does the whole frame go in, or just the masked region?
+· Can you show me a 100% crop of an area I *didn't* ask you to change?
+
+The second question is the one that settles it. 👇
+
+**First comment:** `Send me one frame and the thing you want gone, and I'll send it back — then open both at 100% and check something I wasn't asked to touch. That's the test, and it's the same test I'd want applied to me.`
+
+---
+
+## R2 — item removal, and how to check it in ten seconds
+
+**Image:** `r2-item-removal-check.jpg`
+
+*(Item removal is the most-requested job in the lane at 23% of posts — more than HDR.)*
+
+### FB post copy
+
+🧹 Item removal is the most-asked-for edit in real estate and the easiest one to get quietly wrong, because the failure never shows up where you're looking.
+
+You asked for the bins gone from the driveway. You check the driveway. The bins are gone. Signed off.
+
+What you didn't check was the garage door behind them, which is now a slightly different panel width. Nobody notices on the MLS thumbnail. The agent notices in the walkthrough when the client asks why the photo looks like a different house.
+
+Ten seconds, four checks, in this order:
+
+1️⃣ **Open both files at 100%** — not the preview. Compression hides exactly the artefact you're checking for.
+
+2️⃣ **The edge where the object was.** A fill that guessed leaves a soft smear. A fill that sampled the real surroundings leaves grain that matches the rest of the surface.
+
+3️⃣ **Continuous patterns through the patch.** Tile grout, decking boards, wood grain, brick courses. These have to carry straight through. A repeat or a kink means it was invented, not filled.
+
+4️⃣ **One thing you did NOT ask about.** A switch plate, the skirting, a window frame at the far edge. If *that* moved, the whole frame was rewritten and the removal you asked for was incidental.
+
+The fourth check is the only one that tells you which method was used. The first three tell you how carefully.
+
+Not a pitch — it's a check you can run on whoever you currently use, including yourself. 👇
+
+**First comment:** `Happy to run one on a frame of yours so you can put it through the four checks. I'd rather you find a failure in mine than not know what to look for in anyone's.`
+
+---
+
+## R3 — not overly HDR, keep some warmth
+
+**Image:** `r3-interior-colour.jpg`
+
+### FB post copy
+
+🎨 The most common complaint about outsourced interiors isn't that they're bad. It's that they're grey.
+
+Every shadow lifted, every window pulled, every room rendered in the same neutral daylight — and the house loses whatever made it feel like somewhere you'd live. One photographer in a group here put it better than I can: they wanted someone who could "keep some warmth and not make them overly HDR looking."
+
+That's a real spec, and it's the one that almost never makes it into a written brief.
+
+The part that actually costs money isn't any single frame, though. It's that thirty photos of one property have to read as one afternoon — one white balance, one sky, one decision about how warm the interiors sit. Get the hero right and the other twenty-nine slightly different, and the gallery reads as a walkthrough of three different days.
+
+Something I'd suggest regardless of who does your editing: **brief by reference, not by parameter.** Nobody can act on "warm but not too warm". Everybody can act on "match this gallery." Send the set whose colour you want and let the numbers be someone else's problem — that's a matching job with a checkable answer, and it's a much shorter conversation than adjectives.
+
+For anyone shooting volume: where does yours break down — the hero, the window pulls, or holding the set together? 👇
+
+**First comment:** `Send three frames plus the gallery whose colour you want matched, and I'll grade them to it so you can put them side by side. Three is enough to see whether the set holds, which is the part that matters.`
+
+---
+
 # Build notes
 
 ## Children & newborn (C)
@@ -905,6 +1050,25 @@ git history. **What this does and does not mean:**
   be checked by re-running it. If those scripts exist on a machine outside these repos,
   committing them closes this — and closes the W1 remediation at the same time.
 
+## Real estate (R) — diagram cards, and the two assets we must NOT use
+
+`make_r_cards.py` (1200×1200, same palette as the C cards) builds `r1`–`r3`.
+
+**Why diagrams and not before/afters.** §F1 of the demand-mining doc is explicit: *we have
+never quoted, delivered or been paid for a real-estate edit.* So there is no property
+before/after we are entitled to show, and the two template sets that look like candidates
+are **worse than nothing**:
+
+| Template | Why it must not be used |
+|---|---|
+| `template-home-organization-before-after-{kitchen,closet,desk}` | The "after" is a **different staged scene** with product callouts, not the same frame edited. That is precisely the failure the lane's top thread complains about — *"aren't the photos being completely recreated… you zoom in and you can tell it's just slop"*. Posting it would demonstrate the objection, not the answer |
+| `template-interior-design-mood-board-generator-*` | A design deliverable — render plus material palette. Not an edit of anyone's property photo |
+
+**What would replace them**, and it is the cheap next step: run a real item-removal and a
+real window-pull on a property frame we own, through our own pipeline, and keep the 100%
+crops. That turns R1 and R2 from an argument into evidence — and per §F1 the capability fit
+is currently *inferred* from client-008, not demonstrated in this vertical.
+
 ## Scene & wedding (S, W) — portfolio copies, not new builds
 
 The originals stay where the outreach batches point at them —
@@ -927,6 +1091,8 @@ credibility rests on every image being our own output.
 
 ---
 
+---
+
 # Shared — the mechanic, and the one stop rule
 
 From the reddit doc §H0, and the thing most likely to be got wrong:
@@ -935,7 +1101,7 @@ From the reddit doc §H0, and the thing most likely to be got wrong:
 > **评论区触达 — comment-section outreach**, not DMs. […] **DM only after they
 > reply to the comment.**
 
-These twelve posts are the standing exhibit, not the motion. The motion is: read the
+These fifteen posts are the standing exhibit, not the motion. The motion is: read the
 group daily, find a post where someone **states a need in their own words**, and
 reply in the comments with output on *their* product category — not a link, not a
 deck, not a portfolio. The posts exist so that when someone clicks through after
