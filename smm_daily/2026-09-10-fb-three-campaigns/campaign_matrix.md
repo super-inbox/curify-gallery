@@ -80,6 +80,37 @@ cover every cell. It is the cheapest family to launch this week.
 ⚠️ **Excluded from all posts:** the `starbucks/`, `corona/`, `lego/`, `angryAlert/` folders — visible
 third-party brands in outbound creative is a standing red line.
 
+### ⭐ 2026-09-16 — four JOB-cut cells added (B6–B9), and one correction to B2
+
+Demand mining landed (`curify-studio/docs/reddit-demand-mining-ecommerce-2026-09-15.md`, 836 posts).
+Cells and copy are in [`posts_ecommerce.md`](posts_ecommerce.md); what belongs **here** is the
+taxonomy change and one honest tension with the rule at the top of this file.
+
+| new cell | job | why it exists |
+|---|---|---|
+| **B6** Amazon listing & A+ | listing/main image/A+ modules | **22% of all posts — 3× any other job**, and humans still charge $400–1,000/ASIN |
+| **B7** Media buyers & agencies | creative volume | **the only lane clearing the bar on every axis**; also the most permissive room measured |
+| **B8** Burned-by-a-UGC-freelancer | managed video pipeline | the clearest stated need in the corpus; the buyer specified the offer themselves |
+| **B9** Apparel fidelity | 货不对版 / detail survival | ⚠️ weakest demand evidence on the board — **run last**, see its honesty gate |
+
+⚠️ **The tension, stated rather than buried.** The rule at the top of this file is *"the group
+taxonomy must match the BUYER taxonomy, not the service taxonomy"*, and it was learned the hard way:
+`Product Photography` groups gathered **supply**. B6 and B8 obey it — "Amazon FBA Sellers" and
+"Shopify Entrepreneurs" cluster by *who sells*, not by *who produces*.
+
+**B7 partially breaks it.** "Media Buyers" is a profession, which is exactly the failure shape. It is
+included anyway because the corpus says that profession *buys* production rather than sells it —
+production is their cost centre, which is the premise `lead-generation-system-2026-09-10.md` already
+rates as our best-shaped offer. **But the group list for B7 is unverified and likely supply-heavy, so
+it gets the §H2a treatment before anything is posted: open it, read it, decide which side it holds.**
+
+⚠️ **No group in B6–B9 has been opened yet.** Every group name in those cells is a *search term*, not
+a verified surface. B1–B5's ✓ marks were earned by reading the groups; B6–B9 carry none.
+
+⚠️ **B2's copy needs an edit before it runs to a paid-ads audience** — "nine variants" is the frame
+the r/FacebookAds top post calls worthless. Keep it for brand owners, re-cut it for media buyers.
+Detail in `posts_ecommerce.md`.
+
 ### Post copy (swap the category)
 
 > **Here's what we made for one jewelry product, starting from a single original photo.**
