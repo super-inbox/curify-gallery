@@ -32,14 +32,51 @@ social posts and the `demos/` cuts for email — a 39MB attachment will not send
 | Destination | Asset (`cultural_videos/`) | FB groups | 小红书 | 快手 |
 |---|---|---|---|---|
 | **Bali · melukat** | `bali/bali-melukat-30s-watermarked.mp4` (39MB) | ✅ **09-13** — found via `bali photographer`, `bali villa` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
-| **Dubai · the creek** | `dubai/dubai-creek-30s-watermarked.mp4` (28MB) | ✅ **09-13** — `dubai resorts`, `dubai travel` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
+| **Dubai · the creek** | `dubai/dubai-creek-30s-watermarked.mp4` (28MB) | ✅ **09-13** `dubai resorts`/`dubai travel` · ✅ **09-17** `dubai photography` 🔴 撞群 | ◻︎ 🔴 未发 | ⚠️ 待确认 |
 | **Granada · Alhambra** | `granada/granada-alhambra-30s-watermarked.mp4` (36MB) | ✅ **09-13** — `granada`, `granada tour` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
-| **Kyoto · kimono** | `kyoto/kyoto-kimono-30s-watermarked.mp4` (30MB) | ◻︎ *(an earlier cut went out pre-log — group unrecorded)* | ◻︎ | ◻︎ |
+| **Kyoto · kimono** | `kyoto/kyoto-kimono-30s-watermarked.mp4` (30MB) | ✅ **09-17** — via `kimono`（另有更早一次 pre-log，群未记录） | ◻︎ | ◻︎ |
 | **China · 滕王阁** | `tengwangge/tengwangge-30s-preview-watermarked.mp4` (22MB) | ◻︎ *(earlier, pre-log)* | ◻︎ | ◻︎ **best first pick** — no positioning conflict, largest 文旅/汉服 base |
 | ~~Bali v1 · resort~~ | `bali/bali-resort-30s-watermarked.mp4` | ⛔ superseded | ⛔ | ⛔ |
 | ~~Dubai v1 · desert~~ | `dubai/dubai-desert-30s-watermarked.mp4` | ⛔ superseded | ⛔ | ⛔ |
 | 滕王阁 `-realmodel` / `-v3` | `tengwangge/…` | ⛔ **never** | ⛔ | ⛔ |
 | Santorini | — | ❌ no demo — do not post the pitch there | ❌ | ❌ |
+
+### ✅ 09-17 · 京都进 `kimono` 群 —— 矩阵里贴合度最高的一格，而且是按计划走的
+
+这一格本来就排在表上，说明写的是「tightest offer-to-buyer fit」，现在跑了。
+
+⭐ **它之所以是最紧的一格：和服体验的客人本来就是为「留个纪念」付的钱。**
+升级那个纪念品不需要额外论证 —— 不像跟摄影师解释"这是可以加价卖的加购项"，
+和服店老板自己就知道客人要带什么回家。这也是唯一一格 demo 和买家完全同源的：
+`kyoto-kimono-30s` 拍的就是这件事本身。
+
+**回来看什么：** 问「一条多少钱」「能不能挂我们店名」→ 体验商家在算加购账，对了；
+问「用什么软件做的」→ 落到了同行摄影师手里，那是 G1 不是 G3。
+
+### 🔴 09-17 · 迪拜进 `dubai photography` 群 —— 买家对，但和修图线三天内撞了同一批人
+
+`../2026-09-01-retouching/posts_fb.md` 的 **W3（09-14）** 发进了四类群，
+其中两类是 **`dubai photographer`** 和 `UAE photographer`。
+今天旅拍的迪拜片子又发进 **`dubai photography`** 群。
+
+**买家没错 —— 目的地摄影师本来就同时是这两样东西的买家**：
+他们拍片所以需要后期，他们卖套餐所以可以加卖纪念短片。
+`2026-09-10-fb-three-campaigns/campaign_matrix.md` 里 Dubai 这一格本来就写着两条线配对。
+
+**错的是节奏。** 标准是「一个群每 ~3 天一帖」，而且**从来不是两个不同的报价**。
+现在的情况可能是：同一批迪拜摄影师 09-14 收到"我们做白标修图"，
+09-17 收到"把客人照片做成纪念短片"。**三天两个不同的生意**，读起来就是广撒网 ——
+而评论区触达这套打法的全部前提就是不广撒网。
+
+**这是第二次撞了，而且方向反过来了。** 09-14 记的那次是修图 W3 撞进旅拍的 `dubai travel`；
+这次是旅拍撞进修图的 `dubai photographer`。两张排期表互相看不见，所以**这会一直发生**。
+
+⚠️ **下一条迪拜内容之前必须做的两件事：**
+1. **把两个线程的迪拜群 ID 对一遍。** 真重叠了就**给那个房间只留一个 offer**。
+2. **选哪一个：留旅拍短片。** 理由是它是**加购**不是替代 ——
+   摄影师可以把它加进现有套餐去卖，不用换掉任何现有供应商；
+   白标修图要求他们换掉或补上一个后期环节，决策更重、周期更长。
+   先卖那个更容易说"好"的。
 
 ### 🔴 09-14 · 和修图线撞群的风险（Dubai）
 
@@ -170,8 +207,9 @@ are different businesses that happen to share a folder.
 | ✅ earlier | ⚠️ unrecorded | Kyoto | FB — pre-log | ⚠️ record | | | |
 | ✅ earlier | ⚠️ unrecorded | China (滕王阁) | FB — pre-log | ⚠️ record | | | |
 | ◻︎ | 快手 | China (滕王阁) | **next pick** — no positioning conflict, biggest 文旅/汉服 base | | | | |
-| ◻︎ | 👘 G3 | Kyoto | `Kimono photographers` — tightest offer-to-buyer fit | | | | |
+| ✅ **09-17** | 👘 G3 | Kyoto | FB — via `kimono` | ⚠️ record | | | |
 | ◻︎ | 📸 G1 | Kyoto | `Kyoto photographers` — isolates place from trade | | | | |
+| ✅ **09-17** | 📸 G1 | Dubai | FB — via `dubai photography` | 🔴 **与修图 W3 撞群** — 见下 | | | |
 | ◻︎ | 🏨 G5 | Granada | Granada hotels / carmen & tourism trade | | | | |
 | ◻︎ | 💍 G2 | Bali | `Bali wedding photographers` — only after Bali has stood a week | | | | |
 | ◻︎ | 🚐 G4 | Bali | `Bali villa & tour operators` | | | | |
