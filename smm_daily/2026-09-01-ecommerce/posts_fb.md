@@ -632,6 +632,7 @@ register survives there at all.
 
 | Status | Post | Category | Group | Found via | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|
+| ✅ **09-17** | `rotation_chair` | hard goods | ×3 — *marketing* · *digital marketing* · *marketing agency* | agency keywords — ⚠️ **a different buyer**, see below | | | |
 | ✅ **09-12** | `wine_viral_en.mp4` · bilingual | food & drink | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
 | ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | beauty | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
 | ✅ **09-11** | jewelry — ⚠️ record asset | jewelry | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
@@ -644,7 +645,6 @@ register survives there at all.
 | ◻︎ | **Recut B** · how do you QC it | — | S1, S2 — **supply** | — | | | |
 | ◻︎ | **W1** · shoot doesn't scale | category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | beauty | B4, B2, then B1 — **not B3** | — | | | |
-| ◻︎ | `rotation_chair` | hard goods | B4 | — | | | |
 | ◻︎ | `angryalert` (landscape) | concept | B2 | — | | | |
 | ◻︎ | `kungfu_sf` | campaign | B3 | — | | | |
 | ◻︎ | `matcha_drink` | food & drink | B1 — last | — | | | |
@@ -653,6 +653,50 @@ register survives there at all.
 **Fill the metric columns a few days after each post.**
 
 ---
+
+## ✅ 09-17 · the chair video into marketing / agency groups
+
+Sent `rotation_chair.mp4` to **marketing**, **digital marketing** and **marketing agency**
+groups.
+
+✅ **Agencies are a real buyer, not the supply-side trap.** This is different from the
+`retouching` and `photo editing` rooms flagged in the retouching thread. Per
+`docs/lead-generation-system-2026-09-10.md`, production is an agency's **cost centre, not
+their product**, so we are not selling them their own service — and it is the one ICP where
+*more volume makes the buyer's own numbers go up*: a studio outsourcing saves cost, a media
+buyer running more creative tests makes the campaign perform.
+
+⚠️ **But the copy in this folder is written for a seller, and an agency is not one.**
+`rotation_chair`'s post ends *"If you sell hard goods: which feature of yours have you never
+managed to show properly?"* — an agency does not sell hard goods. They serve a client who
+does. Expect silence rather than objection, the same shape as P2 landing in a Bali
+destination room.
+
+**The agency framing already exists and is not this one.** The `marketing_agency` email
+voice is built on a different bottleneck: ad creative fatigues, the next test has to be
+built before the current one dies, the buyer wants 15 hooks × 3 formats and one designer
+delivers 4 — **and that gap reopens weekly**, which is a harder floor than "sometimes we are
+busy." Its hard rule is worth repeating before any follow-up here:
+
+> ⛔ **Never offer strategy, angles, hooks or positioning.** They own those and it is what
+> the client pays them for. We execute the brief; we never author it.
+
+So the chair video is a fine thing to have shown them — it is the strongest B2B proof in the
+set, and "the feature you cannot photograph" reads to an agency as *a deliverable we could
+resell*. The follow-up should be re-voiced to the brief-execution angle, not another
+seller-shaped post.
+
+⚠️ **`marketing` and `digital marketing` alone are very broad.** Those rooms carry
+freelancers, course-sellers and job-seekers as readily as agency principals — the same
+category-word problem as `makeup` and `wine` above. **`marketing agency` is the tight one**;
+tighter still are `social media agency`, `paid social`, `performance marketing`,
+`ecommerce agency`, `Amazon agency` — the five shapes the GTM doc says to target, versus
+SEO / PR / strategy consultancies, which it says to avoid.
+
+**What the replies will tell you.** An agency reply sounds like *"can you do this at volume
+for client work"* or *"what's the turnaround on a batch" —* both are brief-execution
+questions and both convert. If it reads as *"what tool is this"*, the room is marketers
+shopping software, not agencies buying capacity.
 
 ## ✅ 09-12 · wine video, three groups
 
