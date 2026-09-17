@@ -171,9 +171,24 @@ then retouching for photographers. That reads as spray, and it is the one thing 
 comment-first motion is supposed to avoid.
 
 🔴 **Check the group IDs across both threads before the next Dubai post.** Neither schedule
-can see the other — they are separate files with separate tables, and this is the first time
-they have collided. If they overlap, pick **one** offer for that room: the souvenir video, because
-that audience owns guests, not cameras.
+can see the other — they are separate files with separate tables.
+
+🔴 **Update 09-17 — it happened again, in the other direction.** The souvenir thread posted
+its Dubai film into **`dubai photography`** groups
+(`../2026-09-10-fb-souvenir-video/README.md`). W3 went into `dubai photographer` and
+`UAE photographer` on 09-14. So the same Dubai photographers may have had **two different
+offers from us in three days** — white-label retouching, then a souvenir add-on.
+
+**The buyer is not wrong.** A destination shooter genuinely buys both: they shoot so they
+need post, and they sell packages so they can resell a film. `campaign_matrix.md` pairs the
+two lines on Dubai deliberately. **What is wrong is the cadence** — one post per group per
+~3 days, and never two different offers.
+
+**If the rooms overlap, keep the souvenir video and drop retouching there.** It is an
+*add-on* rather than a replacement: the photographer bolts it onto a package they already
+sell without displacing any existing supplier. White-label retouching asks them to change or
+add a post-production vendor — a heavier decision on a longer cycle. Sell the easier yes
+first.
 
 **Sequencing.** W3 was queued for week 6; it ran now, making it the third post to jump its
 slot after W1 and P2. It also ran **before W2**, which was queued for week 2 into the wedding
