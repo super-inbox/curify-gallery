@@ -19,7 +19,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 ✅ · P2 ✅ | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C6 · **no C7, by design** | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
-| 🏠 **R** Real estate & property | listing photographers, property-media firms | turnaround and consistency against an MLS deadline | R1 ✅ 09-16 · R2 ◻︎ · R3 ◻︎ | ⚠️ 2 job-named groups — see Schedule & progress |
+| 🏠 **R** Real estate & property | listing photographers, property-media firms | turnaround and consistency against an MLS deadline | R1 ✅ · R3 ✅ · R2 ⚠️ held | ⚠️ job-named groups — see Schedule & progress |
 
 **S is the cross-genre voice.** It is the only one that can go into any of the others'
 groups without rewriting, because *did the subject survive the edit* is the same question
@@ -62,8 +62,8 @@ also the better thing to put in a buyer group first.
 | ◻︎ | 6 | 🖼️ S | **S1** | `_contact-sheet.jpg` | B3 | | | |
 | ◻︎ | 7 | 🎧 P | **P2** re-run | `_sheet-portrait.jpg` | S3, if P1 landed there | | | |
 | ✅ **09-16** | next→now | 🏠 R | **R1** · edit, don't recreate | `r1-edit-not-recreate.jpg` | ×2 — *real estate photo editing* · *real estate photo editing services* | | | |
-| ⚠️ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | **hold** until the 09-16 rooms are read — R2 ends in "send me frames", which pitches competitors if they are supply | | | |
-| ⚠️ | 9 | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | **hold**, same reason; plus a buyer-side group (`real estate photographers`) still needs joining | | | |
+| ⚠️ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | **still held** — and now the only R post left to spend on a *buyer-side* room | | | |
+| ✅ **09-17** | 9→now | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | ×? — *real estate photo editing* (same job-named rooms as R1) | | | |
 | ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | `_sheet-children.jpg` | **never a feed** — 1:1 only, blocked by C6 | | | |
 
 **14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
@@ -146,6 +146,36 @@ carry the question. Do not repeat W1 until its file is swapped.
 Group was found on `摄影` + `婚礼` — trade + occasion, not place × trade. Broader net, but it
 also pulls in couples and the vendors selling to them. Before posting again there, read the
 feed: photographers talking shop, or brides asking for recommendations?
+
+## ✅ 09-17 · R3 also went out, into the same job-named rooms
+
+R3 was marked ⚠️ **hold** on 09-16, for one reason: it ends in *"send three frames plus the
+gallery whose colour you want matched"*, and in a room full of editors that is an ask
+directed at competitors. It went out anyway, into the same `real estate photo editing`
+groups as R1.
+
+**How bad this is depends entirely on a question still unanswered** — whether those rooms are
+supply or demand. Nobody has read the feed yet. Two outcomes:
+
+- **Demand (photographers):** R1 → R3 is a fine order. R3 is the least offer-shaped of the
+  three; it spends most of its length on *why interiors come back grey* and only asks at the
+  end. A photographer reading it gets a real argument first.
+- **Supply (editors):** R3 is the first post in this voice that actually costs something.
+  R1 was safe either way — method plus a number, no ask. R3 asks. In an editors' room that
+  reads as soliciting the people who would be doing the work.
+
+⚠️ **R2 is now the last R post we have, and it should be spent on a buyer-side room.**
+The sequence ran R1 → R3, skipping R2 — which is the one that is *pure checklist*, no ask at
+all beyond an offer to be checked. That makes R2 the best of the three to open a *new* room
+with, and the worst one to burn on a room we already know is wrong.
+
+**Concretely, before anything else in this voice:**
+1. **Read the 09-16/09-17 rooms.** Rate cards and "free trial edit" = supply; "who do you
+   use", "what do you charge", frames posted for critique = demand.
+2. **Join a buyer-side group** — `real estate photographers`, `property photographers`,
+   `real estate photography [region]`. None is joined yet; that is the actual blocker on
+   this voice, not the posts.
+3. **Open it with R2**, not with a repeat of R1.
 
 ## ✅ 09-14 · W3 into four group types — two right, one wrong buyer, one supply
 
