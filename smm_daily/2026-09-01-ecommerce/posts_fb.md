@@ -1,4 +1,4 @@
-# FB Groups · E-commerce — 12 posts + 2 supply-side recuts (2026-09-01 … 09-11)
+# FB Groups · E-commerce — 13 posts + 2 supply-side recuts (2026-09-01 … 09-18)
 
 _Facebook half of this folder. The 快手 half is **`posts_kuaishou.md`** — different
 register, not a translation. **Clearance, the group list, cadence and the stop rule
@@ -23,6 +23,7 @@ demand** — they get the two recuts, which *ask* rather than sell. Never the bu
 | `angryalert` (landscape cut) | native video | ad-video library | B2 |
 | `kungfu_sf` | native video | ad-video library | B3 |
 | `matcha_drink` | native video | ad-video library | B1 — last |
+| `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** |
 | `model_standing` | native video | ad-video library | B3, ⚠️ **only after the likeness check** |
 | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | B1 **first, alone** |
 | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | B3, B2 |
@@ -341,6 +342,44 @@ seller group understands.* → **B4**, then 快手 — see `posts_kuaishou.md`.
 If you want to try it on your own product: curify-ai.com/tools/product-video
 Or drop a product shot in the comments and I'll run one for you.
 ```
+
+---
+
+## `fabric_ad` — 15s · 16:9 · unbranded ✅
+*Added 2026-09-18. Cotton boll → yarn → weave → a suspended sheet → water beads → a
+charcoal button-down on a hanger. No text, no logo, no mannequin, no face.*
+→ **B3** (Apparels/Fashion) — the tightest category match in the whole folder.
+
+**⚠️ B3 already has `kungfu_sf` in the suggested order.** An energy-drink spec spot in an
+apparel group is the category mismatch the table at the top of this file exists to prevent.
+**Recommend `fabric_ad` takes B3 and `kungfu_sf` moves to B2 or holds** — but that is a
+re-plan of README's slot list, so it is a recommendation here, not a done deal.
+
+**16:9 landscape — FB only.** Not recut for 快手 or 小红书 yet; see `posts_rednote.md`.
+
+**FB post:**
+> 🧵 Fifteen seconds that start on a single cotton boll and end on a finished shirt — the yarn twisting, the weave under a raking light, one slow wave through a hanging sheet of cloth, water beading and rolling off it.
+>
+> I made it because of the one question an apparel listing has never been able to answer: *what does it actually feel like.* You can photograph colour. You can photograph fit. Hand-feel is the thing the buyer is really asking about, and a flat-lay of fabric reads as nothing at all.
+>
+> Which is why the macro textile shot is its own specialty — a macro lens, a controlled set, someone who knows how to light a weave so the threads separate instead of turning into grey mush. Most sellers never commission it, so the listing just stays silent on the one axis that drives the return.
+>
+> One thing I'd say plainly: this is *rendered* cloth, not my cloth. It sets a register — this is a heavy, dry, matte, structured fabric — and if what ships doesn't match that register you have bought yourself a return, not saved one. Keep one honest macro of the real material in the listing and let a piece like this carry the mood.
+>
+> A craft note, since this group will spot it anyway: the first cut ended on the shirt free-floating and slowly rotating, and it looked wrong to everyone who saw it. Cloth needs something to hang from. Re-rendered with it on a hanger, sleeves down, and it settled.
+>
+> For those of you selling apparel — how do you answer "what does it feel like" right now? Close-up macro, a GSM number in the copy, or do you just accept the returns? 👇
+
+**First comment:**
+```
+Self-serve on your own product: curify-ai.com/tools/product-video
+A full apparel line, batched: curify-ai.com/contact
+```
+
+**Copy provenance:** the free-floating-shirt reject is real and is recorded verbatim in
+`prompts/fabric_ad.json` (`as_run.revision`) — *"the last 3 seconds with the clothing
+doesn't seem natural."* Don't soften it in an edit; the specificity is the reason that
+paragraph works in a group of people who look at garments all day.
 
 ---
 

@@ -1,0 +1,61 @@
+{
+  "product": "fabric_ad",
+  "category": "apparel / textile",
+  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/fabric_ad.mp4",
+  "rendered_spec": {"duration_s": 15.0, "resolution": "1344x768", "orientation": "landscape", "fps": 24, "audio": "aac 32kHz stereo, instrumental bed, no speech"},
+  "clearance": "ship",
+  "provenance": {
+    "_comment": "Unlike the other two files in this folder, this asset was generated inside the design-agent real-projects stream, so the full brief -> feedback -> revision chain is already recorded upstream. This file is the SMM-side copy of the prompt blocks only.",
+    "record": "~/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-09-18-internal-005-fabric-ad-video.json",
+    "project_id": "2026-09-18-internal-005-fabric-ad-video",
+    "kind": "internal_exploration",
+    "customer_data": false,
+    "reference_inputs": "Two third-party fabric ads were used as STYLE REFERENCE ONLY, in the operator's reading of them. They were never uploaded to the model -- the reference-upload attempt was rejected by MiniMax's automatic approval review, and every accepted submission was text-only. Nothing from those two files is in the output.",
+    "generation": {"provider": "MiniMax", "model": "MiniMax-H3", "resolution": "768P", "input_mode": "text-to-video", "initial_task_id": "442967593189588", "ending_task_id": "442973758562422"}
+  },
+  "as_run": {
+    "_comment": "The two prompts that actually produced the file sitting in ecommerce_ad_videos/. Recorded verbatim for provenance -- do not edit.",
+    "mode": "single-prompt text-to-video, plus one partial re-generation",
+    "prompt": "Create a 15-second premium photorealistic CGI textile commercial, widescreen 16:9. Create an original complete cotton-to-garment story using cinematic macro camera language, detailed fibers, dark studio lighting and restrained orange accents.\n0-2s: Extreme macro of an ivory cotton boll on a charcoal background. Fine wispy fibers gently separate toward the right. Slow camera push-in.\n2-5s: Match cut to thick twisted cotton yarn running diagonally across frame. Track smoothly along individual fuzzy filaments. A soft amber-orange glow travels through the yarn, a stylized warmth visualization without flames or burning.\n5-7s: Cut to a low grazing macro view of densely woven charcoal fabric. Glide over coherent interlaced warp and weft threads with sharp fine fiber detail.\n7-10s: Pull back to a suspended sheet of that charcoal fabric. One broad gentle wave travels through soft folds; believable weight, gravity and natural settling.\n10-12s: Macro close-up of clear water beads resting on the sloping fabric. Small droplets merge and roll along its surface, reflecting precise studio lights.\n12-15s: Clean cut to a floating charcoal long-sleeve button-down shirt with no wearer or mannequin. Slowly rotate into a three-quarter hero view, sleeves and hem settling naturally. A restrained amber warmth visualization briefly crosses the shirt, then fades to reveal the original charcoal fabric.\nDeep charcoal seamless studio backgrounds, directional rim lighting, shallow depth of field, smooth deliberate camera motion, clean match cuts, photorealistic premium product rendering. Maintain consistent fabric color and woven construction. No generated text, labels, logos, watermarks, people, extra sleeves, melting threads, liquid-looking cloth, flames, sparks, flicker or camera shake. Audio: subtle atmospheric instrumental bed with delicate textile rustling, no speech.",
+    "what_landed": "All six beats rendered, in order, with consistent charcoal fabric colour across the match cuts. This is the one asset in the folder where a six-beat timecoded prompt held together in a single generation.",
+    "what_dropped": "Nothing dropped -- but the closing beat FAILED on quality, not on presence. See revision below.",
+    "revision": {
+      "round": 1,
+      "operator_feedback_verbatim": "the last 3 seconds with the clothing doesn't seem natural. please regenerate the last 3-4 seconds.",
+      "reason_class": "unnatural_garment_motion",
+      "fix_prompt_intent": "A 4-second standalone replacement ending: the shirt supported on a hanger rather than free-floating, sleeves hanging downward, restrained motion, no heat/amber overlay.",
+      "assembly": "Frames from 11.875s onward replaced with the first 3.125s of the 4s replacement shot. First 11.875s and the original audio bed were kept untouched; 15s total and 1344x768 preserved.",
+      "invariants_held": ["first 11.875 seconds", "original audio", "15-second duration", "1344x768"]
+    }
+  },
+  "series": {
+    "_status": "PROPOSED -- not run. The as-run single prompt already succeeded; this decomposition exists because the closing beat needed a second pass, and because the folder's pattern is one intent per generation.",
+    "engine": "MiniMax Hailuo (H3)",
+    "target": "6 shots -> 15s landscape, or a 9:16 recut for vertical feeds",
+    "shared_style": "Premium photorealistic CGI textile commercial. Deep charcoal seamless studio background, directional rim lighting, restrained amber-orange accent only where specified. Cinematic macro camera language, sharp individual fibre detail, shallow depth of field, smooth deliberate motion, clean match cuts. Consistent fabric colour and woven construction across every shot.",
+    "negative": "no generated text, labels, logos or watermarks, no people, no extra sleeves, no melting threads, no liquid-looking cloth, no flames or sparks, no flicker, no camera shake",
+    "shots": [
+      {"id": 1, "beat": "cotton boll", "duration_s": 6, "mode": "text_to_video",
+       "prompt": "[Push in] Extreme macro of an ivory cotton boll on a deep charcoal background. Fine wispy fibres gently separate toward the right. The camera pushes in slowly. Directional rim light catching the fibre edges, shallow depth of field, photoreal."},
+      {"id": 2, "beat": "twisted yarn with warmth travelling through it", "duration_s": 6, "mode": "text_to_video",
+       "prompt": "[Track right] Thick twisted cotton yarn runs diagonally across frame against charcoal. The camera tracks smoothly along individual fuzzy filaments. A soft amber-orange glow travels along the yarn -- a stylized warmth visualization, not fire. No flames, no burning, no sparks. Photoreal macro, shallow depth of field."},
+      {"id": 3, "beat": "the weave", "duration_s": 6, "mode": "text_to_video",
+       "prompt": "[Glide] Low grazing macro view across densely woven charcoal fabric. The camera glides over coherent interlaced warp and weft threads, sharp fine fibre detail throughout. Directional rim light raking across the weave, dark studio background, photoreal."},
+      {"id": 4, "beat": "the sheet -- weight and gravity", "duration_s": 6, "mode": "text_to_video",
+       "prompt": "[Pull back] A suspended sheet of charcoal woven fabric fills frame. One broad gentle wave travels through the soft folds with believable weight, gravity and natural settling. Deep charcoal studio background, directional rim lighting, photoreal. No liquid-looking cloth, no melting.",
+       "note": "This beat is the whole argument of the ad -- it is where the cloth reads as cloth. If a seed drifts toward silk or liquid, discard it."},
+      {"id": 5, "beat": "water beads on the slope", "duration_s": 6, "mode": "text_to_video",
+       "prompt": "[Static shot] Macro close-up of clear water beads resting on sloping charcoal fabric. Small droplets merge and roll along the surface, reflecting precise studio lights. Sharp fibre detail under and around the beads, shallow depth of field, photoreal."},
+      {"id": 6, "beat": "garment hero", "duration_s": 6, "mode": "text_to_video",
+       "prompt": "[Slow orbit] A charcoal long-sleeve button-down shirt hangs on a slim hanger against a deep charcoal seamless background, no wearer and no mannequin. Sleeves hang downward under their own weight. The camera rotates slowly into a three-quarter hero view, hem and sleeves settling naturally with restrained motion. Directional rim lighting, photoreal. No amber overlay, no extra sleeves, no floating.",
+       "note": "The as-run version of this beat had the shirt FREE-FLOATING and rotating, and it was rejected: 'the last 3 seconds with the clothing doesn't seem natural.' The hanger, the downward sleeves and the removed amber pass are the fix. Do not reinstate the float."}
+    ],
+    "assembly": "Trim each 6s generation to its beat length (2/3/2/3/2/3) for the 15s cut. Grade to one LUT -- separate generations drift in white balance, and this piece lives or dies on the charcoal staying the same charcoal across five match cuts. Keep one sustained ambient bed with textile rustle; no beat-driven cuts."
+  },
+  "notes": [
+    "Reference-upload was REJECTED by MiniMax's automatic approval review. Every accepted submission here was text-only. If a pipeline is built on this, do not assume image/video conditioning is available -- design for text-to-video and treat conditioning as a bonus.",
+    "Output came back 1344x768 at 768P, not a clean 1920x1080 or 16:9 integer. Anything that hard-codes 16:9 maths against this file will be off by a hair -- 1344/768 is 1.75:1, not 1.7778:1.",
+    "The 'warmth visualization' phrasing (amber glow, explicitly 'without flames or burning') is what kept the yarn beat from rendering as fire. Worth reusing verbatim for any heat/energy beat -- 'glow' alone tends to ignite.",
+    "The partial re-generation pattern -- regenerate one beat, keep the original audio bed, splice on a frame boundary -- cost one generation instead of fifteen seconds of rework. It only works because the audio was a continuous bed with no sync points."
+  ]
+}

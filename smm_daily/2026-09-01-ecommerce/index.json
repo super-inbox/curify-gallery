@@ -1,5 +1,5 @@
 {
- "_comment": "Index of curify-gallery/ecommerce_ad_videos for SMM distribution (FB Groups + Kuaishou). Drafted 2026-09-06; folder consolidated into 2026-09-01-ecommerce on 2026-09-11. FB copy in posts_fb.md, 快手 copy in posts_kuaishou.md, both keyed by the id field below. clearance drives whether an item may go on a public feed at all -- see README.md (Clearance) and curify-studio/docs/asset-authority-distribution-inventory.md sec 3 group B.",
+ "_comment": "Index of curify-gallery/ecommerce_ad_videos for SMM distribution (FB Groups + Kuaishou). Drafted 2026-09-06; folder consolidated into 2026-09-01-ecommerce on 2026-09-11. FB copy in posts_fb.md, 快手 copy in posts_kuaishou.md, both keyed by the id field below. fabric_ad added 2026-09-18. clearance drives whether an item may go on a public feed at all -- see README.md (Clearance) and curify-studio/docs/asset-authority-distribution-inventory.md sec 3 group B.",
  "root": "~/curify-gallery/ecommerce_ad_videos",
  "cta": {
   "self_serve": "https://www.curify-ai.com/tools/product-video",
@@ -78,6 +78,26 @@
    "hook": "The feature-explainer shot that normally needs a 3D artist",
    "has_prompt": true,
    "prompt_file": "prompts/rotation_chair.json"
+  },
+  {
+   "id": "fabric_ad",
+   "file": "fabric_ad.mp4",
+   "duration_s": 15.0,
+   "resolution": "1344x768",
+   "orientation": "landscape",
+   "category": "apparel / textile",
+   "subject": "Cotton-to-garment macro film: ivory cotton boll, twisted yarn with an amber warmth pass, raking view over the charcoal weave, a suspended fabric sheet catching one slow wave, water beads rolling on the slope, closing on a charcoal button-down on a hanger",
+   "brand_on_screen": "none",
+   "clearance": "ship",
+   "clearance_note": "Own output, own prompt, fully unbranded -- no text, no logo, no mannequin, no human face anywhere in frame. Text-to-video only: the reference-upload attempt was rejected by MiniMax's approval review, so nothing from the two third-party reference ads reached the model. Provenance recorded in agentic-adhoc real-projects 2026-09-18-internal-005-fabric-ad-video. Clearance-wise this is as clean as matcha_drink.",
+   "best_for": [
+    "fb_groups"
+   ],
+   "hook": "The one thing a listing photo has never been able to show: what the cloth is",
+   "orientation_note": "16:9 landscape, like kungfu_sf. FB-ready as-is; needs a 9:16 or 3:4 recut before any vertical feed (Kuaishou, RedNote). Not yet recut -- which is why best_for lists fb_groups only.",
+   "has_prompt": true,
+   "prompt_file": "prompts/fabric_ad.json",
+   "source_record": "~/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-09-18-internal-005-fabric-ad-video.json"
   },
   {
    "id": "model_standing",
