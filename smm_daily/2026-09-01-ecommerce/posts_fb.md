@@ -26,7 +26,7 @@ the same day. **B1 last for everything except A1** — it carries the explicit a
 rule, and A1 is the cheapest, least promotional thing in the folder, so it is the test of
 whether the register survives there at all.
 
-**Status** ✅ sent · ◻︎ planned · ⚠️ held
+**Status** ✅ sent · 🔴 sent off-plan · ◻︎ planned · ⚠️ held
 
 | Status | Post | Format | Asset | Group | Found via | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|
@@ -34,7 +34,8 @@ whether the register survives there at all.
 | ✅ **09-12** | `wine_viral_en.mp4` · bilingual | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
 | ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
 | ✅ **09-11** | jewelry — ⚠️ record asset | native video | ⚠️ record name | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
-| ◻︎ | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | B1 **first, alone** | — | | | |
+| ✅ **09-19** | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | ×3 — *fashion photo* · *ecommerce seller* · *fashion* · ⚠️ **record names + sizes** | `ecommerce seller` ✅ · `fashion photo` ⚠️ · `fashion` ⚠️ | | | |
+| ◻︎ | **A1** → **B1** · still owed | text + native image | `a1-neck-joint-cycling-jersey.jpg` | B1 **first, alone** — **the gate has not started** | — | | | |
 | ◻︎ | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | B3, B2 | — | | | |
 | ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
 | ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
@@ -655,6 +656,60 @@ _What actually happened, post by post. The plan and the status live in
 **the table at the top of this file** — this section is only the write-ups._
 
 ---
+
+## ✅ 09-19 · A1 into fashion / ecommerce-seller groups — and B1 still hasn't had it
+
+Sent `a1-neck-joint-cycling-jersey.jpg` to three groups found via **`fashion photo`**,
+**`ecommerce seller`** and **`fashion`**.
+
+**Two of the three searches are the ones this file warns about by name.** The rule at the
+top of this file: *"A category word alone (`jewelry`, `fashion`) returns makers and
+designers — supply."* And in the recipe below: *"If a group name describes a **skill**, it is
+probably supply; if it describes a **shop**, it is probably demand."*
+
+- **`ecommerce seller`** ✅ — describes a shop. This is the right search and the one to repeat.
+- **`fashion`** ⚠️ — the file's own named counter-example. Returns designers, makers,
+  resellers and shoppers as readily as sellers.
+- **`fashion photo`** ⚠️ — describes a *skill*, so it is probably photographers. And the
+  A-series preamble is explicit: **never pitch listing packs to a photographer.** A clothing
+  brand that needs listing images is an e-commerce cell; a studio that shoots people is a
+  retouching cell.
+
+⚠️ **The A1 that went out may not be the A1 the plan was written around.** A1 was rewritten
+earlier the same day with a hard CTA — *"Send me one garment photo and I'll run it free …
+whole catalogues in batch. DM, or WhatsApp."* The version the "B1 first, alone" gate was
+designed for ended on a blog link and nothing else. A value-first teardown with a soft link
+survives a photographer room; a **batch-production offer** in a photographer room is selling
+production to the people who do production — the exact error the two supply-side recuts exist
+to avoid. **Check which version went into the `fashion photo` group.** If it was the new one,
+expect that room to read it as a pitch, and follow up there with Recut A's recruiting ask
+rather than the batch offer.
+
+⚠️ **Possible collision with the retouching line.** `../2026-09-01-retouching/posts_fb.md`
+sent **P2** on **09-14** via `photo` · `photographer` · `bali model/photographer`. If today's
+`fashion photo` room overlaps that pool, that is two of our lines into the same people inside
+five days — the same pattern logged on 09-17 in the souvenir thread (*买家对，但和修图线三天内
+撞了同一批人*). Worth checking the two group lists against each other.
+
+**B1 has still had nothing.** The plan was A1 into **B1 first, alone** —
+`105108073643190` E-commerce product photography (5.2K), the group carrying the explicit
+anti-spam ban rule — on the reasoning that A1 is the cheapest, least promotional thing in
+the folder and therefore the safest test of whether this register survives there at all.
+**That test has not happened.** README's *"nothing else runs in B1 until A1 has stood a
+week"* has not started counting, so the A1 → B1 row stays open in the table above. Today's
+three placements do not substitute for it: B1's ban rule is the thing being tested, and it
+is specific to B1.
+
+⚠️ **Record the group names and sizes.** Three keywords are logged; the actual groups are
+not. The 09-11 jewelry row has been sitting at *"⚠️ record name + size"* for eight days,
+which is exactly why that post can no longer be read — there is no way to tell whether it
+landed in supply or demand. Capture these three before the detail goes.
+
+**What the replies will tell you.** From `ecommerce seller`: *"can you do this for my
+catalogue"*, or anything about turnaround or per-SKU cost — that is the buyer, and the batch
+offer is already in front of them. From either fashion room: *"which tool is this"* or
+*"what's your rate per image"* — that is a supplier, and the right follow-up is the
+white-label bench in **Recut A**, not the batch pitch.
 
 ## ✅ 09-17 · the chair video into marketing / agency groups
 
