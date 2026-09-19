@@ -1,4 +1,4 @@
-# FB Groups · E-commerce — 13 posts + 2 supply-side recuts (2026-09-01 … 09-18)
+# FB Groups · E-commerce — 13 posts + 2 supply-side recuts (2026-09-01 … 09-19)
 
 _Facebook half of this folder. The Chinese half — 快手 **and** 小红书, one file — is
 **`posts_rednote_kuaishou.md`** — different
@@ -16,33 +16,54 @@ sellers solution (6.9K).
 freelance suppliers) · **S3** `729600757556835` (4.0K). ⚠️ These are **supply, not
 demand** — they get the two recuts, which *ask* rather than sell. Never the buyer posts.
 
-| Post | Format | Asset | Goes to |
-|---|---|---|---|
-| **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 |
-| **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** |
-| `rotation_chair` | native video | ad-video library | B4 |
-| `angryalert` (landscape cut) | native video | ad-video library | B2 |
-| `kungfu_sf` | native video | ad-video library | B3 |
-| `matcha_drink` | native video | ad-video library | B1 — last |
-| `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** |
-| `model_standing` | native video | ad-video library | B3, ⚠️ **only after the likeness check** |
-| **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | B1 **first, alone** |
-| **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | B3, B2 |
-| **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 |
-| **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 |
-| **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 |
-| **Recut A / B** | text + native image | `a1`, `a4` | S1–S3, **supply side** |
+# The table — what goes where, and what has already gone
+
+_One table for the whole folder. Plan and progress were two tables until 2026-09-19;
+they drifted, so they are one now. **Fill the metric columns a few days after each post.**_
+
+**Cadence:** one group at a time, **~3 days apart**. Never the same asset into two groups
+the same day. **B1 last for everything except A1** — it carries the explicit anti-spam ban
+rule, and A1 is the cheapest, least promotional thing in the folder, so it is the test of
+whether the register survives there at all.
+
+**Status** ✅ sent · ◻︎ planned · ⚠️ held
+
+| Status | Post | Format | Asset | Group | Found via | Comments | DMs | Samples |
+|---|---|---|---|---|---|---|---|---|
+| ✅ **09-17** | `rotation_chair` | native video | ad-video library | ×3 — *marketing* · *digital marketing* · *marketing agency* | agency keywords — ⚠️ **a different buyer**, see the log | | | |
+| ✅ **09-12** | `wine_viral_en.mp4` · bilingual | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
+| ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
+| ✅ **09-11** | jewelry — ⚠️ record asset | native video | ⚠️ record name | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
+| ◻︎ | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | B1 **first, alone** | — | | | |
+| ◻︎ | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | B3, B2 | — | | | |
+| ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
+| ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
+| ◻︎ | **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 | — | | | |
+| ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
+| ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
+| ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
+| ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
+| ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
+| ◻︎ | `matcha_drink` | native video | ad-video library | B1 — last | — | | | |
+| ⚠️ | `model_standing` | native video | ad-video library | B3 — **only after the likeness check** | — | | | |
+| ◻︎ | **Recut A** · reject list | text + native image | `a1-neck-joint-cycling-jersey.jpg` | S1, S2, S3 — **supply** | — | | | |
+| ◻︎ | **Recut B** · how do you QC it | text + native image | `a4-two-ratio-check.jpg` | S1, S2 — **supply** | — | | | |
 
 **Format rules, every post:** never a carousel, never a link in the post body — FB
-throttles link-outs, and a native upload is not a link-out. CTA in the first comment.
-One asset per post.
+throttles link-outs, and a native upload is not a link-out. One asset per post.
+
+**CTA, every post:** the ask closes the body — *"send me one product photo and I'll run
+yours free. DM, or WhatsApp +86 176 9219 0183."* A phone number is not a link, so it does
+not trip the throttle; **URLs stay in the first comment.** Same number as
+`../2026-09-10-fb-three-campaigns/`. The proposition is always **batch** — one SKU → a full
+set of cuts, a catalogue at a time — never "an AI image".
 
 **Engine:** relationship / demand-mining. KPI is replies, not reach.
 
 ⭐ **Finding new groups: search the storefront, not the craft.** A category word alone
 (`jewelry`, `fashion`) returns makers and designers — supply. Add `Shopify` / `Etsy
 sellers` / `ecommerce` and the results move to the people who sell, which is who every
-post in this file is written for. Recipe per category in **Schedule & progress** at the end.
+post in this file is written for. Recipe per category in the **Distribution log** at the end.
 **Drift check:** ✅ group-scoped, off-Page — the Page identity is Sinosphere culture
 edutainment, so an ad-craft post in the Page feed would be Position Drift.
 
@@ -128,25 +149,15 @@ steady across nine renders than printed artwork is. This demonstrates that the
 
 ### FB post copy
 
-📦 The expensive part of e-commerce photography isn't the shoot. It's that one SKU needs several *different* photographs, and a booked shoot gives you one or two of them.
+📦 The expensive part of e-commerce photography isn't the shoot. It's that one SKU needs five *different* photographs, and a booked shoot gives you one or two.
 
-Think about what a single product actually has to carry on the page:
+A clean pack shot for the shopper comparing five tabs. An on-model or in-use shot. A lifestyle scene for discovery. An editorial frame for paid. A short vertical video for everything else. Then the colourway drops, or the season turns, or you list on a second marketplace at a different ratio — and you're booking the studio again.
 
-· A clean pack shot — for the shopper comparing five tabs
-· An on-model or in-use shot — for the impulse buy
-· A lifestyle scene — for discovery and social
-· An editorial frame — for paid
-· A short vertical video — for everything else
+A commercial shoot runs 3–7 days from booking to delivered files. Most stores list weekly. Some list daily. Those two clocks don't match, and the gap is exactly where a listing goes up with one grey photo and then just… stays there.
 
-That's five jobs from one product. Then the colourway drops, or the season turns, or you list on a second marketplace at a different aspect ratio, and you're booking the studio again.
+This video is one product photo run through our pipeline — hero poster, then the marketplace listing, then the social set. Same single input. It still needs someone to check that every claim on the page belongs to the product; we've shipped that mistake ourselves and it's a quiet, expensive one.
 
-A commercial shoot typically runs 3–7 days from booking to delivered files. Most stores list weekly. Some list daily. Those two clocks don't match, and the gap between them is exactly where a listing goes up with one grey photo and then just… stays there.
-
-The video is one product photo run through our pipeline — hero poster, then the marketplace listing, then the social set. Same single input.
-
-It isn't magic and it isn't free of judgement. The output still needs someone to check that every claim on the page belongs to the product (we've shipped that mistake ourselves and it's a quiet, expensive one). But the bottleneck moves from *when can the studio fit me in* to *which shots do I actually want.*
-
-Genuinely curious how the rest of you handle this. Do you shoot everything, generate everything, or split it by SKU tier? 👇
+**We run these in batches — one SKU gets its full set, and a catalogue goes through a line at a time.** Send me one product photo and I'll do yours free, so you can judge it on your own product rather than mine. DM, or WhatsApp +86 176 9219 0183.
 
 ---
 
@@ -197,28 +208,17 @@ safe to reference precisely because it is ours.
 
 ### FB post copy
 
-📸 Here's the quiet reason "just generate more product shots" doesn't work: you don't get more shots of your product. You get more shots of a product that resembles yours.
+📸 Here's the quiet reason "just generate more product shots" doesn't work: you don't get more shots of your product. You get more shots of a product that *resembles* yours.
 
-Run the same prompt twice for a serum bottle on marble and two bottles come back. The dropper collar is a smooth sleeve in one and a stepped collar with a ring in the other. The label edge goes from hard and opaque to soft and translucent. The shoulder narrows. Nobody staged that — it's just what two runs produce, because each run invents the bottle again from the words.
+Run the same prompt twice for a serum bottle on marble. The dropper collar is a smooth sleeve in one and a stepped collar with a ring in the other. The label edge goes from hard and opaque to soft and translucent. The shoulder narrows. Nobody staged that — each run invents the bottle again from the words. Fine for a mood board. For a listing it's a returns problem, and depending on what you sell, a compliance one.
 
-For a mood board, fine. For a listing, that's a returns problem, and depending on what you sell it's a compliance one.
+The fix isn't a better prompt. It's **feeding the product photo back in as the input** and changing only the setting around it. The product stops being described and starts being carried. Nine settings above, one bottle, one camera angle — white pack shot, marble, bathroom, flat-lay, outdoor sun, botanical, dark luxe, pastel, gift set.
 
-The fix isn't a better prompt. It's **feeding the product photo back in as the input** and changing only the setting around it. The product stops being described and starts being carried.
+Being straight about what you're looking at: that label is blank because the bottle is our own test object, not anyone's product — and a blank label is easier to hold steady than printed artwork. This shows the *object* is locked. On a real SKU, the label is the first place to look, every time.
 
-From one pack shot, that's:
+So test it before you trust it. Generate the same scene twice, put them side by side, and **count something** — threads on the cap, rings on the collar, panels on the box. If the count moves between runs, the pipeline isn't holding your product, and no amount of prompt tightening will fix it.
 
-· A clean white pack shot for the shopper comparing five tabs
-· Marble and pastel podium for a brand-led detail page
-· Bathroom counter and flat-lay for lifestyle and social
-· Outdoor sun and botanical for seasonal
-· Dark luxe for paid
-· A gift-set frame for Q4
-
-Nine settings above, one bottle, one camera angle.
-
-Being straight about what you're looking at: that label is blank because the bottle is our own test object, not anyone's product. And a blank label is an easier thing to hold steady than printed artwork. This shows the *object* is locked. On a real SKU, the label is the first place to look, every time.
-
-So test it before you trust it. Generate the same scene twice, put the two side by side, and **count something** — threads on the cap, rings on the collar, panels on the box. If the count moves between runs, the pipeline isn't holding your product, and no amount of prompt tightening is going to make it. 👇
+**We do this in batches — a full variant set per SKU, a catalogue at a time.** Send me one product photo and I'll run nine free and post them back, the misses included. DM, or WhatsApp +86 176 9219 0183.
 
 ### First comment (the CTA)
 
@@ -280,17 +280,15 @@ Catalog-scale (a full SKU line, batched): curify-ai.com/contact
 → **B2** (the photographer group — they'll read the craft), then 快手 — see `posts_rednote_kuaishou.md`.
 
 **FB post:**
-> 📣 A finished 20-second app commercial — office scenes, an actor, a HUD overlay, a logo sting.
->
-> The app does not exist. I made it up. It's called Angry Alert and it supposedly warns you before someone gets annoyed.
+> 📣 A finished 20-second app commercial — office scenes, an actor, a HUD overlay, a logo sting. The app does not exist. I made it up.
 >
 > That's the actual point. There's a whole category of thing you can't shoot yet: the app you haven't built, the SKU still at the factory, the packaging you're deciding between. That's exactly when you most need to *see* the ad — a pitch deck, a pre-order page, a "does this concept land" test before committing the budget.
 >
-> The old order is shoot → then market. This inverts it: you make the commercial for the thing first, look at it, and let that tell you whether the thing is worth making.
+> The old order is shoot → then market. This inverts it: make the commercial for the thing first, look at it, and let that tell you whether the thing is worth making.
 >
-> The honest limit: it's convincing precisely because nothing in it has to be true. For a real product every claim on screen still has to be one you can stand behind.
+> The honest limit: it's convincing precisely because nothing in it has to be true. For a real product, every claim on screen still has to be one you can stand behind.
 >
-> Has anyone here made the ad before the product? 👇
+> **Concept films and product films both run in batches — a whole line, one SKU at a time.** Tell me what you're thinking of launching and I'll cut one free. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:**
 ```
@@ -305,15 +303,15 @@ Concept work / batches: curify-ai.com/contact
 for Kuaishou. → **B3**.
 
 **FB post:**
-> 🥋 Twenty seconds: a kungfu figure on a tiled rooftop hung with red lanterns, a leap across a downtown rooftop, and a final stance at the Golden Gate at sunset with autumn leaves coming down.
+> 🥋 Twenty seconds: a kungfu figure on a tiled rooftop hung with red lanterns, a leap across a downtown rooftop, a final stance at the Golden Gate at sunset with autumn leaves coming down.
 >
-> Three locations. Two of them you cannot get. Filming on the Golden Gate approach means permits, insurance, a crew call and a sunrise window you get one shot at — and rooftop-to-rooftop needs a stunt team and a closed set.
+> Three locations. Two of them you cannot get. The Golden Gate approach means permits, insurance, a crew call and a sunrise window you get one shot at. Rooftop-to-rooftop needs a stunt team and a closed set.
 >
-> This is the lane where the economics stop being close. Product photography, you can argue — a good photographer is fast and the result is real. But landmark-scale action is a five-figure line item before anyone shows up, and for most brands the honest alternative isn't a cheaper shoot, it's *not making the spot at all*.
+> This is the lane where the economics stop being close. Product photography you can argue — a good photographer is fast and the result is real. But landmark-scale action is a five-figure line item before anyone shows up, and for most brands the honest alternative isn't a cheaper shoot, it's *not making the spot at all*.
 >
-> That's the shift worth naming: it's less about replacing shoots and more about the ads that never got made because the location was out of reach.
+> So the shift worth naming isn't replacing shoots. It's the ads that never got made because the location was out of reach.
 >
-> Anyone here priced a location shoot recently? Curious what the real numbers look like in 2026. 👇
+> **Campaign work runs in batches — a full set of cuts per product, or a line at a time.** Tell me the scene you've been quoting and can't justify, and I'll run one free. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:**
 ```
@@ -328,15 +326,15 @@ Campaign / batch work: curify-ai.com/contact
 seller group understands.* → **B4**, then 快手 — see `posts_rednote_kuaishou.md`.
 
 **FB post:**
-> 🍵 This is 15 seconds of iced matcha — the banana slices falling, the milk pour, the condensation on the finished glass.
+> 🍵 Fifteen seconds of iced matcha — the banana slices falling, the milk pour, the condensation on the finished glass. There was no shoot.
 >
-> There was no shoot. No food stylist, no bounce card, no getting the pour right on take 40 while the ice melts and the whole setup has to be rebuilt.
+> No food stylist, no bounce card, no getting the pour right on take 40 while the ice melts and the whole setup has to be rebuilt.
 >
-> I'm posting it because beverage is the category where the gap is widest. A drink has to look *cold*, and cold is the single hardest thing to hold on a hot set — you're fighting condensation and melt on a clock. That's why the pour shot is the one everybody outsources.
+> Beverage is where the gap is widest. A drink has to look *cold*, and cold is the hardest thing to hold on a hot set — you're fighting condensation and melt on a clock. That's why the pour shot is the one everybody outsources.
 >
-> Worth saying what it isn't: it's not a substitute for shooting a product whose real texture matters to the buyer. It's a substitute for the fifth variation of a shot you already got right once.
+> Worth saying what it isn't: not a substitute for shooting a product whose real texture matters to the buyer. It's a substitute for the fifth variation of a shot you already got right once.
 >
-> For those of you selling food and drink — where does your listing actually break down? The hero, the texture macro, or the lifestyle scene? 👇
+> **We run these in batches — one SKU, a full set of ad cuts; or the whole drinks line at once.** Send me one product shot and I'll do yours free. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:**
 ```
@@ -362,15 +360,15 @@ anyway — a recut is not a gate. Chinese copy in `posts_rednote_kuaishou.md`.
 **FB post:**
 > 🧵 Fifteen seconds that start on a single cotton boll and end on a finished shirt — the yarn twisting, the weave under a raking light, one slow wave through a hanging sheet of cloth, water beading and rolling off it.
 >
-> I made it because of the one question an apparel listing has never been able to answer: *what does it actually feel like.* You can photograph colour. You can photograph fit. Hand-feel is the thing the buyer is really asking about, and a flat-lay of fabric reads as nothing at all.
+> I made it because of the one question an apparel listing has never been able to answer: *what does it actually feel like.* You can photograph colour. You can photograph fit. Hand-feel is what the buyer is really asking about, and a flat-lay of fabric reads as nothing at all.
 >
-> Which is why the macro textile shot is its own specialty — a macro lens, a controlled set, someone who knows how to light a weave so the threads separate instead of turning into grey mush. Most sellers never commission it, so the listing just stays silent on the one axis that drives the return.
+> Which is why the macro textile shot is its own specialty — a macro lens, a controlled set, someone who knows how to light a weave so the threads separate instead of turning into grey mush. Most sellers never commission it, so the listing stays silent on the one axis that drives the return.
 >
-> One thing I'd say plainly: this is *rendered* cloth, not my cloth. It sets a register — this is a heavy, dry, matte, structured fabric — and if what ships doesn't match that register you have bought yourself a return, not saved one. Keep one honest macro of the real material in the listing and let a piece like this carry the mood.
+> Plainly: this is *rendered* cloth, not my cloth. It sets a register — heavy, dry, matte, structured — and if what ships doesn't match that register you've bought yourself a return, not saved one. Keep one honest macro of the real material in the listing and let a piece like this carry the mood.
 >
-> A craft note, since this group will spot it anyway: the first cut ended on the shirt free-floating and slowly rotating, and it looked wrong to everyone who saw it. Cloth needs something to hang from. Re-rendered with it on a hanger, sleeves down, and it settled.
+> A craft note this group will spot anyway: the first cut ended on the shirt free-floating and slowly rotating, and it looked wrong to everyone who saw it. Cloth needs something to hang from. Re-rendered on a hanger, sleeves down, and it settled.
 >
-> For those of you selling apparel — how do you answer "what does it feel like" right now? Close-up macro, a GSM number in the copy, or do you just accept the returns? 👇
+> **We do this in batches — a full set of cuts per SKU, a whole line at a time.** Send me one garment photo and I'll run yours free. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:**
 ```
@@ -392,11 +390,11 @@ Copy is drafted so it's ready the moment the reference is confirmed synthetic.
 **FB post:**
 > 👔 A full-length on-model shot of a black suit — marble-and-brass lobby, slow orbit, ten seconds.
 >
-> On-model is the shot apparel sellers can least afford to skip and least afford to repeat. One model, one studio day covers maybe a handful of looks, and then a colourway drops or you list on a marketplace at a different crop and you're booking again.
+> On-model is the shot apparel sellers can least afford to skip and least afford to repeat. One model, one studio day covers maybe a handful of looks — then a colourway drops, or you list on a marketplace at a different crop, and you're booking again.
 >
-> Two things I'd flag rather than oversell. Fabric behaviour is still the tell — how a real garment falls and creases is the thing generation is worst at, and a suit is a forgiving case because the drape is structured. And if you generate a model, the face has to be genuinely synthetic, not a real person's likeness carried over from a reference. That one is a legal problem, not a quality problem.
+> Two things I'd flag rather than oversell. Fabric behaviour is still the tell — how a real garment falls and creases is what generation is worst at, and a suit is a forgiving case because the drape is structured. And if you generate a model, the face has to be genuinely synthetic, not a real person's likeness carried over from a reference. That one is a legal problem, not a quality problem.
 >
-> Where do you land on generated models — using them, avoiding them, or only for flat-lay adjacent stuff? 👇
+> **On-model sets run in batches — every colourway, every crop, off one garment photo.** Send me one and I'll run yours free. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:**
 ```
@@ -446,25 +444,21 @@ blog's own hero image, already published on curify-ai.com)*
 
 ### FB post copy
 
-🧵 A bad ghost mannequin gives itself away in one square inch of the frame — and it isn't the one people look at.
+🧵 A bad ghost mannequin gives itself away in one square inch of the frame — and it isn't the one people look at. It's the inside of the back collar.
 
-It's the inside of the back collar.
-
-Here's why. The traditional technique is two photographs: the garment on a form, and the garment turned so the **inside of the back collar** is visible. An editor cuts one into the other. That patch is the entire craft — everything else is background removal.
-
-AI collapses both frames into one. You upload a single photo, and the model is asked to *invent* an interior that was never photographed.
+The traditional technique is two photographs: the garment on a form, and the garment turned so the **inside of the back collar** is visible. An editor cuts one into the other. That patch is the entire craft — everything else is background removal. AI collapses both frames into one: you upload a single photo, and the model is asked to *invent* an interior that was never photographed.
 
 So when a result looks wrong but you can't say why, check three things, in this order:
 
-1️⃣ **The inside-back collar.** Is the colour right? Is there a facing, a contrast binding, a label that should be there — or one that shouldn't? This is where invention concentrates.
+1️⃣ **The inside-back collar.** Right colour? A facing, a contrast binding, a label that should be there — or one that shouldn't? This is where invention concentrates.
 
 2️⃣ **The shoulder line.** A real garment on a form has a shoulder seam that sits slightly proud. Generated ones round it off, and that's what makes an output read as inflated rather than worn.
 
-3️⃣ **The opening's depth.** A convincing neck opening shows *some* interior — a shadow, a hint of the back panel. Too flat and it reads as a sticker; too deep and the garment looks like it has a hole in it.
+3️⃣ **The opening's depth.** A convincing neck opening shows *some* interior — a shadow, a hint of the back panel. Too flat reads as a sticker; too deep and the garment looks like it has a hole in it.
 
 The classic method composites something real. The AI method generates something plausible. Almost every failure follows from that one sentence.
 
-None of this needs a trained eye. It needs knowing which square inch to look at first — which is the part nobody tells you. 👇
+**Send me one garment photo and I'll run it free — you'll see the collar for yourself, good or bad.** We do full listing sets per SKU and whole catalogues in batch. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:** `We wrote the whole checklist up here → curify-ai.com/blog/ghost-mannequin-ai-guide`
 
@@ -482,19 +476,17 @@ output; a clean single-layer source photo beside the listing built from it)*
 
 👕 If your AI ghost mannequin keeps showing the model's undershirt, the prompt isn't the problem. The source photo is.
 
-It's called **inner-layer bleed**, and in our own runs it is the single most common reason a take gets discarded outright.
+It's called **inner-layer bleed**, and in our own runs it's the single most common reason a take gets discarded outright. The source photo is a model wearing a camisole or tee under the product, and that layer survives into the output. The placket reads open, the product looks like it's being worn over underwear, and the shot isn't "close" — it's unusable.
 
-What happens: the source photo is on a model wearing a camisole or a tee under the product. That layer survives into the output. The placket reads open, the product looks like it's being worn over underwear, and the shot isn't "close" — it's unusable.
-
-The instinct is to add a line to the prompt. *Do not render the inner garment.* We tried that. Prompt instructions alone are unreliable here.
-
-The fix is upstream, in the input:
+The instinct is to add a line to the prompt. *Do not render the inner garment.* We tried that. Prompt instructions alone are unreliable here. The fix is upstream, in the input:
 
 ✅ Pick source photos where the wearer's own top is a single layer — nothing underneath to carry over
 ✅ Better, shoot on a dress form. The garment is already holding a correct shape, so less has to be generated at all
 ✅ If the product is worn closed, say so explicitly — every button fastened, placket visible, and state that the reference's inner garment does not carry over
 
-You can't prompt your way out of a bad input. That turns out to be true of most of this work. 👇
+You can't prompt your way out of a bad input. That turns out to be true of most of this work.
+
+**Send me one garment photo and I'll run it free, good or bad.** Full sets per SKU, catalogues in batch. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:** `Send me a garment photo and I'll run it — happy to show you what comes back, good or bad. Full failure list here → curify-ai.com/blog/ghost-mannequin-ai-guide`
 
@@ -510,25 +502,15 @@ silhouettes visibly differ through the torso)*
 
 ### FB post copy
 
-📏 Silhouette drift is the expensive one.
+📏 Silhouette drift is the expensive one. A boxy garment quietly comes back fitted. Nobody flags it, because the image looks good — the model just carries a prior about how clothes sit on bodies and applies it. It changes the fit the buyer is judging, and that shows up later as returns.
 
-A boxy garment quietly comes back fitted. Nobody flags it, because the image looks good. The model just carries a prior about how clothes sit on bodies, and applies it.
+Its cheaper cousin is **detail flattening**: button counts change, a pointed hem tab becomes a straight hem, pocket seams vanish. Countable details are where generation is least reliable — and, usefully, where checking is easiest. So count the buttons.
 
-It changes the fit the buyer is judging. That shows up later as returns.
+One thing worth knowing before anyone builds a checker for this. In one of our own runs, three takes in a row flattened a hem into a plain ribbed band. All three were *correct*. Our spec said "notched V-split." The garment actually had a wide ribbed band angling into two pointed centre-front tabs, the right overlapping the left, fastened by two more buttons — nine in total, not seven. We fixed it by re-reading the garment photograph: detail compliance went 0/3 to 3/3, with no checker involved.
 
-Its cheaper cousin is **detail flattening**:
+A gate on a generator that fails half the time just automates rejection. Read the product hard enough to describe it, before you decide you need something to catch what you failed to describe.
 
-· Button counts change
-· A pointed hem tab becomes a straight hem
-· Pocket seams vanish
-
-Countable details are where generation is least reliable — and, usefully, where checking is easiest. So count the buttons.
-
-One thing worth knowing before anyone builds a checker for this. In one of our own runs, three takes in a row flattened a hem into a plain ribbed band. All three were *correct*. Our spec said "notched V-split." The garment actually had a wide ribbed band angling into two pointed centre-front tabs, the right overlapping the left, fastened by two more buttons — nine in total, not seven.
-
-We fixed it by re-reading the garment photograph. Detail compliance went 0/3 to 3/3, with no checker involved.
-
-A gate on a generator that fails half the time just automates rejection. Read the product hard enough to describe it, before you decide you need something to catch what you failed to describe. 👇
+**Send me one garment photo and I'll run it free — count the buttons yourself.** Catalogue-scale runs too. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:** `The other two failure modes, and how to check them → curify-ai.com/blog/ghost-mannequin-ai-guide`
 
@@ -550,15 +532,13 @@ A gate on a generator that fails half the time just automates rejection. Read th
 
 Both measured against pose landmarks, never against absolute pixels. Ratios survive crop and camera distance. Pixel measurements don't.
 
-And then the rule that matters more than either formula:
+Then the rule that matters more than either formula:
 
-⛔ **Do not measure the output against your source photo.**
+⛔ **Do not measure the output against your source photo.** If your source is a garment on a dress form and your output is a garment holding a human shape, the two share no landmark, no scale and no pose. Any proportion you compute between them is measuring the dress form, not the error. Compare against your size chart in centimetres — or against nothing at all, which is more honest than a number that means nothing.
 
-If your source is a garment on a dress form and your output is a garment holding a human shape, the two share no landmark, no scale and no pose. Any proportion you compute between them is measuring the dress form, not the error.
+For discrete details, don't measure. **Count.** Buttons, buckles, visible seams, hem structure. It's the check most people skip because it feels too simple to be worth doing.
 
-Compare against your size chart in centimetres. Or against nothing at all — that is more honest than a number that means nothing.
-
-For discrete details, don't measure. **Count.** Buttons, buckles, visible seams, hem structure. It's the check most people skip because it feels too simple to be worth doing. 👇
+**Send me one garment photo and I'll run it and show you both ratios on your own piece, free.** DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:** `Full method → curify-ai.com/blog/ghost-mannequin-ai-guide`
 
@@ -576,19 +556,19 @@ For discrete details, don't measure. **Count.** Buttons, buckles, visible seams,
 
 🚨 The image was fine. The listing was wrong. Those are two different failures, and only one of them is visible.
 
-**Left**: a detail page we generated for a hair dryer. Read it. The headline says *Salon-grade fast drying.* The body copy says 100% Mulberry Silk. Soft & Breathable. Premium Craftsmanship. Lounge Ready. Effortless Elegance. There's a size chart with **bust, waist and hips.**
+**Left**: a detail page we generated for a hair dryer. Read it. The headline says *Salon-grade fast drying.* The body copy says 100% Mulberry Silk. Soft & Breathable. Premium Craftsmanship. Lounge Ready. There's a size chart with **bust, waist and hips.** For a hair dryer.
 
-For a hair dryer.
-
-Every individual image on that page is clean. The page is nonsense. What happened is that the template carried its category's attributes onto the wrong product, and nothing in an image review would ever catch it.
+Every individual image on that page is clean. The page is nonsense. The template carried its category's attributes onto the wrong product, and nothing in an image review would ever catch it.
 
 **Right**: the same product rebuilt. High-velocity airflow. Ionic frizz control. 1600W, 580g, digital brushless motor, 2.7m cord, concentrator nozzle.
 
-The lesson we took from it: a listing isn't a set of images, it's a set of **claims** — and image QC doesn't touch claims. If you're building detail pages at SKU velocity, your checklist needs one line that has nothing to do with how anything looks:
+A listing isn't a set of images, it's a set of **claims** — and image QC doesn't touch claims. If you're building detail pages at SKU velocity, your checklist needs one line that has nothing to do with how anything looks:
 
 ✅ *Does every attribute on this page actually belong to this product?*
 
-We're posting our own miss because this one costs money quietly. The page just converts badly, and nobody can say why. 👇
+We're posting our own miss because this one costs money quietly. The page just converts badly, and nobody can say why.
+
+**Send me one product and I'll build the page free — images and claims both.** Catalogues run in batch. DM, or WhatsApp +86 176 9219 0183.
 
 **First comment:** `We built the fix into the flow here → curify-ai.com/tools/ecommerce-photo`
 
@@ -605,6 +585,11 @@ For `524557767708832` (29.0K, "EARN MORE BY DOING PHOTO RETOUCHING JOB"),
 retouchers is the same error the reddit doc diagnosed on Reddit: asking the supply
 side of a market whether it contains demand. So these two posts ask for something
 instead of selling something. Do **not** post A1–A8 here unchanged.
+
+**Their CTA is the one exception in this file.** Every buyer-side post closes with the
+free-sample + batch offer. These two close with a **recruiting** ask — the white-label
+bench — on the same WhatsApp number. Do not paste the batch pitch in here; it would be
+selling production to the people who do production.
 
 ### Recut A — the reject list (adapted from A1 + A3)
 
@@ -624,7 +609,7 @@ The generation does the volume. The judgement is still the part that doesn't aut
 Two things:
 
 1️⃣ **What's on your reject list that isn't on ours?** Genuinely asking.
-2️⃣ We're building a bench of retouchers to hand overflow to, white-label. If you take that kind of work, say so below and I'll follow up.
+2️⃣ We're building a bench of retouchers to hand overflow to, white-label. If you take that kind of work, **comment below or WhatsApp +86 176 9219 0183** and I'll follow up with volumes and rates.
 
 Not pitching services at this group — you're the people who'd be doing the work. 👇
 
@@ -643,7 +628,9 @@ Ratios survive crop and camera distance. Pixels don't.
 
 The trap we fell into first was measuring the output against the source photo. If the source is a garment on a dress form and the output is a garment holding a human shape, they share no landmark, no scale and no pose — whatever number you get is measuring the dress form, not the error.
 
-Genuinely curious how people who do this by hand handle it. Do you check against the size chart, against a reference shot, or by eye? 👇
+Genuinely curious how people who do this by hand handle it. Size chart, reference shot, or by eye? 👇
+
+And the same standing offer as the other post: if you take white-label overflow, **comment or WhatsApp +86 176 9219 0183.**
 
 ---
 
@@ -662,36 +649,10 @@ shots are tile-watermarked and read heavy at feed size.
 
 ---
 
-# Schedule & progress
+# Distribution log
 
-One group at a time, **~3 days apart**. Never the same asset into two groups the same day.
-**B1 last for everything except A1** — it carries the explicit anti-spam ban rule, and A1 is
-the cheapest, least promotional thing in the folder, so it is the test of whether the
-register survives there at all.
-
-**Status** ✅ sent · ◻︎ planned · ⚠️ held
-
-| Status | Post | Category | Group | Found via | Comments | DMs | Samples |
-|---|---|---|---|---|---|---|---|
-| ✅ **09-17** | `rotation_chair` | hard goods | ×3 — *marketing* · *digital marketing* · *marketing agency* | agency keywords — ⚠️ **a different buyer**, see below | | | |
-| ✅ **09-12** | `wine_viral_en.mp4` · bilingual | food & drink | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
-| ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | beauty | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
-| ✅ **09-11** | jewelry — ⚠️ record asset | jewelry | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
-| ◻︎ | **A1** · neck joint | apparel | B1 **first, alone** | — | | | |
-| ◻︎ | **A2** · inner-layer bleed | apparel | B3, B2 | — | | | |
-| ◻︎ | **A3** · silhouette drift | apparel | B3, B1 | — | | | |
-| ◻︎ | **A4** · two-ratio check | apparel | B1, B2 | — | | | |
-| ◻︎ | **A5** · wrong listing | any | B1, B4, B2 | — | | | |
-| ◻︎ | **Recut A** · reject list | — | S1, S2, S3 — **supply** | — | | | |
-| ◻︎ | **Recut B** · how do you QC it | — | S1, S2 — **supply** | — | | | |
-| ◻︎ | **W1** · shoot doesn't scale | category-matched | B3, B2, B4, then B1 | — | | | |
-| ◻︎ | **W2** · one photo, nine variants | beauty | B4, B2, then B1 — **not B3** | — | | | |
-| ◻︎ | `angryalert` (landscape) | concept | B2 | — | | | |
-| ◻︎ | `kungfu_sf` | campaign | B3 | — | | | |
-| ◻︎ | `matcha_drink` | food & drink | B1 — last | — | | | |
-| ⚠️ | `model_standing` | apparel | B3 — **only after the likeness check** | — | | | |
-
-**Fill the metric columns a few days after each post.**
+_What actually happened, post by post. The plan and the status live in
+**the table at the top of this file** — this section is only the write-ups._
 
 ---
 
