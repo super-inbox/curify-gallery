@@ -91,10 +91,12 @@
    "clearance": "ship",
    "clearance_note": "Own output, own prompt, fully unbranded -- no text, no logo, no mannequin, no human face anywhere in frame. Text-to-video only: the reference-upload attempt was rejected by MiniMax's approval review, so nothing from the two third-party reference ads reached the model. Provenance recorded in agentic-adhoc real-projects 2026-09-18-internal-005-fabric-ad-video. Clearance-wise this is as clean as matcha_drink.",
    "best_for": [
-    "fb_groups"
+    "fb_groups",
+    "kuaishou",
+    "rednote"
    ],
    "hook": "The one thing a listing photo has never been able to show: what the cloth is",
-   "orientation_note": "16:9 landscape, like kungfu_sf. FB-ready as-is; needs a 9:16 or 3:4 recut before any vertical feed (Kuaishou, RedNote). Not yet recut -- which is why best_for lists fb_groups only.",
+   "orientation_note": "16:9 landscape, like kungfu_sf. It letterboxes on the two vertical Chinese feeds; a 9:16 recut would perform better but is not a gate -- operator decision 2026-09-19 is to post whatever dimension exists. Cover frame for RedNote should be the weave beat, cropped 3:4.",
    "has_prompt": true,
    "prompt_file": "prompts/fabric_ad.json",
    "source_record": "~/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-09-18-internal-005-fabric-ad-video.json"

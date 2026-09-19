@@ -8,7 +8,7 @@ week apart, not because they were two campaigns._
 | File | What |
 |---|---|
 | **`posts_fb.md`** | Every Facebook post — 2 workflow posts (W1–W2) + 6 ad-video posts |
-| **`posts_rednote_kuaishou.md`** | 中文 —— 6 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB. 快手 can ship now; 小红书 is blocked on having no account |
+| **`posts_rednote_kuaishou.md`** | 中文 —— 6 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB |
 | `index.json` | machine-readable index of `curify-gallery/ecommerce_ad_videos` |
 | `prompts/` | prompt provenance + the Minimax H3 series |
 | `demos/ad-variants-demo-09-10/` | W2's asset and its master set — source, nine variants, `PROVENANCE.md`. Also a live email attachment |
@@ -51,7 +51,7 @@ Chaplin/Forrest Gump translation demos permanently off the public feed. Applying
 | `angryalert` | `angryAlert/AngryAlert_vertical.mp4` (+ landscape cut) | Curify | ✅ **ship** |
 | `matcha_drink` | `matcha_drink.mp4` | none | ✅ **ship** |
 | `rotation_chair` | `rotation_chair.mp4` | none | ✅ **ship** |
-| `fabric_ad` | `fabric_ad.mp4` *(added 09-18)* | none | ✅ **ship** — 16:9, FB only until recut |
+| `fabric_ad` | `fabric_ad.mp4` *(added 09-18)* | none | ✅ **ship** |
 | `kungfu_sf` | `redbull/kungfu_redbull_SF.mp4` | Curify | ✅ **ship** — ⚠️ rename file first |
 | `model_standing` | `model-standing.mp4` | none | ⚠️ **check** — likeness |
 | `oilight` | `oilight final.mp4` | OILIGHT™ | ⚠️ **check** — client brand + live footage |
@@ -93,12 +93,12 @@ a tie-in that the footage doesn't make.
 
 | | **FB — Groups, not the Page** | **Kuaishou 快手** | **小红书 RedNote** |
 |---|---|---|---|
-| Why | Page identity is locked to Sinosphere culture edutainment. An ad-craft video in the Page feed is Position Drift. Groups don't carry that risk — same call as the 09-01 e-commerce post. | New surface, no positioning history to protect. Audience is 实体商家 / 电商卖家 / 工厂老板 — the people who actually buy batch ad production. | ⛔ **Blocked — no account.** Both existing RedNote accounts have a positioning to protect (Curify = 历史文化冷知识; Jay = 宏观思考). This line needs its own 号 first. See `posts_rednote_kuaishou.md`. |
-| Format | **Native video upload**, single video, never a carousel. No link in the post body — FB throttles link-outs; a native upload is not one. | 竖屏 9:16 原生上传。前 3 秒必须是成品画面，不要 logo 开场。 | 竖屏 9:16 视频 / 3:4 图文卡。横版素材一律先重剪。 |
+| Why | Page identity is locked to Sinosphere culture edutainment. An ad-craft video in the Page feed is Position Drift. Groups don't carry that risk — same call as the 09-01 e-commerce post. | New surface, no positioning history to protect. Audience is 实体商家 / 电商卖家 / 工厂老板 — the people who actually buy batch ad production. | Same buyer as 快手, skewed toward 服装 / 饰品 / 家居 sellers. 评论区 is the real channel — the posts exist so there is something to see when someone opens the profile. |
+| Format | **Native video upload**, single video, never a carousel. No link in the post body — FB throttles link-outs; a native upload is not one. | 竖屏 9:16 原生上传。前 3 秒必须是成品画面，不要 logo 开场。 | 竖屏 9:16 视频 / 3:4 图文卡。首图决定一切。 |
 | Language | English | 中文，口语，别端着 | 中文；落点在退货率和成本，不是 craft |
 | CTA | **First comment**, never the body | 主页 + 私信；口播带一次官网 | 私信 only，**正文不放任何外链** |
 | KPI | replies, not reach | 私信数，不是播放量 | 私信数 |
-| Drift check | ✅ group-scoped, off-Page | ✅ new account | ⛔ **failed once already** — an e-commerce post went out from the culture account on 09-17, see `../2026-09-01-retouching/posts_rednote.md` |
+| Drift check | ✅ group-scoped, off-Page | ✅ new account | ✅ e-commerce buyers, off the culture feed |
 
 **Groups** (from the 09-01 series): **B1** `105108073643190` E-commerce product
 photography (5.2K, ⚠️ has an explicit anti-spam ban rule) · **B2** `765595303494969`
@@ -109,9 +109,10 @@ Product Photographer USA (1.3K) · **B3** `313105103563214` Apparels/Fashion Sel
 same day. B1 last — it's the ban-rule group, and a video post reads more promotional
 than a teardown does.
 
-**Vertical-feed orientation note (快手 and 小红书):** `kungfu_sf`, `fabric_ad` and the angryAlert landscape cut are 16:9.
-Kuaishou is a vertical feed — use `AngryAlert_vertical.mp4` there, and either recut
-`kungfu_sf` to 9:16 or hold it for FB only.
+**Orientation note:** `kungfu_sf`, `fabric_ad` and the angryAlert landscape cut are 16:9;
+everything else is 9:16. Both Chinese feeds are vertical, so a landscape asset letterboxes —
+use `AngryAlert_vertical.mp4` where there's a vertical cut. **Otherwise post as-is** —
+a vertical recut would perform better, but it is not a gate.
 
 **The CTA, both platforms** — self-serve `curify-ai.com/tools/product-video` (verified
 live, renders the real inline generate surface, not a waitlist card), batch/contact
@@ -127,12 +128,11 @@ live, renders the real inline generate surface, not a waitlist card), batch/cont
 | 2 | `matcha_drink` | Kuaishou — first post, zero risk |
 | 3 | `angryAlert` (landscape) | B2 |
 | 4 | `rotation_chair` | Kuaishou |
-| 5 | `fabric_ad` | **B3** — apparel asset into the apparel group; see the note below |
+| 5 | `fabric_ad` | **B3** — apparel asset into the apparel group |
 | 6 | `angryAlert` (vertical) | Kuaishou |
 | 7 | `matcha_drink` | B1 — last, ban-rule group |
-| — | `kungfu_sf` *(renamed)* | was slot 5 into B3. **Re-plan recommended:** an energy-drink spec spot in an apparel group is the category mismatch this folder warns about. Move to B2, or hold |
+| — | `kungfu_sf` *(renamed)* | was slot 5 into B3. **Re-plan recommended:** an energy-drink spec spot in an apparel group is the category mismatch this folder warns about. Move to B2 |
 | — | `model_standing` | B3, **only after the likeness check** |
-| — | `fabric_ad` | 快手 / 小红书 — **only after a 9:16 recut.** It is 16:9 |
 
 ~3 days apart per group. Log every reply into `gtm_tools/relationship_leads.json` with
 `channel: "facebook_group"` or `"kuaishou"` plus `need_verbatim`. Same **20-comment stop rule** as everything else — if 20 comments produce no real conversation, stop and

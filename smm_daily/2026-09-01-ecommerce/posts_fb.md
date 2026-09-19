@@ -356,7 +356,8 @@ apparel group is the category mismatch the table at the top of this file exists 
 **Recommend `fabric_ad` takes B3 and `kungfu_sf` moves to B2 or holds** — but that is a
 re-plan of README's slot list, so it is a recommendation here, not a done deal.
 
-**16:9 landscape — FB only.** Not recut for 快手 or 小红书 yet; see `posts_rednote_kuaishou.md`.
+**16:9 landscape.** It letterboxes on the two vertical Chinese feeds and goes out that way
+anyway — a recut is not a gate. Chinese copy in `posts_rednote_kuaishou.md`.
 
 **FB post:**
 > 🧵 Fifteen seconds that start on a single cotton boll and end on a finished shirt — the yarn twisting, the weave under a raking light, one slow wave through a hanging sheet of cloth, water beading and rolling off it.
