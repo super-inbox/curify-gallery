@@ -8,8 +8,7 @@ week apart, not because they were two campaigns._
 | File | What |
 |---|---|
 | **`posts_fb.md`** | Every Facebook post — 2 workflow posts (W1–W2) + 6 ad-video posts |
-| **`posts_kuaishou.md`** | 快手 —— 5 条中文文案，和 FB 是不同的语气，不是翻译 |
-| **`posts_rednote.md`** | 小红书 —— **opened 2026-09-18, nothing shippable yet.** One draft (`fabric_ad`), blocked on two things: this line has no RedNote account, and the asset is 16:9 |
+| **`posts_rednote_kuaishou.md`** | 中文 —— 6 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB. 快手 can ship now; 小红书 is blocked on having no account |
 | `index.json` | machine-readable index of `curify-gallery/ecommerce_ad_videos` |
 | `prompts/` | prompt provenance + the Minimax H3 series |
 | `demos/ad-variants-demo-09-10/` | W2's asset and its master set — source, nine variants, `PROVENANCE.md`. Also a live email attachment |
@@ -94,7 +93,7 @@ a tie-in that the footage doesn't make.
 
 | | **FB — Groups, not the Page** | **Kuaishou 快手** | **小红书 RedNote** |
 |---|---|---|---|
-| Why | Page identity is locked to Sinosphere culture edutainment. An ad-craft video in the Page feed is Position Drift. Groups don't carry that risk — same call as the 09-01 e-commerce post. | New surface, no positioning history to protect. Audience is 实体商家 / 电商卖家 / 工厂老板 — the people who actually buy batch ad production. | ⛔ **Blocked — no account.** Both existing RedNote accounts have a positioning to protect (Curify = 历史文化冷知识; Jay = 宏观思考). This line needs its own 号 first. See `posts_rednote.md`. |
+| Why | Page identity is locked to Sinosphere culture edutainment. An ad-craft video in the Page feed is Position Drift. Groups don't carry that risk — same call as the 09-01 e-commerce post. | New surface, no positioning history to protect. Audience is 实体商家 / 电商卖家 / 工厂老板 — the people who actually buy batch ad production. | ⛔ **Blocked — no account.** Both existing RedNote accounts have a positioning to protect (Curify = 历史文化冷知识; Jay = 宏观思考). This line needs its own 号 first. See `posts_rednote_kuaishou.md`. |
 | Format | **Native video upload**, single video, never a carousel. No link in the post body — FB throttles link-outs; a native upload is not one. | 竖屏 9:16 原生上传。前 3 秒必须是成品画面，不要 logo 开场。 | 竖屏 9:16 视频 / 3:4 图文卡。横版素材一律先重剪。 |
 | Language | English | 中文，口语，别端着 | 中文；落点在退货率和成本，不是 craft |
 | CTA | **First comment**, never the body | 主页 + 私信；口播带一次官网 | 私信 only，**正文不放任何外链** |

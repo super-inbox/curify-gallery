@@ -1,5 +1,5 @@
 {
- "_comment": "Index of curify-gallery/ecommerce_ad_videos for SMM distribution (FB Groups + Kuaishou). Drafted 2026-09-06; folder consolidated into 2026-09-01-ecommerce on 2026-09-11. FB copy in posts_fb.md, 快手 copy in posts_kuaishou.md, both keyed by the id field below. fabric_ad added 2026-09-18. clearance drives whether an item may go on a public feed at all -- see README.md (Clearance) and curify-studio/docs/asset-authority-distribution-inventory.md sec 3 group B.",
+ "_comment": "Index of curify-gallery/ecommerce_ad_videos for SMM distribution (FB Groups + Kuaishou + RedNote). Drafted 2026-09-06; folder consolidated into 2026-09-01-ecommerce on 2026-09-11. FB copy in posts_fb.md, 中文 copy for BOTH 快手 and 小红书 in posts_rednote_kuaishou.md (the two Chinese channels were merged into one file 2026-09-19), all keyed by the id field below. fabric_ad added 2026-09-18. clearance drives whether an item may go on a public feed at all -- see README.md (Clearance) and curify-studio/docs/asset-authority-distribution-inventory.md sec 3 group B.",
  "root": "~/curify-gallery/ecommerce_ad_videos",
  "cta": {
   "self_serve": "https://www.curify-ai.com/tools/product-video",

@@ -1,6 +1,7 @@
 # FB Groups · E-commerce — 13 posts + 2 supply-side recuts (2026-09-01 … 09-18)
 
-_Facebook half of this folder. The 快手 half is **`posts_kuaishou.md`** — different
+_Facebook half of this folder. The Chinese half — 快手 **and** 小红书, one file — is
+**`posts_rednote_kuaishou.md`** — different
 register, not a translation. **Clearance, the group list, cadence and the stop rule
 are in [`README.md`](README.md)** and are not repeated here._
 
@@ -252,7 +253,7 @@ _Ordered by shipping slot. Each is keyed by its `index.json` `id`._
 
 ## `rotation_chair` — 10s · 9:16 · unbranded ✅
 *The strongest B2B proof in the set — feature-explainer motion graphics normally need a
-3D artist.* → **B4**, then 快手（`posts_kuaishou.md`） (best batch-inquiry driver of the six).
+3D artist.* → **B4**, then 快手（`posts_rednote_kuaishou.md`） (best batch-inquiry driver of the six).
 
 **FB post:**
 > 🪑 Ten seconds on an office chair: airflow rendered moving through the mesh back, a readout on the armrest as it adjusts, then a 360 in a styled room.
@@ -276,7 +277,7 @@ Catalog-scale (a full SKU line, batched): curify-ai.com/contact
 ## `angryalert` — 20.3s · 9:16 · Curify-branded ✅
 *Landscape cut `AngryAlert_landscape.mp4` (16s) for FB, vertical for 快手.*
 *The product is fictional — say so. It reads as a joke, and the joke is the hook.*
-→ **B2** (the photographer group — they'll read the craft), then 快手 — see `posts_kuaishou.md`.
+→ **B2** (the photographer group — they'll read the craft), then 快手 — see `posts_rednote_kuaishou.md`.
 
 **FB post:**
 > 📣 A finished 20-second app commercial — office scenes, an actor, a HUD overlay, a logo sting.
@@ -324,7 +325,7 @@ Campaign / batch work: curify-ai.com/contact
 
 ## `matcha_drink` — 15.1s · 9:16 · unbranded ✅
 *The lead asset. Zero brand risk, universally legible, and beverage is a category every
-seller group understands.* → **B4**, then 快手 — see `posts_kuaishou.md`.
+seller group understands.* → **B4**, then 快手 — see `posts_rednote_kuaishou.md`.
 
 **FB post:**
 > 🍵 This is 15 seconds of iced matcha — the banana slices falling, the milk pour, the condensation on the finished glass.
@@ -355,7 +356,7 @@ apparel group is the category mismatch the table at the top of this file exists 
 **Recommend `fabric_ad` takes B3 and `kungfu_sf` moves to B2 or holds** — but that is a
 re-plan of README's slot list, so it is a recommendation here, not a done deal.
 
-**16:9 landscape — FB only.** Not recut for 快手 or 小红书 yet; see `posts_rednote.md`.
+**16:9 landscape — FB only.** Not recut for 快手 or 小红书 yet; see `posts_rednote_kuaishou.md`.
 
 **FB post:**
 > 🧵 Fifteen seconds that start on a single cotton boll and end on a finished shirt — the yarn twisting, the weave under a raking light, one slow wave through a hanging sheet of cloth, water beading and rolling off it.
