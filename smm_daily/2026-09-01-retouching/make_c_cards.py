@@ -176,43 +176,50 @@ footer(d, "FIND THE GAP BEFORE YOU AGREE THE PRICE.",
 im.save(OUT + "c5-read-the-pictures-first.jpg", quality=94)
 
 
-# ---------------------------------------------------------------- card 05
-im = Image.new("RGB", (W, H), (26, 26, 26))
-d = ImageDraw.Draw(im)
-d.text((78, 108), "OUR RULE", font=f_eyebrow, fill=(240, 198, 168))
-for i, ln in enumerate(["We do not publish", "photographs of children.", "Anyone's."]):
-    d.text((78, 168 + i * 76), ln, font=f_h1, fill=(250, 248, 242))
-
-d.line([(78, 424), (330, 424)], fill=(192, 82, 30), width=4)
-
-lines = [
-    ("Not our clients'.", "Consent for a shoot is not consent for a portfolio."),
-    ("Not our own.", "A studio's marketing feed is not where a child's face belongs."),
-    ("Not generated ones.", "A synthetic child is still a child-shaped image, posted"),
-    ("", "into a group full of parents. We are not doing that either."),
-]
-y = 476
-for a, b in lines:
-    if a:
-        d.text((78, y), a, font=f_bodyb, fill=(250, 248, 242))
-        d.text((78 + d.textlength(a, font=f_bodyb) + 14, y), b, font=f_body,
-               fill=(178, 174, 166))
-    else:
-        d.text((78, y), b, font=f_body, fill=(178, 174, 166))
-    y += 46
-
-d.rounded_rectangle([78, 726, W - 78, 906], radius=14, fill=(38, 38, 38))
-d.text((108, 754), "SO WHAT DO WE SHOW?", font=f_label, fill=(240, 198, 168))
-for i, ln in enumerate([
-        "The method. Diagrams, checklists, and the two or three things that",
-        "actually go wrong — which is the part worth reading anyway. A",
-        "before-and-after proves one edit. A checklist travels."]):
-    d.text((108, 800 + i * 34), ln, font=f_body, fill=(214, 210, 202))
-
-d.text((78, 962), "If an editor's portfolio is full of other people's children,",
-       font=f_small, fill=(178, 174, 166))
-d.text((78, 992), "ask them who signed off on that.", font=f_small, fill=(178, 174, 166))
-d.text((78, H - 42), "curify-ai.com", font=f_small, fill=(122, 118, 108))
-im.save(OUT + "c6-we-do-not-publish-children.jpg", quality=94)
+# ------------------------------------------------- card 05 — RETIRED 2026-09-20
+# C6 (`c6-we-do-not-publish-children.jpg`) was retired and its image deleted at the
+# operator's instruction. This block is disabled rather than removed so a re-run cannot
+# silently recreate a deleted asset, and so the card can be brought back verbatim if the
+# post is reinstated. The RULE it stated still stands — see posts_fb.md,
+# "The no-children rule". Deleting this block does not delete that.
+#
+# # ---------------------------------------------------------------- card 05
+# im = Image.new("RGB", (W, H), (26, 26, 26))
+# d = ImageDraw.Draw(im)
+# d.text((78, 108), "OUR RULE", font=f_eyebrow, fill=(240, 198, 168))
+# for i, ln in enumerate(["We do not publish", "photographs of children.", "Anyone's."]):
+#     d.text((78, 168 + i * 76), ln, font=f_h1, fill=(250, 248, 242))
+#
+# d.line([(78, 424), (330, 424)], fill=(192, 82, 30), width=4)
+#
+# lines = [
+#     ("Not our clients'.", "Consent for a shoot is not consent for a portfolio."),
+#     ("Not our own.", "A studio's marketing feed is not where a child's face belongs."),
+#     ("Not generated ones.", "A synthetic child is still a child-shaped image, posted"),
+#     ("", "into a group full of parents. We are not doing that either."),
+# ]
+# y = 476
+# for a, b in lines:
+#     if a:
+#         d.text((78, y), a, font=f_bodyb, fill=(250, 248, 242))
+#         d.text((78 + d.textlength(a, font=f_bodyb) + 14, y), b, font=f_body,
+#                fill=(178, 174, 166))
+#     else:
+#         d.text((78, y), b, font=f_body, fill=(178, 174, 166))
+#     y += 46
+#
+# d.rounded_rectangle([78, 726, W - 78, 906], radius=14, fill=(38, 38, 38))
+# d.text((108, 754), "SO WHAT DO WE SHOW?", font=f_label, fill=(240, 198, 168))
+# for i, ln in enumerate([
+#         "The method. Diagrams, checklists, and the two or three things that",
+#         "actually go wrong — which is the part worth reading anyway. A",
+#         "before-and-after proves one edit. A checklist travels."]):
+#     d.text((108, 800 + i * 34), ln, font=f_body, fill=(214, 210, 202))
+#
+# d.text((78, 962), "If an editor's portfolio is full of other people's children,",
+#        font=f_small, fill=(178, 174, 166))
+# d.text((78, 992), "ask them who signed off on that.", font=f_small, fill=(178, 174, 166))
+# d.text((78, H - 42), "curify-ai.com", font=f_small, fill=(122, 118, 108))
+# im.save(OUT + "c6-we-do-not-publish-children.jpg", quality=94)
 
 print("done")

@@ -35,7 +35,6 @@ whether the register survives there at all.
 | ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
 | ✅ **09-11** | jewelry — ⚠️ record asset | native video | ⚠️ record name | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
 | ✅ **09-19** | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | ×3 — *fashion photo* · *ecommerce seller* · *fashion* · ⚠️ **record names + sizes** | `ecommerce seller` ✅ · `fashion photo` ⚠️ · `fashion` ⚠️ | | | |
-| ◻︎ | **A1** → **B1** · still owed | text + native image | `a1-neck-joint-cycling-jersey.jpg` | B1 **first, alone** — **the gate has not started** | — | | | |
 | ✅ **09-20** | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | ×3 — *fashion modeling* · *fashion seller* · *ecommerce/shopify sellers* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce/shopify sellers` ✅ · `fashion modeling` ⚠️ | | | |
 | ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
 | ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
