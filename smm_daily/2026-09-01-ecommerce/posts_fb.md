@@ -36,7 +36,7 @@ whether the register survives there at all.
 | ✅ **09-11** | jewelry — ⚠️ record asset | native video | ⚠️ record name | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
 | ✅ **09-19** | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | ×3 — *fashion photo* · *ecommerce seller* · *fashion* · ⚠️ **record names + sizes** | `ecommerce seller` ✅ · `fashion photo` ⚠️ · `fashion` ⚠️ | | | |
 | ◻︎ | **A1** → **B1** · still owed | text + native image | `a1-neck-joint-cycling-jersey.jpg` | B1 **first, alone** — **the gate has not started** | — | | | |
-| ◻︎ | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | B3, B2 | — | | | |
+| ✅ **09-20** | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | ×3 — *fashion modeling* · *fashion seller* · *ecommerce/shopify sellers* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce/shopify sellers` ✅ · `fashion modeling` ⚠️ | | | |
 | ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
 | ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
 | ◻︎ | **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 | — | | | |
@@ -793,6 +793,50 @@ _What actually happened, post by post. The plan and the status live in
 **the table at the top of this file** — this section is only the write-ups._
 
 ---
+
+## ✅ 09-20 · A2 — the storefront qualifier landed, and one room is the wrong room
+
+Sent `a2-inner-layer-bleed.jpg` to three groups found via **`fashion modeling`**,
+**`fashion seller`** and **`ecommerce/shopify sellers`**.
+
+✅ **Two of three are right, which is the improvement over yesterday.** `fashion seller` and
+`ecommerce/shopify sellers` both describe a **shop**, and the second is the exact recipe at the
+top of this file — category word plus `Shopify` / `ecommerce`. A1 got one of three; this is two.
+The qualifier is being applied.
+
+⚠️ **`fashion modeling` is the wrong room, and it is a different kind of wrong from A1's.**
+`fashion photo` at least contained photographers, who are a real (if mis-aimed) commercial
+audience. A **modeling** group is largely models, aspiring models and casting — not a buyer at
+any volume, and not a supplier of retouching either, so it isn't even Recut A's audience.
+
+**And the content makes it worse, not neutral.** A2 is specifically about a *model's own
+camisole* bleeding into a generated garment shot, and its fix is *"better, shoot on a dress
+form."* Posting that into a room of models is, read plainly, a note about how to get a usable
+garment image with less of a model in it. Expect coolness rather than engagement, and read any
+pushback as the room working correctly rather than as an objection to answer. **Do not follow
+up there with the batch offer.** If anything lands, it will be a photographer or a small brand
+who happens to be in the room — reply to the person, not to the group.
+
+⚠️ **Check whether A1 and A2 went into the same seller rooms.** A1 used `ecommerce seller`
+yesterday; A2 used `ecommerce/shopify sellers` today. If those resolve to the same groups, that
+is **two posts into one room inside 24 hours**, which FB reads as duplicate distribution — and
+it is the behaviour the anti-spam rule in B1 exists to punish. Worth five minutes with the two
+group lists before A3 goes anywhere.
+
+⚠️ **The cadence rule has now been broken the same way twice.** This file says *one group at a
+time, ~3 days apart, never the same asset into two groups the same day.* A1 went into three
+groups on 09-19; A2 into three groups on 09-20. That is three-at-once, twice, one day apart.
+**If the faster cadence is deliberate, change the rule in this file rather than leaving it
+standing and unfollowed** — an instruction nobody follows stops being read, and the parts of it
+that matter (B1 last, category match) are in the same paragraph.
+
+**B1 still has had nothing**, and the A1 → B1 row is still open. Two teardowns have now run
+elsewhere while the group they were written to enter has seen neither.
+
+**What the replies will tell you.** From the two seller rooms: *"does it work on knitwear"*,
+*"what about prints"*, or anything about turnaround — that is the buyer, and A2's whole argument
+(fix the input, not the prompt) is the one that earns a reply. From the modeling room: most
+likely nothing.
 
 ## ✅ 09-19 · A1 into fashion / ecommerce-seller groups — and B1 still hasn't had it
 
