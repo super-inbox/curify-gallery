@@ -70,7 +70,7 @@ The proposition to test: **one SKU → a complete content pack**, not "an AI ima
 |---|---|---|---|
 | **Jewelry** | `Handmade Jewelry Makers` (97K ✓), `Etsy jewelry shops & Buyers` (10K ✓), `Jewelry business owners` | `ecommerce_workflow/jewelry_viral_en.mp4` | ✅ |
 | **Beauty / skincare** | `Beauty brand founders`, `Skincare business owners`, `Indie beauty brands` | `skincare_viral_en.mp4`, `serum_marketing_kit_en.mp4`, `ad-variants-demo-09-10/_one-to-nine.jpg` | ✅ |
-| **Fashion / apparel** | `Apparels/Fashion Sell & Buy US/CA/UK/AU` (5.0K ✓), `Boutique owners`, `Clothing brand founders` | `sneakers_viral_en.mp4`, `handbag_marketing_kit_en.mp4`, `ecommerce_ad_videos/model-standing.mp4` | ✅ |
+| **Fashion / apparel** | `Apparels/Fashion Sell & Buy US/CA/UK/AU` (5.0K ✓), `Boutique owners`, `Clothing brand founders` | `sneakers_viral_en.mp4`, `handbag_marketing_kit_en.mp4` · ⚠️ **not** `model-standing.mp4` (likeness hold, see `posts_ecommerce.md` B3) | ✅ |
 | **Home / furniture** | `Home decor sellers`, `Furniture brand owners`, `Etsy home decor` | `home_textiles_viral_en.mp4`, `candle_viral_en.mp4`, `rotation_chair.mp4` | ✅ |
 | **Food / drink** | `Specialty coffee roasters`, `Craft beverage founders` | `coffee_viral_en.mp4`, `tea_viral_en.mp4`, `wine_viral_en.mp4`, `chocolate_viral_en.mp4` | ✅ |
 

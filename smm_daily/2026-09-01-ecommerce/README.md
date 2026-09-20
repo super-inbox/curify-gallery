@@ -7,8 +7,8 @@ week apart, not because they were two campaigns._
 
 | File | What |
 |---|---|
-| **`posts_fb.md`** | Every Facebook post — 2 workflow posts (W1–W2) + 6 ad-video posts |
-| **`posts_rednote_kuaishou.md`** | 中文 —— 6 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB |
+| **`posts_fb.md`** | Every Facebook post — 2 workflow (W1–W2) + 6 ad-video + **9 apparel teardowns (A1–A9)** + 2 supply recuts. One merged plan/progress table at the top |
+| **`posts_rednote_kuaishou.md`** | 中文 —— 8 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB. Includes 2 服装干货 added 09-20 |
 | `index.json` | machine-readable index of `curify-gallery/ecommerce_ad_videos` |
 | `prompts/` | prompt provenance + the Minimax H3 series |
 | `demos/ad-variants-demo-09-10/` | W2's asset and its master set — source, nine variants, `PROVENANCE.md`. Also a live email attachment |
@@ -37,6 +37,28 @@ Neither video set is in this folder. The only images here are `demos/ad-variants
 `curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json` attaches it by
 absolute path. The three copies are deliberate: three platforms, three folders that
 each have to stand alone.
+
+---
+
+## Apparel / fashion — where this folder stands (2026-09-20)
+
+**FB** — 9 teardowns (`A1`–`A9`) + `fabric_ad` + `model_standing`, plus the 2 supply-side recuts.
+One sent: **A1 on 09-19**. `model_standing` is held on the likeness question below.
+**中文** — 3 fashion items (`fabric_ad`, `model_standing`, the 电商验收 carry-over) + the 2
+服装干货 added 09-20. Nothing sent yet.
+
+**`A6`–`A9` and both 服装干货 are drawn from real apparel jobs, published as method only.**
+A1–A4 already worked this way — the inner-layer bleed, the flattened hem tab, the nine-vs-seven
+buttons and the dress-form-vs-person ratio rule are all one client job's findings, with none of
+its imagery. ⛔ **Method is publishable; the work is not.** No client or lead imagery in any
+post; **never copy a string out of a source record** (garment style numbers are printed on the
+hangtags and search straight back to the brand); and **no success rate or delivered-outcome
+claim** — of the apparel jobs on file, one is qualified-positive still in revision and two carry
+explicit negative client verdicts. Full rule at the head of `A6–A9` in `posts_fb.md`; the same
+line is drawn for the B6–B9 cells in `../2026-09-10-fb-three-campaigns/posts_ecommerce.md`.
+
+⚠️ **`A6`–`A9` and both 服装干货 have no images yet** — text-only until stills are built, and a
+still has to come from our own assets, never from a job's output.
 
 ---
 

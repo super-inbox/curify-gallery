@@ -54,8 +54,10 @@ next test has to already exist. That's the bottleneck we take.
 ## B3 · Fashion / apparel  
 _Buyer: the brand that owns the garments. Studio-side retouching for photographers is a different family — see C3._
 
-**Assets:** `ecommerce_workflow/sneakers_viral_en.mp4`, `ecommerce_workflow/handbag_marketing_kit_en.mp4`,
-`ecommerce_ad_videos/model-standing.mp4`
+**Assets:** `ecommerce_workflow/sneakers_viral_en.mp4`, `ecommerce_workflow/handbag_marketing_kit_en.mp4`
+⚠️ **`ecommerce_ad_videos/model-standing.mp4` is NOT cleared** — `smm_daily/2026-09-01-ecommerce/index.json`
+holds it at `clearance: "check"` on an open likeness question (photoreal human face; confirm the
+pose reference was synthetic). **Do not use it in this cell until that is answered.**
 **Groups:** Apparels/Fashion Sell & Buy US/CA/UK/AU (5.0K ✓) · Boutique owners · Clothing brand
 founders · Etsy clothing sellers
 
@@ -258,7 +260,8 @@ weakest on the board (already-paying 2%, zero qualified posts in 180 days) — r
 were found through client work and RedNote, **not** in these rooms.
 
 **Assets:** `smm_daily/2026-09-01-ecommerce/a1-neck-joint-cycling-jersey.jpg`,
-`a3-silhouette-drift.jpg`, `a4-two-ratio-check.jpg`, `ecommerce_ad_videos/model-standing.mp4`
+`a3-silhouette-drift.jpg`, `a4-two-ratio-check.jpg`
+⚠️ **not** `model-standing.mp4` — see the likeness hold noted under B3.
 **Groups:** as B3 above (Apparels/Fashion Sell & Buy US/CA/UK/AU 5.0K ✓ is the one verified surface).
 
 > Most AI on-model images fail for one reason, and it isn't that they look fake — it's that the
@@ -273,12 +276,35 @@ were found through client work and RedNote, **not** in these rooms.
 **First comment:** The test we hold ourselves to is the one the buyers use: does the render match
 the flat lay at detail level. Length, fit, buttons, cuffs, hem. That's a check, not an opinion.
 
-⛔ **Honesty gate on this cell, and it is not optional.** Our one real apparel trial (`lead-003`)
-ran **four rounds and four rejections, nothing accepted**, against a client bar of
-*「模特衣服根据平铺图还原95%以上」*. **The post above promises a process, not a success rate, and it
-must stay that way.** Do not add a claim about accuracy, do not imply a delivered win, and do not
-use client-006 or lead-003 imagery — both are `customer_data` under §7z-C. If someone asks what our
-hit rate is, the honest answer is that we are still tuning it.
+⛔ **Honesty gate on this cell, and it is not optional.** **The post above promises a process,
+not a success rate, and it must stay that way.** Do not add a claim about accuracy, do not imply a
+delivered win, and do not use client-006 or lead-003 imagery. If someone asks what our hit rate is,
+the honest answer is that we are still tuning it.
+
+**Status of the apparel jobs, refreshed 2026-09-20** — this paragraph said "four rounds and four
+rejections, nothing accepted" and that is no longer current:
+
+- **`lead-003`** (womenswear lookbook) — now at **qualified positive**: the 09-18 feedback says
+  overall good, with a back-trouser proportion fix and five waist-continuity fixes requested. Still
+  in revision, still an inbound RFQ **not confirmed engaged**, still no acceptance. Better than
+  "four rejections" — and still not a win you may claim.
+- **Two apparel image/video tests** — both carry **explicit negative client verdicts**
+  (face-replacement jitter and garment-texture mismatch on one; resemblance and artificial
+  lighting on the other). Neither is publishable in any form.
+- **`client-006`** — `customer_data: true`, and its OOTD job is recorded `client_satisfied: false`.
+
+⚠️ **One field-level discrepancy to be aware of, not to resolve here.** This section lists
+`lead-003` as `customer_data`; its own record carries `customer_data: false` with `redacted: true`.
+**Both agree on the action** — its imagery does not go out — because the garments are the
+counterparty's real products and their **hangtags carry brand name and style numbers**. Treat it as
+client data whichever field you are reading.
+
+⭐ **What IS publishable from all of it: the method.** A1–A4 in
+`../2026-09-01-ecommerce/posts_fb.md` were already drawn from `client-006` and published as
+findings with none of its imagery; **A6–A9** (added 09-20) extend that to these three jobs, and
+`posts_rednote_kuaishou.md` carries two Chinese counterparts. Those are the right home for this
+material. ⛔ **Never copy a string out of a source record** — style numbers are printed on the
+hangtags and search straight back to the brand.
 
 ---
 

@@ -1,4 +1,4 @@
-# FB Groups · E-commerce — 13 posts + 2 supply-side recuts (2026-09-01 … 09-19)
+# FB Groups · E-commerce — 17 posts + 2 supply-side recuts (2026-09-01 … 09-20)
 
 _Facebook half of this folder. The Chinese half — 快手 **and** 小红书, one file — is
 **`posts_rednote_kuaishou.md`** — different
@@ -40,6 +40,10 @@ whether the register survives there at all.
 | ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
 | ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
 | ◻︎ | **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 | — | | | |
+| ◻︎ | **A6** · what breaks a set isn't the garment | text only | — ⚠️ no image yet | B3, B2 | — | | | |
+| ◻︎ | **A7** · one reference ≠ a set | text only | — ⚠️ no image yet | B3, B4 | — | | | |
+| ◻︎ | **A8** · the criteria you were never given | text only | — ⚠️ no image yet | B3, B1 | — | | | |
+| ◻︎ | **A9** · check the 4K, not the preview | text only | — ⚠️ no image yet | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
@@ -577,6 +581,139 @@ We're posting our own miss because this one costs money quietly. The page just c
 
 ---
 
+## A6–A9 — the four drawn from real apparel jobs (2026-09-20)
+
+**Where these come from, and the rule that governs them.** A1–A4 were already derived from a
+real client apparel job — the inner-layer bleed, the flattened hem tab, the nine-vs-seven
+buttons and the dress-form-vs-person ratio rule are all that project's findings, published as
+**method** with none of its imagery. A6–A9 extend the same pattern to three more jobs: one
+womenswear label that wrote its rejection criteria down before seeing any work, and two
+apparel image/video tests.
+
+⛔ **The rule, and it is not negotiable.** **Method is publishable; the work is not.**
+
+- **No client or lead imagery, ever.** Every apparel job on file is either `customer_data: true`
+  or an inbound RFQ that never engaged, and in every case the garments are someone else's
+  products. `../2026-09-10-fb-three-campaigns/posts_ecommerce.md` already draws this line for
+  its B6–B9 cells; it applies here unchanged.
+- **Never copy a string out of a source record into a post.** Those records carry garment
+  **style numbers** — printed on the hangtags and searchable straight back to the brand — plus
+  archive filenames and counterparty-named asset directories. A style number in a post
+  re-identifies a brand that was deliberately redacted. Paraphrase the finding; never paste.
+- **No success rate, no delivered-outcome claim.** Same standing rule as W2's red line. Of the
+  apparel jobs on file, one has qualified positive feedback still in revision and two carry
+  explicit negative client verdicts. **These posts promise a process, not a hit rate.** If
+  someone asks what ours is, the honest answer is that we are still tuning it.
+- ⚠️ **No images built yet.** A1–A5 each have a still. A6–A9 are text-only until someone
+  builds them, and a still has to be made from our own assets — not from any job's output.
+
+---
+
+## A6 — what breaks a set isn't the garment
+
+**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B2.
+
+### FB post copy
+
+🧥 A listing set can pass every garment check you have and still read as two different shoots.
+
+Six on-model takes of one cardigan. The garment was right in five of them — placket closed, every button accounted for, the pointed hem tab resolving correctly in profile. The frame that broke the set wasn't a garment error at all.
+
+In the walking shot the model's hair was **down and loose**. In every other frame it was in an updo. Same face, same garment, same light. Across one listing, that reads as two shoots stitched together — and the buyer notices before they can say why.
+
+It came in through the pose reference. That's the part worth internalising: **a pose reference carries far more than pose.** It carries hair, jewellery, sleeve break, shoe, nail colour, whether a watch is on — the whole non-garment layer, silently. Nobody writes "keep the updo" into a spec, because nobody thinks of hair as a variable.
+
+So before a set ships, run one pass that ignores the product entirely:
+
+· Hair — up or down, and the same *kind* of up
+· Earrings, rings, watch — in or out, consistently
+· Sleeves — pushed or full
+· Shoe, bag, nails
+
+Any one of them moving across the set is the tell. The garment can be perfect and the set still fails.
+
+**Send me a flat lay and one pose reference and I'll run a set free — you can check the continuity pass yourself.** We do these at catalogue scale. DM, or WhatsApp +86 176 9219 0183.
+
+**First comment:** `The rest of the failure taxonomy → curify-ai.com/blog/ghost-mannequin-ai-guide`
+
+---
+
+## A7 — five takes from one reference is not a set
+
+**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B4.
+
+### FB post copy
+
+📸 Pass the same reference photo five times and you get five near-identical frames. That's one image with noise on it, not a set.
+
+Two apparel buyers told us this independently, in different words, and neither had seen the other. One put **图片过于相似** — "the images are too similar" — into a written rejection standard *before* we had shown them anything. The other asked for five images per garment and made different poses across them an explicit line in the brief.
+
+Which makes it the rare requirement you can design for up front instead of discovering:
+
+✅ **One distinct reference per take.** Take 3 draws from reference 3, not from reference 1 again.
+✅ **Record which reference fed which output.** When one frame is wrong you then know what to change, instead of re-rolling the whole set and hoping.
+✅ **Backgrounds have to differ too** — and the same location at a genuinely different angle, light and prop placement counts. The same frame twice does not.
+
+The failure mode underneath all three is the same: a set isn't five renders, it's five *answers to different questions*. Front, back, full-length for length and ease, a three-quarter turn so a side-visible structure resolves, and one lifestyle frame. If two of your five answer the same question, you shipped four images.
+
+**Send me one flat lay and I'll run a five-frame set free, and tell you which frame is carrying which job.** DM, or WhatsApp +86 176 9219 0183.
+
+**First comment:** `Why the full-length frame is the one a buyer actually judges from → curify-ai.com/blog/ghost-mannequin-ai-guide`
+
+---
+
+## A8 — the acceptance criteria you were never given
+
+**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B1.
+
+### FB post copy
+
+📋 A buyer was measuring our output against garment length and bust, in centimetres. We never had the numbers.
+
+The brief was clear about the priority — garment detail fidelity, not photographic appeal — and it named two measured acceptance criteria. Then the spec sheet never arrived. What we had was a garment photo on a dress form and an output on a person.
+
+You cannot compute that comparison. The two share no landmark, no scale and no pose, so any proportion you derive between them is measuring the dress form. (Same rule as the two-ratio post: never measure output against source.)
+
+What we did instead was the only honest option: measure ratios against pose landmarks, and **write down the threshold we were using**, so it could be corrected rather than silently disagreed with.
+
+The general version, for anyone building at SKU velocity:
+
+⛔ **If a buyer names a measured acceptance criterion, get the number before you generate — not after.** A threshold you invented from the images measures nothing, and "we thought it looked right" is not a position you can hold in a revision round.
+
+It sounds procedural. It's the difference between one revision and four.
+
+**Send me a flat lay and your size chart and I'll run a set free, with the length and bust check written out.** DM, or WhatsApp +86 176 9219 0183.
+
+**First comment:** `The two ratios and how to measure them → curify-ai.com/blog/ghost-mannequin-ai-guide`
+
+---
+
+## A9 — check the 4K, not the preview
+
+**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B2.
+
+### FB post copy
+
+🔍 The preview was clean. The full-resolution render came back with a slit in the skirt that the preview didn't have.
+
+Three real QC catches from one apparel image run, all of them at delivery resolution and none of them visible in the preview:
+
+· A large flower appeared **inside a torso crop** that had no flower in it
+· A grey artifact appeared in a printed flower on the garment
+· A medium crop came back with an **exposed leg**, where the preview showed no slit at all
+
+The third one is the expensive one, and it's expensive because it isn't an artifact. It's a **garment feature that does not exist.** Ship it and the buyer has ordered a skirt with a slit. That is not a retouching complaint, it's 货不对版 — and it arrives as a return, not as feedback.
+
+The lesson is narrow and worth holding: **the final high-resolution pass is a generation, not a resize.** Anything that generates can add a design feature. So approve at preview if you like, but **verify at delivery resolution**, and verify the garment specifically — print placement, closures, hem, slits, panel seams.
+
+If your pipeline only reviews previews, your QC is running on a different image than the one your buyer receives.
+
+**Send me one flat lay and I'll run it and show you the native-resolution check, free.** DM, or WhatsApp +86 176 9219 0183.
+
+**First comment:** `The full check order → curify-ai.com/blog/ghost-mannequin-ai-guide`
+
+---
+
 ## Supply-side recut
 
 For `524557767708832` (29.0K, "EARN MORE BY DOING PHOTO RETOUCHING JOB"),
@@ -585,7 +722,7 @@ For `524557767708832` (29.0K, "EARN MORE BY DOING PHOTO RETOUCHING JOB"),
 ⚠️ **These groups are supply, not demand.** Pitching retouching services at
 retouchers is the same error the reddit doc diagnosed on Reddit: asking the supply
 side of a market whether it contains demand. So these two posts ask for something
-instead of selling something. Do **not** post A1–A8 here unchanged.
+instead of selling something. Do **not** post A1–A9 here unchanged.
 
 **Their CTA is the one exception in this file.** Every buyer-side post closes with the
 free-sample + batch offer. These two close with a **recruiting** ask — the white-label
