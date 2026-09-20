@@ -50,7 +50,7 @@ whether the register survives there at all.
 | ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
 | ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
 | ◻︎ | `matcha_drink` | native video | ad-video library | B1 — last | — | | | |
-| ⚠️ | `model_standing` | native video | ad-video library | B3 — **only after the likeness check** | — | | | |
+| ⚠️ | `model_standing` | native video | ad-video library | B3 — **only after the likeness check**. 🔴 already public on RedNote while on hold | — | | | |
 | ◻︎ | **Recut A** · reject list | text + native image | `a1-neck-joint-cycling-jersey.jpg` | S1, S2, S3 — **supply** | — | | | |
 | ◻︎ | **Recut B** · how do you QC it | text + native image | `a4-two-ratio-check.jpg` | S1, S2 — **supply** | — | | | |
 
@@ -391,6 +391,14 @@ paragraph works in a group of people who look at garments all day.
 ## `model_standing` — 10s · 9:16 · ⚠️ hold pending likeness check
 Copy is drafted so it's ready the moment the reference is confirmed synthetic.
 **Do not post before that.** → **B3** (apparel).
+
+🔴 **It went out on RedNote anyway, while on hold** (operator confirmed 09-20, date not
+captured). That does not release this hold — it makes the question urgent instead of
+theoretical, because the asset is already public. **It is answerable in one sentence:** no
+prompt or generation record exists on disk, but the file is a Chrome download tagged
+`encoder=Google`, so if it was generated text-only with no image uploaded there is no
+real-model reference and it clears. Ask whoever made it, then either clear it in `index.json`
+or pull it down and re-render. Full note in `posts_rednote_kuaishou.md`.
 
 **FB post:**
 > 👔 A full-length on-model shot of a black suit — marble-and-brass lobby, slow orbit, ten seconds.

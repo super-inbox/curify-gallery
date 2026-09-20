@@ -43,7 +43,10 @@ each have to stand alone.
 ## Apparel / fashion — where this folder stands (2026-09-20)
 
 **FB** — 9 teardowns (`A1`–`A9`) + `fabric_ad` + `model_standing`, plus the 2 supply-side recuts.
-One sent: **A1 on 09-19**. `model_standing` is held on the likeness question below.
+Two sent: **A1 on 09-19, A2 on 09-20**. `model_standing` is still held for FB — but it
+🔴 **went out on RedNote while on hold**, so the likeness question is now live rather than
+theoretical. It is answerable in one sentence by whoever generated it; see
+`posts_rednote_kuaishou.md`.
 **中文** — 3 fashion items (`fabric_ad`, `model_standing`, the 电商验收 carry-over) + the 2
 服装干货 added 09-20, both with 3:4 cards built. **RedNote is live**: `matcha_drink`,
 `rotation_chair` and `fabric_ad` are sent (⚠️ dates not captured — see the note on that
@@ -80,7 +83,7 @@ Chaplin/Forrest Gump translation demos permanently off the public feed. Applying
 | `rotation_chair` | `rotation_chair.mp4` | none | ✅ **ship** |
 | `fabric_ad` | `fabric_ad.mp4` *(added 09-18)* | none | ✅ **ship** |
 | `kungfu_sf` | `redbull/kungfu_redbull_SF.mp4` | Curify | ✅ **ship** — ⚠️ rename file first |
-| `model_standing` | `model-standing.mp4` | none | ⚠️ **check** — likeness |
+| `model_standing` | `model-standing.mp4` | none | ⚠️ **check** — likeness · 🔴 **already public on RedNote** while on hold |
 | `oilight` | `oilight final.mp4` | OILIGHT™ | ⚠️ **check** — client brand + live footage |
 | `corona_sunrise` | `corona/Mountain_Sunrise_Beer_Climax.mp4` | **Corona** | ⛔ **internal** |
 | `mooncakes` | `starbucks/mooncakes.mp4` | **Starbucks siren** | ⛔ **internal** |

@@ -111,6 +111,7 @@
    "subject": "Male model in a black suit, full-length, in a marble-and-brass elevator lobby; slow orbit",
    "brand_on_screen": "none",
    "clearance": "check",
+   "published_while_on_hold": {"channel": "rednote", "date": "unrecorded, confirmed by operator 2026-09-20", "note": "Went out while clearance was and still is `check`. The open question is now live rather than theoretical -- see posts_rednote_kuaishou.md. No prompt or generation record exists on disk; file metadata says encoder=Google and it carries a Chrome download quarantine flag, so it came from a Google generation tool as a browser download. If it was generated text-only with no image uploaded, there is no real-model reference and this clears; whoever generated it can answer that in one sentence."},
    "clearance_note": "Unbranded garment, but a photoreal human face. If this was rendered from a pose/likeness reference of a real model, the face may carry that person's likeness -- the documented failure mode in the fashion-model pose-ref note. Confirm the reference was synthetic before any public feed or client deck.",
    "best_for": [
     "fb_groups",
