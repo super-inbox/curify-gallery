@@ -47,10 +47,12 @@ Two sent: **A1 on 09-19, A2 on 09-20**. `model_standing` is still held for FB �
 🔴 **went out on RedNote while on hold**, so the likeness question is now live rather than
 theoretical. It is answerable in one sentence by whoever generated it; see
 `posts_rednote_kuaishou.md`.
-**中文** — 3 fashion items (`fabric_ad`, `model_standing`, the 电商验收 carry-over) + the 2
-服装干货 added 09-20, both with 3:4 cards built. **RedNote is live**: `matcha_drink`,
-`rotation_chair` and `fabric_ad` are sent (⚠️ dates not captured — see the note on that
-table). 快手 still has nothing out.
+**中文** — **RedNote has run through the drafted queue.** 7 out: 4 videos (`matcha_drink`,
+`rotation_chair`, `fabric_ad`, and 🔴 `model_standing` while on hold — ⚠️ those four dates were
+not captured) and 3 图文 on **09-20** (电商验收, 服装-1, 服装-2). Only `angryalert` and
+`kungfu_sf` are left unsent there. **快手 still has nothing out** despite five video scripts
+being ready. Next Chinese copy would most cheaply come from **A6–A9**, which are all apparel and
+have no Chinese version yet.
 
 **`A6`–`A9` and both 服装干货 are drawn from real apparel jobs, published as method only.**
 A1–A4 already worked this way — the inner-layer bleed, the flattened hem tab, the nine-vs-seven
