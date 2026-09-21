@@ -39,10 +39,9 @@ whether the register survives there at all.
 | ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
 | ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
 | ◻︎ | **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 | — | | | |
-| ◻︎ | **A6** · what breaks a set isn't the garment | text + native image | ⚠️ candidate: `nano_insp/template-personal-fashion-outfit-style-variations-*` — **likeness check first** | B3, B2 | — | | | |
-| ◻︎ | **A7** · one reference ≠ a set | text + native image | ⚠️ candidate: `nano_insp/template-fashion-ecommerce-sneakers-style-directions` or `-jewelry-moodboard` — product-only | B3, B4 | — | | | |
-| ◻︎ | **A8** · the criteria you were never given | text only | ⚠️ **no nano match — needs a built card** | B3, B1 | — | | | |
-| ◻︎ | **A9** · check the 4K, not the preview | text + native image | ⚠️ candidate: `nano_insp/template-fashion-style-outfit-breakdown-infographic-*` — caption care | B3, B2 | — | | | |
+| ◻︎ | **A6** · what breaks a set isn't the garment | text + native image | `a6-outfit-itemised-minimalist.jpg` · `a6-style-variations-one-identity.jpg` | B3, B2 | — | | | |
+| ◻︎ | **A7** · one reference ≠ a set | text + native image | `a7-one-sneaker-four-directions.jpg` | B3, B4 | — | | | |
+| ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
@@ -588,14 +587,20 @@ We're posting our own miss because this one costs money quietly. The page just c
 
 ---
 
-## A6–A9 — the four drawn from real apparel jobs (2026-09-20)
+## A6–A9 — drawn from real apparel jobs (2026-09-20; A8 retired 09-21)
 
 **Where these come from, and the rule that governs them.** A1–A4 were already derived from a
 real client apparel job — the inner-layer bleed, the flattened hem tab, the nine-vs-seven
 buttons and the dress-form-vs-person ratio rule are all that project's findings, published as
-**method** with none of its imagery. A6–A9 extend the same pattern to three more jobs: one
+**method** with none of its imagery. A6, A7 and A9 extend the same pattern to three more jobs: one
 womenswear label that wrote its rejection criteria down before seeing any work, and two
 apparel image/video tests.
+
+⚠️ **A8 was retired 2026-09-21** — *the acceptance criteria you were never given*. Nothing in
+the template library is a measurement or size-chart form, so it had no image and no cheap route
+to one. The copy is in git history at `ea82b55` if it is ever wanted back. **A6, A7 and A9 keep
+their numbers** — renumbering would break the log entries and the cross-references, and the gap
+is a record, not a mistake.
 
 ⛔ **The rule, and it is not negotiable.** **Method is publishable; the work is not.**
 
@@ -618,7 +623,12 @@ apparel image/video tests.
 
 ## A6 — what breaks a set isn't the garment
 
-**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B2.
+**Images:** `a6-outfit-itemised-minimalist.jpg` — a styled look broken out item by item, and the
+last three items are **loafers, structured bag, gold watch**: the non-garment layer, named.
+Plus `a6-style-variations-one-identity.jpg` — one identity across five looks where the
+**shoes change in every frame** and a cap appears in one. There the variation is deliberate;
+A6's argument is what happens when the same drift is accidental across five frames of *one*
+garment. → **B3**, then B2.
 
 ### FB post copy
 
@@ -647,7 +657,10 @@ Any one of them moving across the set is the tell. The garment can be perfect an
 
 ## A7 — five takes from one reference is not a set
 
-**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B4.
+**Image:** `a7-one-sneaker-four-directions.jpg` — the **same sneaker** in four treatments
+(street / studio / editorial / cozy lifestyle). It is the positive case: four frames that each
+answer a different question, which is exactly what five near-identical frames fail to do.
+→ **B3**, then B4.
 
 ### FB post copy
 
@@ -669,35 +682,12 @@ The failure mode underneath all three is the same: a set isn't five renders, it'
 
 ---
 
-## A8 — the acceptance criteria you were never given
-
-**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B1.
-
-### FB post copy
-
-📋 A buyer was measuring our output against garment length and bust, in centimetres. We never had the numbers.
-
-The brief was clear about the priority — garment detail fidelity, not photographic appeal — and it named two measured acceptance criteria. Then the spec sheet never arrived. What we had was a garment photo on a dress form and an output on a person.
-
-You cannot compute that comparison. The two share no landmark, no scale and no pose, so any proportion you derive between them is measuring the dress form. (Same rule as the two-ratio post: never measure output against source.)
-
-What we did instead was the only honest option: measure ratios against pose landmarks, and **write down the threshold we were using**, so it could be corrected rather than silently disagreed with.
-
-The general version, for anyone building at SKU velocity:
-
-⛔ **If a buyer names a measured acceptance criterion, get the number before you generate — not after.** A threshold you invented from the images measures nothing, and "we thought it looked right" is not a position you can hold in a revision round.
-
-It sounds procedural. It's the difference between one revision and four.
-
-**Send me a flat lay and your size chart and I'll run a set free, with the length and bust check written out.** DM, or WhatsApp +86 176 9219 0183.
-
-**First comment:** `The two ratios and how to measure them → curify-ai.com/blog/ghost-mannequin-ai-guide`
-
----
-
 ## A9 — check the 4K, not the preview
 
-**Image:** ⚠️ none yet. Text-only until one is built. → **B3**, then B2.
+**Images:** `a9-jewelry-flatlay-detail.jpg` — rings, chains and earring posts at close range,
+the kind of frame where stone settings and chain links either hold at 100% or fall apart. Plus
+`a9-necklace-chain-detail.jpg`, a fine chain on linen: at full resolution it is a chain, and
+when it breaks it breaks into dashes. → **B3**, then B2.
 
 ### FB post copy
 
@@ -729,7 +719,7 @@ For `524557767708832` (29.0K, "EARN MORE BY DOING PHOTO RETOUCHING JOB"),
 ⚠️ **These groups are supply, not demand.** Pitching retouching services at
 retouchers is the same error the reddit doc diagnosed on Reddit: asking the supply
 side of a market whether it contains demand. So these two posts ask for something
-instead of selling something. Do **not** post A1–A9 here unchanged.
+instead of selling something. Do **not** post A1–A7 or A9 here unchanged.
 
 **Their CTA is the one exception in this file.** Every buyer-side post closes with the
 free-sample + batch offer. These two close with a **recruiting** ask — the white-label
@@ -791,14 +781,29 @@ Indexed, with the prompt text joined in, at
 `build_template_index.py`). The five-axis model behind on-model generation, and the failure
 modes each axis produces, are in `axes.json` beside it.
 
-### Candidates for A6–A9
+### Chosen, 2026-09-21 — each one looked at before it was taken
 
-| post | candidate | why it fits | before use |
+| post | file here | from | verdict |
 |---|---|---|---|
-| **A6** · continuity | `template-personal-fashion-outfit-style-variations-*` (4) | *one reference photo on the left, four full-body shots styled differently on the right* — literally a set built off one reference, which is A6's subject | ⚠️ photoreal person — **likeness check** |
-| **A7** · one ref ≠ a set | `template-fashion-ecommerce-sneakers-style-directions`, `-jewelry-moodboard` | a grid of directions off one product; product-only, **no person, lowest risk** | ✅ look at the frame for logos |
-| **A9** · verify at full res | `template-fashion-style-outfit-breakdown-infographic-*` (8) | numbered callouts over a styled photo — the "here is where to look" form A9 needs | ⚠️ caption must not imply an edit was made |
-| **A8** · criteria you never got | — | **nothing in the library is a measurement or size-chart form.** Forcing a shape-guide here would illustrate the wrong thing | build a card, like `a4-two-ratio-check.jpg` |
+| **A6** | `a6-outfit-itemised-minimalist.jpg` | `template-fashion-style-outfit-breakdown-infographic-minimalist` | ✅ items 4–6 are loafers, bag, watch — the non-garment layer, itemised |
+| **A6** | `a6-style-variations-one-identity.jpg` | `template-personal-fashion-outfit-style-variations-women-2` | ✅ shoes change every frame, cap in one; no legible mark |
+| **A7** | `a7-one-sneaker-four-directions.jpg` | `template-fashion-ecommerce-sneakers-style-directions` | ✅ same unbranded sneaker, four treatments; faces cropped in 3 of 4 |
+| **A9** | `a9-jewelry-flatlay-detail.jpg` | `template-fashion-ecommerce-jewelry-moodboard` | ✅ no person, no mark, fine detail at close range |
+| **A9** | `a9-necklace-chain-detail.jpg` | `template-fashion-ecommerce-jewelry-minimal-studio` | ✅ no person, no mark; a chain that either holds at 100% or doesn't |
+
+⛔ **Rejected on inspection: `template-personal-fashion-outfit-style-variations-women-1`.** It
+is the obvious pick for A6 by structure — and the casual look wears **three-stripe sneakers
+with a gum sole**, which reads as Adidas Samba trade dress. Same failure as the CAMEL jacket,
+found the same way: by looking. `-women-2` was taken instead.
+
+⚠️ **All five carry the tiled Curify watermark.** The apparel build note below says `nano_insp`
+holds the *clean* copies; for these files it does not. Our own mark is not a clearance problem,
+but it reads heavy at feed size, and A1–A5 do not carry it. If that matters, the fix is a clean
+re-export, not a different image.
+
+⚠️ **Likeness, still open on two.** `a6-style-variations-one-identity.jpg` and panel 04 of the
+A7 grid show photoreal faces. Nothing suggests a real-person reference, but nothing on file
+confirms one wasn't used either — the same gap that left `model_standing` unresolved.
 
 ### ⛔ The library is not blanket-cleared
 
