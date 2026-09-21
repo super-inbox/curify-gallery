@@ -44,7 +44,7 @@ whether the register survives there at all.
 | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
-| ◻︎ | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | B3, B4, B2 — ⛔ **not B1** | — | | | |
+| ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
 | ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
 | ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
@@ -1236,6 +1236,55 @@ _What actually happened, post by post. The plan and the status live in
 **the table at the top of this file** — this section is only the write-ups._
 
 ---
+
+## ✅ 09-21 · W3 — the searches are right now, and that is what makes the sequencing the problem
+
+Sent `curify-fashion.png` to three groups found via **`fashion seller`**, **`ecommerce seller`**
+and **`shopify seller`**.
+
+✅ **3 of 3. All three describe a shop.** That is the recipe at the top of this file applied
+cleanly, and it completes a clear run: **A1 got 1 of 3, A2 got 2 of 3, W3 got 3 of 3.** The
+targeting question is solved — stop tuning it.
+
+⚠️ **Which moves the problem to sequencing, and this one is worth reading carefully.**
+
+Three consecutive days, and the keywords overlap almost completely:
+
+| | 09-19 · A1 | 09-20 · A2 | 09-21 · W3 |
+|---|---|---|---|
+| | `ecommerce seller` | `ecommerce/shopify sellers` | `ecommerce seller` · `shopify seller` |
+| | — | `fashion seller` | `fashion seller` |
+
+**If those resolve to the same rooms — and `fashion seller` and `ecommerce seller` almost
+certainly do — then one audience got three posts from us in three days.** That alone is the
+duplicate-distribution pattern the cadence rule exists to prevent.
+
+⛔ **But the register escalated across those three days, and that is the sharper issue.** A1 and
+A2 are teardowns: they give something away and ask nothing. W3 is a **branded ad** — wordmark,
+headline, benefit icons, a *Create Your Visuals* button. The A-series preamble is explicit that
+the teardowns *"earn the standing that lets W1/W2 and the ad videos run in the same group."*
+
+**Three days is not standing.** Read from inside the room, the sequence is: two useful posts,
+then a poster. That is the shape of an account that was being friendly in order to advertise —
+which is the one impression the whole teardown register was designed to avoid.
+
+**This is not recoverable by posting more, and it is not a disaster either.** The move is to
+stop in those rooms and let time pass. If anything at all comes back on W3, answer it as a
+person and do not follow with another asset.
+
+✅ **What it got right:** it was kept out of **B1**. `105108073643190` carries the explicit
+anti-spam ban rule and has still received nothing. ⚠️ **Worth verifying that none of today's
+three rooms IS B1** — `ecommerce seller` is a near neighbour of B1's own name, and W3 is the
+single most promotional asset in this folder.
+
+**B1 still has had nothing at all.** Three posts have now gone elsewhere while the group A1 was
+written to open has never seen a single one.
+
+**What the replies will tell you.** On an ad, silence is the default and means little. What
+matters is the *shape* of any reply: *"can you do my catalogue"* or a question about turnaround
+is the buyer. *"how much per image"* is a price shopper. Anything about the post being an ad is
+the room telling you the sequencing was read exactly as described above — take that one
+seriously rather than answering it.
 
 ## ✅ 09-20 · A2 — the storefront qualifier landed, and one room is the wrong room
 
