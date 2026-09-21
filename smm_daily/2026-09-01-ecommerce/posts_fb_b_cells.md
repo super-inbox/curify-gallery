@@ -1,5 +1,11 @@
 # Ecommerce Creative — ready-to-post, per product category
 
+> **Moved here 2026-09-21** from `../2026-09-10-fb-three-campaigns/posts_ecommerce.md`.
+> This is the B-series — cut by **product category and buyer segment**, where `posts_fb.md`
+> is cut by **workflow, ad video and apparel teardown**. Three places in this folder already
+> cite these cells by path (`README.md`, `posts_fb.md`, `posts_rednote_kuaishou.md`); those
+> references were repointed in the same commit.
+
 Cut by category, never by "AI content". A jewelry seller scrolls past *"we make AI ecommerce
 content"* and stops at a jewelry result. The proposition being tested in every cell is the same:
 **one SKU → a complete content pack**, not "an AI image".
@@ -115,7 +121,7 @@ scene around it changes.
 
 # B6–B9 · Cells added 2026-09-16 from the demand mining
 
-_Source: [`curify-studio/docs/reddit-demand-mining-ecommerce-2026-09-15.md`](../../../curify-studio/docs/reddit-demand-mining-ecommerce-2026-09-15.md)
+_Source: [`curify-gtm/docs/reddit-demand-mining-ecommerce-2026-09-15.md`](../../../curify-gtm/docs/reddit-demand-mining-ecommerce-2026-09-15.md)
 — 836 posts, 7 lanes. **B1–B5 above are cut by product category. These four are cut by JOB**, because
 that is what the corpus says the buyer actually asks about. Both cuts are valid and they stack: a
 jewelry seller can get B1, an Amazon jewelry seller can get B6._

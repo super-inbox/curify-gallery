@@ -974,7 +974,7 @@ plus, in these rooms, the agents who buy from them.
 
 **Why this voice exists, and why it is the best-evidenced one in the file.** Every other
 voice here was proposed by reasoning. This one was measured first —
-[`curify-studio/docs/reddit-demand-mining-retouching-2026-09-15.md`](../../../curify-studio/docs/reddit-demand-mining-retouching-2026-09-15.md)
+[`curify-gtm/docs/reddit-demand-mining-retouching-2026-09-15.md`](../../../curify-gtm/docs/reddit-demand-mining-retouching-2026-09-15.md)
 §B2, on matched 180-day windows against the wedding lane:
 
 | | wedding | **real estate** |

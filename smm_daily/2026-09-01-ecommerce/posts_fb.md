@@ -601,7 +601,7 @@ apparel image/video tests.
 
 - **No client or lead imagery, ever.** Every apparel job on file is either `customer_data: true`
   or an inbound RFQ that never engaged, and in every case the garments are someone else's
-  products. `../2026-09-10-fb-three-campaigns/posts_ecommerce.md` already draws this line for
+  products. `posts_fb_b_cells.md` already draws this line for
   its B6–B9 cells; it applies here unchanged.
 - **Never copy a string out of a source record into a post.** Those records carry garment
   **style numbers** — printed on the hangtags and searchable straight back to the brand — plus

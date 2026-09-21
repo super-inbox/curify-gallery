@@ -1,5 +1,22 @@
 # Retouching — ready-to-post, per niche
 
+> **Moved here 2026-09-21** from `../2026-09-10-fb-three-campaigns/posts_retouching.md`.
+> Kept rather than dropped because it is a different cut of the same campaign: `posts_fb.md`
+> is organised by **craft topic**, this file by **buyer niche**, and the copy here exists
+> nowhere else. Assets still live in the old folder and are referenced across.
+>
+> ⚠️ **These C1–C5 are NOT the C1–C5 in `posts_fb.md`.** Two unrelated series wear the same
+> letters: here C1 = Bali wedding, C4 = Kyoto, C5 = Dubai; there C1 = "look at what moved",
+> C4 = "five places to look", C5 = "read the pictures first". Say which file you mean before
+> scheduling anything by cell ID.
+>
+> ⛔ **C2 (children / newborn / family) is blocked by the no-children rule** adopted in
+> `posts_fb.md` on 2026-09-20 — *"We don't publish photographs of children. Not our clients'.
+> Not our own. Not generated ones either."* That rule post-dates this file. **C2 and
+> `assets/retouch-children.jpg` must not be posted** unless the rule itself is retired, which
+> the rule says is a separate and explicit decision. Left in place rather than deleted so the
+> decision stays visible; see the ⛔ marker on C2 below.
+
 Five cells, cut by **genre** (wedding, children, portrait) and by **place** (Kyoto, Dubai). Every
 post leads with a before/after, because the image is judged in two seconds and the copy is read
 afterwards.
@@ -15,13 +32,13 @@ brand.
 **CTA everywhere:** DM, or WhatsApp **+86 176 9219 0183**.
 **The line that makes this land rather than offend:** they can already retouch. We sell **capacity**,
 never craft. Never offer them "a better eye".
-⛔ **Never post** `retouching-studio.png` or `retouching-ai.jpg` — see `assets/DO-NOT-POST.md`.
+⛔ **Never post** `retouching-studio.png` or `retouching-ai.jpg` — see `../2026-09-10-fb-three-campaigns/assets/DO-NOT-POST.md`.
 
 ---
 
 ## C1 · Bali / destination wedding
 
-**Asset:** `assets/wedding-bali.jpeg` (3 before/after pairs, branded, carries the AI-concepts line)
+**Asset:** `../2026-09-10-fb-three-campaigns/assets/wedding-bali.jpeg` (3 before/after pairs, branded, carries the AI-concepts line)
 **Groups:** Bali photographers · Bali wedding photographers · Phuket photographers · Destination
 wedding photographers · Santorini photographers
 
@@ -42,9 +59,9 @@ are already tracked.
 
 ---
 
-## C2 · Children / newborn / family
+## ⛔ C2 · Children / newborn / family — BLOCKED by the no-children rule (2026-09-20), do not post
 
-**Asset:** `assets/retouch-children.jpg` (same child, four backdrops)
+**Asset:** `../2026-09-10-fb-three-campaigns/assets/retouch-children.jpg` (same child, four backdrops)
 **Groups:** Children photographers · Newborn photographers · Family photographers · School
 photographers
 
@@ -64,7 +81,7 @@ backdrops — same face, same jumper, same pose. Consistency is the deliverable.
 
 ## C3 · Portrait / headshot studio
 
-**Assets:** `assets/retouch-portrait.jpg`, `assets/portrait-scene-enhancement.jpg`
+**Assets:** `../2026-09-10-fb-three-campaigns/assets/retouch-portrait.jpg`, `../2026-09-10-fb-three-campaigns/assets/portrait-scene-enhancement.jpg`
 **Groups:** Portrait photographers · Headshot photographers · Commercial photographers ·
 Personal branding photographers
 
@@ -86,7 +103,7 @@ change intact, or the frame is useless to the client.
 
 ## C4 · Kyoto / Japan
 
-**Asset:** `assets/retouch-kyoto.jpg` (same subject, same kimono — clean / machiya lane / maple garden / bamboo)
+**Asset:** `../2026-09-10-fb-three-campaigns/assets/retouch-kyoto.jpg` (same subject, same kimono — clean / machiya lane / maple garden / bamboo)
 **Groups:** Kyoto photographers · Japan photographers · Kimono photographers · Kyoto wedding
 photographers
 **Pairs with:** souvenir film **A1** (`cultural_videos/kyoto/kyoto-kimono-30s-watermarked.mp4`)
@@ -106,7 +123,7 @@ to keep its weight. If a background swap breaks either, the frame is unusable �
 
 ## C5 · Dubai / UAE
 
-**Asset:** `assets/retouch-dubai.jpg` (same subject, same abaya — clean / dune / old town / skyline)
+**Asset:** `../2026-09-10-fb-three-campaigns/assets/retouch-dubai.jpg` (same subject, same abaya — clean / dune / old town / skyline)
 **Groups:** Dubai photographers · UAE photographers · Dubai wedding & event photographers ·
 Abu Dhabi photographers
 **Pairs with:** souvenir film **A4**

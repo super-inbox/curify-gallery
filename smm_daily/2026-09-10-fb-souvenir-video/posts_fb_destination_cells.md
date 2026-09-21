@@ -1,5 +1,20 @@
 # Souvenir Video — ready-to-post, per destination
 
+> **Moved here 2026-09-21** from `../2026-09-10-fb-three-campaigns/posts_souvenir.md`.
+> Kept rather than dropped: `posts_fb.md` covers the same five destinations but this file
+> carries per-destination copy that exists nowhere else, including the Chinese 汉服 variant (A2).
+>
+> ⚠️ **The CTA in this file contradicts the house rule in `posts_fb.md`.** That file states:
+> *"In the post body: DM only… Never put the domain in the body"*, because Facebook throttles
+> posts carrying outbound links. Every post below instead ends on
+> *"DM, or WhatsApp +86 176 9219 0183"* in the **body**. A phone number is not a link, so it
+> may well be fine — `../2026-09-01-ecommerce/posts_fb.md` says exactly that and uses the
+> number in-body deliberately. **But the two files disagree and neither knows it.** Settle
+> which applies to the souvenir line before posting from this file.
+>
+> ⚠️ A5 (Santorini) still has no asset. A2 points at a **preview cut**, same caveat as in
+> `posts_fb.md`.
+
 Each post is written for ONE destination and linked to the demo of THAT place. Never post a Kyoto
 video into a Bali group — the whole advantage is that the viewer recognises their own location before
 reading a word.
@@ -73,7 +88,7 @@ one has already been DM'd about this exact offer, and there is now a Bali demo f
 
 **Asset:** `cultural_videos/dubai/dubai-desert-30s-watermarked.mp4` (21MB, 9:16, 30s) — ✅ **built 09-10**
 **Groups:** Dubai photographers · UAE photographers · Dubai desert safari operators · UAE luxury travel
-**Pairs with:** retouching **C5** (`assets/retouch-dubai.jpg`, already built)
+**Pairs with:** retouching **C5** *(the niche series — `../2026-09-01-retouching/posts_fb_niche_cells.md`, not `posts_fb.md`'s C5)* (`../2026-09-10-fb-three-campaigns/assets/retouch-dubai.jpg`, already built)
 
 > Your clients leave with a gallery. This is the same session as a 30-second film — dune, old town,
 > oasis, skyline at blue hour.

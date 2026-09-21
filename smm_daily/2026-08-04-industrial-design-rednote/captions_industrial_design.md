@@ -1,7 +1,7 @@
 # 小红书 · Curify — 工业设计 (Industrial Design) · 2026-08-04
 
 **主题（use-case 视角）：** 产品设计的三大高频痛点 → Curify 一次搞定。核心信息 = *一个产品概念 → 完整、专业、能落地的设计展板/效果图/提案*。
-**痛点依据：** 来自 Reddit 工业设计需求挖掘（`curify-studio/docs/reddit-demand-mining-industrial-design-2026-07-15.md`）——① 方案/作品集**排版展板**最耗时（第一大未满足需求）；② **效果图渲染**慢/贵/要 GPU；③ 完整**产品提案**要跨多软件、画好几天。
+**痛点依据：** 来自 Reddit 工业设计需求挖掘（`curify-gtm/docs/reddit-demand-mining-industrial-design-2026-07-15.md`）——① 方案/作品集**排版展板**最耗时（第一大未满足需求）；② **效果图渲染**慢/贵/要 GPU；③ 完整**产品提案**要跨多软件、画好几天。
 **Account positioning note:** 设计 / 工设垂类内容 —— 从**设计/工设人设账号**发布，避免与 CN-history RedNote 账号的 Position Drift（见 memory `feedback_smm_account_positioning`）。
 
 ---

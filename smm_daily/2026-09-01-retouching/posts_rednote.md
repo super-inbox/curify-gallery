@@ -517,7 +517,7 @@ playbook 的实测段对这个号的结论是：
 **和 FB 的 Voice R 同一组论点，但买家换了 —— 这是改写，不是翻译。**
 
 美国那边测出来的买家是给经纪人供图的 listing photographer，钩子是 **MLS 截稿**
-（`curify-studio/docs/reddit-demand-mining-retouching-2026-09-15.md` §B2：
+（`curify-gtm/docs/reddit-demand-mining-retouching-2026-09-15.md` §B2：
 **41% 已经在花钱找人做**、合格帖 1.33 帖/月、同一查询下 24% 提到外包 —— 全文唯一一条
 **先被测量、后被采纳**的声线）。中文这边没有 MLS，对应的甲方是另外三类：
 

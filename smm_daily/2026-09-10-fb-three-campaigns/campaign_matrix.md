@@ -1,5 +1,18 @@
 # Facebook — three campaign families, granular (2026-09-10)
 
+> **2026-09-21 — the three per-campaign post files left this folder.** Each merged into the
+> thread that had already outgrown it:
+>
+> | was | now |
+> |---|---|
+> | `posts_ecommerce.md` | [`../2026-09-01-ecommerce/posts_fb_b_cells.md`](../2026-09-01-ecommerce/posts_fb_b_cells.md) |
+> | `posts_retouching.md` | [`../2026-09-01-retouching/posts_fb_niche_cells.md`](../2026-09-01-retouching/posts_fb_niche_cells.md) |
+> | `posts_souvenir.md` | [`../2026-09-10-fb-souvenir-video/posts_fb_destination_cells.md`](../2026-09-10-fb-souvenir-video/posts_fb_destination_cells.md) |
+>
+> None was dropped — each carried copy that exists nowhere else. **This matrix and `assets/`
+> stay here**: the matrix is cross-campaign and belongs to no single thread, and four files
+> across three other folders still point at these assets.
+
 _Group-level contextual outbound, not social marketing. The post is the opener; the comment/DM is the
 sales conversation. Source: `curify-frontend/raw/leads-gen-09-10/smm-discussion.txt`._
 
@@ -70,7 +83,7 @@ The proposition to test: **one SKU → a complete content pack**, not "an AI ima
 |---|---|---|---|
 | **Jewelry** | `Handmade Jewelry Makers` (97K ✓), `Etsy jewelry shops & Buyers` (10K ✓), `Jewelry business owners` | `ecommerce_workflow/jewelry_viral_en.mp4` | ✅ |
 | **Beauty / skincare** | `Beauty brand founders`, `Skincare business owners`, `Indie beauty brands` | `skincare_viral_en.mp4`, `serum_marketing_kit_en.mp4`, `ad-variants-demo-09-10/_one-to-nine.jpg` | ✅ |
-| **Fashion / apparel** | `Apparels/Fashion Sell & Buy US/CA/UK/AU` (5.0K ✓), `Boutique owners`, `Clothing brand founders` | `sneakers_viral_en.mp4`, `handbag_marketing_kit_en.mp4` · ⚠️ **not** `model-standing.mp4` (likeness hold, see `posts_ecommerce.md` B3) | ✅ |
+| **Fashion / apparel** | `Apparels/Fashion Sell & Buy US/CA/UK/AU` (5.0K ✓), `Boutique owners`, `Clothing brand founders` | `sneakers_viral_en.mp4`, `handbag_marketing_kit_en.mp4` · ⚠️ **not** `model-standing.mp4` (likeness hold, see `../2026-09-01-ecommerce/posts_fb_b_cells.md` B3) | ✅ |
 | **Home / furniture** | `Home decor sellers`, `Furniture brand owners`, `Etsy home decor` | `home_textiles_viral_en.mp4`, `candle_viral_en.mp4`, `rotation_chair.mp4` | ✅ |
 | **Food / drink** | `Specialty coffee roasters`, `Craft beverage founders` | `coffee_viral_en.mp4`, `tea_viral_en.mp4`, `wine_viral_en.mp4`, `chocolate_viral_en.mp4` | ✅ |
 
@@ -82,8 +95,8 @@ third-party brands in outbound creative is a standing red line.
 
 ### ⭐ 2026-09-16 — four JOB-cut cells added (B6–B9), and one correction to B2
 
-Demand mining landed (`curify-studio/docs/reddit-demand-mining-ecommerce-2026-09-15.md`, 836 posts).
-Cells and copy are in [`posts_ecommerce.md`](posts_ecommerce.md); what belongs **here** is the
+Demand mining landed (`curify-gtm/docs/reddit-demand-mining-ecommerce-2026-09-15.md`, 836 posts).
+Cells and copy are in [`posts_fb_b_cells.md`](../2026-09-01-ecommerce/posts_fb_b_cells.md); what belongs **here** is the
 taxonomy change and one honest tension with the rule at the top of this file.
 
 | new cell | job | why it exists |
@@ -109,7 +122,7 @@ a verified surface. B1–B5's ✓ marks were earned by reading the groups; B6–
 
 ⚠️ **B2's copy needs an edit before it runs to a paid-ads audience** — "nine variants" is the frame
 the r/FacebookAds top post calls worthless. Keep it for brand owners, re-cut it for media buyers.
-Detail in `posts_ecommerce.md`.
+Detail in `../2026-09-01-ecommerce/posts_fb_b_cells.md`.
 
 ### Post copy (swap the category)
 
