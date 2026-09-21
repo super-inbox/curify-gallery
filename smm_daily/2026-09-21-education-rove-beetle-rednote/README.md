@@ -1,5 +1,9 @@
 # smm_daily / education — 科普图文系列
 
+_Series charter. Lives with the first drop; each later drop gets its own flat dated
+folder named `<date>-education-<topic>-<platform>`, matching every other folder in
+`smm_daily/`. Link back here rather than copying these rules._
+
 Drops where the hook is **a fact that corrects a common belief**, delivered as a
 small set of infographic cards generated from shipped nano templates.
 
@@ -46,6 +50,6 @@ but the first one is on-identity and the second is drift.
 
 ## Drops
 
-| Date | Topic | Cards | Posted | Read-out |
-|---|---|---|---|---|
-| 2026-09-21 | 隐翅虫 safety science | 4 | not yet | — |
+| Date | Topic | Cards | Posted | Read-out | Folder |
+|---|---|---|---|---|---|
+| 2026-09-21 | 隐翅虫 safety science | 4 | not yet | — | `2026-09-21-education-rove-beetle-rednote/` |

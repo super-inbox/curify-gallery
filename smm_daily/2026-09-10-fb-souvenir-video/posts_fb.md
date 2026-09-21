@@ -108,6 +108,11 @@ temple dress is correct — kebaya, kamen, and the sash that temple entry actual
 anyone in the group asks, that is the honest answer and it is worth giving; Balinese groups
 notice when it's wrong.*
 
+⭐ **Run this destination first.** Four Bali photographers are already tracked in
+`relationship_leads.json`, one has already been DM'd about this exact offer, and there is now a
+Bali demo to put in that conversation. *(Merged 2026-09-21 from the retired
+`posts_souvenir.md` A3 cell.)*
+
 ---
 
 ## 🇦🇪 Dubai — `dubai-creek-30s`
@@ -130,6 +135,24 @@ notice when it's wrong.*
 > in your Dubai rather than a stock one.
 >
 > DM me.
+
+🔴 **Dubai has already collided with the retouching thread twice — read this before posting.**
+The retired `posts_souvenir.md` said to pair this with the Dubai retouching before/after and run
+the still first. **That advice is superseded.** `../2026-09-01-retouching/posts_fb.md` records
+the collision on 09-11 (`travel · agents · tourism`) and again on 09-17 (`dubai photography`
+vs W3 in `dubai photographer` / `UAE photographer`): the same people may have had two different
+offers from us inside three days.
+
+The buyer is not wrong — a destination shooter genuinely buys both, and `campaign_matrix.md`
+pairs the two lines on Dubai deliberately. **The cadence is wrong.** Rule now, quoted from that
+thread: *one post per group per ~3 days, and never two different offers* — and **where the rooms
+overlap, keep the souvenir video and drop retouching there**, because an add-on to a package they
+already sell is an easier yes than changing post-production vendor.
+
+⚠️ Neither schedule can see the other. **Diff the group IDs against
+`../2026-09-01-retouching/` before the next Dubai post.**
+*(Merged 2026-09-21 from the retired `posts_souvenir.md` A4 cell, corrected against the 09-17
+finding.)*
 
 ---
 
@@ -197,6 +220,12 @@ to be in the comments.*
 > DM me.
 
 ⛔ **Check the filename before uploading.** Only `-preview`. See red line 1.
+
+🈶 **In a Chinese-language room** (`Hanfu photography` and the 汉服/文旅 groups), post the
+Chinese copy from [`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md) § 🇨🇳 滕王阁 rather
+than translating the English above — it is already written for this film. Swap its hashtag line
+for this thread's CTA: **DM in the body, `curify-ai.com` in the first comment.**
+*(Merged 2026-09-21 from the retired `posts_souvenir.md` A2 cell.)*
 
 ---
 

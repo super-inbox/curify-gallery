@@ -5,9 +5,9 @@
 >
 > | was | now |
 > |---|---|
-> | `posts_ecommerce.md` | [`../2026-09-01-ecommerce/posts_fb_b_cells.md`](../2026-09-01-ecommerce/posts_fb_b_cells.md) |
-> | `posts_retouching.md` | [`../2026-09-01-retouching/posts_fb_niche_cells.md`](../2026-09-01-retouching/posts_fb_niche_cells.md) |
-> | `posts_souvenir.md` | [`../2026-09-10-fb-souvenir-video/posts_fb_destination_cells.md`](../2026-09-10-fb-souvenir-video/posts_fb_destination_cells.md) |
+> | `posts_ecommerce.md` | merged into [`../2026-09-01-ecommerce/posts_fb.md`](../2026-09-01-ecommerce/posts_fb.md) § *Category & buyer cells* — **cells B1–B9 renumbered N1–N9** (B1–B4 are group ids in that file) |
+> | `posts_retouching.md` | superseded by [`../2026-09-01-retouching/posts_fb.md`](../2026-09-01-retouching/posts_fb.md) — its C1/C3/C4/C5 are that file's W1/P2/W2/W3; C2 is blocked by the no-children rule |
+> | `posts_souvenir.md` | superseded by [`../2026-09-10-fb-souvenir-video/posts_fb.md`](../2026-09-10-fb-souvenir-video/posts_fb.md) — its A3/A4 assets were the **banned v1 cuts**; three unique notes merged in |
 >
 > None was dropped — each carried copy that exists nowhere else. **This matrix and `assets/`
 > stay here**: the matrix is cross-campaign and belongs to no single thread, and four files
@@ -83,7 +83,7 @@ The proposition to test: **one SKU → a complete content pack**, not "an AI ima
 |---|---|---|---|
 | **Jewelry** | `Handmade Jewelry Makers` (97K ✓), `Etsy jewelry shops & Buyers` (10K ✓), `Jewelry business owners` | `ecommerce_workflow/jewelry_viral_en.mp4` | ✅ |
 | **Beauty / skincare** | `Beauty brand founders`, `Skincare business owners`, `Indie beauty brands` | `skincare_viral_en.mp4`, `serum_marketing_kit_en.mp4`, `ad-variants-demo-09-10/_one-to-nine.jpg` | ✅ |
-| **Fashion / apparel** | `Apparels/Fashion Sell & Buy US/CA/UK/AU` (5.0K ✓), `Boutique owners`, `Clothing brand founders` | `sneakers_viral_en.mp4`, `handbag_marketing_kit_en.mp4` · ⚠️ **not** `model-standing.mp4` (likeness hold, see `../2026-09-01-ecommerce/posts_fb_b_cells.md` B3) | ✅ |
+| **Fashion / apparel** | `Apparels/Fashion Sell & Buy US/CA/UK/AU` (5.0K ✓), `Boutique owners`, `Clothing brand founders` | `sneakers_viral_en.mp4`, `handbag_marketing_kit_en.mp4` · ⚠️ **not** `model-standing.mp4` (likeness hold, see `../2026-09-01-ecommerce/posts_fb.md` N3) | ✅ |
 | **Home / furniture** | `Home decor sellers`, `Furniture brand owners`, `Etsy home decor` | `home_textiles_viral_en.mp4`, `candle_viral_en.mp4`, `rotation_chair.mp4` | ✅ |
 | **Food / drink** | `Specialty coffee roasters`, `Craft beverage founders` | `coffee_viral_en.mp4`, `tea_viral_en.mp4`, `wine_viral_en.mp4`, `chocolate_viral_en.mp4` | ✅ |
 
@@ -93,10 +93,10 @@ cover every cell. It is the cheapest family to launch this week.
 ⚠️ **Excluded from all posts:** the `starbucks/`, `corona/`, `lego/`, `angryAlert/` folders — visible
 third-party brands in outbound creative is a standing red line.
 
-### ⭐ 2026-09-16 — four JOB-cut cells added (B6–B9), and one correction to B2
+### ⭐ 2026-09-16 — four JOB-cut cells added (B6–B9 → now **N6–N9**), and one correction to B2 (**N2**)
 
 Demand mining landed (`curify-gtm/docs/reddit-demand-mining-ecommerce-2026-09-15.md`, 836 posts).
-Cells and copy are in [`posts_fb_b_cells.md`](../2026-09-01-ecommerce/posts_fb_b_cells.md); what belongs **here** is the
+Cells and copy are in [`posts_fb.md`](../2026-09-01-ecommerce/posts_fb.md) § *Category & buyer cells*; what belongs **here** is the
 taxonomy change and one honest tension with the rule at the top of this file.
 
 | new cell | job | why it exists |
@@ -117,12 +117,12 @@ production is their cost centre, which is the premise `lead-generation-system-20
 rates as our best-shaped offer. **But the group list for B7 is unverified and likely supply-heavy, so
 it gets the §H2a treatment before anything is posted: open it, read it, decide which side it holds.**
 
-⚠️ **No group in B6–B9 has been opened yet.** Every group name in those cells is a *search term*, not
-a verified surface. B1–B5's ✓ marks were earned by reading the groups; B6–B9 carry none.
+⚠️ **No group in N6–N9 (ex-B6–B9) has been opened yet.** Every group name in those cells is a *search term*, not
+a verified surface. N1–N5's ✓ marks were earned by reading the groups; N6–N9 carry none.
 
 ⚠️ **B2's copy needs an edit before it runs to a paid-ads audience** — "nine variants" is the frame
 the r/FacebookAds top post calls worthless. Keep it for brand owners, re-cut it for media buyers.
-Detail in `../2026-09-01-ecommerce/posts_fb_b_cells.md`.
+Detail in `../2026-09-01-ecommerce/posts_fb.md` § *Category & buyer cells*.
 
 ### Post copy (swap the category)
 

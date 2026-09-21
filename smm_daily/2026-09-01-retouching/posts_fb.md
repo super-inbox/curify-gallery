@@ -6,6 +6,15 @@ post. Apparel and listing work moved to
 2026-09-11 — a clothing brand that needs listing images is an e-commerce buyer, not a
 retouching buyer, and the two pitches insult each other if crossed._
 
+⛔ **Never post `retouching-studio.png` or `retouching-ai.jpg`** — both are client material,
+not ours to publish; the reasons are recorded in
+[`../2026-09-10-fb-three-campaigns/assets/DO-NOT-POST.md`](../2026-09-10-fb-three-campaigns/assets/DO-NOT-POST.md).
+*(Pointer merged 2026-09-21 from the retired `posts_retouching.md`, which was the only file
+carrying it.)*
+
+**The line that makes this land rather than offend:** they can already retouch. We sell
+**capacity**, never craft — **never offer them "a better eye".**
+
 **The register is the same in all four voices** — value teardown, soft CTA, one native
 image, CTA in the first comment. **What changes is who is on the other side of it,** and
 that changes more than the vocabulary: a wedding shooter's problem is 400 frames matching
@@ -376,7 +385,11 @@ on the ⛔ held asset.
 
 Still worth joining, because place × trade is the narrower and better-qualified cut:
 `Destination wedding photographers`, `Bali wedding photographers`, `Phuket photographers`,
-`Wedding photographers [region]`.
+`Wedding photographers [region]`, `Santorini photographers`, `Kyoto photographers`,
+`Japan photographers`, `Kimono photographers`, `Dubai photographers`, `UAE photographers`,
+`Abu Dhabi photographers`.
+*(The last seven merged 2026-09-21 from the retired `posts_retouching.md` — but see the
+overlap ruling above: where a room already has the souvenir film, it does not also get this.)*
 
 ✅ **This voice is no longer asset-blocked (2026-09-14).** Two destination sheets moved in
 with `demos/` — **W2 Kyoto** and **W3 Dubai** — and neither carries W1's problem. They are
