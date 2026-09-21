@@ -9,6 +9,7 @@ week apart, not because they were two campaigns._
 |---|---|
 | **`posts_fb.md`** | Every Facebook post — 2 workflow (W1–W2) + 6 ad-video + **9 apparel teardowns (A1–A9)** + 2 supply recuts. One merged plan/progress table at the top |
 | **`posts_rednote_kuaishou.md`** | 中文 —— 11 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB. Includes 4 服装干货 (服装-1…4; 服装-2 = A7, 服装-3 = A6, 服装-4 = A9) |
+| [`candidates-rednote-09-21.md`](candidates-rednote-09-21.md) | 小红书选题候选，第二批 —— 五篇爆款的形制拆解 + 8 条候选（5 条是现成正文换封面重发）|
 | `index.json` | machine-readable index of `curify-gallery/ecommerce_ad_videos` |
 | `prompts/` | prompt provenance + the Minimax H3 series |
 | `demos/ad-variants-demo-09-10/` | W2's asset and its master set — source, nine variants, `PROVENANCE.md`. Also a live email attachment |
