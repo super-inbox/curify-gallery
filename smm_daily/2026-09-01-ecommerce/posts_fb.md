@@ -39,10 +39,10 @@ whether the register survives there at all.
 | ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
 | ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
 | ◻︎ | **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 | — | | | |
-| ◻︎ | **A6** · what breaks a set isn't the garment | text only | — ⚠️ no image yet | B3, B2 | — | | | |
-| ◻︎ | **A7** · one reference ≠ a set | text only | — ⚠️ no image yet | B3, B4 | — | | | |
-| ◻︎ | **A8** · the criteria you were never given | text only | — ⚠️ no image yet | B3, B1 | — | | | |
-| ◻︎ | **A9** · check the 4K, not the preview | text only | — ⚠️ no image yet | B3, B2 | — | | | |
+| ◻︎ | **A6** · what breaks a set isn't the garment | text + native image | ⚠️ candidate: `nano_insp/template-personal-fashion-outfit-style-variations-*` — **likeness check first** | B3, B2 | — | | | |
+| ◻︎ | **A7** · one reference ≠ a set | text + native image | ⚠️ candidate: `nano_insp/template-fashion-ecommerce-sneakers-style-directions` or `-jewelry-moodboard` — product-only | B3, B4 | — | | | |
+| ◻︎ | **A8** · the criteria you were never given | text only | ⚠️ **no nano match — needs a built card** | B3, B1 | — | | | |
+| ◻︎ | **A9** · check the 4K, not the preview | text + native image | ⚠️ candidate: `nano_insp/template-fashion-style-outfit-breakdown-infographic-*` — caption care | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
@@ -776,6 +776,53 @@ The trap we fell into first was measuring the output against the source photo. I
 Genuinely curious how people who do this by hand handle it. Size chart, reference shot, or by eye? 👇
 
 And the same standing offer as the other post: if you take white-label overflow, **comment or WhatsApp +86 176 9219 0183.**
+
+---
+
+## The nano template library — what's in it for this folder
+
+**A1's still already came from there.** `a1-neck-joint-cycling-jersey.jpg` is
+`nano_insp/template-fashion-ecommerce-cycling-jersey-aerodynamic.jpg`, already published on
+curify-ai.com. That route is open for the rest of the series — the library holds **11 fashion
+families, 133 variants**, all with prompt copy.
+
+Indexed, with the prompt text joined in, at
+**`agentic-adhoc/resources/fashion-materials/nano-templates.json`** (regenerate with
+`build_template_index.py`). The five-axis model behind on-model generation, and the failure
+modes each axis produces, are in `axes.json` beside it.
+
+### Candidates for A6–A9
+
+| post | candidate | why it fits | before use |
+|---|---|---|---|
+| **A6** · continuity | `template-personal-fashion-outfit-style-variations-*` (4) | *one reference photo on the left, four full-body shots styled differently on the right* — literally a set built off one reference, which is A6's subject | ⚠️ photoreal person — **likeness check** |
+| **A7** · one ref ≠ a set | `template-fashion-ecommerce-sneakers-style-directions`, `-jewelry-moodboard` | a grid of directions off one product; product-only, **no person, lowest risk** | ✅ look at the frame for logos |
+| **A9** · verify at full res | `template-fashion-style-outfit-breakdown-infographic-*` (8) | numbered callouts over a styled photo — the "here is where to look" form A9 needs | ⚠️ caption must not imply an edit was made |
+| **A8** · criteria you never got | — | **nothing in the library is a measurement or size-chart form.** Forcing a shape-guide here would illustrate the wrong thing | build a card, like `a4-two-ratio-check.jpg` |
+
+### ⛔ The library is not blanket-cleared
+
+`template-fashion-ecommerce-zh-jacket.jpg` was **rejected** — clean, English, unwatermarked,
+and the garment carries a visible **CAMEL logo**. Clearance is per image, by looking at it.
+
+⚠️ **That leaves a real gap: 21 of the 40 `template-fashion-ecommerce` variants are `zh-*`,
+made in the same batch as the one caught with a third-party mark, and the other twenty have
+never been checked.** "Not yet rejected" is not "cleared". Worth one sweep before anything
+from that subfamily is used here.
+
+Two standing exclusions carried over from `../2026-09-01-retouching/posts_fb.md`:
+`zh-jacket` (rejected), and `template-fashion-before-after-outfit-annotation-card-*`, which is
+labelled BEFORE/AFTER but whose "after" only adds callout labels — **no retouch happened**, so
+it can never back a retouching claim. Full rules:
+`agentic-adhoc/resources/fashion-materials/clearance.md`.
+
+### Also usable, beyond the teardowns
+
+The `template-fashion-ecommerce` family carries 40 category-matched variants — eyewear,
+handbag, jewelry, sneakers and a `zh-*` apparel set — across seven treatments (studio, flat
+lay, editorial, street, lifestyle, moodboard, on-model). That is a ready answer to the
+**category-match rule** at the top of this file: a jewelry group gets a jewelry frame rather
+than a serum bottle, without new production.
 
 ---
 
