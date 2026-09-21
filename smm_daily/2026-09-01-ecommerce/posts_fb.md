@@ -44,6 +44,7 @@ whether the register survives there at all.
 | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
+| ◻︎ | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | B3, B4, B2 — ⛔ **not B1** | — | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
 | ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
 | ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
@@ -247,6 +248,56 @@ shoulder all move. Ours, observed, unstaged.
 ⚠️ The one line to keep out: do not say or imply the nine variants were made for a
 customer. No delivered-outcome claim attaches to this asset — same standing rule as
 the retouching series' red line 2.
+
+---
+
+## W3 — one bag, six frames
+
+**Image:** `curify-fashion.png` (1254×1254, 1:1). One cream handbag rendered six ways —
+product shot, model shot, lifestyle scene, detail shot, styled flat lay, real-world vibe.
+→ **B3** (apparel/accessories), then B4, B2.
+
+⚠️ **This one is a different register from everything else in this file, and it should be
+placed accordingly.** A1–A9 are teardowns: value first, soft CTA, no service ad. This is a
+**designed ad** — Curify wordmark, a headline, three benefit icons and a *Create Your Visuals*
+button baked into the image. That is fine, and it is the clearest single statement of the
+offer we have. It is not fine everywhere:
+
+- ⛔ **Never B1.** `105108073643190` carries the explicit anti-spam ban rule, and this is the
+  most promotional asset in the folder. A1 was chosen to open B1 precisely because it is the
+  least promotional.
+- **Closest relative is W2**, not the A-series — same argument (one input, many outputs),
+  different execution. W2 argues it with a demo grid and a teardown text; W3 asserts it with
+  a poster.
+- **The image already carries its own copy.** Don't restate the headline in the body — say
+  what the poster cannot.
+
+### FB post copy
+
+🛍️ One product photo of a handbag. Six frames, all from that one input: the clean pack shot, the on-model street shot, a lifestyle scene, a hardware macro, a styled flat lay, and a destination shot.
+
+Those six aren't a showreel — they're roughly what one SKU actually has to carry. The pack shot for the shopper comparing tabs. The on-model for scale and drape. The macro for the clasp, because on a bag the hardware is the quality signal. The lifestyle and destination frames for social, which almost never get made because they're the ones you'd need a location for.
+
+The real cost of the old way isn't the shoot day. It's that a shoot gives you two of those six, and the other four quietly never happen — so the listing goes up half-answered and the social calendar runs on the pack shot.
+
+Where it doesn't help: the clasp macro has to be *your* clasp. If the hardware in the render isn't the hardware in the box, you've bought a return. Feed the real product photo in, and check the metal at full resolution before anything ships.
+
+For those of you selling bags, shoes or accessories — which of those six do you currently have, and which one have you just never got made? 👇
+
+**First comment:**
+```
+Self-serve on your own product: curify-ai.com/tools/ecommerce-photo
+A full catalogue, batched: curify-ai.com/contact
+```
+
+**Batch CTA for the body, if you prefer it there:** *One SKU, the full set of frames — a whole
+catalogue a line at a time. Send me one product photo and I'll run yours free.* DM, or WhatsApp +86 176 9219 0183.
+
+**Clearance — looked at 2026-09-21:** ✅ the bag is unbranded, generic gold clasp, no
+third-party mark on it. ⚠️ **two photoreal faces** (model shot, destination shot) — same open
+likeness question as the other on-model assets. ⚠️ the styled flat lay includes a magazine
+reading **CEREAL**, which is a real title; it is incidental set dressing rather than a claim of
+endorsement, but it is a third-party name in frame and worth knowing before this goes wide.
 
 ---
 
