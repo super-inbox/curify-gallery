@@ -105,6 +105,29 @@
    "source_record": "~/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-09-18-internal-005-fabric-ad-video.json"
   },
   {
+   "id": "fashion_batch_campaign",
+   "file": "fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4",
+   "duration_s": 22.0,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "category": "apparel / accessories -- campaign demonstration",
+   "subject": "One ivory pebbled-leather handbag across a whole campaign: travertine studio product, model on a sunlit limestone street, Mediterranean terrace scene, gold-clasp detail, a moving batch grid, then an inquiry CTA",
+   "brand_on_screen": "none on the product; Curify CTA card",
+   "clearance": "ship",
+   "clearance_note": "Own output end to end. The bag is unbranded -- ivory leather, generic gold clasp -- and derives from our own curify-fashion.png poster, itself generated. Audio is a synthesized instrumental bed plus an ElevenLabs narration track; no third-party song, no voice clone of a real person. Production notes state plainly that this is an AI campaign demonstration, NOT footage of a customer project, and the narration makes no success-rate or client claim. \u26a0\ufe0f One photoreal model face -- the likeness chain is generated-from-generated (text prompt + our own poster as reference), so the exposure is lower than model_standing's, but it is the same class of open question.",
+   "best_for": [
+    "fb_groups",
+    "rednote",
+    "kuaishou"
+   ],
+   "hook": "One product, a whole campaign -- the six frames a drop needs, off one photo",
+   "orientation_note": "\u2b50 1080x1920 native. The first asset in this set that is correctly shaped for BOTH Chinese feeds without a recut.",
+   "production_notes": "fashion_batch_campaign/production_notes.md",
+   "narration_script": "fashion_batch_campaign/narration_script.txt",
+   "generation": {"images": "built-in image tool from the poster reference", "motion": "MiniMax-H3 (CN API)", "voice": "ElevenLabs Lily, eleven_multilingual_v2"},
+   "note": "Naming does not follow the folder's <id>/<id>.mp4 convention. Left as delivered rather than renamed under someone else's file; watermark_videos.py therefore skips it."
+  },
+  {
    "id": "model_standing",
    "file": "model-standing.mp4",
    "duration_s": 10.0,
@@ -212,6 +235,38 @@
    "hook": null,
    "has_prompt": true,
    "prompt_file": "prompts/beauty_cream.json"
+  },
+  {
+   "id": "fashion_batch_campaign",
+   "file": "fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4",
+   "duration_s": 22.0,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "fps": 30,
+   "category": "fashion / handbag / batch campaign demo",
+   "subject": "Ivory handbag studio, model, Mediterranean lifestyle and detail shots; moving output grid; Curify batch-generation inquiry CTA.",
+   "brand_on_screen": "Curify",
+   "audio": "English ElevenLabs Lily narration with original synthesized instrumental music",
+   "on_screen_language": "en",
+   "clearance": "check",
+   "clearance_note": "Generated in this task from an operator-supplied Curify poster reference. Existing folder notes leave the poster reference-model provenance unresolved; retained for candidate review, not declared cleared. AI-generated demo, not a client case study.",
+   "best_for": [
+    "fb_groups",
+    "rednote"
+   ],
+   "hook": "One product. A whole campaign.",
+   "status": "candidate",
+   "added_at": "2026-09-22",
+   "platform_status": {
+    "fb_groups": "candidate_not_scheduled",
+    "rednote": "candidate_not_scheduled"
+   },
+   "post_refs": {
+    "fb_groups": "posts_fb.md",
+    "rednote": "posts_rednote_kuaishou.md"
+   },
+   "provenance_file": "fashion_batch_campaign/production_notes.md",
+   "narration_script": "fashion_batch_campaign/narration_script.txt"
   }
  ]
 }

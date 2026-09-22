@@ -44,6 +44,7 @@ whether the register survives there at all.
 | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
+| ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
 | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
 | ◻︎ candidate | **W4** · one product, a whole campaign | narrated native video | `fashion_batch_campaign` · 22 s | B3 / B4 candidates; no date set · source review pending | — | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
@@ -1237,6 +1238,46 @@ _What actually happened, post by post. The plan and the status live in
 **the table at the top of this file** — this section is only the write-ups._
 
 ---
+
+## ✅ 09-22 · W4 — 快手 finally launched, and the FB rooms took a fourth post in four days
+
+Sent `curify_fashion_batch_ad_narrated.mp4` (22s, 1080×1920) to three groups found via
+**`fashion`**, **`commerce seller`** and **`shopify`** — and, the same day, to **both Chinese
+channels**.
+
+⭐ **快手 posted for the first time.** Five video scripts had been sitting ready since 09-06 and
+the channel had never run. It is also the first asset to go out on **all three channels on one
+day**, and the first that is **natively 9:16** — no recut, no letterbox, no dimension argument.
+That is what an asset shaped for the queue looks like.
+
+✅ **Searches: three for three**, all storefront terms. Consistent with 09-21.
+
+⚠️ **Fourth consecutive day into overlapping FB seller rooms, and the register has now fully
+turned over.**
+
+| | 09-19 | 09-20 | 09-21 | 09-22 |
+|---|---|---|---|---|
+| post | A1 teardown | A2 teardown | W3 poster | **W4 campaign ad** |
+| asks for | nothing | nothing | a DM | *DM "BATCH" for a quote* |
+
+The searches overlap heavily across all four. I flagged the give-then-sell shape on W3; this
+extends it by one more day and one more step — a narrated campaign film with a quote CTA is the
+most promotional thing this folder has ever put in front of those rooms.
+
+**Nothing to undo. The useful move is to stop in those rooms now** and let the next thing be a
+reply to a person rather than a fifth asset. The teardown register was the thing earning the
+right to run W3 and W4 there; spending it four days in leaves nothing behind it.
+
+⚠️ **The FB group names and sizes still have not been captured** — four posts in now, across
+roughly the same rooms, and we cannot yet tell whether any two of them landed in the *same*
+group. That is the one measurement that would settle whether this was duplicate distribution or
+four distinct audiences, and it gets harder to reconstruct every day.
+
+**Clearance** (checked 09-22): ✅ unbranded bag, own output end to end, synthesized music, no
+third-party song, and the production notes state plainly it is a demonstration rather than
+customer footage. The narration makes no success-rate claim. ⚠️ One photoreal model face —
+generated from our own generated poster, so a weaker version of `model_standing`'s open
+question, but the same class.
 
 ## ✅ 09-21 · W3 — the searches are right now, and that is what makes the sequencing the problem
 

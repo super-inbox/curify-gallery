@@ -1,5 +1,16 @@
 # E-commerce — FB Groups + 快手 + 小红书, one folder (2026-09-01 … 09-18)
 
+
+## 2026-09-22 · New publishing candidate: fashion batch campaign
+
+`fashion_batch_campaign` / FB **W4** / RedNote **C9**: narrated 22-second, 1080×1920 fashion campaign demonstration. **Candidate only; neither scheduled nor published.** English narration and graphics; English FB and Chinese RedNote draft copy are in the existing post files. Kuaishou was not requested.
+
+Video: [curify_fashion_batch_ad_narrated.mp4](../../ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4). Generation and narration notes are stored beside it. This follows the existing convention of keeping videos in `ecommerce_ad_videos` and post plans here.
+
+Index clearance is `check`, retaining the existing poster-reference model provenance question. No third-party logo was seen in the generated video review frames; that does not establish the source model's provenance. The older asset counts and dated status snapshots below predate this addition.
+
+---
+
 _Consolidated 2026-09-11 from `2026-09-01-fb-ecommerce/` and
 `2026-09-06-ecommerce-ad-videos/`. Same buyer, same four groups, same cadence rule,
 same CTA gates, same stop rule — they were two folders because they were written a
