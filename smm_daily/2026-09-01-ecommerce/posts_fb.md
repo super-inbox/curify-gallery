@@ -44,6 +44,7 @@ whether the register survives there at all.
 | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
+| ⚠️ | **W5** · one bag, four uses | text + native image | `rn-grid-箱包四图.jpg` (3:4) | B3, B4 — ⚠️ **held on cadence, see below** | — | | | |
 | ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
 | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
 | ◻︎ candidate | **W4** · one product, a whole campaign | narrated native video | `fashion_batch_campaign` · 22 s | B3 / B4 candidates; no date set · source review pending | — | | | |
@@ -300,6 +301,62 @@ third-party mark on it. ⚠️ **two photoreal faces** (model shot, destination 
 likeness question as the other on-model assets. ⚠️ the styled flat lay includes a magazine
 reading **CEREAL**, which is a real title; it is incidental set dressing rather than a claim of
 endorsement, but it is a third-party name in frame and worth knowing before this goes wide.
+
+---
+
+## W5 — one bag, four uses
+
+**Image:** `rn-grid-箱包四图.jpg` (1080×1440). A 2×2 of the **same ivory handbag** in four
+uses — product / model / lifestyle / detail — cropped from our own
+`ecommerce_ad_videos/fashion_batch_campaign/`, which `index.json` clears `ship`. The card
+states on its face that it is an AI demo, not customer footage.
+
+**Format is borrowed, wording is not.** The reference is a competitor RedNote post
+(`curify-frontend/raw/rednote-example-09-22/`, 224 likes / **197 saves**): four-up grid, large
+type across the middle, pain-first body. ⛔ Not taken: its copy, its yellow-on-black type, its
+"Powered by …" watermark, and its 全品类可接 capability claim — we have no basis for that one.
+
+⚠️ **HELD, and the reason is cadence, not the asset.** A1 (09-19), A2 (09-20), W3 (09-21) and
+W4 (09-22) all went into overlapping seller rooms on four consecutive days, and the register
+already ran teardown → teardown → poster → narrated ad. **W5 is a fifth asset and a second
+straight service pitch.** Sending it now into the same groups is the exact thing the 09-22 log
+says to stop doing.
+
+**Release condition — any one of these, not a date:**
+1. A reply comes back on W3 or W4 and gets answered as a conversation, or
+2. the FB group names are finally captured and W5 goes to a room the other four did **not**
+   touch, or
+3. roughly a week passes with nothing posted into those rooms.
+
+### FB post copy
+
+👜 The expensive part of a drop was never the shoot day. It's that one SKU needs several *different* pictures, and a booked shoot hands you one or two of them.
+
+Four, at minimum, before a product is really listed:
+
+· **Product** — the clean frame, for the shopper comparing five tabs
+· **On-model** — scale and drape, which is what decides the click
+· **Lifestyle** — the product in a life. Needs a location, so most sellers simply never have it
+· **Detail** — hardware, stitching, grain. On a bag or a shoe this *is* the quality signal, and it's the first one cut
+
+The four above are one bag. Same clasp, same grain, same strap, four uses.
+
+Being straight about what you're looking at: **this is a generated demo, not a customer's shoot.** And the hardware has to be *your* hardware — if the clasp in the render isn't the clasp in the box, you haven't saved a return, you've manufactured one. Keep one true macro of the real piece.
+
+If you sell bags, shoes or accessories — of those four, which do you actually have, and which one have you just never got made? 👇
+
+**First comment:**
+```
+Self-serve on your own product: curify-ai.com/tools/ecommerce-photo
+A full line, batched: curify-ai.com/contact
+```
+
+**Batch CTA if you prefer it in the body:** *One SKU, the full set — a line at a time. Send me
+one product photo and I'll run yours free.* DM, or WhatsApp +86 176 9219 0183.
+
+**Clearance (09-22):** ✅ unbranded bag, generic gold clasp, our own output throughout, and the
+card says on its face it is a demo. ⚠️ one photoreal face in the model frame — generated from
+our own generated poster, the weaker form of `model_standing`'s open question.
 
 ---
 
