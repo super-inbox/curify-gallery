@@ -190,7 +190,7 @@ Reused rather than reinvented — these lines are already ours and already publi
   banners, and a video ad. From a single image, in minutes."*
 - **On-screen hook baked into the flagship video**
   (`dev/jayw/video_pipelines/ecommerce_to_video/spec.json`): *"Only have ONE product photo?"*
-- **The client brochure** behind `client_VC_portfolio/curify_ecommerce.pdf`
+- **The client brochure** behind `curify-gtm/client_VC_portfolio/curify_ecommerce.pdf`
   (`curify-frontend/scripts/oneoff_ecommerce_booklet_pdf_2026-08-12.py`) — source of
   the 3–7 day shoot-cycle figure (*"一次商业拍摄从约档到出图通常 3–7 天"*), the pain
   lines (*"Shoots are slow and expensive — and they don't scale with your launch

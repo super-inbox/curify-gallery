@@ -20,7 +20,7 @@ log. The copy lives in two channel files.
 `curify-studio/dev/jayw/video_pipelines/costume_story_video/`.
 
 **`demos/tourism-souvenir-demo-09-08/`** — moved into this thread 2026-09-14 from
-`client_VC_portfolio/smm/`. These are the **email-sized cuts** (2.5–5.4MB) of the same five
+`curify-gtm/client_VC_portfolio/smm/`. These are the **email-sized cuts** (2.5–5.4MB) of the same five
 destinations, and they are **live attachments**: `gtm_tools/batch_tourism_2026-09-08.json`
 and `batch_hotels_2026-09-12.json` attach them by absolute path. Those paths had been broken
 since the folder was moved outside git; they are repointed here and now resolve. **Do not

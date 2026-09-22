@@ -2,7 +2,7 @@
 
 **主题：** 品牌高级感 · 讲故事 · 美学。核心信息 = *一个概念 → 一整套统一、耐看、能落地的品牌视觉*。
 **Account positioning note:** 这是 **设计 / 文创垂类**内容（品牌 & 包装设计），与"CN-history reverse-trivia"的 RedNote-Curify 账号调性不同 —— 建议从**设计/文创人设账号**发布，避免 Position Drift（见 memory `feedback_smm_account_positioning`）。
-**竞品参考：** `client_VC_portfolio/yujun-packaging-design.jpg`（宇珺，11年传统设计团队，人工、慢、单件报价）→ 我们的差异 = AI 驱动、**整套一次生成**、故事驱动、直接出厂文件。
+**竞品参考：** `curify-gtm/client_VC_portfolio/yujun-packaging-design.jpg`（宇珺，11年传统设计团队，人工、慢、单件报价）→ 我们的差异 = AI 驱动、**整套一次生成**、故事驱动、直接出厂文件。
 
 ---
 

@@ -1,7 +1,7 @@
 # 小红书 · Curify — 包装设计 (Packaging Design) · 2026-08-04
 
 **主题：** 讲故事 + 便利性。核心信息 = *包装要有故事（卖得动），而且一次生成整套、直接出厂文件（好落地）*。
-**竞品参考：** `client_VC_portfolio/yujun-packaging-design.jpg`（宇珺，11 年传统包装设计团队，人工/单件/慢）→ 我们的差异 = **一个 IP → 全套礼盒一次生成 + 出厂文件**，按节日/场景一键换风格。
+**竞品参考：** `curify-gtm/client_VC_portfolio/yujun-packaging-design.jpg`（宇珺，11 年传统包装设计团队，人工/单件/慢）→ 我们的差异 = **一个 IP → 全套礼盒一次生成 + 出厂文件**，按节日/场景一键换风格。
 
 ---
 

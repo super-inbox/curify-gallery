@@ -301,13 +301,13 @@ agreeing because they do this for a living.
 
 ## `demos/` — where the image files live
 
-Five demo folders moved here from `client_VC_portfolio/smm/`. Each is a complete set:
+Five demo folders moved here from `curify-gtm/client_VC_portfolio/smm/`. Each is a complete set:
 `00-source.png`, the numbered variants, the flattened `_sheet-*.jpg` that is the single
 postable file, and (for three of the five) a `PROVENANCE.md`.
 
 **They are also live email attachments.** `gtm_tools/batch_*.json` attach
 `_contact-sheet.jpg` and `_one-to-nine.jpg` by absolute path. Those paths were **broken**
-before this move — the folders had been moved into `client_VC_portfolio/smm/` outside git,
+before this move — the folders had been moved into `curify-gtm/client_VC_portfolio/smm/` outside git,
 and eight batch files still pointed at the old top-level location. They are repointed here
 and now resolve. **Do not move these folders again without updating `gtm_tools/*.json`.**
 
@@ -1186,7 +1186,7 @@ is currently *inferred* from client-008, not demonstrated in this vertical.
 
 The originals stay where the outreach batches point at them —
 `curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json` attaches by absolute path,
-so **do not move or rename the `client_VC_portfolio/*-demo-*` folders.**
+so **do not move or rename the `curify-gtm/client_VC_portfolio/*-demo-*` folders.**
 
 | Here | Original | Made by | Status |
 |---|---|---|---|
