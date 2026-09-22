@@ -45,6 +45,7 @@ whether the register survives there at all.
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
 | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
+| ◻︎ candidate | **W4** · one product, a whole campaign | narrated native video | `fashion_batch_campaign` · 22 s | B3 / B4 candidates; no date set · source review pending | — | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
 | ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
 | ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
@@ -1530,3 +1531,28 @@ category must match the group (`jewelry_viral_en.mp4`, never the coffee maker).
 second post for ~3 days, and do not follow with a harder-selling one. The order that works
 everywhere else in this folder is **teardown first, video second** — which means A1–A5 are
 the right follow-ups in the seller rooms, not another video.
+
+
+---
+
+## W4 · One product, a whole campaign — narrated video candidate (2026-09-22)
+
+**Status:** ◻︎ candidate only — not scheduled, not published. Added at the operator's request for FB and RedNote.
+**Asset:** [curify_fashion_batch_ad_narrated.mp4](../../ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4) — 22 s, 1080×1920, 30 fps; English ElevenLabs Lily narration + music; English on-screen copy; Curify branding and AI-demo disclosure baked in.
+**Placement:** buyer-side fashion / boutique / ecommerce seller groups, B3 then B4 where promotional demos are allowed; not the culture Page, not B1. No group or date selected yet.
+**Positioning:** batch-production inquiry test; measure qualified DMs, product counts and quote requests. Not a client case study or a consistency guarantee.
+**Source review:** index `fashion_batch_campaign` carries `check`: this thread generated the stills and MiniMax footage using the operator-supplied Curify poster as reference. The folder already records an unresolved reference-model provenance question for that poster. Candidate registration does not resolve that question or authorize publication.
+
+### Draft body
+
+One bag needs more than one good photo.
+
+A product shot shows what it is. A model shot shows how it wears. A lifestyle scene gives it context. A close-up lets shoppers inspect the details.
+
+This 22-second AI-generated demo brings those directions together as a fashion campaign. Curify creates images and short videos in batches for product collections, with product details reviewed across the set.
+
+Planning your next drop? DM “BATCH” with your store link, number of products, and the images or videos you need, and we can scope a quote.
+
+### Posting notes
+
+Native upload; no external link in the body. Keep the quote CTA consistent with the video end card. No free-sample or exact-fidelity claim has been added. Leave published date, group and results blank until an actual post is confirmed.
