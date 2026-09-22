@@ -94,16 +94,16 @@ Chaplin/Forrest Gump translation demos permanently off the public feed. Applying
 | `id` | Video | On-screen brand | Verdict |
 |---|---|---|---|
 | `angryalert` | `angryAlert/AngryAlert_vertical.mp4` (+ landscape cut) | Curify | ✅ **ship** |
-| `matcha_drink` | `matcha_drink.mp4` | none | ✅ **ship** |
-| `rotation_chair` | `rotation_chair.mp4` | none | ✅ **ship** |
-| `fabric_ad` | `fabric_ad.mp4` *(added 09-18)* | none | ✅ **ship** |
+| `matcha_drink` | `matcha_drink/matcha_drink.mp4` | none | ✅ **ship** |
+| `rotation_chair` | `rotation_chair/rotation_chair.mp4` | none | ✅ **ship** |
+| `fabric_ad` | `fabric_ad/fabric_ad.mp4` *(added 09-18)* | none | ✅ **ship** |
 | `kungfu_sf` | `redbull/kungfu_redbull_SF.mp4` | Curify | ✅ **ship** — ⚠️ rename file first |
 | `model_standing` | `model-standing.mp4` | none | ⚠️ **check** — likeness · 🔴 **already public on RedNote** while on hold |
 | `oilight` | `oilight final.mp4` | OILIGHT™ | ⚠️ **check** — client brand + live footage |
 | `corona_sunrise` | `corona/Mountain_Sunrise_Beer_Climax.mp4` | **Corona** | ⛔ **internal** |
 | `mooncakes` | `starbucks/mooncakes.mp4` | **Starbucks siren** | ⛔ **internal** |
 | `molly_forest` | `popmart/Molly_walks_into_a_cozy_forest.mp4` | **POPMART + Snow White** | ⛔ **internal** |
-| `beauty_cream` | `beauty_cream.mp4` | **POND'S** | ⛔ **internal** |
+| `beauty_cream` | `beauty_cream/beauty_cream.mp4` | **POND'S** | ⛔ **internal** |
 
 **The four ⛔ rows are spec ads for live trademarks** — AB InBev, Starbucks, POP MART
 (plus a Disney character design), Unilever. They are genuinely good work and they are

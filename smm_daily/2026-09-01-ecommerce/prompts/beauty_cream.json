@@ -1,7 +1,7 @@
 {
   "product": "beauty_cream",
   "category": "beauty / skincare",
-  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/beauty_cream.mp4",
+  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/beauty_cream/beauty_cream.mp4",
   "rendered_spec": {"duration_s": 10.0, "resolution": "720x1280", "orientation": "vertical"},
   "clearance": "internal",
   "clearance_note": "The rendered asset carries the POND'S wordmark (Unilever trademark) legibly on the jar. Internal decks only. The series below is the de-branded re-render that makes this publishable.",

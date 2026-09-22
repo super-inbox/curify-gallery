@@ -989,7 +989,7 @@ have to survive intact. That's what we check, and what a careless AI image gets 
 ## N4 · Home / furniture / decor
 
 **Assets:** `ecommerce_workflow/home_textiles_viral_en.mp4`, `ecommerce_workflow/candle_viral_en.mp4`,
-`ecommerce_ad_videos/rotation_chair.mp4`
+`ecommerce_ad_videos/rotation_chair/rotation_chair.mp4`
 **Groups:** Home decor sellers · Furniture brand owners · Etsy home decor · Candle makers
 
 > Furniture and homeware live or die on the room around them. A white-background shot tells a buyer
@@ -1108,7 +1108,7 @@ already-paying, 4× the qualified rate of any other lane, and the most permissiv
 (21% post-removal against 50–72% elsewhere).
 
 **Assets:** `demos/ad-variants-demo-09-10/_one-to-nine.jpg` ⚠️ **captioned as consistency, never as
-"nine ads"** (see the N2 correction), `ecommerce_ad_videos/beauty_cream.mp4`
+"nine ads"** (see the N2 correction), `ecommerce_ad_videos/beauty_cream/beauty_cream.mp4`
 **Groups:** ⚠️ **none verified.** Search `Facebook Ads Experts` · `Media Buyers` · `eCommerce
 Performance Marketing` · `DTC Founders`. ⚠️ These skew heavily to **supply** (freelance buyers
 touting services) — apply the §H2a read-before-posting rule strictly here.
@@ -1386,7 +1386,7 @@ white-label bench in **Recut A**, not the batch pitch.
 
 ## ✅ 09-17 · the chair video into marketing / agency groups
 
-Sent `rotation_chair.mp4` to **marketing**, **digital marketing** and **marketing agency**
+Sent `rotation_chair/rotation_chair.mp4` to **marketing**, **digital marketing** and **marketing agency**
 groups.
 
 ✅ **Agencies are a real buyer, not the supply-side trap.** This is different from the

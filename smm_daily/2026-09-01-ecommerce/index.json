@@ -1,5 +1,5 @@
 {
- "_comment": "Index of curify-gallery/ecommerce_ad_videos for SMM distribution (FB Groups + Kuaishou + RedNote). Drafted 2026-09-06; folder consolidated into 2026-09-01-ecommerce on 2026-09-11. FB copy in posts_fb.md, 中文 copy for BOTH 快手 and 小红书 in posts_rednote_kuaishou.md (the two Chinese channels were merged into one file 2026-09-19), all keyed by the id field below. fabric_ad added 2026-09-18. clearance drives whether an item may go on a public feed at all -- see README.md (Clearance) and curify-studio/docs/asset-authority-distribution-inventory.md sec 3 group B.",
+ "_comment": "Index of curify-gallery/ecommerce_ad_videos for SMM distribution (FB Groups + Kuaishou + RedNote). Drafted 2026-09-06; folder consolidated into 2026-09-01-ecommerce on 2026-09-11. FB copy in posts_fb.md, 中文 copy for BOTH 快手 and 小红书 in posts_rednote_kuaishou.md (the two Chinese channels were merged into one file 2026-09-19), all keyed by the id field below. fabric_ad added 2026-09-18. 2026-09-22: the four videos that sat loose in the folder root (matcha_drink, rotation_chair, fabric_ad, beauty_cream) moved into per-id folders like the rest, each with a `watermarked` sibling built by ecommerce_ad_videos/watermark_videos.py (house tiled -30 slant, params taken verbatim from curify-frontend/scripts/lib/watermark.cjs). model-standing.mp4 deliberately left in the root. clearance drives whether an item may go on a public feed at all -- see README.md (Clearance) and curify-studio/docs/asset-authority-distribution-inventory.md sec 3 group B.",
  "root": "~/curify-gallery/ecommerce_ad_videos",
  "cta": {
   "self_serve": "https://www.curify-ai.com/tools/product-video",
@@ -43,7 +43,8 @@
   },
   {
    "id": "matcha_drink",
-   "file": "matcha_drink.mp4",
+   "file": "matcha_drink/matcha_drink.mp4",
+   "watermarked": "matcha_drink/matcha_drink-watermarked.mp4",
    "duration_s": 15.1,
    "resolution": "720x1280",
    "orientation": "vertical",
@@ -62,7 +63,8 @@
   },
   {
    "id": "rotation_chair",
-   "file": "rotation_chair.mp4",
+   "file": "rotation_chair/rotation_chair.mp4",
+   "watermarked": "rotation_chair/rotation_chair-watermarked.mp4",
    "duration_s": 10.0,
    "resolution": "720x1280",
    "orientation": "vertical",
@@ -81,7 +83,8 @@
   },
   {
    "id": "fabric_ad",
-   "file": "fabric_ad.mp4",
+   "file": "fabric_ad/fabric_ad.mp4",
+   "watermarked": "fabric_ad/fabric_ad-watermarked.mp4",
    "duration_s": 15.0,
    "resolution": "1344x768",
    "orientation": "landscape",
@@ -195,7 +198,8 @@
   },
   {
    "id": "beauty_cream",
-   "file": "beauty_cream.mp4",
+   "file": "beauty_cream/beauty_cream.mp4",
+   "watermarked": "beauty_cream/beauty_cream-watermarked.mp4",
    "duration_s": 10.0,
    "resolution": "720x1280",
    "orientation": "vertical",

@@ -53,9 +53,9 @@ operator 09-21 说服装-2、服装-3、服装-4「published or scheduled to pub
 
 | 帖 | 素材 | 快手 | 小红书 |
 |---|---|---|---|
-| **matcha_drink** | `matcha_drink.mp4` | ◻︎ | ✅ **已发**（日期待补） |
-| **rotation_chair** | `rotation_chair.mp4` | ◻︎ | ✅ **已发**（日期待补） |
-| **fabric_ad** | `fabric_ad.mp4` | ◻︎ | ✅ **已发**（日期待补）—— 16:9 原样发的 |
+| **matcha_drink** | `matcha_drink/matcha_drink.mp4` | ◻︎ | ✅ **已发**（日期待补） |
+| **rotation_chair** | `rotation_chair/rotation_chair.mp4` | ◻︎ | ✅ **已发**（日期待补） |
+| **fabric_ad** | `fabric_ad/fabric_ad.mp4` | ◻︎ | ✅ **已发**（日期待补）—— 16:9 原样发的 |
 | **angryalert** | `AngryAlert_vertical.mp4` | ◻︎ | ◻︎ |
 | **kungfu_sf** | `redbull/kungfu_redbull_SF.mp4` | ◻︎ | ◻︎ |
 | **model_standing** | `model-standing.mp4` | ⚠️ 等肖像确认 | 🔴 **已发**（日期待补）—— **肖像问题仍未答，见下节** |

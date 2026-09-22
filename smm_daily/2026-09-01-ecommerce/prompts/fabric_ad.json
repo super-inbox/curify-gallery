@@ -1,7 +1,7 @@
 {
   "product": "fabric_ad",
   "category": "apparel / textile",
-  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/fabric_ad.mp4",
+  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/fabric_ad/fabric_ad.mp4",
   "rendered_spec": {"duration_s": 15.0, "resolution": "1344x768", "orientation": "landscape", "fps": 24, "audio": "aac 32kHz stereo, instrumental bed, no speech"},
   "clearance": "ship",
   "provenance": {

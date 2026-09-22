@@ -1,7 +1,7 @@
 {
   "product": "rotation_chair",
   "category": "furniture / hard goods",
-  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/rotation_chair.mp4",
+  "rendered_asset": "~/curify-gallery/ecommerce_ad_videos/rotation_chair/rotation_chair.mp4",
   "rendered_spec": {"duration_s": 10.0, "resolution": "720x1280", "orientation": "vertical"},
   "clearance": "ship",
   "as_run": {
