@@ -87,6 +87,13 @@ repo's life. A history rewrite is also the only way that number comes down.
   ~1.25 GB sits on disk unversioned, deliberately — committing large binaries is what produced
   the 9.63 GiB problem described above.
 - Seven references across four SMM threads repointed to `curify-gtm/client_VC_portfolio/...`.
+- ✅ **`company-intro/` kept here, deliberately**, and promoted to a top-level directory. It is
+  Curify's own company-and-product introduction — the 客户版 deck, its print-ready PDFs, the
+  build scripts and the bleed-hairline case study. Checked before keeping it: the deck's five
+  case studies (案例一…五) are described generically — **no client is named and no third-party
+  brand appears**. It is material built to be handed to strangers, so it is the one part of the
+  old `client_VC_portfolio/` that belongs in a public repo. The two existing references to
+  `company-intro/deck/...` in `posts_fb.md` were already root-relative and still resolve.
 
 **Net effect: this repo's working tree is clean of client material. Its history is not, and
 `smm_daily/` was never part of the move.** Both blockers above are open.
