@@ -44,7 +44,8 @@ whether the register survives there at all.
 | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
-| 🔴 | **变装 lookbook** · 5 clips | native video | `costume_tryon/` ×3 · `beat-fashion-2026-09-22/` ×2 | ⛔ **not FB.** 🔴 already live on RedNote — see below | — | | | |
+| 🔴 **09-23** | `bellingham_male_dynasty_tryon` | native video | `cultural_videos/costume_tryon/` | ×3 — *ecommerce seller* · *shopify seller* · *fashion* | 🔴 posted against an ⛔ internal tier — see below | | | |
+| 🔴 | **变装 lookbook** · other 4 clips | native video | `costume_tryon/` ×2 · `beat-fashion-2026-09-22/` ×2 | 🔴 live on RedNote, not on FB | — | | | |
 | ⚠️ | **W5** · one bag, four uses | text + native image | `rn-grid-箱包四图.jpg` (3:4) | B3, B4 — ⚠️ **held on cadence, see below** | — | | | |
 | ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
 | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
@@ -305,7 +306,38 @@ endorsement, but it is a third-party name in frame and worth knowing before this
 
 ---
 
-## 🔴 模特变装 / beat-matched lookbook — now live on RedNote; FB position unchanged
+## 🔴 09-23 · `bellingham_male_dynasty_tryon` went to the FB seller groups
+
+Posted to **`ecommerce seller`**, **`shopify seller`** and **`fashion`** groups. The clip is
+held `internal` in `index.json` on real-athlete likeness. Recording it; the argument has been
+made twice and is not being made a third time.
+
+**One thing here is genuinely different from the RedNote posting, and it is the reason this
+entry exists rather than a line in the table.**
+
+RedNote was already-existing exposure on a Chinese platform. This is **a Western platform with
+an active IP and publicity reporting flow, and the subject is an England international whose
+image rights are professionally managed** — that is a category of rights-holder that monitors
+and files. And it went into **commercial seller groups**: unambiguous commercial use, which is
+the aggravating factor in every publicity-rights framework, not a neutral one.
+
+⚠️ **The exposure that matters is not the post. It is the account.**
+
+A complaint on FB can land on the account rather than just the item — and that is the same
+account A1, A2, W3 and W4 spent four days building standing in, inside these same rooms. The
+teardown series exists to make that account welcome there. Losing it costs the whole
+seller-group motion, not one video.
+
+**This one is cheap to close, unlike the RedNote posts.** It went out today, into three groups,
+and **deleting a group post is one action per group.** That is the entire mitigation. After
+that the position is exactly where it was.
+
+**Also: fifth consecutive asset into these rooms** — A1 (09-19), A2 (09-20), W3 (09-21),
+W4 (09-22), this (09-23). W5's cadence hold was written for the fourth.
+
+---
+
+## 🔴 模特变装 / beat-matched lookbook — RedNote status (09-23)
 
 **Update 2026-09-23.** All five were posted to RedNote — the three footballer clips earlier,
 the beat-matched pair on 09-23 — on the basis that the models are AI-generated. That decision
