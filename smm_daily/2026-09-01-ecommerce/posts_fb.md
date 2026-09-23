@@ -351,15 +351,22 @@ version exists.
 
 ### FB post copy — for the cleared re-render, not for these files
 
-👗 One model. Eight outfits. No second shoot.
+🔥 Stop paying studio day rates to shoot a lookbook.
 
-A costume change used to be the most expensive thing on a call sheet — every look is a re-style, and re-styling is where the studio day actually goes. A new season is a new booking, and the booking is why half your looks never get shot at all.
+New season, studio dates, model fees — still the three things that eat the budget? **No studio. No casting. No waiting on a retoucher.**
 
-What makes this work as *video* rather than a slideshow isn't the outfits. It's the cut. Each pose lands on a beat — hold, change, hold — and when the change is a frame early or late the whole thing reads as amateur. We measure the accents in the track and cut to them: on our last run, every cut landed within about a hundredth of a second of its target.
+✅ **One model, eight outfits** — every look in one clip, no second booking
+✅ **Poses cut to the beat** — we measure the accents in the track first; on our last run every cut landed within about a hundredth of a second of its target
+✅ **A whole collection, batched** — one clip per style, a season at a time
+✅ **Sample first** — see it on your own piece before anything is agreed
 
-Where it doesn't help, and this matters on apparel: the garment has to survive the change. Hem, closures, fit and hardware are the first things to drift between looks, and a lookbook where the jacket quietly changes is worse than no lookbook. Feed the real flat lay in, check the details at full resolution, and cut the take where the garment moved.
+A costume change used to be the most expensive thing on a call sheet. Every look is a re-style, and re-styling is where the studio day actually goes. A new season is a new booking — and **the looks you can't get a date for are the looks that never get shot at all.**
 
-If you run a clothing or accessories line — how many looks from your last collection never got photographed at all? 👇
+⚠️ One thing we won't hide: **the garment has to survive the change.** Hem, closures, fit and hardware are the first things to drift between looks, and a lookbook where the jacket quietly changes is worse than no lookbook. So the real flat lay goes in, details get checked at full resolution, and any take where the garment moved gets cut. That step doesn't go away.
+
+**Send one flat lay and a reference clip — I'll cut you one free, on your own product.**
+
+📩 DM me, or WhatsApp **+86 176 9219 0183**
 
 **First comment:**
 ```
