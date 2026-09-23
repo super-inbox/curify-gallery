@@ -44,7 +44,7 @@ whether the register survives there at all.
 | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
-| ⛔ | **变装 / 变装 lookbook** · 5 clips | native video | `costume_tryon/` ×3 · `beat-fashion-2026-09-22/` ×2 | ⛔ **not a feed — see below** | — | | | |
+| 🔴 | **变装 lookbook** · 5 clips | native video | `costume_tryon/` ×3 · `beat-fashion-2026-09-22/` ×2 | ⛔ **not FB.** 🔴 already live on RedNote — see below | — | | | |
 | ⚠️ | **W5** · one bag, four uses | text + native image | `rn-grid-箱包四图.jpg` (3:4) | B3, B4 — ⚠️ **held on cadence, see below** | — | | | |
 | ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
 | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
@@ -305,7 +305,41 @@ endorsement, but it is a third-party name in frame and worth knowing before this
 
 ---
 
-## ⛔ 模特变装 / beat-matched lookbook — why these five are not queued (2026-09-23)
+## 🔴 模特变装 / beat-matched lookbook — now live on RedNote; FB position unchanged
+
+**Update 2026-09-23.** All five were posted to RedNote — the three footballer clips earlier,
+the beat-matched pair on 09-23 — on the basis that the models are AI-generated. That decision
+is made and this is a record, not a re-argument. Two notes, because the two sets differ:
+
+- **beat-fashion pair — the AI-generated point is correct and was never the objection.** The
+  rendered people are synthetic. The objection was *provenance*: the deliverables live in
+  `client_VC_portfolio/fashion-model-09-05/` (client-006, `customer_data: true`), they were
+  driven by counterparty-supplied reference videos, and that job's README calls the female clip
+  *"a very close reference-guided recreation of the same female character, setting and pose
+  sequence."* A synthetic render of someone else's supplied creative is still their creative.
+- **footballer clips — the AI-generated point does not carry.** Generation does not remove a
+  likeness; an AI-generated image of a real person still carries that person's face, and
+  generated celebrity likeness is the case publicity-rights law is most focused on rather than
+  an exception to it.
+
+**"Posted before" is accepted and is exactly why this now reads as live exposure rather than a
+hypothetical — but prior posting is not clearance.** Same shape as the 09-17 RedNote mis-post
+and `model_standing`: both were recorded 🔴 with the question left open, and neither was
+promoted to ✅ because it had already gone out. `index.json` keeps them at `internal` and adds
+a `published_against_clearance` field, because the clearance index records what happened, not
+what was planned.
+
+**FB position is unchanged and nothing needs doing.** These have not gone into the seller
+rooms, and the cadence hold on W5 applies to them too. If risk reduction is ever wanted, the
+cheapest step is still one generation each: re-render the footballer clips on synthetic
+identities and swap them, and re-run the beat pair on our own model and music.
+
+⚠️ **The footballer clips' posting date was never captured** — "earlier" doesn't locate a day.
+Same gap as the four other undated RedNote posts.
+
+---
+
+## ⛔ Original clearance analysis (2026-09-23, kept)
 
 Five clips were put forward for the FB and Chinese queues. **Neither set can go on a public
 feed**, and the two reasons are different. Recording it here so it is decided once.
