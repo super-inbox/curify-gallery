@@ -178,6 +178,37 @@
    "hook": null
   },
   {
+   "id": "costume_tryon_dynasty",
+   "file": "~/curify-gallery/cultural_videos/costume_tryon/ (3 clips)",
+   "duration_s": 12.5,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "category": "apparel / costume change (\u53d8\u88c5)",
+   "subject": "Tang-dynasty court dress try-on: bellingham_male, haaland_male, haaland_female",
+   "brand_on_screen": "Curify corner logo",
+   "clearance": "internal",
+   "clearance_note": "\u26d4 REAL, IDENTIFIABLE FOOTBALLERS. The faces are recognisably two current professional players, and one clip is a gender-swapped version of one of them. Using a named athlete's likeness in outbound marketing is a publicity-rights problem, and commercial use is the aggravating factor rather than a mitigating one -- these are among the most commercially licensed faces in sport. The gender-swap adds a separate harm: altering a real identifiable person's appearance in commercial content. Same tier as corona/starbucks/popmart: internal decks and sales calls only, never a public feed. \u26a0\ufe0f Also note the on-screen TANG DYNASTY title renders doubled/ghosted in all three.",
+   "best_for": [],
+   "hook": null,
+   "unlock": "Re-render the same wardrobe and choreography on SYNTHETIC identities. The craft is in the costume, lighting and the change itself, not in whose face it is -- the same one-swap unlock prompts/beauty_cream.json records for the branded case. Costs one generation each."
+  },
+  {
+   "id": "beat_fashion_0922",
+   "file": "curify-gtm/client_VC_portfolio/fashion-model-09-05/beat-fashion-2026-09-22/ (2 clips)",
+   "duration_s": 8.1,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "category": "apparel / beat-matched lookbook",
+   "subject": "female-beat-matched, male-beat-matched -- held fashion poses cut to music accents",
+   "brand_on_screen": "none",
+   "clearance": "internal",
+   "clearance_note": "\u26d4 CLIENT WORK. Its own README states the deliverables are saved into client_VC_portfolio/fashion-model-09-05/ -- the client-006 line, customer_data: true, whose OOTD job is recorded client_satisfied: false. Both clips are driven by counterparty-supplied WeChat reference videos; the README describes the female clip as 'a very close reference-guided recreation of the same female character, setting and pose sequence', i.e. a recreation of someone else's creative, and the male identity comes from that same client job's model image. Publishing either as our marketing republishes a counterparty's work. Internal only.",
+   "best_for": [],
+   "hook": null,
+   "unlock": "The FORMAT is ours to use -- held poses cut to measured audio accents, validated here to within one frame at 30fps. Re-run it on our own synthetic identity and our own music and it ships. What cannot travel is this character, this wardrobe and this pose sequence.",
+   "craft_note": "Timing validation is unusually good and worth keeping as method: cuts within 8-17ms of selected onsets, music correlation 0.991-0.993 after AAC export, zero measured offset."
+  },
+  {
    "id": "corona_sunrise",
    "file": "corona/Mountain_Sunrise_Beer_Climax.mp4",
    "duration_s": 8.0,

@@ -44,6 +44,7 @@ whether the register survives there at all.
 | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
 | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
 | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
+| ⛔ | **变装 / 变装 lookbook** · 5 clips | native video | `costume_tryon/` ×3 · `beat-fashion-2026-09-22/` ×2 | ⛔ **not a feed — see below** | — | | | |
 | ⚠️ | **W5** · one bag, four uses | text + native image | `rn-grid-箱包四图.jpg` (3:4) | B3, B4 — ⚠️ **held on cadence, see below** | — | | | |
 | ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
 | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
@@ -301,6 +302,77 @@ third-party mark on it. ⚠️ **two photoreal faces** (model shot, destination 
 likeness question as the other on-model assets. ⚠️ the styled flat lay includes a magazine
 reading **CEREAL**, which is a real title; it is incidental set dressing rather than a claim of
 endorsement, but it is a third-party name in frame and worth knowing before this goes wide.
+
+---
+
+## ⛔ 模特变装 / beat-matched lookbook — why these five are not queued (2026-09-23)
+
+Five clips were put forward for the FB and Chinese queues. **Neither set can go on a public
+feed**, and the two reasons are different. Recording it here so it is decided once.
+
+### `cultural_videos/costume_tryon/` — real athletes' faces
+
+`bellingham_male_dynasty_tryon`, `haaland_male_dynasty_tryon`, `haaland_female_dynasty_tryon`.
+
+The faces are **recognisably two current professional footballers**, and the third clip is a
+**gender-swapped version of one of them**. Putting a named athlete's likeness into outbound
+marketing is a publicity-rights problem, and commercial use makes it worse, not better — these
+are among the most heavily licensed faces in sport. The gender-swap carries a second, separate
+harm: altering a real identifiable person's appearance in commercial content.
+
+Same tier as `corona_sunrise` / `mooncakes` / `molly_forest` — internal decks and sales calls,
+never a feed. ⚠️ The on-screen TANG DYNASTY title also renders doubled in all three.
+
+### `beat-fashion-2026-09-22/` — client work
+
+`female-beat-matched`, `male-beat-matched`. **Its own README says where it lives:**
+`client_VC_portfolio/fashion-model-09-05/` — the client-006 line, `customer_data: true`, whose
+OOTD job is recorded `client_satisfied: false`. Both clips are driven by **counterparty-supplied
+WeChat reference videos**, and the README describes the female clip as *"a very close
+reference-guided recreation of the same female character, setting and pose sequence."*
+
+That is a recreation of someone else's creative, on a client's model identity. Publishing it as
+our marketing republishes their work.
+
+### ⭐ What IS ours here, and it is the valuable half
+
+**The format and the timing method.** Held poses cut to measured audio accents — validated in
+that job to **within 8–17 ms of the selected onsets**, music correlation 0.991–0.993 after AAC
+export, zero measured offset. That is a real capability and it is ours to talk about.
+
+**The unlock is one generation each**, exactly as `prompts/beauty_cream.json` records for the
+branded case: re-run the wardrobe, the choreography and the beat-matching on **synthetic
+identities and our own music**. The craft is in the costume change, the lighting and the cut —
+not in whose face it is.
+
+**Copy is drafted below and holds for the re-render.** It is deliberately written about the
+capability rather than about these five files, so nothing has to be rewritten when a clean
+version exists.
+
+### FB post copy — for the cleared re-render, not for these files
+
+👗 One model. Eight outfits. No second shoot.
+
+A costume change used to be the most expensive thing on a call sheet — every look is a re-style, and re-styling is where the studio day actually goes. A new season is a new booking, and the booking is why half your looks never get shot at all.
+
+What makes this work as *video* rather than a slideshow isn't the outfits. It's the cut. Each pose lands on a beat — hold, change, hold — and when the change is a frame early or late the whole thing reads as amateur. We measure the accents in the track and cut to them: on our last run, every cut landed within about a hundredth of a second of its target.
+
+Where it doesn't help, and this matters on apparel: the garment has to survive the change. Hem, closures, fit and hardware are the first things to drift between looks, and a lookbook where the jacket quietly changes is worse than no lookbook. Feed the real flat lay in, check the details at full resolution, and cut the take where the garment moved.
+
+If you run a clothing or accessories line — how many looks from your last collection never got photographed at all? 👇
+
+**First comment:**
+```
+Self-serve on your own product: curify-ai.com/tools/product-video
+A full collection, batched: curify-ai.com/contact
+```
+
+**Batch CTA for the body:** *A whole collection, one look at a time — send me one flat lay and
+a reference clip and I'll cut you one free.* DM, or WhatsApp +86 176 9219 0183.
+
+⚠️ **Same cadence hold as W5.** Even once a clean re-render exists, this does not go into the
+seller rooms that took A1, A2, W3 and W4 on four consecutive days until one of W5's three
+release conditions is met.
 
 ---
 
