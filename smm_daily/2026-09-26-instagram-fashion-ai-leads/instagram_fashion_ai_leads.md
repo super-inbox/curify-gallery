@@ -16,6 +16,37 @@ Proof asset, if one is needed: only the cleared batch-campaign demo (see `FASHIO
 
 ---
 
+## Messages + CTA
+
+**CTA pick, by region. Neither channel wins everywhere:**
+- **WhatsApp `{WHATSAPP}`** for MENA, LatAm, India, SEA and Eastern Europe (in Tier A: Stop Jeans, Geroo Jaipur, Noētic, COÉGA, Fashion.sa, Reehan, Hanayen, G2000, Maxifashion). WhatsApp is how business gets done there, and it's the faster close.
+- **`team@curify-ai.com`** for US, UK, EU, AU, NZ and CA (most of Tier A plus all of Tier B). Brands there rarely take WhatsApp from a stranger, and a **+86 number from an unknown account reads as a scam flag.** Email also brings in the person who signs off on spend.
+- **Never put either in a public comment.** The comment is only the hook; the CTA goes in the DM, *after* they reply. Keeping them in the DM thread is always the first ask. Email or WhatsApp is the handoff for files and a quote.
+
+`[frames]` = 2–3 on-model shots generated from one of their own listed SKUs, attached in the DM. Only offer a free sample of their own product. Never send client work.
+
+### Tier A: already using an AI tool
+
+> **Comment:** This drop is 🔥. We ran the {product} through our on-model pipeline and it came out great. Can I DM you the shots?
+
+> **DM (after reply):** Here's {product} done: [frames]. You're already on {Genlook / Botika}. We're the done-for-you version: every garment gets 5 shots on the same model plus a 6–9s product video, ready to list, no prompting on your side. Want a quote for your next drop? {CTA}
+
+### Tier B: high volume, no AI yet
+
+> **Comment:** Love how fast you drop new styles. Mind if I DM you something we made with one of your pieces?
+
+> **DM (after reply):** We turned your {product} into on-model shots, no studio day: [frames]. We do this per garment (5 shots, same model, plus a short product video) for less than a shoot costs. Want to try a batch of 10 styles? {CTA}
+
+### Tier C: small brands already experimenting with AI
+
+> **DM** (a comment is fine too): Loved your AI {campaign}. We do the same thing for whole collections, so every piece gets on-model shots plus a short video. Here's one of yours: [frames]. Want the rest of the line done? {CTA}
+
+### KOLs: partnership, not a sale
+
+> **DM:** Your audience keeps asking how to get model photos for their clothing brand. We do it as a service (per garment, on-model plus video). Open to an affiliate cut or a collab post? Happy to run one of your followers' products free as the demo. **team@curify-ai.com**
+
+---
+
 ## Tier A: already paying for AI fashion imagery or try-on (start here)
 
 Found through vendor case studies (Botika), Shopify App Store reviews of AI try-on / model-photo apps (Genlook, TryPoint, SellerPic), and the vendor widget appearing in their homepage code. They have proven budget, but most bought a **self-serve tool**. **The angle is a done-for-you per-garment set at listing volume** (5 images on one model + a 6–9s PDP video), which those tools don't deliver.
