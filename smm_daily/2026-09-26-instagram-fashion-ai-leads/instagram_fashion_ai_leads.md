@@ -23,27 +23,29 @@ Proof asset, if one is needed: only the cleared batch-campaign demo (see `FASHIO
 - **`team@curify-ai.com`** for US, UK, EU, AU, NZ and CA (most of Tier A plus all of Tier B). Brands there rarely take WhatsApp from a stranger, and a **+86 number from an unknown account reads as a scam flag.** Email also brings in the person who signs off on spend.
 - **Never put either in a public comment.** The comment is only the hook; the CTA goes in the DM, *after* they reply. Keeping them in the DM thread is always the first ask. Email or WhatsApp is the handoff for files and a quote.
 
+**Intro line, which opens every DM:** *"I'm {name} from Curify. We make on-model photos and short product videos for fashion brands, done for you, per garment."* It stays out of comments, where a pitch reads as spam.
+
 `[frames]` = 2–3 on-model shots generated from one of their own listed SKUs, attached in the DM. Only offer a free sample of their own product. Never send client work.
 
 ### Tier A: already using an AI tool
 
 > **Comment:** This drop is 🔥. We ran the {product} through our on-model pipeline and it came out great. Can I DM you the shots?
 
-> **DM (after reply):** Here's {product} done: [frames]. You're already on {Genlook / Botika}. We're the done-for-you version: every garment gets 5 shots on the same model plus a 6–9s product video, ready to list, no prompting on your side. Want a quote for your next drop? {CTA}
+> **DM (after reply):** {Intro line} Here's your {product}: [frames]. You're already on {Genlook / Botika}, so no prompting on your side: 5 shots per garment on the same model plus a 6–9s video, ready to list. Want a quote for your next drop? {CTA}
 
 ### Tier B: high volume, no AI yet
 
 > **Comment:** Love how fast you drop new styles. Mind if I DM you something we made with one of your pieces?
 
-> **DM (after reply):** We turned your {product} into on-model shots, no studio day: [frames]. We do this per garment (5 shots, same model, plus a short product video) for less than a shoot costs. Want to try a batch of 10 styles? {CTA}
+> **DM (after reply):** {Intro line} Here's your {product} on-model, no studio day: [frames]. 5 shots per garment on the same model plus a short video, for less than a shoot costs. Want to try a batch of 10 styles? {CTA}
 
 ### Tier C: small brands already experimenting with AI
 
-> **DM** (a comment is fine too): Loved your AI {campaign}. We do the same thing for whole collections, so every piece gets on-model shots plus a short video. Here's one of yours: [frames]. Want the rest of the line done? {CTA}
+> **DM** (a comment is fine too): {Intro line} Loved your AI {campaign}. Here's one of your pieces done: [frames]. Want the rest of the line? {CTA}
 
 ### KOLs: partnership, not a sale
 
-> **DM:** Your audience keeps asking how to get model photos for their clothing brand. We do it as a service (per garment, on-model plus video). Open to an affiliate cut or a collab post? Happy to run one of your followers' products free as the demo. **team@curify-ai.com**
+> **DM:** {Intro line} Your audience keeps asking how to get model photos for their clothing brand, and that's exactly what we do. Open to an affiliate cut or a collab post? Happy to run one of your followers' products free as the demo. **team@curify-ai.com**
 
 ---
 
