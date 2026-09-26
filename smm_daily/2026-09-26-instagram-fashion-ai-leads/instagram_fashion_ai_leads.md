@@ -53,34 +53,36 @@ Proof asset, if one is needed: only the cleared batch-campaign demo (see `FASHIO
 
 Found through vendor case studies (Botika), Shopify App Store reviews of AI try-on / model-photo apps (Genlook, TryPoint, SellerPic), and the vendor widget appearing in their homepage code. They have proven budget, but most bought a **self-serve tool**. **The angle is a done-for-you per-garment set at listing volume** (5 images on one model + a 6–9s PDP video), which those tools don't deliver.
 
+**Email, 2026-09-26:** 20 of 24 sent through the `ecom_video` voice, with the fashion batch-campaign demo attached (`gtm_tools/batch_fashion_ai_igtierA_2026-09-26.json`). 12 went to named contacts from Apollo, all verified (12 credits); 8 went to inboxes published on the brand's own site. #3 and #17 reached only customer-care inboxes, the weakest route, so the IG DM matters more for those two. #20–#23 have no findable email and are IG only.
+
 SKUs come from `/products.json`, capped at 500. "new" = published in the last 90 days, a rough figure because Shopify republishes reset the date. *uncorroborated* = the review's store name was matched to the domain, but the widget wasn't seen on the site.
 
-| # | Handle | Brand | Category | Country | Signal | SKUs |
-|--:|---|---|---|---|---|---|
-| 1 | [@getdressedcollective](https://instagram.com/getdressedcollective) | Get Dressed Collective | multi-brand boutique | US | Botika customer ([case studies](https://botika.com/resources/case-studies)) | 480 · 102 new |
-| 2 | [@nilandmon](https://instagram.com/nilandmon) | NIL+MON | premium casual | DE | Botika customer, MD quoted | 112 |
-| 3 | [@juanandme_](https://instagram.com/juanandme_) | JUAN & ME | resort wear | AU | Botika case study ("6 weeks → 24h") | 62 |
-| 4 | [@jordache](https://instagram.com/jordache) | Jordache | denim | US | Botika case study | 62 online |
-| 5 | [@aabcollection](https://instagram.com/aabcollection) | Aab | modest wear | UK | Genlook try-on on site | 500+ · 168 new |
-| 6 | [@saltrock](https://instagram.com/saltrock) | Saltrock | surf apparel | UK | Genlook review 06-02 + widget | 500+ · 362 new |
-| 7 | [@maxifashion.bg](https://instagram.com/maxifashion.bg) | Maxifashion | plus-size women | BG | Genlook review + Genlook **and** FASHN code | 500+ · 164 new |
-| 8 | [@ange.paris](https://instagram.com/ange.paris) | Ange Paris | womenswear | FR | Genlook review 03-19 *(uncorroborated)*; **1.8 img/SKU**, a visible gap | 500+ |
-| 9 | [@stopjeans_](https://instagram.com/stopjeans_) | Stop Jeans | denim | CO | Genlook review 03-27 *(uncorroborated)*; LatAm like Shasa | 500+ |
-| 10 | [@bayeas.official](https://instagram.com/bayeas.official) | Bayeas | denim, wholesale+DTC | US | 2 TryPoint reviews (Jul) + code on site | ~1,400 est. |
-| 11 | [@geroojaipur](https://instagram.com/geroojaipur) | Geroo Jaipur | ethnic wear | IN | TryPoint review 08-20 + code | 500+ · 130 new |
-| 12 | [@noetic.sa](https://instagram.com/noetic.sa) | Noētic | modest / dresses | SA | Genlook review + widget | 282 |
-| 13 | [@coegasunwear](https://instagram.com/coegasunwear) | COÉGA Sunwear | modest swim | AE | TryPoint review + code | 433 |
-| 14 | [@bluegeniesdenim](https://instagram.com/bluegeniesdenim) | Blue Genies World | denim | US | Genlook review 07-23 *(uncorroborated)* | 450 |
-| 15 | [@bl_nk_london](https://instagram.com/bl_nk_london) | bl-nk | womenswear | UK | Genlook review + widget | 283 · 51 new |
-| 16 | [@lemunir_](https://instagram.com/lemunir_) | LE MUNIR | womenswear | ES | Genlook review + widget; 2.4 img/SKU | 188 · 106 new |
-| 17 | [@fashion.sa_](https://instagram.com/fashion.sa_) | Fashion.sa | multi-brand fast fashion | SA | Genlook review 09-08 + widget | 500+ |
-| 18 | [@g2000sg](https://instagram.com/g2000sg) | G2000 | workwear chain | SG | Genlook review + widget | 500+ · 226 new |
-| 19 | [@modernambition](https://instagram.com/modernambition) | Modern Ambition | menswear | CA | Genlook review 09-21 + widget | 136 · 101 new |
-| 20 | [@sohotswimwear](https://instagram.com/sohotswimwear) | SoHot Swimwear | multi-brand swim | US | TryPoint review + code | 500+ |
-| 21 | [@reehan.eg](https://instagram.com/reehan.eg) | Reehan | women / modest | EG | Genlook review; try-on code | ? |
-| 22 | [@signaturedress](https://instagram.com/signaturedress) | Signature Dress | occasion wear | UK | SellerPic review *(uncorroborated)* | 243 |
-| 23 | [@sapienclothes](https://instagram.com/sapienclothes) | Sapien Clothes | minimalist apparel | PL | SellerPic review *(uncorroborated)* | ? |
-| 24 | [@hanayengroup](https://instagram.com/hanayengroup) | Hanayen | abayas | AE | volume only (467 abayas) | 500+ |
+| # | Handle | Brand | Category | Country | Signal | SKUs | Status |
+|--:|---|---|---|---|---|---|---|
+| 1 | [@getdressedcollective](https://instagram.com/getdressedcollective) | Get Dressed Collective | multi-brand boutique | US | Botika customer ([case studies](https://botika.com/resources/case-studies)) | 480 · 102 new | IG DM 09-26; email 09-26 → victoria@ (Social Media Dir) |
+| 2 | [@nilandmon](https://instagram.com/nilandmon) | NIL+MON | premium casual | DE | Botika customer, MD quoted | 112 | IG DM 09-26; email 09-26 → mw@linfashion.com (MD/Owner) |
+| 3 | [@juanandme_](https://instagram.com/juanandme_) | JUAN & ME | resort wear | AU | Botika case study ("6 weeks → 24h") | 62 | IG DM 09-26; email 09-26 → customercare@ ⚠ CS inbox |
+| 4 | [@jordache](https://instagram.com/jordache) | Jordache | denim | US | Botika case study | 62 online | IG DM 09-26; email 09-26 → devyn@ (VP Marketing) |
+| 5 | [@aabcollection](https://instagram.com/aabcollection) | Aab | modest wear | UK | Genlook try-on on site | 500+ · 168 new | IG DM 09-26; email 09-26 → nazmin@ (Founder/CD) |
+| 6 | [@saltrock](https://instagram.com/saltrock) | Saltrock | surf apparel | UK | Genlook review 06-02 + widget | 500+ · 362 new | IG DM 09-26; email 09-26 → sarah.loder@ (Mktg Mgr) |
+| 7 | [@maxifashion.bg](https://instagram.com/maxifashion.bg) | Maxifashion | plus-size women | BG | Genlook review + Genlook **and** FASHN code | 500+ · 164 new | email 09-26 → shop@ |
+| 8 | [@ange.paris](https://instagram.com/ange.paris) | Ange Paris | womenswear | FR | Genlook review 03-19 *(uncorroborated)*; **1.8 img/SKU**, a visible gap | 500+ | email 09-26 → sheila@angefashion.com (E-com Mgr) |
+| 9 | [@stopjeans_](https://instagram.com/stopjeans_) | Stop Jeans | denim | CO | Genlook review 03-27 *(uncorroborated)*; LatAm like Shasa | 500+ | email 09-26 → icorrea@stop.com.co (eCom lead) |
+| 10 | [@bayeas.official](https://instagram.com/bayeas.official) | Bayeas | denim, wholesale+DTC | US | 2 TryPoint reviews (Jul) + code on site | ~1,400 est. | email 09-26 → info@ |
+| 11 | [@geroojaipur](https://instagram.com/geroojaipur) | Geroo Jaipur | ethnic wear | IN | TryPoint review 08-20 + code | 500+ · 130 new | email 09-26 → info@ |
+| 12 | [@noetic.sa](https://instagram.com/noetic.sa) | Noētic | modest / dresses | SA | Genlook review + widget | 282 | email 09-26 → rnagro@noeticsa.com (GM) |
+| 13 | [@coegasunwear](https://instagram.com/coegasunwear) | COÉGA Sunwear | modest swim | AE | TryPoint review + code | 433 | email 09-26 → valeria@ (Mktg Mgr) |
+| 14 | [@bluegeniesdenim](https://instagram.com/bluegeniesdenim) | Blue Genies World | denim | US | Genlook review 07-23 *(uncorroborated)* | 450 | email 09-26 → klhbluegenies@gmail.com |
+| 15 | [@bl_nk_london](https://instagram.com/bl_nk_london) | bl-nk | womenswear | UK | Genlook review + widget | 283 · 51 new | email 09-26 → eshop@ |
+| 16 | [@lemunir_](https://instagram.com/lemunir_) | LE MUNIR | womenswear | ES | Genlook review + widget; 2.4 img/SKU | 188 · 106 new | email 09-26 → info@lemunir.com |
+| 17 | [@fashion.sa_](https://instagram.com/fashion.sa_) | Fashion.sa | multi-brand fast fashion | SA | Genlook review 09-08 + widget | 500+ | email 09-26 → care@ ⚠ CS inbox |
+| 18 | [@g2000sg](https://instagram.com/g2000sg) | G2000 | workwear chain | SG | Genlook review + widget | 500+ · 226 new | email 09-26 → nelsoncf@g2000.com.hk (Group CEO) |
+| 19 | [@modernambition](https://instagram.com/modernambition) | Modern Ambition | menswear | CA | Genlook review 09-21 + widget | 136 · 101 new | email 09-26 → leah.crymble@ (Manager) |
+| 20 | [@sohotswimwear](https://instagram.com/sohotswimwear) | SoHot Swimwear | multi-brand swim | US | TryPoint review + code | 500+ | no email found (site + Apollo) — IG only |
+| 21 | [@reehan.eg](https://instagram.com/reehan.eg) | Reehan | women / modest | EG | Genlook review; try-on code | ? | no email found (site + Apollo) — IG only |
+| 22 | [@signaturedress](https://instagram.com/signaturedress) | Signature Dress | occasion wear | UK | SellerPic review *(uncorroborated)* | 243 | no email found (site + Apollo) — IG only |
+| 23 | [@sapienclothes](https://instagram.com/sapienclothes) | Sapien Clothes | minimalist apparel | PL | SellerPic review *(uncorroborated)* | ? | no email found (site + Apollo) — IG only |
+| 24 | [@hanayengroup](https://instagram.com/hanayengroup) | Hanayen | abayas | AE | volume only (467 abayas) | 500+ | email 09-26 → navin@hanayen.ae (Brand Mgr) |
 
 ## Tier B: volume fit, no AI signal yet
 
