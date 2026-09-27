@@ -4,7 +4,7 @@ _2026-09-26. Successor to `../2026-09-08-instagram-three-offers/`, which was mos
 
 **Totals:** 40 brand leads (24 already paying for AI imagery/try-on) · 4 small brands surfaced via KOL content · 28 KOLs (partners / comment sections to mine).
 
-Every brand handle was read off **the brand's own website**, not guessed or taken from IG search. None of the 40 domains appears in `gtm_tools/sent_log.txt`, `sent_messages.jsonl` or the `batch_fashion_ai` files, so none of them has been emailed. Nobody has been contacted.
+Every brand handle was read off **the brand's own website**, not guessed or taken from IG search. None of the 40 domains appears in `gtm_tools/sent_log.txt`, `sent_messages.jsonl` or the `batch_fashion_ai` files, so none of them had been emailed when the sheet was built. Nobody had been contacted at that point — see the Tier A section for what has gone out since.
 
 ## The mechanic (same rule as the 09-08 sheet)
 
@@ -55,22 +55,31 @@ Found through vendor case studies (Botika), Shopify App Store reviews of AI try-
 
 **Email, 2026-09-26:** 20 of 24 sent through the `ecom_video` voice, with the fashion batch-campaign demo attached (`gtm_tools/batch_fashion_ai_igtierA_2026-09-26.json`). 12 went to named contacts from Apollo, all verified (12 credits); 8 went to inboxes published on the brand's own site. #3 and #17 reached only customer-care inboxes, the weakest route, so the IG DM matters more for those two. #20–#23 have no findable email and are IG only.
 
+**Comments, 2026-09-26 / 09-27:** the comment-first mechanic run on **12 of the 24**, Tier A template as written with one of the brand's own listed products named: **#1–#6 on 09-26, #7–#12 on 09-27.** (The 09-26 six were first recorded here as DMs; that was wrong — they were public comments. Corrected 09-27.) Each of the twelve had already been emailed on 09-26, so the comment is a second touch on a different channel, not a first one.
+
+⚠ **No frames exist for any of the twelve.** The comment asks *"can I DM you the shots?"*, so a reply cannot be answered until 2–3 on-model frames of that brand's own SKU are generated. Two things are needed before the first reply lands:
+
+- **Which product was named in each comment is not recorded.** The frames have to be of *that* garment, so the twelve product names need writing down while they can still be read off the comment.
+- **Build the frames ahead of a reply for the strongest of the twelve**, rather than starting generation after someone answers.
+
+#13–#24 have not been commented on.
+
 SKUs come from `/products.json`, capped at 500. "new" = published in the last 90 days, a rough figure because Shopify republishes reset the date. *uncorroborated* = the review's store name was matched to the domain, but the widget wasn't seen on the site.
 
 | # | Handle | Brand | Category | Country | Signal | SKUs | Status |
 |--:|---|---|---|---|---|---|---|
-| 1 | [@getdressedcollective](https://instagram.com/getdressedcollective) | Get Dressed Collective | multi-brand boutique | US | Botika customer ([case studies](https://botika.com/resources/case-studies)) | 480 · 102 new | IG DM 09-26; email 09-26 → victoria@ (Social Media Dir) |
-| 2 | [@nilandmon](https://instagram.com/nilandmon) | NIL+MON | premium casual | DE | Botika customer, MD quoted | 112 | IG DM 09-26; email 09-26 → mw@linfashion.com (MD/Owner) |
-| 3 | [@juanandme_](https://instagram.com/juanandme_) | JUAN & ME | resort wear | AU | Botika case study ("6 weeks → 24h") | 62 | IG DM 09-26; email 09-26 → customercare@ ⚠ CS inbox |
-| 4 | [@jordache](https://instagram.com/jordache) | Jordache | denim | US | Botika case study | 62 online | IG DM 09-26; email 09-26 → devyn@ (VP Marketing) |
-| 5 | [@aabcollection](https://instagram.com/aabcollection) | Aab | modest wear | UK | Genlook try-on on site | 500+ · 168 new | IG DM 09-26; email 09-26 → nazmin@ (Founder/CD) |
-| 6 | [@saltrock](https://instagram.com/saltrock) | Saltrock | surf apparel | UK | Genlook review 06-02 + widget | 500+ · 362 new | IG DM 09-26; email 09-26 → sarah.loder@ (Mktg Mgr) |
-| 7 | [@maxifashion.bg](https://instagram.com/maxifashion.bg) | Maxifashion | plus-size women | BG | Genlook review + Genlook **and** FASHN code | 500+ · 164 new | email 09-26 → shop@ |
-| 8 | [@ange.paris](https://instagram.com/ange.paris) | Ange Paris | womenswear | FR | Genlook review 03-19 *(uncorroborated)*; **1.8 img/SKU**, a visible gap | 500+ | email 09-26 → sheila@angefashion.com (E-com Mgr) |
-| 9 | [@stopjeans_](https://instagram.com/stopjeans_) | Stop Jeans | denim | CO | Genlook review 03-27 *(uncorroborated)*; LatAm like Shasa | 500+ | email 09-26 → icorrea@stop.com.co (eCom lead) |
-| 10 | [@bayeas.official](https://instagram.com/bayeas.official) | Bayeas | denim, wholesale+DTC | US | 2 TryPoint reviews (Jul) + code on site | ~1,400 est. | email 09-26 → info@ |
-| 11 | [@geroojaipur](https://instagram.com/geroojaipur) | Geroo Jaipur | ethnic wear | IN | TryPoint review 08-20 + code | 500+ · 130 new | email 09-26 → info@ |
-| 12 | [@noetic.sa](https://instagram.com/noetic.sa) | Noētic | modest / dresses | SA | Genlook review + widget | 282 | email 09-26 → rnagro@noeticsa.com (GM) |
+| 1 | [@getdressedcollective](https://instagram.com/getdressedcollective) | Get Dressed Collective | multi-brand boutique | US | Botika customer ([case studies](https://botika.com/resources/case-studies)) | 480 · 102 new | IG comment 09-26; email 09-26 → victoria@ (Social Media Dir) |
+| 2 | [@nilandmon](https://instagram.com/nilandmon) | NIL+MON | premium casual | DE | Botika customer, MD quoted | 112 | IG comment 09-26; email 09-26 → mw@linfashion.com (MD/Owner) |
+| 3 | [@juanandme_](https://instagram.com/juanandme_) | JUAN & ME | resort wear | AU | Botika case study ("6 weeks → 24h") | 62 | IG comment 09-26; email 09-26 → customercare@ ⚠ CS inbox |
+| 4 | [@jordache](https://instagram.com/jordache) | Jordache | denim | US | Botika case study | 62 online | IG comment 09-26; email 09-26 → devyn@ (VP Marketing) |
+| 5 | [@aabcollection](https://instagram.com/aabcollection) | Aab | modest wear | UK | Genlook try-on on site | 500+ · 168 new | IG comment 09-26; email 09-26 → nazmin@ (Founder/CD) |
+| 6 | [@saltrock](https://instagram.com/saltrock) | Saltrock | surf apparel | UK | Genlook review 06-02 + widget | 500+ · 362 new | IG comment 09-26; email 09-26 → sarah.loder@ (Mktg Mgr) |
+| 7 | [@maxifashion.bg](https://instagram.com/maxifashion.bg) | Maxifashion | plus-size women | BG | Genlook review + Genlook **and** FASHN code | 500+ · 164 new | IG comment 09-27; email 09-26 → shop@ |
+| 8 | [@ange.paris](https://instagram.com/ange.paris) | Ange Paris | womenswear | FR | Genlook review 03-19 *(uncorroborated)*; **1.8 img/SKU**, a visible gap | 500+ | IG comment 09-27; email 09-26 → sheila@angefashion.com (E-com Mgr) |
+| 9 | [@stopjeans_](https://instagram.com/stopjeans_) | Stop Jeans | denim | CO | Genlook review 03-27 *(uncorroborated)*; LatAm like Shasa | 500+ | IG comment 09-27; email 09-26 → icorrea@stop.com.co (eCom lead) |
+| 10 | [@bayeas.official](https://instagram.com/bayeas.official) | Bayeas | denim, wholesale+DTC | US | 2 TryPoint reviews (Jul) + code on site | ~1,400 est. | IG comment 09-27; email 09-26 → info@ |
+| 11 | [@geroojaipur](https://instagram.com/geroojaipur) | Geroo Jaipur | ethnic wear | IN | TryPoint review 08-20 + code | 500+ · 130 new | IG comment 09-27; email 09-26 → info@ |
+| 12 | [@noetic.sa](https://instagram.com/noetic.sa) | Noētic | modest / dresses | SA | Genlook review + widget | 282 | IG comment 09-27; email 09-26 → rnagro@noeticsa.com (GM) |
 | 13 | [@coegasunwear](https://instagram.com/coegasunwear) | COÉGA Sunwear | modest swim | AE | TryPoint review + code | 433 | email 09-26 → valeria@ (Mktg Mgr) |
 | 14 | [@bluegeniesdenim](https://instagram.com/bluegeniesdenim) | Blue Genies World | denim | US | Genlook review 07-23 *(uncorroborated)* | 450 | email 09-26 → klhbluegenies@gmail.com |
 | 15 | [@bl_nk_london](https://instagram.com/bl_nk_london) | bl-nk | womenswear | UK | Genlook review + widget | 283 · 51 new | email 09-26 → eshop@ |
