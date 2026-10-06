@@ -53,6 +53,7 @@ but the first one is on-identity and the second is drift.
 | Date | Topic | Cards | Posted | Read-out | Folder |
 |---|---|---|---|---|---|
 | 2026-09-21 | 隐翅虫 safety science | 4 | ✅ 3 posts, RedNote | pending — see below | `2026-09-21-education/` |
+| 2026-10-06 | 诺奖物理 · 中微子 / 冰立方 (+ 批量生成 CTA) | 4 | ◻︎ 3 posts planned 10-07 / 09 / 11 | pending | `2026-10-06-education/` |
 
 ---
 
