@@ -23,7 +23,7 @@ _本文件和 **`posts_fb.md`** 是同一批素材的两个版本，**结构、�
 
 | 状态 | 声线 | 帖 | 配图 | 说明 | 评论 | 私信 | 样图 |
 |---|---|---|---|---|---|---|---|
-| ✅ **此前已发（日期未提供）** | 👠 F | **F1** 女鞋照片修复 | `womens-shoe-restoration-contact-sheet.png` | 2026-10-08 用户确认此前已发；AI 演示；按用户要求收录于修图文档 | | | |
+| ✅ **此前已发（日期未提供）** | 👠 F | **F1** 女鞋照片修复 | 已发：`womens-shoe-restoration-contact-sheet.png` · 重发用 `womens-shoe-restoration-zh.jpg` | 2026-10-08 用户确认此前已发；AI 演示；按用户要求收录于修图文档 | | | |
 | ✅ **09-14** | 💍 W | **W1** 四百张像同一个下午 | `rn-W1-一致性.jpg` | 纯观点，不靠 demo 素材 —— W 声线的开场 | | | |
 | ✅ **09-14** | 💍 W | **W2** 京都换背景 | `rn-W2-kyoto.jpg` | 靠图说话 | | | |
 | ✅ **09-14** | 💍 W | **W3** 迪拜四外景 | `rn-W3-dubai.jpg` | 目的地第二格 | | | |
@@ -783,7 +783,7 @@ playbook 的实测段对这个号的结论是：
 ## F1 · 女鞋照片修复
 
 **状态**：✅ 此前已发布；用户于 2026-10-08 确认。实际发布日期及帖子链接未提供，2026-10-08 为补录日期。
-**配图**：[女鞋修复对比合集](womens-shoe-restoration-contact-sheet.png)
+**配图**：[womens-shoe-restoration-zh.jpg](womens-shoe-restoration-zh.jpg) —— 2026-10-08 起的小红书版本：十二张照片与母版完全相同，只是用 `make_shoe_sheets.py` 重新排版中文文字（不再保留模型画出来的字），页脚保留“AI 生成演示、非真实客户项目”的说明。**此前已发的那一篇用的是母版** [womens-shoe-restoration-contact-sheet.png](womens-shoe-restoration-contact-sheet.png)，记录保持不变；以后重发或换群发用新版本。
 **归档说明**：按用户要求保存在本修图文档；本篇面向女鞋品牌、电商卖家及有批量产品修图需求的客户。
 **素材来源**：本任务于 2026-10-01 使用内置 imagegen 生成；六组模拟前后对比，非真实客户项目，也不是已交付客户修图的证据。生成提示词见 `womens-shoe-generation-prompt.txt`。
 
