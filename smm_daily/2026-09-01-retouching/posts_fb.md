@@ -55,6 +55,7 @@ also the better thing to put in a buyer group first.
 
 | Status | Wk | Voice | Post | Image | Group · found via | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|
+| ◻︎ | — | 👠 F | **F1** · women’s footwear retouching | `womens-shoe-restoration-contact-sheet.png` | English draft added 2026-10-08; placement not selected; not published | | | |
 | 🔴 **09-11** | — | 💍 W | **W1** · four hundred frames | `w1-wedding-portrait-retouch.jpg` ⛔ held, red line 6 | a wedding group · `摄影`+`婚礼` | | | |
 | ✅ **09-11** | 1 | 🎧 P | **P1** · glow-up ruins it | `shared-retouching-blueprint.jpg` | ×3 — *photographer* · *retouching* · *events+portrait* | | | |
 | ✅ **09-14** | 3→now | 🎧 P | **P2** · one sitting, four places | `_sheet-portrait.jpg` | ×3 — *photo* · *photographer* · *bali model/photographer* | | | |
@@ -1227,3 +1228,25 @@ that comment, there is something credible to find.
 
 **Stop rule: 20 comments, then evaluate** — counted across all three series together,
 not 20 each. Not 20 posts read; 20 comments left. The small n is deliberate.
+
+
+---
+
+## F1 · Women’s footwear photo retouching
+
+**Status:** ◻︎ Draft / not published. Added 2026-10-08 as the English adaptation of RedNote F1, which the user confirmed was posted earlier. No Facebook publication date or placement is assigned.
+**Image:** [Women’s shoe restoration contact sheet](womens-shoe-restoration-contact-sheet.png) — existing Chinese-language sheet.
+**Audience:** Footwear brands, online sellers, and teams with bulk product-photo retouching needs. Kept in this retouching document at the user's request.
+**Asset provenance:** Generated in this task on 2026-10-01 with built-in imagegen. Six synthetic before-and-after demonstrations, not real client work or evidence of delivered retouching. Prompt: `womens-shoe-generation-prompt.txt`.
+
+### Post copy
+
+Dark lighting, off colors, or blurry details in your shoe photos? Give the textures and details a chance to shine. ✨
+
+From the sheen of leather heels to the satin finish of bridal shoes and the soft texture of suede boots, every material deserves careful attention. Our women’s footwear photo retouching service covers lighting adjustments, color correction, background cleanup, and clarity enhancement—helping your product images look cleaner and more consistent while highlighting each style’s design and texture.
+
+📩 Need a batch of photos retouched? Send us a private message with sample images, the number of photos, and your deadline. We’ll review the images and discuss an approach that fits your needs.
+
+*Images are AI-generated demonstrations, not real client projects.*
+
+#ShoeRetouching #ProductRetouching #EcommercePhotography #FootwearPhotography #BulkPhotoEditing
