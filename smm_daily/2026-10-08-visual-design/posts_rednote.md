@@ -14,28 +14,29 @@ _本文件和 **`posts_ins.md`** 是同一批素材的两个版本，**帖号、
 - 👗 **服饰视觉** —— 款式结构图、穿搭指南、模特上身图
 - ✨ **照片修图** —— 人像、婚纱旅拍、产品图
 
-**状态** ✅ 已发 · ◻︎ 待发 · ⚠️ 需注意
+**状态** ✅ 已发 · 🗓️ 已排期（定时发布） · ◻︎ 待发 · ⚠️ 需注意
 
 | 状态 | 帖 | 模板 | 爆款参照（已发） | 配图（本目录 / `daily_inspirations/`） | CTA 侧重 | 备注 |
 |---|---|---|---|---|---|---|
 | ✅ | **V0** 迪士尼角色色块拼图 | `disney-character-color-grid-art` | — | `…-green` · `…-orange` · `…-pink` | — | 小红书 + Ins 均已发 |
-| ◻︎ | **V1** 中式婚服图鉴 | `costume-<朝代>-wedding` | 清代汉族婚服 ♡111 | `Mar_25/…qing-dynasty-female-manchu-wedding` · `Mar_24/…ming-dynasty-female-wedding` · `Mar_23/…tang-dynasty-female-wedding` | 👗 服饰 | 和截图凑成"清汉/清满/明/唐"四朝 |
-| ◻︎ | **V2** 民族服饰拆解板 | `ethnic-costume-deconstruction-board` | 白族 ♡296 | `Feb_3/…-miao` · `…-tibetan` · `…-yi` | 👗 服饰 · 📦 批量 | 平铺拆解 = 电商主图的版式，最好接服饰 CTA |
-| ◻︎ | **V3** 脸型身型穿搭指南 | `fashion-shape-guide-infographic` | 眼镜×脸型 ♥1674（置顶） | `May_18/…earrings-for-face-shape` · `May_18/…hats-for-face-shape` · `Jul_1/…dresses-for-body-type` | 👗 服饰 · ✨ 修图 | **全批最高赞的模板，建议第一个发** |
-| ◻︎ | **V4** 各国服饰千年变迁 | `clothing-evolution-poster` | 英国 ♥154 | `Apr_21/…italian-clothing` · `Apr_21/…mexican-clothing` · `Apr_12/…japanese` | 👗 服饰 · 📦 批量 | |
-| ◻︎ | **V5** 甄嬛传 MBTI | `zhenhuan-mbti-character-analysis` | 安陵容 ISFJ ♥927（置顶） | `Jul_1/…enfj-wanbi` · `Jul_1/…istp-ningpin` · `Apr_26/…intj-guojunwang` | 📦 批量 | 第二高赞；剧集 IP 同人，只做内容不做商用 |
-| ◻︎ | **V6** 人生 U 型曲线 | `life-journey-curve-infographic` | 婚姻 ♡455 | `May_21/…-career` · `…-parenting` · `…-entrepreneurship` | 📦 批量 | ⚠️ 图内小错字：career 图"Rr a passion project"，parenting 图"govs"——介意的话发前重出 |
-| ◻︎ | **V7** 中文易混词 | `language-word-comparison-educational-poster` | 几乎 vs 差不多 ♥490 | `Apr_29/…guanyu-duiyu` · `…shenme-zenme` · `…hen-tai` | 📦 批量 | 教育机构买家：一套词表 → 一套卡 |
-| ◻︎ | **V8** 肉类部位图 | `anatomy-cut-guide` | 牛肉 ♡543 | `May_14/…pork-cuts` · `…lamb-cuts` · `…fish-cuts` | 📦 批量 | 餐饮 / 生鲜商家：菜单、包装、门店海报 |
-| ◻︎ | **V9** 英语动词短语 | `english-phrasal-verb` | Turn ♥321 | `Apr_28/…-look` · `…-take` · `…-go` | 📦 批量 | 三张没有 Curify 水印，和截图一致 |
-| ◻︎ | **V10** 美式俚语周报 | `slang-week-recap-infographic` | ghosting/salty… ♡178 | `May_19/…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 批量 | 赞最少，放最后 |
+| 🗓️ **10-11** | **V1** 中式婚服图鉴 | `costume-<朝代>-wedding` | 清代汉族婚服 ♡111 | `Mar_25/…qing-dynasty-female-manchu-wedding` · `Mar_24/…ming-dynasty-female-wedding` · `Mar_23/…tang-dynasty-female-wedding` | 👗 服饰 | 和截图凑成"清汉/清满/明/唐"四朝 |
+| 🗓️ **10-12** | **V2** 民族服饰拆解板 | `ethnic-costume-deconstruction-board` | 白族 ♡296 | `Feb_3/…-miao` · `…-tibetan` · `…-yi` | 👗 服饰 · 📦 批量 | 平铺拆解 = 电商主图的版式，最好接服饰 CTA |
+| 🗓️ **10-09** | **V3** 脸型身型穿搭指南 | `fashion-shape-guide-infographic` | 眼镜×脸型 ♥1674（置顶） | `May_18/…earrings-for-face-shape` · `May_18/…hats-for-face-shape` · `Jul_1/…dresses-for-body-type` | 👗 服饰 · ✨ 修图 | **全批最高赞的模板，建议第一个发** |
+| 🗓️ **10-13** | **V4** 各国服饰千年变迁 | `clothing-evolution-poster` | 英国 ♥154 | `Apr_21/…italian-clothing` · `Apr_21/…mexican-clothing` · `Apr_12/…japanese` | 👗 服饰 · 📦 批量 | |
+| 🗓️ **10-10** | **V5** 甄嬛传 MBTI | `zhenhuan-mbti-character-analysis` | 安陵容 ISFJ ♥927（置顶） | `Jul_1/…enfj-wanbi` · `Jul_1/…istp-ningpin` · `Apr_26/…intj-guojunwang` | 📦 批量 | 第二高赞；剧集 IP 同人，只做内容不做商用 |
+| 🗓️ **10-16** | **V6** 人生 U 型曲线 | `life-journey-curve-infographic` | 婚姻 ♡455 | `May_21/…-career` · `…-parenting` · `…-entrepreneurship` | 📦 批量 | ⚠️ 图内小错字：career 图"Rr a passion project"，parenting 图"govs"——介意的话发前重出 |
+| 🗓️ **10-14** | **V7** 中文易混词 | `language-word-comparison-educational-poster` | 几乎 vs 差不多 ♥490 | `Apr_29/…guanyu-duiyu` · `…shenme-zenme` · `…hen-tai` | 📦 批量 | 教育机构买家：一套词表 → 一套卡 |
+| 🗓️ **10-15** | **V8** 肉类部位图 | `anatomy-cut-guide` | 牛肉 ♡543 | `May_14/…pork-cuts` · `…lamb-cuts` · `…fish-cuts` | 📦 批量 | 餐饮 / 生鲜商家：菜单、包装、门店海报 |
+| 🗓️ **10-17** | **V9** 英语动词短语 | `english-phrasal-verb` | Turn ♥321 | `Apr_28/…-look` · `…-take` · `…-go` | 📦 批量 | 三张没有 Curify 水印，和截图一致 |
+| 🗓️ **10-18** | **V10** 美式俚语周报 | `slang-week-recap-infographic` | ghosting/salty… ♡178 | `May_19/…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 批量 | 赞最少，放最后 |
 
-**发布顺序建议：** V3 → V5 → V1 → V2 → V4 → V7 → V8 → V6 → V9 → V10。
+**发布顺序：** V3 → V5 → V1 → V2 → V4 → V7 → V8 → V6 → V9 → V10。
+2026-10-08 已全部定时，**10-09 起每天一篇，10-18 发完**。日期按上面的建议顺序推定 —— 如果实际排的顺序不同，以发布器为准改这张表。
 按爆款参照的赞数排，同时把三条服饰帖（V1/V2/V4）错开，不要连着发。隔 1–2 天一篇。
 
 **统一规则（同修图文档）：** 正文不放外链；CTA 落在"评论区留关键词 / 私信"；
 私信线索记到 `gtm_tools/relationship_leads.json`，`channel: "rednote"`，带 `need_verbatim`。
-⚠️ 任何一行改成 ✅ 之前，先确认确实发出去了。
+⚠️ 🗓️ 只代表"已定时"，不代表已发。任何一行改成 ✅ 之前，先确认确实发出去了（定时可能失败或被平台限流）。
 
 ---
 
