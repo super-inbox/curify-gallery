@@ -71,10 +71,10 @@ also the better thing to put in a buyer group first.
 | ◻︎ | 6 | 🖼️ S | **S1** | `_contact-sheet.jpg` | B3 | | | |
 | ◻︎ | 7 | 🎧 P | **P2** re-run | `_sheet-portrait.jpg` | S3, if P1 landed there | | | |
 | ✅ **09-16** | next→now | 🏠 R | **R1** · edit, don't recreate | `r1-edit-not-recreate.jpg` | ×2 — *real estate photo editing* · *real estate photo editing services* | | | |
-| ⚠️ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | **still held** — and now the only R post left to spend on a *buyer-side* room | | | |
+| ⚠️ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | **still held** — and now the only R post left to spend on a *buyer-side* room · CTA switched to the batch CTA 10-08 | | | |
 | ✅ **09-17** | 9→now | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | ×? — *real estate photo editing* (same job-named rooms as R1) | | | |
-| ◻︎ | — | 🏠 R | **R4** · day to dusk, from the photo you already took | `r4-day-to-dusk.jpg` | buyer-side: `real estate photographers` / `property photographers` — not the job-named rooms R1 and R3 went into | | | |
-| ◻︎ | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | hotel / short-term-rental hosts and property photographers — ⚠️ the first post in this file with a real client frame; see the R5 block | | | |
+| ✅ **10-08** | — | 🏠 R | **R4** · day to dusk, from the photo you already took | `r4-day-to-dusk.jpg` | sent with the **batch CTA** (see R4); group(s) not recorded — fill in | | | |
+| ◻︎ | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | hotel / short-term-rental hosts and property photographers — ⚠️ the first post in this file with a real client frame; see the R5 block · batch CTA | | | |
 | ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | `_sheet-children.jpg` | **never a feed** — 1:1 only, blocked by the no-children rule | | | |
 
 **14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
@@ -1027,6 +1027,14 @@ paid for a real-estate edit, and have no client evidence in this vertical.* The 
 measured; **our fit is inferred** from client-008's locked-subject work. Every claim in these
 posts is a method claim about our own pipeline — keep it that way.
 
+**CTA — the batch CTA from 2026-10-08 on.** R4 went out with it, and R2/R5 now use it:
+> 📩 Need a batch of photos retouched? Send us a private message with sample images, the number of photos, and your deadline. We’ll review the images and discuss an approach that fits your needs.
+
+R1 and R3 were sent 09-16/09-17 with their own first comments; those records are left as sent.
+⚠️ The batch CTA says **"retouched"**, which rule 2 above keeps out of this room. Kept verbatim because it
+is the CTA actually in use; if replies from R4 come back as supply-side retouchers rather than buyers,
+the cheap test is the same line with **"edited"**.
+
 **Groups:** R1 went out 09-16 into two groups found on `real estate photo editing` /
 `…editing services` — ⚠️ **both job-named, see the note below and the 09-16 entry in
 Schedule & progress.** The buyer-side searches are `real estate photographers`,
@@ -1098,7 +1106,7 @@ The fourth check is the only one that tells you which method was used. The first
 
 Not a pitch — it's a check you can run on whoever you currently use, including yourself. 👇
 
-**First comment:** `Happy to run one on a frame of yours so you can put it through the four checks. I'd rather you find a failure in mine than not know what to look for in anyone's.`
+**CTA:** `📩 Need a batch of photos retouched? Send us a private message with sample images, the number of photos, and your deadline. We’ll review the images and discuss an approach that fits your needs.`
 
 ---
 
@@ -1153,7 +1161,9 @@ Two things worth asking anyone who sells day-to-dusk:
 
 Where do you use twilight — the hero only, or the whole exterior set? 👇
 
-**First comment:** `Send me one daytime exterior and I'll send back the dusk version with an overlay against your original, so you can check the edges yourself.`
+**CTA (as sent 10-08):** `📩 Need a batch of photos retouched? Send us a private message with sample images, the number of photos, and your deadline. We’ll review the images and discuss an approach that fits your needs.`
+
+*Replaced the planned first comment ("Send me one daytime exterior and I'll send back the dusk version with an overlay…").*
 
 ---
 
@@ -1187,7 +1197,7 @@ Same caveat as with twilight: brightening a room and pulling a window are whole-
 
 If you shoot rooms for booking sites: what do you fix first — the window, the light, or the beds? 👇
 
-**First comment:** `Shoot rooms for booking sites? Send one frame plus a darker exposure of the same frame, and I'll send it back edited so you can compare them at full size.`
+**CTA:** `📩 Need a batch of photos retouched? Send us a private message with sample images, the number of photos, and your deadline. We’ll review the images and discuss an approach that fits your needs.`
 ---
 
 # Build notes
@@ -1334,3 +1344,12 @@ From the sheen of leather heels to the satin finish of bridal shoes and the soft
 *Images are AI-generated demonstrations, not real client projects.*
 
 #ShoeRetouching #ProductRetouching #EcommercePhotography #FootwearPhotography #BulkPhotoEditing
+
+
+---
+
+## 2026-10-08 · Editorial collection V3 · F6 / S2
+
+状态：◻︎ 草稿，未发布。商业摄影工作室的 AI 风格样片；服装与静物各一篇。
+
+完整文案及配图说明：[posts_fb.md](2026-10-08-editorial-collection-v3/posts_fb.md)。两张主参考与一张配饰补充参考在同目录 references/，仅用于内部对照。
