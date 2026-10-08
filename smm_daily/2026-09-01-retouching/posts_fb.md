@@ -24,7 +24,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 
 | Voice | Buyer | Their actual problem | Posts | Groups |
 |---|---|---|---|---|
-| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 🔴 · W2 ◻︎ · W3 ✅ | see Schedule & progress |
+| 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ✅ · W2 ◻︎ · W3 ✅ · W4 ◻︎ | see Schedule & progress |
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 ✅ · P2 ✅ | B2, S3 |
 | 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C5 · **no C7, by design** | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
@@ -55,8 +55,9 @@ also the better thing to put in a buyer group first.
 
 | Status | Wk | Voice | Post | Image | Group · found via | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|
-| ◻︎ | — | 👠 F | **F1** · women’s footwear retouching | `womens-shoe-restoration-en.jpg` | English draft added 2026-10-08; placement not selected; not published | | | |
-| 🔴 **09-11** | — | 💍 W | **W1** · four hundred frames | `w1-wedding-portrait-retouch.jpg` ⛔ held, red line 6 | a wedding group · `摄影`+`婚礼` | | | |
+| ✅ **date not provided** | — | 👠 F | **F1** · women’s footwear retouching | ⚠️ which sheet went out not recorded — `womens-shoe-restoration-en.jpg` is for re-posts | ×2 group types — **shoe seller** groups · **e-commerce seller** groups (group names not recorded) | | | |
+| ◻︎ | — | 💍 W | **W4** · batch wedding editing | `w1-wedding-portrait-retouch.jpg` | wedding / destination photographer groups | | | |
+| ✅ **09-11** | — | 💍 W | **W1** · four hundred frames | `w1-wedding-portrait-retouch.jpg` (cleared 10-08) | a wedding group · `摄影`+`婚礼` | | | |
 | ✅ **09-11** | 1 | 🎧 P | **P1** · glow-up ruins it | `shared-retouching-blueprint.jpg` | ×3 — *photographer* · *retouching* · *events+portrait* | | | |
 | ✅ **09-14** | 3→now | 🎧 P | **P2** · one sitting, four places | `_sheet-portrait.jpg` | ×3 — *photo* · *photographer* · *bali model/photographer* | | | |
 | ◻︎ | 1 | 🧸 C | **C1** · look at what moved | `c1-look-at-what-moved.jpg` | Babies and Kids · Inspired by Newborn | | | |
@@ -142,17 +143,11 @@ for a portfolio, the honest answer is that R1's claim is about our pipeline, and
 to run one of *their* frames. Do not reach for the home-organization templates — see Build
 notes for why they would prove the opposite of the point.
 
-## 🔴 09-11 · W1, on the held asset
+## ✅ 09-11 · W1
 
-The ChatGPT-rendered card went out, as that group's opening post. Full assessment and the
-response sequence are in the block at the top of **W1**. In short: nothing is owed to anyone
-outside — red line 1 holds, and the output is ours — but the copy's *"our own material run
-against the same brief"* implies a pipeline that isn't ours, and **the first comment offers
-to run the reader's own frames**, which is a delivery promise against an asset our stack did
-not produce. ⚠️ **The stated remediation is blocked.** "Re-render the three pairs on our own stack" needs
-`gen_scene_demo.py`, and that script **is not in any repo** — see Build notes. So the fix is
-not a re-render right now; it is **W2/W3**, which say the same thing on assets that do not
-carry the question. Do not repeat W1 until its file is swapped.
+The 09-11 hold on `w1-wedding-portrait-retouch.jpg` was **lifted 2026-10-08** by the owner: the
+image may be used, and W1 may be repeated. The new **W4** reuses the same card with the batch CTA.
+Keep the *"AI-generated retouching concepts"* footer uncropped (red line 2).
 
 Group was found on `摄影` + `婚礼` — trade + occasion, not place × trade. Broader net, but it
 also pulls in couples and the vendors selling to them. Before posting again there, read the
@@ -357,15 +352,9 @@ here is a claim we have not already made in public.
 5. **`template-fashion-before-after-outfit-annotation-card-*` is NOT retouching
    proof.** It is labelled BEFORE/AFTER but the "after" only adds callout labels —
    no retouch happened. Excluded from the series.
-6. **"Our own output" has to mean our own pipeline.** `w1-wedding-portrait-retouch.jpg`
-   was made in a third-party chat model, not on our stack — the source PNG carries
-   `kMDItemWhereFroms: https://chatgpt.com/` and a Chrome quarantine record. Red line 1
-   still holds (no client, no real person, no brand), but the series' standing phrasing
-   — *"in our own runs"*, *"we tried that"* — does not extend to it, and it cannot be
-   captioned as something our pipeline produced.
-   🔴 **This one was crossed on 2026-09-11** — the file went out in W1's first placement.
-   See the block at the top of W1, and **Schedule & progress**. The rule stands; the asset still
-   needs re-rendering here before the post runs anywhere again.
+6. ~~**"Our own output" has to mean our own pipeline.**~~ *Retired 2026-10-08 by the owner:*
+   `w1-wedding-portrait-retouch.jpg` is cleared for use in W1 and W4. Its footer
+   (*"AI-generated retouching concepts"*) still has to stay legible — that is red line 2.
 
 ---
 
@@ -384,7 +373,7 @@ rather than a supplier.
 
 **Groups.** A first placement went out **2026-09-11**, into a group found on `摄影` +
 `婚礼` — trade + occasion rather than place + trade. See **Schedule & progress**; it went out
-on the ⛔ held asset.
+on `w1-wedding-portrait-retouch.jpg` (cleared 10-08).
 
 Still worth joining, because place × trade is the narrower and better-qualified cut:
 `Destination wedding photographers`, `Bali wedding photographers`, `Phuket photographers`,
@@ -395,59 +384,19 @@ Still worth joining, because place × trade is the narrower and better-qualified
 overlap ruling above: where a room already has the souvenir film, it does not also get this.)*
 
 ✅ **This voice is no longer asset-blocked (2026-09-14).** Two destination sheets moved in
-with `demos/` — **W2 Kyoto** and **W3 Dubai** — and neither carries W1's problem. They are
+with `demos/` — **W2 Kyoto** and **W3 Dubai** — alongside W1. They are
 built the way S1 is built: one source frame fed back in, backdrop changed, subject held.
 Kyoto is the same woman in the same kimono across clean / machiya alley / maple / bamboo;
 Dubai is the same woman in the same abaya across clean / dune / old town / skyline. Both
 carry the *"AI-generated retouching concepts"* footer and a `curify-ai.com` mark.
 
-**So the runnable W posts are W2 and W3. W1 stays held.** Post W2 or W3 into the wedding
-group instead of repeating W1 — same voice, same claim, an asset that survives the question
-*"what made this?"*
+**Runnable W posts: W1, W2, W3, W4** (W1's hold lifted 2026-10-08). W4 is the batch-CTA post on the W1 card.
 
 ## W1 — four hundred frames have to look like one afternoon
 
-> 🔴 **POSTED 2026-09-11 with the gate uncleared.** `w1-wedding-portrait-retouch.jpg`
-> went out as-is — the ChatGPT-rendered card, not a re-render on our own stack. The gate
-> below is kept as written because it is still the standing rule; what follows is what
-> that means now that it has been crossed once.
->
-> **What is NOT a problem.** Red line 1 holds: no client imagery, no real person, no
-> brand, nothing of anyone else's in the frame. Ownership is not in question either —
-> the output is ours to use commercially. Nobody outside is harmed by this post and
-> there is nothing to retract on those grounds.
->
-> **What IS the problem**, and it is one sentence: the post says *"that's our own
-> material run against the same brief"* and ends *"Ask it of any tool, including ours."*
-> **"Our own material" is true. The implied pipeline is not ours.** If anyone in that
-> thread asks what made it, the honest answer is ChatGPT — and that answer sits badly
-> next to "including ours."
->
-> ⚠️ **The live exposure is the first comment, not the post.** It offers *"happy to run
-> a few of your own frames."* If someone takes that up, our own stack has to produce
-> something that stands next to the card they just saw. That is now a delivery
-> commitment made against an asset we did not generate.
->
-> **What to do, in order:**
-> 1. **Do not delete the post.** No rule protecting anyone else was broken, and pulling
->    a first post from a group we just joined is more conspicuous than leaving it.
-> 2. **Re-render the three pairs on our own stack now** — not to fix the post, but
->    because the sample offer is live and we need to know whether we can match it.
-> 3. **If asked what made it, say so plainly:** *"That card is an AI-generated concept —
->    I made it to show what the brief asks for, not as output from our pipeline. Send me
->    a frame and I'll run it on ours so you can compare."* That answer is fine. Being
->    caught not volunteering it is not.
-> 4. **Do not repeat this post anywhere** until the swapped file exists.
->
-> **The standing rule, unchanged:**
-> · **Never crop the footer.** *"AI-generated retouching concepts"* is the line that
->   keeps this inside red line 2. Cropping it turns a concept card into a delivered-work
->   claim. ⚠️ Confirm it is legible in what actually went out.
-> · It is the closest thing in this series to the Image Solutions India service-ad
->   format we said we can't honestly run. It goes to a group **after** a teardown from
->   this series has already stood there — never as the opening post, and never into B1.
->   **It went out as an opening post**, which is the second thing this placement got
->   ahead of.
+> ✅ **Posted 2026-09-11; hold lifted 2026-10-08** — the image is cleared for use and W1 may
+> be repeated. Never crop the footer: *"AI-generated retouching concepts"* keeps this a concept
+> card, not a delivered-work claim (red line 2).
 
 **Image:** `w1-wedding-portrait-retouch.jpg`
 *(1122×1402 — 4:5, the one asset in the series already cut to feed ratio. From
@@ -473,6 +422,29 @@ If you shoot volume — a studio, batch work, second shooters handing you two th
 **First comment:** `Happy to run a few of your own frames so you can put them beside your own hand edit. Drop one below or DM.`
 
 ---
+
+---
+
+## W4 — batch wedding editing
+
+**Image:** `w1-wedding-portrait-retouch.jpg` *(cleared 2026-10-08; 4:5, footer stays uncropped)*
+
+### FB post copy
+
+💍 Wedding season backlog? Send us the batch.
+
+A wedding doesn't come back as twenty hero frames. It comes back as six hundred — shot under flat cloud, harsh noon and the ten minutes of golden light you actually planned for — and the couple expects every one of them to look like the same day.
+
+That's the part we take on:
+
+· **One look across the whole gallery.** Warmth, exposure and sky matched frame to frame, so the ceremony and the cliff walk read as one afternoon.
+· **Skin that stays skin.** Even tone, less redness, pores kept. No porcelain brides.
+· **Your look, not ours.** Send a few frames you've already edited and we work to that reference.
+· **Veil and dress edges.** Chiffon and lace against a bright sky are where automatic edits go wrong, so they're the first place we check.
+
+The card above shows the kind of edit we mean. They're AI-generated concepts, not a client gallery — nobody's wedding is in it.
+
+📩 Need a batch of wedding photos edited? Send us a private message with sample images, the number of photos, and your deadline. We'll review the images and discuss an approach that fits your needs.
 
 ---
 
@@ -1286,16 +1258,14 @@ so **do not move or rename the `curify-gtm/client_VC_portfolio/*-demo-*` folders
 | Here | Original | Made by | Status |
 |---|---|---|---|
 | `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` | now the master, in this folder | our own prompt, `gen_scene_demo.py` | ⚠️ script not in the repo — see below |
-| `w1-wedding-portrait-retouch.jpg` | `demos/scene-enhancement-demo-09-07/wedding-retouch.png`, re-encoded to JPEG q92 | third-party chat model — see red line 6 | ⛔ held |
+| `w1-wedding-portrait-retouch.jpg` | `demos/scene-enhancement-demo-09-07/wedding-retouch.png`, re-encoded to JPEG q92 | third-party chat model | ✅ cleared 2026-10-08 |
 
 That folder carries its own `PROVENANCE.md`: `00-base.png` is synthetic, so **no real person is in the frame**, and the three
 backdrops were made by feeding that one frame back in — which is the whole claim S1 makes.
 Read it before answering any question in the comments about it.
 
-`w1-wedding-portrait-retouch.jpg` has no such record and no generation script on disk; its
-provenance is what the xattr says and what its own footer admits. That asymmetry is the gate
-on W1 — the copy is written and its claims are defensible method claims, but this voice's
-credibility rests on every image being our own output.
+`w1-wedding-portrait-retouch.jpg` has no such record; it was cleared for use by the owner on
+2026-10-08 regardless (see red line 6).
 
 ---
 
@@ -1328,7 +1298,7 @@ not 20 each. Not 20 posts read; 20 comments left. The small n is deliberate.
 
 ## F1 · Women’s footwear photo retouching
 
-**Status:** ◻︎ Draft / not published. Added 2026-10-08 as the English adaptation of RedNote F1, which the user confirmed was posted earlier. No Facebook publication date or placement is assigned.
+**Status:** ✅ Sent on FB (confirmed by the user 2026-10-08; posting date not provided) into **shoe seller** groups and **e-commerce seller** groups, with the batch CTA. Which sheet was attached is not recorded; if it was the Chinese master, re-posts should use `womens-shoe-restoration-en.jpg`.
 **Image:** [womens-shoe-restoration-en.jpg](womens-shoe-restoration-en.jpg) — English-text version for FB (2026-10-08). Same twelve photographs as the Chinese master; only the text was re-typeset by `make_shoe_sheets.py`, and the footer keeps the AI-generated / not-client-work disclosure.
 **Audience:** Footwear brands, online sellers, and teams with bulk product-photo retouching needs. Kept in this retouching document at the user's request.
 **Asset provenance:** Generated in this task on 2026-10-01 with built-in imagegen. Six synthetic before-and-after demonstrations, not real client work or evidence of delivered retouching. Prompt: `womens-shoe-generation-prompt.txt`.
