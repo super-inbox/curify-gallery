@@ -73,6 +73,8 @@ also the better thing to put in a buyer group first.
 | ✅ **09-16** | next→now | 🏠 R | **R1** · edit, don't recreate | `r1-edit-not-recreate.jpg` | ×2 — *real estate photo editing* · *real estate photo editing services* | | | |
 | ⚠️ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | **still held** — and now the only R post left to spend on a *buyer-side* room | | | |
 | ✅ **09-17** | 9→now | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | ×? — *real estate photo editing* (same job-named rooms as R1) | | | |
+| ◻︎ | — | 🏠 R | **R4** · day to dusk, from the photo you already took | `r4-day-to-dusk.jpg` | buyer-side: `real estate photographers` / `property photographers` — not the job-named rooms R1 and R3 went into | | | |
+| ◻︎ | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | hotel / short-term-rental hosts and property photographers — ⚠️ the first post in this file with a real client frame; see the R5 block | | | |
 | ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | `_sheet-children.jpg` | **never a feed** — 1:1 only, blocked by the no-children rule | | | |
 
 **14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
@@ -1120,6 +1122,72 @@ For anyone shooting volume: where does yours break down — the hero, the window
 
 **First comment:** `Send three frames plus the gallery whose colour you want matched, and I'll grade them to it so you can put them side by side. Three is enough to see whether the set holds, which is the part that matters.`
 
+
+---
+
+## R4 — day to dusk, from the photo you already took
+
+**Image:** `r4-day-to-dusk.jpg` (also on `/tools/real-estate-photo-editing`)
+
+> ⚠️ **The house is generated.** It is a demo frame, not a listing — the post says so in its
+> second paragraph, and that line must survive any edit. The twilight is a real run of our
+> pipeline on that frame (2026-10-07 NO_FACE probe, edge structure 0.684).
+>
+> ⚠️ **Reconciles with R1, does not contradict it.** R1 said we dropped whole-frame
+> regeneration for edits. Day-to-dusk cannot be done in place — the light changes everywhere —
+> so this post says that plainly and moves the check to *do the edges line up*. Do not cut that
+> paragraph; without it R4 reads as R1 being untrue.
+
+### FB post copy
+
+🌆 Twilight is the one shot in a listing that usually costs a second trip — back after sunset, betting on that evening's sky.
+
+Day-to-dusk does it from the daytime frame you already have. The house below is a demo house made for the example, not a client listing; I'd rather say that up front than have someone find it.
+
+One honest note on method, since I made a point of it in an earlier post: twilight can't be edited in place. The sky, the facade and every window change at once, so the whole frame gets relit. That is exactly when "did anything move?" becomes the question — so the check changes. Rooflines, window frames, the driveway edge and the fence line have to sit where they sit in your daytime frame. A window that shifts or a tree that appears means the frame gets redone, not sent.
+
+Two things worth asking anyone who sells day-to-dusk:
+
+· Lay the twilight over your daytime frame — do the edges line up?
+· Are the lights only where lights exist — windows, porch, path — or did a lamp appear in the garden?
+
+Where do you use twilight — the hero only, or the whole exterior set? 👇
+
+**First comment:** `Send me one daytime exterior and I'll send back the dusk version with an overlay against your original, so you can check the edges yourself.`
+
+---
+
+## R5 — a real hotel room, edited
+
+**Image:** `r5-hotel-room.jpg` (also on `/tools/real-estate-photo-editing` and `/use-cases/for-photographers`)
+
+> ✅ **Authorized.** The property gave permission to publish this frame (operator, 2026-10-08);
+> source is `agentic-adhoc/…/2026-10-07-lead-010-hotel-ota-retouching`, FZH_8528, as shot
+> vs v4. **Never name the property** — not in the post, the comments or a reply.
+>
+> ⛔ **Still no delivered-outcome claim.** It is a trial edit and the client's acceptance is
+> not recorded. The post says "trial"; do not upgrade that to "delivered", "client work" or a
+> testimonial in the comments.
+>
+> ⚠️ **One addition, disclosed.** The picture on the TV screen was added in the edit. The post
+> points it out before anyone else can — keep that bullet.
+
+### FB post copy
+
+🛏️ A hotel let me share this one, so for once it's a real room instead of a diagram. It was a trial edit, shared with their permission.
+
+As shot: dim, amber, the window blown to white, and beds that look slept in. What changed:
+
+· exposure up, and the amber taken out of the walls and the bedding
+· the window recovered from the photographer's own darker frame — the buildings outside are the real ones, not a substitute view
+· duvets and pillows smoothed
+· one thing added, and I'd rather point it out than have you spot it: the picture on the TV
+
+Same caveat as with twilight: brightening a room and pulling a window are whole-frame changes, so the check is that every edge — bed frames, window mullions, the lettering on the wall — sits where it was.
+
+If you shoot rooms for booking sites: what do you fix first — the window, the light, or the beds? 👇
+
+**First comment:** `Shoot rooms for booking sites? Send one frame plus a darker exposure of the same frame, and I'll send it back edited so you can compare them at full size.`
 ---
 
 # Build notes
@@ -1182,6 +1250,22 @@ are **worse than nothing**:
 real window-pull on a property frame we own, through our own pipeline, and keep the 100%
 crops. That turns R1 and R2 from an argument into evidence — and per §F1 the capability fit
 is currently *inferred* from client-008, not demonstrated in this vertical.
+
+### 2026-10-08 · the first property before/afters we may show
+
+R4 and R5 add the two before/afters the paragraph above said we did not have — and they are
+not the same kind of evidence:
+
+| Post | Image | What it is | What it is not |
+|---|---|---|---|
+| R4 | `r4-day-to-dusk.jpg` | a real pipeline run (day-to-dusk) on a **generated** house | a property we photographed or edited for anyone |
+| R5 | `r5-hotel-room.jpg` | a **real** hotel room, trial edit, published with the property's permission | a delivered or accepted job — acceptance is not recorded |
+
+Red line 1 (*no client imagery, ever*) now has exactly one recorded exception, FZH_8528, on the
+strength of the property's authorization. It does not extend to the other six frames in that
+shoot, or to any other client. Both images are copies of the frontend assets
+(`public/images/real_estate/`); the RedNote stacks are built inline (STHeiti / Hiragino, same as
+`make_rn_r_cards.py`).
 
 ## Scene & wedding (S, W) — portfolio copies, not new builds
 
