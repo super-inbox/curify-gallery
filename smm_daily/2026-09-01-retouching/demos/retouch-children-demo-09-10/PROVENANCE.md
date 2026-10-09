@@ -19,6 +19,12 @@ during an **active competitive 试稿 against another vendor**.
 Same child, same jumper and trousers, same pose; four backdrops — white sweep, autumn park,
 library, festive winter. `_sheet-children.jpg` is the single postable file.
 
+`_sheet-children-3x4-{zh,en}.jpg` (2026-10-09) are the same five frames re-laid at 1080×1440,
+source on top and the four backdrops 2×2, by `../../make_rednote_sheets.py`. The 5.5:1 strip is
+unreadable on a phone. The zh sheet runs as **RedNote C7**: on 2026-10-09 the user cleared it for
+RedNote because the child is synthetic. FB keeps its public "generated ones too" rule, so the en
+sheet is for one-to-one DMs only.
+
 ## Still true
 
 No delivered-outcome claim attaches to this. It shows what we can run, not what a client accepted.

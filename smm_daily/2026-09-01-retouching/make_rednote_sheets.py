@@ -10,8 +10,10 @@ thing everything else is held against), then the four backdrops 2×2 underneath.
     python3 make_rednote_sheets.py
 
 Writes `rn-W2-kyoto.jpg`, `rn-W3-dubai.jpg`, `rn-P2-portrait.jpg` into this folder.
-`retouch-children-demo-09-10` is deliberately NOT built — see "没有 C7" in
-posts_fb.md; that sheet contains a synthetic child and never goes to a feed.
+`retouch-children-demo-09-10` gets the same 3:4 shape but is written into its
+own demo folder as `_sheet-children-3x4-{zh,en}.jpg`. The child is synthetic; the
+zh sheet runs as RedNote C7 (cleared 2026-10-09). FB still never posts it — see C7
+in posts_fb.md.
 """
 from PIL import Image, ImageDraw, ImageFont
 from pathlib import Path
@@ -53,7 +55,7 @@ def label(d, box, text, sub=None):
         d.text((x + 10, y + h - bar + 30), sub, font=font(15), fill=(205, 200, 190))
 
 
-def build(folder, out, title, subtitle, panels):
+def build(folder, out, title, subtitle, panels, footer="AI 生成的修图概念图 · 非客片", anchor=0.16):
     src = HERE / "demos" / folder
     im = Image.new("RGB", (W, H), GROUND)
     d = ImageDraw.Draw(im)
@@ -64,7 +66,7 @@ def build(folder, out, title, subtitle, panels):
 
     top_y, top_h = 152, 430
     bw = W - 2 * PAD
-    hero = cover(Image.open(src / panels[0][0]), bw, top_h, anchor=0.16)
+    hero = cover(Image.open(src / panels[0][0]), bw, top_h, anchor=anchor)
     im.paste(hero, (PAD, top_y))
     d.rectangle([PAD, top_y, PAD + bw, top_y + top_h], outline=ACCENT, width=3)
     label(d, (PAD, top_y, bw, top_h), panels[0][1], panels[0][2])
@@ -79,7 +81,7 @@ def build(folder, out, title, subtitle, panels):
         label(d, (gx, yy, cw, ch), lab, sub)
 
     fy = gy + 2 * ch + GAP + 14
-    d.text((PAD, fy), "AI 生成的修图概念图 · 非客片", font=font(19), fill=MUTED)
+    d.text((PAD, fy), footer, font=font(19), fill=MUTED)
     d.text((W - PAD - 118, fy), "curify-ai.com", font=font(19), fill=MUTED)
     im.save(HERE / out, quality=93)
     print("  ✓", out, im.size)
@@ -102,3 +104,18 @@ build("retouch-portrait-demo-09-10", "rn-P2-portrait.jpg",
       [("00-source.png", "原片 · AS SHOT", "棚内"),
        ("01-white.png", "白底 · 官网", None), ("02-editorial.png", "水泥墙 · 杂志感", None),
        ("03-street.png", "街拍 · 黄昏", None), ("04-interior.png", "室内 · 自然光", None)])
+
+# zh = RedNote C7 (synthetic child, cleared 2026-10-09); en = DMs only, FB keeps its no-children rule.
+KIDS = "retouch-children-demo-09-10"
+build(KIDS, f"demos/{KIDS}/_sheet-children-3x4-zh.jpg",
+      "拍一次，卖四季套餐", "同一个孩子 · 同一件毛衣 · 同一个姿势 —— 只换背景",
+      [("00-source.png", "原片 · AS SHOT", "棚内灰底"),
+       ("01-white.png", "白底 · 证件/官网", None), ("02-autumn.png", "秋景", None),
+       ("03-bookshelf.png", "书架 · 开学季", None), ("04-festive.png", "雪景 · 圣诞", None)],
+      anchor=0.3)
+build(KIDS, f"demos/{KIDS}/_sheet-children-3x4-en.jpg",
+      "Shoot once, sell every season", "Same child · same jumper · same pose — only the backdrop changes",
+      [("00-source.png", "BEFORE · AS SHOT", "studio grey"),
+       ("01-white.png", "White sweep", None), ("02-autumn.png", "Autumn park", None),
+       ("03-bookshelf.png", "Library · back to school", None), ("04-festive.png", "Festive winter", None)],
+      footer="AI-generated retouching concepts · not client work", anchor=0.3)
