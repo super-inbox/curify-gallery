@@ -5,9 +5,12 @@ language and the channel mechanics differ: IG allows a link in bio, carousels ru
 square, and the first line has to stop the scroll before "…more"._
 
 **Source.** The `Weixin Image_*.jpg` screenshots in this folder are our proven RedNote
-performers (111–1674 likes). Each carousel uses **3 more images from that same template**,
-never the one already posted. Originals are tracked in `daily_inspirations/<date>/`. The
+performers (111–1674 likes). Each carousel **leads with the image that went viral on RedNote**, followed by
+**3 more images from the same template**, so 4 slides in all. The lead slide uses the original file, not the screenshot. Originals are tracked in `daily_inspirations/<date>/`. The
 copies here are only for dragging into the composer and are **not committed**.
+
+**V11 is the exception:** the 动感 series isn't a template. It's a set of e-commerce ad key visuals
+for one product category, already published on RedNote, and it shows the same batch-production idea applied to a product.
 
 **The argument of the whole batch: one template = a whole series.** The CTA sells
 **volume**, not a one-off design:
@@ -18,23 +21,25 @@ copies here are only for dragging into the composer and are **not committed**.
 
 **Status** ✅ sent · ◻︎ planned · ⚠️ heads-up
 
-| Status | Post | Template | Proven on RedNote | Carousel (this folder / `daily_inspirations/`) | CTA lead | Notes |
+| Status | Post | Template | Proven on RedNote | Carousel: **lead** + 3 (this folder / `daily_inspirations/`) | CTA lead | Notes |
 |---|---|---|---|---|---|---|
 | ✅ | **V0** Disney colour-grid | `disney-character-color-grid-art` | — | `…-green` · `…-orange` · `…-pink` | — | Posted on IG + RedNote |
-| ◻︎ | **V1** Chinese wedding attire | `costume-<dynasty>-wedding` | Qing Han ♡111 | `…qing-dynasty-female-manchu-wedding` · `…ming-dynasty-female-wedding` · `…tang-dynasty-female-wedding` | 👗 Fashion | Chinese-text heavy; caption carries the English |
-| ◻︎ | **V2** Ethnic costume flat-lay | `ethnic-costume-deconstruction-board` | Bai ♡296 | `…-miao` · `…-tibetan` · `…-yi` | 👗 Fashion · 📦 Batch | Flat-lay = product-listing layout; strongest fashion hook |
-| ◻︎ | **V3** Shape styling guides | `fashion-shape-guide-infographic` | Glasses ♥1674 (pinned) | `…earrings-for-face-shape` · `…hats-for-face-shape` · `…dresses-for-body-type` | 👗 Fashion · ✨ Retouch | **Top template overall, and already in English. Post first** |
-| ◻︎ | **V4** Clothing evolution | `clothing-evolution-poster` | British ♥154 | `…italian-clothing` · `…mexican-clothing` · `…japanese` | 👗 Fashion · 📦 Batch | |
-| ◻︎ | **V5** Empresses in the Palace MBTI | `zhenhuan-mbti-character-analysis` | An Lingrong ♥927 (pinned) | `…enfj-wanbi` · `…istp-ningpin` · `…intj-guojunwang` | 📦 Batch | ⚠️ Niche for an English feed; fan content on a TV IP, editorial only. Optional |
-| ◻︎ | **V6** Life U-curves | `life-journey-curve-infographic` | Marriage ♡455 | `…-career` · `…-parenting` · `…-entrepreneurship` | 📦 Batch | ⚠️ Small typos in images: "Rr a passion project" (career), "govs" (parenting) |
-| ◻︎ | **V7** Confusing Chinese words | `language-word-comparison-educational-poster` | 几乎 vs 差不多 ♥490 | `…guanyu-duiyu` · `…shenme-zenme` · `…hen-tai` | 📦 Batch | For Mandarin teachers |
-| ◻︎ | **V8** Butcher cut guides | `anatomy-cut-guide` | Beef ♡543 | `…pork-cuts` · `…lamb-cuts` · `…fish-cuts` | 📦 Batch | F&B / grocery buyers |
-| ◻︎ | **V9** Phrasal verbs | `english-phrasal-verb` | Turn ♥321 | `…-look` · `…-take` · `…-go` | 📦 Batch | No Curify watermark on these three |
-| ◻︎ | **V10** Slang week recap | `slang-week-recap-infographic` | ghosting/salty… ♡178 | `…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 Batch | |
+| ◻︎ | **V1** Chinese wedding attire | `costume-<dynasty>-wedding` | Qing Han ♡111 | **`…qing-dynasty-female-han-wedding`** + `…qing-dynasty-female-manchu-wedding` · `…ming-dynasty-female-wedding` · `…tang-dynasty-female-wedding` | 👗 Fashion | Chinese-text heavy; caption carries the English |
+| ◻︎ | **V2** Ethnic costume flat-lay | `ethnic-costume-deconstruction-board` | Bai ♡296 | **`…-bai`** + `…-miao` · `…-tibetan` · `…-yi` | 👗 Fashion · 📦 Batch | Flat-lay = product-listing layout; strongest fashion hook |
+| ◻︎ | **V3** Shape styling guides | `fashion-shape-guide-infographic` | Glasses ♥1674 (pinned) | **`…glasses-for-face-shape`** + `…earrings-for-face-shape` · `…hats-for-face-shape` · `…dresses-for-body-type` | 👗 Fashion · ✨ Retouch | **Top template overall, and already in English. Post first** |
+| ◻︎ | **V4** Clothing evolution | `clothing-evolution-poster` | British ♥154 | **`…british-clothing`** + `…italian-clothing` · `…mexican-clothing` · `…japanese` | 👗 Fashion · 📦 Batch | |
+| ◻︎ | **V5** Empresses in the Palace MBTI | `zhenhuan-mbti-character-analysis` | An Lingrong ♥927 (pinned) | **⚠️ 安陵容 ISFJ (original missing)** + `…enfj-wanbi` · `…istp-ningpin` · `…intj-guojunwang` | 📦 Batch | ⚠️ Niche for an English feed; fan content on a TV IP, editorial only. Optional. ⚠️ **Lead slide's original isn't in the repo.** The screenshot is too small (≈400 px) and has the 置顶 badge. Export the original from RedNote / the generator, or post 3 slides |
+| ◻︎ | **V6** Life U-curves | `life-journey-curve-infographic` | Marriage ♡455 | **`…-marriage`** + `…-career` · `…-parenting` · `…-entrepreneurship` | 📦 Batch | ⚠️ Small typos in images: "Rr a passion project" (career), "govs" (parenting) |
+| ◻︎ | **V7** Confusing Chinese words | `language-word-comparison-educational-poster` | 几乎 vs 差不多 ♥490 | **`…jihu-chabuduo`** + `…guanyu-duiyu` · `…shenme-zenme` · `…hen-tai` | 📦 Batch | For Mandarin teachers |
+| ◻︎ | **V8** Butcher cut guides | `anatomy-cut-guide` | Beef ♡543 | **`…beef-cuts`** + `…pork-cuts` · `…lamb-cuts` · `…fish-cuts` | 📦 Batch | F&B / grocery buyers |
+| ◻︎ | **V9** Phrasal verbs | `english-phrasal-verb` | Turn ♥321 | **`…-turn`** + `…-look` · `…-take` · `…-go` | 📦 Batch | No Curify watermark on these three |
+| ◻︎ | **V10** Slang week recap | `slang-week-recap-infographic` | ghosting/salty… ♡178 | **`…ghosting-salty-flex-lowkey-vibe-check-slaps`** + `…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 Batch | |
+| ◻︎ | **V11** 动感 · RC toy & gaming ad visuals | _not a template_: product key visuals | 动感 series, published on RedNote | **`动感-5.png`** + `动感-1.png` · `动感-2.png` · `动感-3.png` · `动感-4.png` | 📦 Batch | 5 slides. ⚠️ `动感-1/2` carry Spider-Man web livery and a spider emblem (Marvel trade dress), which is riskier on IG next to a paid-service CTA; safe cut: `5 · 3 · 4`. ⚠️ `动感-4` is 16:9 while the rest are 1:1. IG crops every slide to the first slide's ratio, so keep it last and pad it to square |
 
-**Suggested order:** V3 → V2 → V4 → V1 → V8 → V6 → V10 → V9 → V7 → V5.
+**Suggested order:** V3 → V2 → V11 → V4 → V1 → V8 → V6 → V10 → V9 → V7 → V5.
 This differs from RedNote on purpose: English-text and fashion carousels go first, and
-Chinese-language pieces (V7, V5) go last for this audience.
+Chinese-language pieces (V7, V5) go last for this audience. V11 sits between the fashion posts
+because it's the most direct product-visual pitch in the batch.
 
 **Rules:** Put the CTA in the caption and the link in bio, with no link in the caption.
 Log DM leads to `gtm_tools/relationship_leads.json` with `channel: "instagram"` and
@@ -46,8 +51,9 @@ Log DM leads to `gtm_tools/relationship_leads.json` with `channel: "instagram"` 
 
 > Red for the Ming bride. **Green** for the Tang bride. 👰
 
-Three dynasties, three completely different wedding systems:
+Four brides, three dynasties, four completely different wedding systems:
 
+🟥 **Qing (Han)**: phoenix crown & xiapei cape. Under Qing rule, Han brides kept their own dress
 🔴 **Ming**: the phoenix crown & red robe, the origin of the all-red Chinese wedding
 🟢 **Tang**: hairpin-and-ceremonial-robe, "red groom, green bride"
 🔵 **Qing (Manchu)**: dianzi headdress, dragon robe, flower-pot platform shoes
@@ -69,8 +75,9 @@ and **photo retouching** (wedding, destination, portrait). DM "TEMPLATE" or tap 
 
 > Every piece of a Miao bride's silver, laid out one by one. 🪙
 
-Three of China's ethnic costumes, fully deconstructed:
+Four of China's ethnic costumes, fully deconstructed:
 
+🌸 **Bai**: embroidered headdress, tie-dyed indigo, embroidered shoes and pouch
 🪙 **Miao**: silver horn crown, neck rings, silver-plated jacket
 🧣 **Tibetan**: coral & turquoise strands, pangden apron, leather boots, prayer wheel
 🌙 **Yi**: hero's-knot headwear, silver collar plate, embroidered sash, black with red & gold
@@ -90,10 +97,11 @@ DM "FLATLAY" or link in bio.
 
 ## V3 · Shape styling guides
 
-> Your face shape already decided which earrings suit you. 👂🎩👗
+> Your face shape already decided which glasses suit you. 👓👂🎩👗
 
-After our glasses-for-face-shape guide, here are three more:
+Four guides, one system:
 
+👓 **Glasses × face shape**: the guide that started this series
 👂 **Earrings × face shape**: round faces go geometric, square faces go curved
 🎩 **Hats × face shape**: fedora for round, cloche for oval, skip the boater on diamond
 👗 **Dresses × body type**: A-line for pear, empire waist for apple, full skirt for inverted triangle
@@ -112,8 +120,9 @@ We do **fashion visuals** (styling guides, flat sketches, on-model images),
 
 ## V4 · Clothing evolution
 
-> From Roman togas to Milan Fashion Week, in one image. 🇮🇹🇲🇽🇯🇵
+> From Tudor ruffs to Milan Fashion Week, one image per country. 🇬🇧🇮🇹🇲🇽🇯🇵
 
+**Britain**: medieval wool → Tudor ruffs → Georgian wigs → Victorian crinolines → jeans
 **Italy**: toga → Renaissance gown → Baroque panniers → modern high fashion
 **Mexico**: Maya huipil → Aztec tilma → charro & china poblana → Day of the Dead embroidery
 **Japan**: Heian jūnihitoe → Edo kimono → Meiji Western dress → modern yukata mix
@@ -134,9 +143,10 @@ DM "EVOLUTION" or link in bio.
 
 > If the concubines of *Empresses in the Palace* took the MBTI… 💜
 
+💜 **An Lingrong · ISFJ**: cautious and self-effacing, a tragedy of twisted self-worth
 💚 **Huanbi · ENFJ**: "What I want was never to be the one beside her."
 🖤 **Consort Ning · ISTP**: horses, longbows, snow nights. She only does what she chooses.
-💜 **Prince Guo · INTJ**: gentle, loyal to the end, a rare kindred spirit
+🟣 **Prince Guo · INTJ**: gentle, loyal to the end, a rare kindred spirit
 
 Five plot keywords each. Fans, who did we get wrong? 👇
 
@@ -151,8 +161,9 @@ Also **fashion visuals** and **photo retouching**. DM or link in bio.
 
 ## V6 · Life U-curves
 
-> Career, parenting, startups: they all dip before they climb. 📈
+> Marriage, career, parenting, startups: they all dip before they climb. 📈
 
+💍 **Marriage**: honeymoon → the grind → the crisis (years 15–25) → reconnection
 💼 **Career**: years 10–20 are the dip, and most career changes happen there
 👶 **Parenting**: sleepless → toddler chaos → teen years → empty nest, then the climb
 🚀 **Startups**: big idea → reality check → pivot → traction
@@ -171,8 +182,9 @@ The dip isn't failure. It's the pivot point. Where are you on the curve? 👇
 
 ## V7 · Confusing Chinese words
 
-> 关于 or 对于? 什么 or 怎么? 很 or 太? 🐰
+> 几乎 or 差不多? 关于 or 对于? 什么 or 怎么? 很 or 太? 🐰
 
+🐰 **jīhū vs chàbuduō**: "almost" (formal) vs "about the same" (casual)
 📗 **guānyú vs duìyú**: "about a topic" vs "regarding / toward"
 ❓ **shénme vs zěnme**: "what" vs "how"
 🌡️ **hěn vs tài**: "very" (neutral) vs "too" (with feeling)
@@ -190,8 +202,9 @@ Mandarin teachers & course brands, DM us. **Fashion visuals** and **photo retouc
 
 ## V8 · Butcher cut guides
 
-> Pork, lamb, fish: which cut for which dish? 🥩
+> Beef, pork, lamb, fish: which cut for which dish? 🥩
 
+🐮 **Beef**: sirloin, ribeye, brisket, flank, the full primal map
 🐷 **Pork**: shoulder, loin, belly, ham, each matched to grill / roast / braise
 🐑 **Lamb**: rack, leg, shoulder, shank
 🐟 **Fish**: fillet, steak, collar, belly, tail
@@ -209,8 +222,9 @@ Save it for your next trip to the butcher 📌
 
 ## V9 · Phrasal verbs
 
-> 24 phrasal verbs, 3 cards: LOOK, TAKE, GO. ✍️
+> 32 phrasal verbs, 4 cards: TURN, LOOK, TAKE, GO. ✍️
 
+🔄 **Turn** on / down / into…
 👀 **Look** after / forward to / into…
 ✋ **Take** off / after / over…
 🚶 **Go** over / ahead / off…
@@ -228,11 +242,12 @@ ESL teachers & course brands, DM us. **Fashion visuals** and **photo retouching*
 
 ## V10 · Slang week recap
 
-> Spill the tea, slay, rizz, rent-free: 18 slang words, 3 weeks. 💬
+> Ghosting, slay, drip, rent-free: 24 slang words, 4 weeks. 💬
 
-☕ **Week 1**: spill the tea · slay · cap · bussin · simp · hits different
-🦋 **Week 2**: glow up · periodt · snack · yeet · fam · fire
-🤝 **Week 3**: bet · drip · stan · clapped · rent-free · main character
+👻 **Week 1**: ghosting · salty · flex · lowkey · vibe check · slaps
+☕ **Week 2**: spill the tea · slay · cap · bussin · simp · hits different
+🦋 **Week 3**: glow up · periodt · snack · yeet · fam · fire
+🤝 **Week 4**: bet · drip · stan · clapped · rent-free · main character
 
 Part of speech, meaning and a comic scene for each. Which one do you actually use? 👇
 
@@ -242,3 +257,26 @@ Part of speech, meaning and a comic scene for each. Which one do you actually us
 recurring content series. **Fashion visuals** and **photo retouching** also available. DM or link in bio.
 
 #slang #genzslang #englishslang #learnenglish #esl #englishvocabulary #americanenglish #slangwords
+
+---
+
+## V11 · 动感 · RC toy & gaming ad visuals
+
+> One product category, five ad visuals, no studio shoot. 🏎️
+
+🏁 **Built for speed**: a 30+ km/h off-roader with a spec-callout layout and terrain icons
+🕷️ **One toy, two ways to play**: a transforming RC car, mid-transformation
+💡 **Light up playtime**: eye and underbody lighting called out on the hero shot
+🧡 **Little rover, big together-time**: the lifestyle shot, with siblings in a living room
+🎮 **Next level play**: a gaming-gear banner in a wide format for web headers
+
+Same energy, same lighting language, five different jobs: listing hero, feature callout,
+lifestyle, spec sheet, banner. All five are AI-assisted concept studies.
+
+—
+
+💡 That's **batch visual production** for e-commerce: a full listing set and ad creatives in
+one consistent look, sized for every placement. We also do **fashion visuals** and
+**photo retouching** (product & lifestyle). DM "LISTING" or link in bio.
+
+#ecommercedesign #productphotography #amazonlisting #adcreative #toydesign #rccar #productvisuals #aidesign
