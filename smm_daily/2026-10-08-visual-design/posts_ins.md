@@ -35,8 +35,9 @@ for one product category, already published on RedNote, and it shows the same ba
 | ◻︎ | **V9** Phrasal verbs | `english-phrasal-verb` | Turn ♥321 | **`…-turn`** + `…-look` · `…-take` · `…-go` | 📦 Batch | No Curify watermark on these three |
 | ◻︎ | **V10** Slang week recap | `slang-week-recap-infographic` | ghosting/salty… ♡178 | **`…ghosting-salty-flex-lowkey-vibe-check-slaps`** + `…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 Batch | |
 | ◻︎ | **V11** 动感 · RC toy & gaming ad visuals | _not a template_: product key visuals | 动感 series, published on RedNote | **`动感-5.png`** + `动感-1.png` · `动感-2.png` · `动感-3.png` · `动感-4.png` | 📦 Batch | 5 slides. ⚠️ `动感-1/2` carry Spider-Man web livery and a spider emblem (Marvel trade dress), which is riskier on IG next to a paid-service CTA; safe cut: `5 · 3 · 4`. ⚠️ `动感-4` is 16:9 while the rest are 1:1. IG crops every slide to the first slide's ratio, so keep it last and pad it to square |
+| ◻︎ | **V12** Country tourism posters | _not a template post_; now a template: `template-country-tourism-collage-poster` | — | **`countries-france.jpeg`** + `countries-mexico.jpeg` · `countries-india.jpeg` · `countries-saudi.jpeg` | 📦 Batch | ⚠️ Saudi poster carries the official **Vision 2030** logo; remove it or drop the slide. ⚠️ India is 2:3 while the rest are 4:5, so keep it off slide 1 and expect a crop |
 
-**Suggested order:** V3 → V2 → V11 → V4 → V1 → V8 → V6 → V10 → V9 → V7 → V5.
+**Suggested order:** V3 → V2 → V11 → V12 → V4 → V1 → V8 → V6 → V10 → V9 → V7 → V5.
 This differs from RedNote on purpose: English-text and fashion carousels go first, and
 Chinese-language pieces (V7, V5) go last for this audience. V11 sits between the fashion posts
 because it's the most direct product-visual pitch in the batch.
@@ -280,3 +281,25 @@ one consistent look, sized for every placement. We also do **fashion visuals** a
 **photo retouching** (product & lifestyle). DM "LISTING" or link in bio.
 
 #ecommercedesign #productphotography #amazonlisting #adcreative #toydesign #rccar #productvisuals #aidesign
+
+---
+
+## V12 · Country tourism posters
+
+> One prompt. Change the country name. Get a whole tourism campaign. 🌍
+
+🇫🇷 **France**: the Eiffel Tower at the centre, Mont-Saint-Michel, lavender fields, the Riviera, and croissant, wine and cheese up front
+🇲🇽 **Mexico**: Chichén Itzá, marigolds, a jaguar, tacos and tequila. *Un país, mil sabores*
+🇮🇳 **India**: the Taj Mahal, Hawa Mahal, Kerala houseboats, a Bharatanatyam dancer. *Unity in diversity*
+🇸🇦 **Saudi Arabia**: AlUla, Red Sea reefs, desert caravans, a falcon and a dallah of Arabic coffee
+
+Same system every time: a 3D marble title in flag colours, a hero landmark, one seamless
+panorama, and a still life of food in the foreground. Which country should we do next? 👇
+
+—
+
+💡 These posters share **one prompt** with a different country name. That's **batch visual
+production** for destination marketing, tourism boards, hotel groups and brand series.
+We also do **fashion visuals** and **photo retouching**. DM "COUNTRY" or link in bio.
+
+#travelposter #destinationmarketing #tourism #france #mexico #india #saudiarabia #aidesign
