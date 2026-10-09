@@ -63,7 +63,8 @@ also the better thing to put in a buyer group first.
 | ◻︎ | **2** | 💍 W | **W2** · Kyoto backdrops | `_sheet-kyoto.jpg` | the `摄影`+`婚礼` group from 09-11 | | | |
 | ◻︎ | 2 | 🧸 C | **C2** · two pipelines | `c2-two-pipelines.jpg` | Inspired by Newborn | | | |
 | ◻︎ | 3 | 🧸 C | **C4** · five places to look | `c4-five-places-to-look.jpg` | Inspired by Newborn · Photographers HIRING | | | |
-| ◻︎ | 4 | 🖼️ S | **S1** · the floor, not the cut-out | `_contact-sheet.jpg` | B2 | | | |
+| ✅ **reported 10-09** | — | 🖼️ S | **S1** · the floor, not the cut-out | `_contact-sheet.jpg` | **retouching** groups · **photo editing** groups (names not recorded) | | | |
+| ◻︎ | 4 | 🖼️ S | **S1** | `_contact-sheet.jpg` | B2 | | | |
 | ◻︎ | 4 | 🧸 C | **C3** · write the notes out | `shared-retouching-blueprint.jpg` ← same file as P1 | Babies and Kids | | | |
 | ◻︎ | 5 | 🖼️ S | **S1** | `_contact-sheet.jpg` | Babies and Kids — only after C1 | | | |
 | ◻︎ | 5 | 🧸 C | **C5** · read the pictures first | `c5-read-the-pictures-first.jpg` | Photographers HIRING | | | |
@@ -74,8 +75,8 @@ also the better thing to put in a buyer group first.
 | ⚠️ | 8 | 🏠 R | **R2** · item removal check | `r2-item-removal-check.jpg` | **still held** — and now the only R post left to spend on a *buyer-side* room · CTA switched to the batch CTA 10-08 | | | |
 | ✅ **09-17** | 9→now | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | ×? — *real estate photo editing* (same job-named rooms as R1) | | | |
 | ✅ **10-08** | — | 🏠 R | **R4** · day to dusk, from the photo you already took | `r4-day-to-dusk.jpg` | sent with the **batch CTA** (see R4); group(s) not recorded — fill in | | | |
-| ◻︎ | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | hotel / short-term-rental hosts and property photographers — ⚠️ the first post in this file with a real client frame; see the R5 block · batch CTA | | | |
-| ◻︎ | — | 🧸 C | **C7** · shoot once, sell every season | `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg` | children's / newborn photographer groups · batch CTA — cleared 10-09 (synthetic child) | | | |
+| ✅ **reported 10-09** | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | a **real estate photos** group (name not recorded) · batch CTA — first post in this file with a real client frame | | | |
+| ✅ **reported 10-09** | — | 🧸 C | **C7** · shoot once, sell every season | `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg` | a **kids & babies photographer** group (name not recorded) · batch CTA | | | |
 
 **14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
