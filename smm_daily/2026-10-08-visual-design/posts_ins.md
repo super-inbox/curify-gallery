@@ -7,7 +7,7 @@ square, and the first line has to stop the scroll before "…more"._
 **Source.** The `Weixin Image_*.jpg` screenshots in this folder are our proven RedNote
 performers (111–1674 likes). Each carousel **leads with the image that went viral on RedNote**, followed by
 **3 more images from the same template**, so 4 slides in all. The lead slide uses the original file, not the screenshot. Originals are tracked in `daily_inspirations/<date>/`. The
-copies here are only for dragging into the composer and are **not committed**.
+copies here are for dragging into the composer; git stores identical files once, so they cost nothing extra.
 
 **V11 is the exception:** the 动感 series isn't a template. It's a set of e-commerce ad key visuals
 for one product category, already published on RedNote, and it shows the same batch-production idea applied to a product.
@@ -36,11 +36,19 @@ for one product category, already published on RedNote, and it shows the same ba
 | ◻︎ | **V10** Slang week recap | `slang-week-recap-infographic` | ghosting/salty… ♡178 | **`…ghosting-salty-flex-lowkey-vibe-check-slaps`** + `…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 Batch | |
 | ◻︎ | **V11** 动感 · RC toy & gaming ad visuals | _not a template_: product key visuals | 动感 series, published on RedNote | **`动感-5.png`** + `动感-1.png` · `动感-2.png` · `动感-3.png` · `动感-4.png` | 📦 Batch | 5 slides. ⚠️ `动感-1/2` carry Spider-Man web livery and a spider emblem (Marvel trade dress), which is riskier on IG next to a paid-service CTA; safe cut: `5 · 3 · 4`. ⚠️ `动感-4` is 16:9 while the rest are 1:1. IG crops every slide to the first slide's ratio, so keep it last and pad it to square |
 | ◻︎ | **V12** Country tourism posters | _not a template post_; now a template: `template-country-tourism-collage-poster` | — | **`countries-france.jpeg`** + `countries-mexico.jpeg` · `countries-india.jpeg` · `countries-saudi.jpeg` | 📦 Batch | ⚠️ Saudi poster carries the official **Vision 2030** logo; remove it or drop the slide. ⚠️ India is 2:3 while the rest are 4:5, so keep it off slide 1 and expect a crop |
+| ◻︎ | **V13** Fashion AI sample board | _not a template_: original AI board, 8 frames | — | **`01-fashion-page2-v3.png`** (single image) | 👗 Fashion | B2B pitch to commercial studios. The board is 3000×2563 (≈1.17:1 landscape), which IG accepts as is; `rn-fashion-page2-v3-3x4.jpg` is the RedNote padding, not needed here |
+| ◻︎ | **V14** Still-life AI sample board | _not a template_: original AI board, 8 frames | — | **`02-still-life-page2-v3.png`** (single image) | 📦 Batch | Same as V13. Bottles, bags and jewellery are imagined, not reproductions of a client's product |
 
-**Suggested order:** V3 → V2 → V11 → V12 → V4 → V1 → V8 → V6 → V10 → V9 → V7 → V5.
+**Suggested order:** V3 → V2 → V11 → V12 → V4 → V13 → V1 → V8 → V14 → V6 → V10 → V9 → V7 → V5.
 This differs from RedNote on purpose: English-text and fashion carousels go first, and
 Chinese-language pieces (V7, V5) go last for this audience. V11 sits between the fashion posts
-because it's the most direct product-visual pitch in the batch.
+because it's the most direct product-visual pitch in the batch. V13 follows the fashion run
+and V14 follows the product-heavy V8, so the two studio pitches aren't back to back.
+
+**V13 / V14 are the exception too:** original AI sample boards (8 frames each) aimed at commercial
+photography studios, merged in 2026-10-09 from the retouching folder's editorial collection. Single-image
+posts, not carousels. The `references/` screenshots they were styled after are third-party moodboards,
+internal only, never posted and gitignored.
 
 **Rules:** Put the CTA in the caption and the link in bio, with no link in the caption.
 Log DM leads to `gtm_tools/relationship_leads.json` with `channel: "instagram"` and
@@ -303,3 +311,59 @@ production** for destination marketing, tourism boards, hotel groups and brand s
 We also do **fashion visuals** and **photo retouching**. DM "COUNTRY" or link in bio.
 
 #travelposter #destinationmarketing #tourism #france #mexico #india #saudiarabia #aidesign
+
+---
+
+## V13 · Fashion AI sample board
+
+> A client sends a moodboard and says "can we get this feel with AI?" The brief is in the details.
+
+How a sleeve holds its shape. How a dress falls over a chair. Where the window light lands, and how
+much space sits around the model. "Minimal" on its own tells you none of that.
+
+So we built a board of eight AI fashion concepts that pull those choices apart: monochrome for
+silhouette and pose, ivory for fabric and folds, warm wood interiors for the person in the room,
+city and garden scenes for relaxed, unposed moments.
+
+For a studio, a board like this turns "make it feel more premium" into a real conversation: is it the
+light, the fabric, the pose or the setting?
+
+*Original AI concept studies, not photographed garments or client work.*
+
+When you review a first concept board, what usually needs the most work: the clothes, the pose or the light? 👇
+
+—
+
+💡 We build AI sample directions around a studio's own art direction: that's **fashion visuals** and
+**batch visual production**. We also do **photo retouching**. DM "STUDIO" with your category and
+the details that must carry through, or link in bio.
+
+#fashionphotography #commercialphotography #moodboard #creativedirection #aifashion #photostudio #editorial #aidesign
+
+---
+
+## V14 · Still-life AI sample board
+
+> For a still-life brief, "premium" needs something more specific to work with.
+
+Glass bends the background. Amber liquid changes the light. Suede swallows it. A silver ring on
+cashmere is a different kind of contrast.
+
+Eight AI concepts on one board: fragrance with liquid and bubbles, an amber glass macro, a
+bottle-and-coupe composition, sculptural shoes, leather accessories and jewellery studies.
+
+The effects have a job: make the material and the silhouette easier to feel. Fluid or sculptural?
+Is the hero the outline or the surface? That's the choice a client can make from a board, before
+the shoot is set.
+
+*Original AI concept studies. The bottles, accessories and jewellery are imagined, not reproductions of a client's products.*
+
+Which would you explore first on your next brief: fluid and glass, sculptural accessories or tactile jewellery? 👇
+
+—
+
+💡 That's **batch visual production** for product brands and studios: one material direction, a whole
+set of frames. We also do **fashion visuals** and **photo retouching**. DM "STILL LIFE" with your
+category and reference mood, or link in bio.
+
+#stilllifephotography #productphotography #fragrancephotography #jewelryphotography #commercialphotography #creativedirection #aidesign
