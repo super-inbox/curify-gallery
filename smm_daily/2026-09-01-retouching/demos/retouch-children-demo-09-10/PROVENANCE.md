@@ -22,8 +22,8 @@ library, festive winter. `_sheet-children.jpg` is the single postable file.
 `_sheet-children-3x4-{zh,en}.jpg` (2026-10-09) are the same five frames re-laid at 1080×1440,
 source on top and the four backdrops 2×2, by `../../make_rednote_sheets.py`. The 5.5:1 strip is
 unreadable on a phone. The zh sheet runs as **RedNote C7**: on 2026-10-09 the user cleared it for
-RedNote because the child is synthetic. FB keeps its public "generated ones too" rule, so the en
-sheet is for one-to-one DMs only.
+RedNote because the child is synthetic, and on the same day for FB: the en sheet runs as
+**FB C7** with the batch CTA.
 
 ## Still true
 

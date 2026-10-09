@@ -26,7 +26,7 @@ other's group — that is why this file is cut by voice rather than by post numb
 |---|---|---|---|---|
 | 💍 **W** Wedding & destination | wedding / destination shooters | consistency across a whole gallery | W1 ✅ · W2 ◻︎ · W3 ✅ · W4 ◻︎ | see Schedule & progress |
 | 🎧 **P** Portrait & headshot | portrait, commercial, headshot studios | briefs written in adjectives | P1 ✅ · P2 ✅ | B2, S3 |
-| 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C5 · **no C7, by design** | the three child groups |
+| 🧸 **C** Children & newborn | children's / newborn studios | the subject may not be shown at all | C1–C5 · C7 | the three child groups |
 | 🖼️ **S** Scene & background | any of the above, doing composites | the floor, not the cut-out | S1 | B2, B3, + child groups |
 | 🏠 **R** Real estate & property | listing photographers, property-media firms | turnaround and consistency against an MLS deadline | R1 ✅ · R3 ✅ · R2 ⚠️ held | ⚠️ job-named groups — see Schedule & progress |
 
@@ -56,7 +56,6 @@ also the better thing to put in a buyer group first.
 | Status | Wk | Voice | Post | Image | Group · found via | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|
 | ✅ **date not provided** | — | 👠 F | **F1** · women’s footwear retouching | ⚠️ which sheet went out not recorded — `womens-shoe-restoration-en.jpg` is for re-posts | ×2 group types — **shoe seller** groups · **e-commerce seller** groups (group names not recorded) | | | |
-| ◻︎ | — | 💍 W | **W4** · batch wedding editing | `w1-wedding-portrait-retouch.jpg` | wedding / destination photographer groups | | | |
 | ✅ **09-11** | — | 💍 W | **W1** · four hundred frames | `w1-wedding-portrait-retouch.jpg` (cleared 10-08) | a wedding group · `摄影`+`婚礼` | | | |
 | ✅ **09-11** | 1 | 🎧 P | **P1** · glow-up ruins it | `shared-retouching-blueprint.jpg` | ×3 — *photographer* · *retouching* · *events+portrait* | | | |
 | ✅ **09-14** | 3→now | 🎧 P | **P2** · one sitting, four places | `_sheet-portrait.jpg` | ×3 — *photo* · *photographer* · *bali model/photographer* | | | |
@@ -76,14 +75,13 @@ also the better thing to put in a buyer group first.
 | ✅ **09-17** | 9→now | 🏠 R | **R3** · not overly HDR | `r3-interior-colour.jpg` | ×? — *real estate photo editing* (same job-named rooms as R1) | | | |
 | ✅ **10-08** | — | 🏠 R | **R4** · day to dusk, from the photo you already took | `r4-day-to-dusk.jpg` | sent with the **batch CTA** (see R4); group(s) not recorded — fill in | | | |
 | ◻︎ | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | hotel / short-term-rental hosts and property photographers — ⚠️ the first post in this file with a real client frame; see the R5 block · batch CTA | | | |
-| ⛔ | — | 🧸 C | ~~C7~~ · children's backdrops | `_sheet-children.jpg` | **never a feed** — 1:1 only, blocked by the no-children rule | | | |
+| ◻︎ | — | 🧸 C | **C7** · shoot once, sell every season | `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg` | children's / newborn photographer groups · batch CTA — cleared 10-09 (synthetic child) | | | |
 
 **14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
 and is the cross-post into the child groups. `r1`–`r3` are diagram cards built by `make_r_cards.py` — Voice R has no before/after
-because we have never delivered a real-estate edit (see the voice). A 15th file,
-`_sheet-children.jpg`, is listed
-only so its ⛔ sits next to everything else — it is never uploaded anywhere.
+because we have never delivered a real-estate edit (see the voice). C7 runs `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg`
+(cleared 2026-10-09: the child is generated).
 
 ⚠️ There is no `p1` or `c3` file: both run `shared-retouching-blueprint.jpg`. Do not "fix"
 the gap by re-copying — that duplicate is what this folder was consolidated to remove.
@@ -697,55 +695,33 @@ out.
 
 ---
 
-## ⛔ C7 — there is no C7, and the reason is the no-children rule
+## C7 — shoot once, sell every season
 
-The children sheet that moved in with `demos/` on 2026-09-14 —
-`demos/retouch-children-demo-09-10/_sheet-children.jpg` — is the single best commercial
-argument in this folder for a children's studio. Same child, same jumper, same pose, four
-backdrops: white, autumn park, library, festive. That is **shoot once, sell the seasonal
-minis** — autumn packages and Christmas packages off one sitting, which is exactly how that
-ICP makes its money.
+**Image:** `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg`
+*(1080×1440, 3:4. Source on top, four backdrops 2×2; footer "AI-generated retouching concepts ·
+not client work" stays uncropped.)*
 
-**It still cannot be posted here, and the blocker is our own stated rule.** It reads, without
-qualification:
+> ✅ **Cleared for FB 2026-10-09 by the owner** — the child is generated (`PROVENANCE.md`:
+> `00-source.png` is synthetic, nothing derives from client material). This narrows the
+> no-children rule to **real** children; see that section. The post says plainly that the
+> child is generated — that line must survive any edit.
 
-> We don't publish photographs of children. Not our clients'. Not our own. **Not generated
-> ones either.** […] A synthetic child is still a child-shaped image posted into a group
-> full of parents.
+### FB post copy
 
-The rule was stated publicly in the child groups by C6 until that post was retired
-(2026-09-20). Posting a generated child is not a nuance anyone will grant us; it is the exact
-thing we said we would not do, from the same account, to the same room. It would cost more than
-the post could earn, and it would take the rest of the C series down with it. **Retiring C6
-does not unblock C7** — if anything it weakens the ground we would stand on, because the limit
-is no longer one we have said out loud.
+🍂 Shoot once, sell every season.
 
-The sheet's own `PROVENANCE.md` is clean — `00-source.png` is synthetic, no real child is
-in any frame, nothing derives from client material. **The conflict is not an ethics problem,
-it is a consistency one**, and consistency was the whole asset C6 bought.
+One sitting in front of studio grey. Then the same child, same jumper, same pose — on a white sweep for the school order, in an autumn park for the fall minis, in a library for back-to-school, and in falling snow for the Christmas package.
 
-### Where it goes instead
+That's the part that matters for a children's studio: the subject is never redrawn. Only what's behind them changes. If the face came back slightly different in each version, the parents would be the first to notice — so that's the first thing we check, frame by frame.
 
-**1:1, never to a feed.** A DM or an email to a studio that has already asked what we do is
-not publishing — it is showing a method to one buyer who requested it, and the promise is
-about what we put on a feed. That is the right home for this sheet:
+Being straight about the image: the child above is AI-generated, made for this example. No real child, and no client's session, is in it.
 
-- as an attachment when a children's studio replies to C1–C5 and asks for proof;
-- in the `studio_portfolio` email motion, where `gtm_tools/batch_*.json` already attach
-  `demos/scene-enhancement-demo-09-07/_contact-sheet.jpg` the same way.
+Where it saves you the most is volume: a whole class, or a whole day of minis, carried into the seasonal backdrops you'd otherwise have to build sets for.
 
-**If we ever want it as a public post, the rule has to change first** — and it should not change.
-It was the one commitment in this file whose entire value is that it gives something up.
-
-### The version that could be posted
-
-Re-run `_sheet-children.jpg`'s construction on a **non-child subject the same audience
-cares about** — the prop, the outfit, the chair, the seasonal set dressing itself. Same
-claim (locked subject, four backdrops, shoot once and sell four), no child in frame, no
-contradiction with the rule. That is a generation job, not a copywriting one, and it is the only
-route to a C7 that survives its own series.
+📩 Need a batch of photos retouched? Send us a private message with sample images, the number of photos, and your deadline. We’ll review the images and discuss an approach that fits your needs.
 
 ---
+
 
 ## C1 — look at what moved
 
@@ -872,39 +848,17 @@ Posting it because the same two failures turn up in school and wedding volume wo
 
 ---
 
-## ⛔ The no-children rule *(was post C6 — retired 2026-09-20)*
+## The no-children rule *(was post C6 — retired 2026-09-20; narrowed 2026-10-09)*
 
-**The post is gone. The rule is not.** `c6-we-do-not-publish-children.jpg` was deleted and
-C6's scheduling rows were removed on 2026-09-20 at the operator's instruction. What follows is
-kept because **three other things in this repo rest on it** and would otherwise dangle: the
-permanent block on C7 above, the ordering into child groups, and the same constraint applied
-cross-platform in `posts_rednote.md`.
+**We don't publish photographs of real children — not our clients', not our own.** Consent for
+a shoot is not consent for a portfolio, and a face put online at four is online at forty.
 
-> **We don't publish photographs of children. Not our clients'. Not our own. Not generated
-> ones either.**
->
-> **Not our clients'.** Consent for a shoot is not consent for a portfolio. The parents agreed
-> to a session, not to a marketing feed.
->
-> **Not our own.** A face put online at four is online at forty, and a studio's advertising
-> isn't where that decision should get made.
->
-> **Not generated ones.** A synthetic child is still a child-shaped image posted into a group
-> full of parents — and the fact that it's the easy shortcut is exactly why it's worth naming.
+**Narrowed 2026-10-09 by the owner:** generated children may be posted, labelled as
+AI-generated in both the image footer and the post copy. That is what unblocked C7. The
+original C6 wording ("Not generated ones either") is retired with it; do not quote it again.
 
-It is also why C1 makes its point on a serum bottle: the mechanism is identical and the bottle
-can't object.
-
-⚠️ **What changed, and what did not.** The rule still governs what may be posted. What is gone
-is the act of **saying it out loud to the room** — C6's whole function was to open the child
-groups by stating a limit on our own behaviour, which is what earned the right to post the
-rest. Nothing replaces that now. If the child groups are still a target, decide what opens them
-instead; if the intent was to retire the children line altogether, C1–C5 and the C7 block
-should be looked at in the same pass rather than left half-standing.
-
-⛔ **Retiring the post is not retiring the promise.** If the promise itself is meant to go,
-that is a separate decision and it has to be made explicitly — it is the thing C7's permanent
-block is made of.
+C1 still makes its point on a serum bottle, and S1 on a synthetic adult — those posts stand
+as written.
 
 ---
 
