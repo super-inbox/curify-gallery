@@ -19,23 +19,23 @@ for one product category, already published on RedNote, and it shows the same ba
 - 👗 **Fashion visuals**: garment breakdowns, styling guides, on-model images
 - ✨ **Photo retouching**: portrait, wedding & destination, product
 
-**Status** ✅ sent · ◻︎ planned · ⚠️ heads-up
+**Status** ✅ sent · 🗓️ scheduled · ◻︎ planned · ⚠️ heads-up
 
 | Status | Post | Template | Proven on RedNote | Carousel: **lead** + 3 (this folder / `daily_inspirations/`) | CTA lead | Notes |
 |---|---|---|---|---|---|---|
 | ✅ | **V0** Disney colour-grid | `disney-character-color-grid-art` | — | `…-green` · `…-orange` · `…-pink` | — | Posted on IG + RedNote |
-| ◻︎ | **V1** Chinese wedding attire | `costume-<dynasty>-wedding` | Qing Han ♡111 | **`…qing-dynasty-female-han-wedding`** + `…qing-dynasty-female-manchu-wedding` · `…ming-dynasty-female-wedding` · `…tang-dynasty-female-wedding` | 👗 Fashion | Chinese-text heavy; caption carries the English |
-| ◻︎ | **V2** Ethnic costume flat-lay | `ethnic-costume-deconstruction-board` | Bai ♡296 | **`…-bai`** + `…-miao` · `…-tibetan` · `…-yi` | 👗 Fashion · 📦 Batch | Flat-lay = product-listing layout; strongest fashion hook |
-| ◻︎ | **V3** Shape styling guides | `fashion-shape-guide-infographic` | Glasses ♥1674 (pinned) | **`…glasses-for-face-shape`** + `…earrings-for-face-shape` · `…hats-for-face-shape` · `…dresses-for-body-type` | 👗 Fashion · ✨ Retouch | **Top template overall, and already in English. Post first** |
-| ◻︎ | **V4** Clothing evolution | `clothing-evolution-poster` | British ♥154 | **`…british-clothing`** + `…italian-clothing` · `…mexican-clothing` · `…japanese` | 👗 Fashion · 📦 Batch | |
-| ◻︎ | **V5** Empresses in the Palace MBTI | `zhenhuan-mbti-character-analysis` | An Lingrong ♥927 (pinned) | **⚠️ 安陵容 ISFJ (original missing)** + `…enfj-wanbi` · `…istp-ningpin` · `…intj-guojunwang` | 📦 Batch | ⚠️ Niche for an English feed; fan content on a TV IP, editorial only. Optional. ⚠️ **Lead slide's original isn't in the repo.** The screenshot is too small (≈400 px) and has the 置顶 badge. Export the original from RedNote / the generator, or post 3 slides |
-| ◻︎ | **V6** Life U-curves | `life-journey-curve-infographic` | Marriage ♡455 | **`…-marriage`** + `…-career` · `…-parenting` · `…-entrepreneurship` | 📦 Batch | ⚠️ Small typos in images: "Rr a passion project" (career), "govs" (parenting) |
-| ◻︎ | **V7** Confusing Chinese words | `language-word-comparison-educational-poster` | 几乎 vs 差不多 ♥490 | **`…jihu-chabuduo`** + `…guanyu-duiyu` · `…shenme-zenme` · `…hen-tai` | 📦 Batch | For Mandarin teachers |
-| ◻︎ | **V8** Butcher cut guides | `anatomy-cut-guide` | Beef ♡543 | **`…beef-cuts`** + `…pork-cuts` · `…lamb-cuts` · `…fish-cuts` | 📦 Batch | F&B / grocery buyers |
-| ◻︎ | **V9** Phrasal verbs | `english-phrasal-verb` | Turn ♥321 | **`…-turn`** + `…-look` · `…-take` · `…-go` | 📦 Batch | No Curify watermark on these three |
-| ◻︎ | **V10** Slang week recap | `slang-week-recap-infographic` | ghosting/salty… ♡178 | **`…ghosting-salty-flex-lowkey-vibe-check-slaps`** + `…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 Batch | |
-| ◻︎ | **V11** 动感 · RC toy & gaming ad visuals | _not a template_: product key visuals | 动感 series, published on RedNote | **`动感-5.png`** + `动感-1.png` · `动感-2.png` · `动感-3.png` · `动感-4.png` | 📦 Batch | 5 slides. ⚠️ `动感-1/2` carry Spider-Man web livery and a spider emblem (Marvel trade dress), which is riskier on IG next to a paid-service CTA; safe cut: `5 · 3 · 4`. ⚠️ `动感-4` is 16:9 while the rest are 1:1. IG crops every slide to the first slide's ratio, so keep it last and pad it to square |
-| ◻︎ | **V12** Country tourism posters | _not a template post_; now a template: `template-country-tourism-collage-poster` | — | **`countries-france.jpeg`** + `countries-mexico.jpeg` · `countries-india.jpeg` · `countries-saudi.jpeg` | 📦 Batch | ⚠️ Saudi poster carries the official **Vision 2030** logo; remove it or drop the slide. ⚠️ India is 2:3 while the rest are 4:5, so keep it off slide 1 and expect a crop |
+| 🗓️ (date not given) | **V1** Chinese wedding attire | `costume-<dynasty>-wedding` | Qing Han ♡111 | **`…qing-dynasty-female-han-wedding`** + `…qing-dynasty-female-manchu-wedding` · `…ming-dynasty-female-wedding` · `…tang-dynasty-female-wedding` | 👗 Fashion | Chinese-text heavy; caption carries the English |
+| 🗓️ (date not given) | **V2** Ethnic costume flat-lay | `ethnic-costume-deconstruction-board` | Bai ♡296 | **`…-bai`** + `…-miao` · `…-tibetan` · `…-yi` | 👗 Fashion · 📦 Batch | Flat-lay = product-listing layout; strongest fashion hook |
+| 🗓️ (date not given) | **V3** Shape styling guides | `fashion-shape-guide-infographic` | Glasses ♥1674 (pinned) | **`…glasses-for-face-shape`** + `…earrings-for-face-shape` · `…hats-for-face-shape` · `…dresses-for-body-type` | 👗 Fashion · ✨ Retouch | **Top template overall, and already in English. Post first** |
+| 🗓️ (date not given) | **V4** Clothing evolution | `clothing-evolution-poster` | British ♥154 | **`…british-clothing`** + `…italian-clothing` · `…mexican-clothing` · `…japanese` | 👗 Fashion · 📦 Batch | |
+| 🗓️ (date not given) | **V5** Empresses in the Palace MBTI | `zhenhuan-mbti-character-analysis` | An Lingrong ♥927 (pinned) | **⚠️ 安陵容 ISFJ (original missing)** + `…enfj-wanbi` · `…istp-ningpin` · `…intj-guojunwang` | 📦 Batch | ⚠️ Niche for an English feed; fan content on a TV IP, editorial only. Optional. ⚠️ **Lead slide's original isn't in the repo.** The screenshot is too small (≈400 px) and has the 置顶 badge. Export the original from RedNote / the generator, or post 3 slides |
+| 🗓️ (date not given) | **V6** Life U-curves | `life-journey-curve-infographic` | Marriage ♡455 | **`…-marriage`** + `…-career` · `…-parenting` · `…-entrepreneurship` | 📦 Batch | ⚠️ Small typos in images: "Rr a passion project" (career), "govs" (parenting) |
+| 🗓️ (date not given) | **V7** Confusing Chinese words | `language-word-comparison-educational-poster` | 几乎 vs 差不多 ♥490 | **`…jihu-chabuduo`** + `…guanyu-duiyu` · `…shenme-zenme` · `…hen-tai` | 📦 Batch | For Mandarin teachers |
+| 🗓️ (date not given) | **V8** Butcher cut guides | `anatomy-cut-guide` | Beef ♡543 | **`…beef-cuts`** + `…pork-cuts` · `…lamb-cuts` · `…fish-cuts` | 📦 Batch | F&B / grocery buyers |
+| 🗓️ (date not given) | **V9** Phrasal verbs | `english-phrasal-verb` | Turn ♥321 | **`…-turn`** + `…-look` · `…-take` · `…-go` | 📦 Batch | No Curify watermark on these three |
+| 🗓️ (date not given) | **V10** Slang week recap | `slang-week-recap-infographic` | ghosting/salty… ♡178 | **`…ghosting-salty-flex-lowkey-vibe-check-slaps`** + `…spill-the-tea-…` · `…glow-up-…` · `…bet-drip-…` | 📦 Batch | |
+| 🗓️ (date not given) | **V11** 动感 · RC toy & gaming ad visuals | _not a template_: product key visuals | 动感 series, published on RedNote | **`动感-5.png`** + `动感-1.png` · `动感-2.png` · `动感-3.png` · `动感-4.png` | 📦 Batch | 5 slides. ⚠️ `动感-1/2` carry Spider-Man web livery and a spider emblem (Marvel trade dress), which is riskier on IG next to a paid-service CTA; safe cut: `5 · 3 · 4`. ⚠️ `动感-4` is 16:9 while the rest are 1:1. IG crops every slide to the first slide's ratio, so keep it last and pad it to square |
+| 🗓️ (date not given) | **V12** Country tourism posters | _not a template post_; now a template: `template-country-tourism-collage-poster` | — | **`countries-france.jpeg`** + `countries-mexico.jpeg` · `countries-india.jpeg` · `countries-saudi.jpeg` | 📦 Batch | ⚠️ Saudi poster carries the official **Vision 2030** logo; remove it or drop the slide. ⚠️ India is 2:3 while the rest are 4:5, so keep it off slide 1 and expect a crop |
 | ◻︎ | **V13** Fashion AI sample board | _not a template_: original AI board, 8 frames | — | **`01-fashion-page2-v3.png`** (single image) | 👗 Fashion | B2B pitch to commercial studios. The board is 3000×2563 (≈1.17:1 landscape), which IG accepts as is; `rn-fashion-page2-v3-3x4.jpg` is the RedNote padding, not needed here |
 | ◻︎ | **V14** Still-life AI sample board | _not a template_: original AI board, 8 frames | — | **`02-still-life-page2-v3.png`** (single image) | 📦 Batch | Same as V13. Bottles, bags and jewellery are imagined, not reproductions of a client's product |
 
@@ -53,6 +53,8 @@ internal only, never posted and gitignored.
 **Rules:** Put the CTA in the caption and the link in bio, with no link in the caption.
 Log DM leads to `gtm_tools/relationship_leads.json` with `channel: "instagram"` and
 `need_verbatim`. ⚠️ Don't flip a row to ✅ until the post is confirmed live.
+
+V1–V12 were scheduled on 2026-10-09 (dates not given). 🗓️ means queued, not live: fill in each date and flip to ✅ once it's confirmed posted. V13/V14 are still to schedule.
 
 ---
 
