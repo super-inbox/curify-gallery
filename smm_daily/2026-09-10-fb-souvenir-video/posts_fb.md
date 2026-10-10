@@ -1,8 +1,25 @@
 # Facebook / Instagram · Souvenir + fashion culture videos
 
+## Publication schedule
+
+**Updated 2026-10-10:** Jay confirmed that all four Fashion × culture videos are **scheduled on Instagram**. Scheduled publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
+
+| Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
+|---|---|---|---|---|
+| Fashion Time Machine | **Scheduled** | Not recorded | Draft / not posted | Playful fashion discovery; invite viewers to choose an era. |
+| One Sarong, Three Moods | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
+| Chinese Silhouettes Remixed | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
+| Feitian · The Lost Name | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
+
+**Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. The four fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
+
+This table tracks the four new videos. Earlier destination-publication history remains in [README.md](README.md#schedule--log). Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
+
+---
+
 _Companion file: **[`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md)** (小红书／快手, Chinese).
-The asset table, publish status, place × trade matrix, red lines and schedule log are in
-**[`README.md`](README.md)** — this file is the English copy._
+The destination asset table, historical publish status and place × trade matrix are in
+**[`README.md`](README.md)**. The table above tracks the new fashion/culture batch; this file holds the English copy._
 
 **What changed 2026-09-12:** three new destination films
 (**Bali · melukat**, **Dubai · the creek**, **Granada · Alhambra**) and two rebuilt ones,
@@ -11,7 +28,7 @@ taking the library from 2 usable destinations to 5. Bali and Dubai v1 are supers
 
 ---
 
-## The one change in this file: these posts talk to two people at once
+## Destination-souvenir voice: traveller + property
 
 Every earlier version of this pitch was B2B only — photographer, operator, hotel. These are
 written so the **traveller** and the **property** can both read the same post and each find
@@ -57,7 +74,7 @@ before any becomes a paid deliverable or a flagship ad.
 
 ---
 
-## The CTA, and where it goes
+## Destination-souvenir CTA, and where it goes
 
 **In the post body: DM only.** Facebook throttles posts with outbound links, and this house
 rule predates the souvenir line — it is why every earlier post here ends on a DM line.
@@ -390,7 +407,7 @@ the DM line.** And the place name and the video swap **together** — never one 
 
 ---
 
-## Red lines
+## Destination-souvenir red lines
 
 1. ⛔ **Never post `tengwangge-realmodel` or `-v3`.** Real model, no release. `-preview` only.
 2. ⛔ **No client claims.** The only closed deal in this vertical (client-007, ¥27,800) was 文创
@@ -432,7 +449,7 @@ matrix. If neither, the destination is wrong, not the copy.
 <!-- fashion-culture-2026-10-10 -->
 ## Fashion × culture — Facebook + Instagram shared copy
 
-Created 2026-10-10. Status: **DRAFT / NOT POSTED** for every video. Use the same English caption on Facebook and Instagram. The films are original AI fashion concepts, not customer work or historical reconstructions. Each video includes bilingual titles and the Curify batch fashion try-on end card.
+Created 2026-10-10. **Instagram: all four scheduled, as confirmed by Jay; publishing dates/times not yet recorded. Facebook: drafts, not posted.** See the publication schedule at the top. Use the shared English caption on Facebook and Instagram, with the voice appropriate to each series. The films are original AI fashion concepts, not customer work or historical reconstructions. Each video includes bilingual titles and the Curify batch fashion try-on end card.
 
 ### 01 — Fashion Time Machine
 
@@ -448,7 +465,7 @@ I’m torn between 1 and 3. Drop your number.
 
 An original AI fashion concept by Curify. Explore **batch fashion try-on** and build your own wardrobe of possibilities at **https://curify-ai.com**.
 
-##FashionTransformation #FashionHistoryInspired #VirtualTryOn #AIFashion #Curify
+#FashionTransformation #FashionHistoryInspired #VirtualTryOn #AIFashion #Curify
 
 ### 02 — One Sarong, Three Moods
 
@@ -462,7 +479,7 @@ Which would you wear first — 1, 2 or 3?
 
 An original AI styling concept inspired by Malaysia’s mix-and-match wardrobe. Explore **batch fashion try-on** at **https://curify-ai.com** and imagine more ways to wear your next look.
 
-##SarongStyle #KebayaStyle #BatikStyle #MalaysiaFashion #VirtualTryOn #Curify
+#SarongStyle #KebayaStyle #BatikStyle #MalaysiaFashion #VirtualTryOn #Curify
 
 ### 03 — Chinese Silhouettes Remixed
 
@@ -476,7 +493,7 @@ Three contemporary interpretations of Chinese silhouettes, one model. Which belo
 
 Original AI fashion concepts, inspired by Tang and Song silhouettes and modern Chinese styling. Explore **batch fashion try-on** at **https://curify-ai.com**.
 
-##ChineseInspiredFashion #ModernChineseStyle #HanfuInspired #AIFashion #VirtualTryOn #Curify
+#ChineseInspiredFashion #ModernChineseStyle #HanfuInspired #AIFashion #VirtualTryOn #Curify
 
 ### 04 — Feitian · The Lost Name
 
@@ -488,7 +505,7 @@ Our original AI fantasy short, **Feitian · The Lost Name**, now with the Curify
 
 Want to explore your own costume-inspired looks? Discover **batch fashion try-on** at **https://curify-ai.com**.
 
-##DunhuangInspired #Feitian #AIFilm #CostumeDesign #VirtualTryOn #Curify
+#DunhuangInspired #Feitian #AIFilm #CostumeDesign #VirtualTryOn #Curify
 
 ---
 
