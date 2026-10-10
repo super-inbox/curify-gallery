@@ -1,5 +1,11 @@
 # Production record
 
+## Chinese Silhouettes revision v2 — local review
+
+Regenerated with MiniMax-Hailuo-02 first/last-frame control: Tang-to-Song (6s), Song-to-modern (first 4s), then its final 2s eased to a 5s hero hold. The separate modern-hold take was rejected because it introduced a hand wave. Removed flash montage, mismatched independent gestures and the return to the first outfit. Fixed camera; joins use the same authored identity/pose. Existing 3s CTA and soundtrack retained. Updated the original video path in place and retained v1 in the production workspace. Captions consolidated into the parent posting files. The baseline notes below describe v1 where they differ.
+
+
+
 ## References and creative interpretation
 
 - Supplied local reference: `cultural_videos/costume_tryon/fashion_Renaissance.mp4` (58.33 seconds). Reviewed extracted frames: dark-background editorial portraits, turns, fabric changes, and era labels. Our Time Machine short uses a new original character and three looks: Renaissance-inspired, Art Deco, future tailoring.

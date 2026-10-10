@@ -122,39 +122,23 @@
     "duration": 18,
     "edl": [
       [
-        1,
-        0.3,
-        0.4
+        "tang-to-song",
+        0,
+        6
       ],
       [
+        "song-to-modern",
+        0,
+        4
+      ],
+      [
+        "song-to-modern",
+        4,
         2,
-        0.3,
-        0.4
-      ],
-      [
-        3,
-        0.3,
-        0.4
-      ],
-      [
-        1,
-        0.7,
-        4.2
-      ],
-      [
-        2,
-        0.7,
-        4.2
-      ],
-      [
-        3,
-        0.7,
-        4.2
-      ],
-      [
-        1,
-        0.5,
-        1.2
+        {
+          "playback_duration": 5,
+          "motion_interpolation_fps": 30
+        }
       ]
     ],
     "slug": "chinese-silhouettes-remixed",
@@ -174,6 +158,11 @@
         "新中式 · 利落"
       ]
     ],
-    "music": "kaazoom-from-gentle-stream-to-the-city-streets-modern-chinese-music-434753.mp3"
+    "music": "kaazoom-from-gentle-stream-to-the-city-streets-modern-chinese-music-434753.mp3",
+    "revision": "v2",
+    "model": "MiniMax-Hailuo-02",
+    "generation": "first-and-last-frame controlled",
+    "cta_duration": 3,
+    "removed": "rapid preview flashes, mismatched pose cuts, sleeve waving, first-outfit callback"
   }
 }

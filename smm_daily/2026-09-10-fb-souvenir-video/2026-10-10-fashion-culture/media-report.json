@@ -1,10 +1,11 @@
 {
   "chinese-silhouettes-remixed-curify.mp4": {
+    "revision": "v2",
     "duration_seconds": 18.0,
     "resolution": "1080x1920",
     "fps": 30,
     "audio_codec": "aac",
-    "size_bytes": 8225644,
+    "size_bytes": 9056526,
     "full_decode": "pass",
     "gallery_path": "cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4"
   },

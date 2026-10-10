@@ -8,8 +8,8 @@ log. The copy lives in two channel files.
 
 | file | what it is |
 |---|---|
-| [`posts_fb.md`](posts_fb.md) | English copy for Facebook groups — 5 destinations, dual traveller + resort/hotel voice, plus the five single-trade variants. CTA: DM in body, `curify-ai.com` in first comment |
-| [`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md) | 中文 copy for 小红书 / 快手 — same 5 destinations. CTA: 私信 only, **no link anywhere** |
+| [`posts_fb.md`](posts_fb.md) | English copy for Facebook groups, plus shared Facebook/Instagram fashion captions — 5 destinations, dual traveller + resort/hotel voice, plus the five single-trade variants. CTA: DM in body, `curify-ai.com` in first comment |
+| [`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md) | 中文 copy for 小红书 / 快手 — earlier 5 destinations use 私信; the 2026-10-10 fashion batch uses the requested website CTA |
 
 ---
 
@@ -235,3 +235,5 @@ checked against both before it is counted twice.
 ## New: fashion × culture batch — 2026-10-10
 
 [Three fashion shorts + Feitian with the batch fashion try-on ending](2026-10-10-fashion-culture/README.md). Includes shared English captions for Facebook/Instagram and Chinese captions for 小红书/快手, with the requested curify-ai.com CTA. All four are prepared and **not posted**.
+
+The 2026-10-10 fashion captions are now consolidated in [posts_fb.md](posts_fb.md) (shared FB/Instagram English) and [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md) (Chinese).
