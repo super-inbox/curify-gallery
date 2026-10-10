@@ -1,0 +1,179 @@
+{
+  "era": {
+    "file": "fashion-time-machine-curify.mp4",
+    "duration": 18,
+    "edl": [
+      [
+        1,
+        0.3,
+        0.4
+      ],
+      [
+        2,
+        0.3,
+        0.4
+      ],
+      [
+        3,
+        0.3,
+        0.4
+      ],
+      [
+        1,
+        0.7,
+        4.2
+      ],
+      [
+        2,
+        0.7,
+        4.2
+      ],
+      [
+        3,
+        0.7,
+        4.2
+      ],
+      [
+        1,
+        0.5,
+        1.2
+      ]
+    ],
+    "slug": "fashion-time-machine",
+    "hook": "CHOOSE YOUR ERA",
+    "hook_zh": "你最想穿越到哪一套？",
+    "labels": [
+      [
+        "01 / RENAISSANCE",
+        "文艺复兴灵感"
+      ],
+      [
+        "02 / ART DECO",
+        "装饰艺术风格"
+      ],
+      [
+        "03 / FUTURE",
+        "未来时装"
+      ]
+    ],
+    "music": "alexgrohl-sweet-life-luxury-chill-438146.mp3"
+  },
+  "sarong": {
+    "file": "one-sarong-three-moods-curify.mp4",
+    "duration": 18,
+    "edl": [
+      [
+        1,
+        0.3,
+        0.4
+      ],
+      [
+        2,
+        0.3,
+        0.4
+      ],
+      [
+        3,
+        0.3,
+        0.4
+      ],
+      [
+        1,
+        0.7,
+        4.2
+      ],
+      [
+        2,
+        0.7,
+        4.2
+      ],
+      [
+        3,
+        0.7,
+        4.2
+      ],
+      [
+        1,
+        0.5,
+        1.2
+      ]
+    ],
+    "slug": "one-sarong-three-moods",
+    "hook": "ONE SARONG. THREE MOODS.",
+    "hook_zh": "同一条沙龙裙，三种打开方式",
+    "labels": [
+      [
+        "01 / HERITAGE",
+        "娘惹风 · 优雅赴约"
+      ],
+      [
+        "02 / WORKDAY",
+        "白衬衫 · 轻松通勤"
+      ],
+      [
+        "03 / WEEKEND",
+        "蜡染外套 · 周末出街"
+      ]
+    ],
+    "music": "crab_audio-elegant-style-301129.mp3"
+  },
+  "silk": {
+    "file": "chinese-silhouettes-remixed-curify.mp4",
+    "duration": 18,
+    "edl": [
+      [
+        1,
+        0.3,
+        0.4
+      ],
+      [
+        2,
+        0.3,
+        0.4
+      ],
+      [
+        3,
+        0.3,
+        0.4
+      ],
+      [
+        1,
+        0.7,
+        4.2
+      ],
+      [
+        2,
+        0.7,
+        4.2
+      ],
+      [
+        3,
+        0.7,
+        4.2
+      ],
+      [
+        1,
+        0.5,
+        1.2
+      ]
+    ],
+    "slug": "chinese-silhouettes-remixed",
+    "hook": "PAST MEETS YOUR NEXT LOOK",
+    "hook_zh": "把东方衣橱，穿进今天",
+    "labels": [
+      [
+        "01 / TANG-INSPIRED",
+        "唐风灵感 · 浓彩"
+      ],
+      [
+        "02 / SONG-INSPIRED",
+        "宋韵灵感 · 清雅"
+      ],
+      [
+        "03 / MODERN",
+        "新中式 · 利落"
+      ]
+    ],
+    "music": "kaazoom-from-gentle-stream-to-the-city-streets-modern-chinese-music-434753.mp3"
+  }
+}

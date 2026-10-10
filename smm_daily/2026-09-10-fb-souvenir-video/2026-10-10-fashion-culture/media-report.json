@@ -1,0 +1,38 @@
+{
+  "chinese-silhouettes-remixed-curify.mp4": {
+    "duration_seconds": 18.0,
+    "resolution": "1080x1920",
+    "fps": 30,
+    "audio_codec": "aac",
+    "size_bytes": 8225644,
+    "full_decode": "pass",
+    "gallery_path": "cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4"
+  },
+  "one-sarong-three-moods-curify.mp4": {
+    "duration_seconds": 18.0,
+    "resolution": "1080x1920",
+    "fps": 30,
+    "audio_codec": "aac",
+    "size_bytes": 11544561,
+    "full_decode": "pass",
+    "gallery_path": "cultural_videos/costume_tryon/2026-10-10-fashion-culture/one-sarong-three-moods-curify.mp4"
+  },
+  "feitian-shiming-music-v2-fashion-cta.mp4": {
+    "duration_seconds": 33.013,
+    "resolution": "1080x1920",
+    "fps": 30,
+    "audio_codec": "aac",
+    "size_bytes": 22794584,
+    "full_decode": "pass",
+    "gallery_path": "drama/feitian-shiming-30s-music-v2-curify.mp4"
+  },
+  "fashion-time-machine-curify.mp4": {
+    "duration_seconds": 18.0,
+    "resolution": "1080x1920",
+    "fps": 30,
+    "audio_codec": "aac",
+    "size_bytes": 13529532,
+    "full_decode": "pass",
+    "gallery_path": "cultural_videos/costume_tryon/2026-10-10-fashion-culture/fashion-time-machine-curify.mp4"
+  }
+}

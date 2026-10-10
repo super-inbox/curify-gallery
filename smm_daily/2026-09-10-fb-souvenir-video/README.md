@@ -231,3 +231,7 @@ Related: 40 hotels in Bali / Dubai / Granada / Kyoto were emailed the same films
 languages on 09-12 — `curify-studio/gtm_tools/HOTEL_VIDEO_BATCH_2026-09-12.md`. That batch and
 these posts hit the **same buyers in the same week**, so a property replying to either should be
 checked against both before it is counted twice.
+
+## New: fashion × culture batch — 2026-10-10
+
+[Three fashion shorts + Feitian with the batch fashion try-on ending](2026-10-10-fashion-culture/README.md). Includes shared English captions for Facebook/Instagram and Chinese captions for 小红书/快手, with the requested curify-ai.com CTA. All four are prepared and **not posted**.
