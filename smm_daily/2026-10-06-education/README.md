@@ -59,6 +59,8 @@ but the first one is on-identity and the second is drift.
 | 2026-09-21 | 隐翅虫 safety science | 4 (`01_structure_bilingual` … `04_first_aid_and_prevention`) | ✅ 3 posts, RedNote | pending — see below | [`captions_rove_beetle.md`](captions_rove_beetle.md) |
 | 2026-10-06 | 诺奖物理 · 中微子 / 冰立方 (+ 批量生成 CTA) | 4 (`01_ghost_through_fingernail` … `04_how_to_catch_a_ghost`) | ◻︎ 3 posts planned 10-07 / 09 / 11 | pending | [`captions_nobel_neutrino.md`](captions_nobel_neutrino.md) |
 
+| 2026-10-11 | 诺奖医学 · 光遗传学与抑郁症 | 3 (`01_nobel_is_not_a_cure` … `03_depression_is_not_weakness`) | ◻︎ 素材就绪，未发布 | pending | [`captions_nobel_depression.md`](captions_nobel_depression.md) |
+
 ---
 
 # Schedule & progress
@@ -132,3 +134,13 @@ the FB and email channels.
 ```
 date | account | column | post | cover | 点赞 | 收藏 | 评论 | 推荐 | DMs
 ```
+
+## Drop 3 · 诺奖医学与抑郁症（2026-10-11）
+
+正文、模板参数与逐项来源见 [captions_nobel_depression.md](captions_nobel_depression.md)。3 篇独立图文，素材就绪；未发布、未自动排期。建议每篇至少间隔两天。用户提供的微信正文未能读取，本期改用 Stanford / NIMH / WHO 核实资料独立撰写。
+
+| 状态 | Post | Cover | Account | 日期 | URL | 点赞 | 收藏 | 评论 |
+|---|---|---|---|---|---|---|---|---|
+| ◻︎ 素材就绪 | 1 · 诺奖研究抑郁，离治愈还有多远？ | `01_nobel_is_not_a_cure.png` | 小红书 · Curify（建议） | 待定 | | | | |
+| ◻︎ 素材就绪 | 2 · 神经元听光指挥，关键不只是光 | `02_how_optogenetics_works.png` | 小红书 · Curify（建议） | 待定 | | | | |
+| ◻︎ 素材就绪 | 3 · 抑郁症不是一场意志力考试 | `03_depression_is_not_weakness.png` | 小红书 · Curify（建议） | 待定 | | | | |
