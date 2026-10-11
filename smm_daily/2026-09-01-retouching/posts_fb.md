@@ -1,5 +1,7 @@
 # FB Groups · Retouching — 15 posts in five voices (2026-09-01)
 
+> **2026-10-11 update:** C8–C11 are explicitly requested synthetic-model scene demos. They follow C7 in this queue. Earlier blanket child-imagery exclusions in this historical file are superseded for this specific synthetic set; the new assets are not client photographs.
+
 _The buyer here is a **photographer or a studio**: someone who shoots people and needs
 post. Apparel and listing work moved to
 [`../2026-09-01-ecommerce/posts_fb.md`](../2026-09-01-ecommerce/posts_fb.md) on
@@ -77,8 +79,12 @@ also the better thing to put in a buyer group first.
 | ✅ **10-08** | — | 🏠 R | **R4** · day to dusk, from the photo you already took | `r4-day-to-dusk.jpg` | sent with the **batch CTA** (see R4); group(s) not recorded — fill in | | | |
 | ✅ **reported 10-09** | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | a **real estate photos** group (name not recorded) · batch CTA — first post in this file with a real client frame | | | |
 | ✅ **reported 10-09** | — | 🧸 C | **C7** · shoot once, sell every season | `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg` | a **kids & babies photographer** group (name not recorded) · batch CTA | | | |
+| ◻︎ | after C7 | 🧸 C | **C8** · Jurassic rainforest | `demos/scene-worlds-2026-10-11/01-jurassic-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ◻︎ | after C7 | 🧸 C | **C9** · Hogwarts-inspired hall | `demos/scene-worlds-2026-10-11/02-hogwarts-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ◻︎ | after C7 | 🧸 C | **C10** · Frozen-inspired ice palace | `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ◻︎ | after C7 | 🧸 C | **C11** · Asgard-inspired golden city | `demos/scene-worlds-2026-10-11/04-asgard-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
 
-**14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
+**Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
 and is the cross-post into the child groups. `r1`–`r3` are diagram cards built by `make_r_cards.py` — Voice R has no before/after
 because we have never delivered a real-estate edit (see the voice). C7 runs `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg`
@@ -1278,3 +1284,81 @@ From the sheen of leather heels to the satin finish of bridal shoes and the soft
 状态：◻︎ 草稿，未发布。商业摄影工作室的 AI 风格样片；服装与静物各一篇。
 
 完整文案及配图说明：[posts_fb.md](2026-10-08-editorial-collection-v3/posts_fb.md)。两张主参考与一张配饰补充参考在同目录 references/，仅用于内部对照。
+
+## 2026-10-11 · Cinematic scene enhancement C8–C11
+
+The user explicitly requested these synthetic-child examples for this retouching sequence. They reuse the existing AI-generated source and contain no real child or client photograph. Earlier blanket exclusions in this historical file do not apply to this specifically authorized synthetic set. Queue C7 → C8 → C9 → C10 → C11 at the existing cadence; do not displace scheduled posts. All four are ready drafts, not platform-scheduled.
+
+Use each English before/after card as a single-image FB post. Keep `overview-en.jpg` as an optional collection asset, not a duplicate same-day post.
+
+### C8 · Jurassic rainforest
+
+**Attach:** `demos/scene-worlds-2026-10-11/01-jurassic-before-after-en.jpg`
+
+**A dinosaur world, from one studio portrait.**
+
+Tree ferns, soft mist and distant herbivores turn the plain backdrop into an adventure scene. The dinosaurs stay in the background; the portrait remains the focal point.
+
+Both frames start from the same AI-generated model source. This is a retouching concept, not a client session or an on-location photograph.
+
+For a useful review, compare more than the scenery: zoom in on the face, hair, hands, knit texture and silhouette edges against the source. Those are the checks that reveal whether a background edit has drifted into changing the subject.
+
+Which scene direction would you test with your next studio concept?
+
+First comment:
+We can develop a batch of scene concepts around one reference portrait and a written brief. Send the setting, mood and details that need to stay consistent.
+https://www.curify-ai.com/en/nano-template/studio-digital-backdrop-scene
+
+### C9 · Hogwarts-inspired hall
+
+**Attach:** `demos/scene-worlds-2026-10-11/02-hogwarts-before-after-en.jpg`
+
+**The magic is in the background.**
+
+Gothic arches, floating candles and a starry ceiling establish the wizard-school atmosphere. The theme comes from the setting: no glasses, school uniform or costume added to the child.
+
+Both frames start from the same AI-generated model source. This is a retouching concept, not a client session or an on-location photograph.
+
+For a useful review, compare more than the scenery: zoom in on the face, hair, hands, knit texture and silhouette edges against the source. Those are the checks that reveal whether a background edit has drifted into changing the subject.
+
+Which scene direction would you test with your next studio concept?
+
+First comment:
+We can develop a batch of scene concepts around one reference portrait and a written brief. Send the setting, mood and details that need to stay consistent.
+https://www.curify-ai.com/en/nano-template/studio-digital-backdrop-scene
+
+### C10 · Frozen-inspired ice palace
+
+**Attach:** `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg`
+
+**An ice-palace portrait without a costume change.**
+
+Crystal columns, frost patterns and a distant staircase create an Elsa-style ice-palace setting. The original navy jumper stays in the image; the environment carries the change of world.
+
+Both frames start from the same AI-generated model source. This is a retouching concept, not a client session or an on-location photograph.
+
+For a useful review, compare more than the scenery: zoom in on the face, hair, hands, knit texture and silhouette edges against the source. Those are the checks that reveal whether a background edit has drifted into changing the subject.
+
+Which scene direction would you test with your next studio concept?
+
+First comment:
+We can develop a batch of scene concepts around one reference portrait and a written brief. Send the setting, mood and details that need to stay consistent.
+https://www.curify-ai.com/en/nano-template/studio-digital-backdrop-scene
+
+### C11 · Asgard-inspired golden city
+
+**Attach:** `demos/scene-worlds-2026-10-11/04-asgard-before-after-en.jpg`
+
+**A golden realm around the same portrait.**
+
+Golden towers, cloud-filled valleys and a distant rainbow bridge build an Asgard-inspired setting. A broad terrace keeps the foreground grounded. No armour or weapon is added; the edit explores depth and light around the existing portrait.
+
+Both frames start from the same AI-generated model source. This is a retouching concept, not a client session or an on-location photograph.
+
+For a useful review, compare more than the scenery: zoom in on the face, hair, hands, knit texture and silhouette edges against the source. Those are the checks that reveal whether a background edit has drifted into changing the subject.
+
+Which scene direction would you test with your next studio concept?
+
+First comment:
+We can develop a batch of scene concepts around one reference portrait and a written brief. Send the setting, mood and details that need to stay consistent.
+https://www.curify-ai.com/en/nano-template/studio-digital-backdrop-scene
