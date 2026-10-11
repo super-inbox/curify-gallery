@@ -2,7 +2,7 @@
 
 ## Publication schedule
 
-**Updated 2026-10-10:** Jay confirmed that all four Fashion × culture videos are **scheduled on Instagram**. Scheduled publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
+**Queue updated 2026-10-11:** Three overhead costume videos added as Q1–Q3, pending review and scheduling on all platforms. No platform scheduling has been performed for this batch. **Previous confirmation (2026-10-10):** Jay confirmed that all four Fashion × culture videos are **scheduled on Instagram**. Scheduled publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
 
 | Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
 |---|---|---|---|---|
@@ -10,10 +10,13 @@
 | One Sarong, Three Moods | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
 | Chinese Silhouettes Remixed | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
 | Feitian · The Lost Name | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
+| Q1 · Glowstick Wardrobe · Chinese Embroidery | **Queued / not scheduled** | Not set | Queued / draft | Playful reveal; embroidery and colour details. |
+| Q2 · Fan Sweep · Asian Silhouettes | **Queued / not scheduled** | Not set | Queued / draft | Playful suspense; silhouette and drape. |
+| Q3 · Glowstick Wardrobe · World Textiles | **Queued / not scheduled** | Not set | Queued / draft | Curious textile discovery; distinct references. |
 
-**Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. The four fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
+**Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. All fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
 
-This table tracks the four new videos. Earlier destination-publication history remains in [README.md](README.md#schedule--log). Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
+This table tracks the four previously scheduled videos and three new queued videos. Earlier destination-publication history remains in [README.md](README.md#schedule--log). Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
 
 ---
 
@@ -510,3 +513,54 @@ Want to explore your own costume-inspired looks? Discover **batch fashion try-on
 ---
 
 Production inspiration: the supplied `fashion_Renaissance.mp4` and [NANYA’s styling reel](https://www.instagram.com/p/DeHK5jMTCm6/). NANYA’s footage, face, audio and branding are not used in these films. No affiliation or client relationship is implied.
+
+
+---
+
+## Overhead costume transitions — Facebook + Instagram shared copy
+
+Created 2026-10-11. Proposed queue order Q1 → Q2 → Q3, after the already scheduled batch; publishing slots remain unset. 15-second vertical videos with the existing 3-second Curify ending. [Production log](2026-10-11-overhead-costume/README.md).
+
+### Q1 · Glowstick Wardrobe · Chinese Embroidery
+
+**Video:** [glowstick-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) · 15s · 1080 × 1920
+
+One glowstick sweep. A different page of the wardrobe. ✨
+
+Miao-inspired embroidery and silver accents → Bai-inspired blue and white → Yi-inspired pleated black and colourful borders.
+Same overhead frame. Three looks to pause on. Which detail caught your eye first?
+
+AI fashion interpretations drawn from our costume templates.
+Try your own **batch fashion try-on** at **https://curify-ai.com**.
+
+#Curify #BatchFashionTryOn #AIFashion #OutfitTransition #Embroidery #FashionInspiration
+
+### Q2 · Fan Sweep · Asian Silhouettes
+
+**Video:** [fan-sweep-asian-silhouettes-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) · 15s · 1080 × 1920
+
+Wait for the fan sweep. 👀
+
+One overhead frame, three silhouette changes: kimono-inspired layers, a hanbok-inspired full skirt, then a sari-inspired drape.
+The fan gets the transition. The fabric gets the spotlight.
+
+Which look would you replay: 1, 2 or 3?
+AI fashion interpretations made from our costume templates.
+Explore **batch fashion try-on** at **https://curify-ai.com**.
+
+#Curify #BatchFashionTryOn #FanTransition #AIFashion #StyleExperiment #OutfitChange
+
+### Q3 · Glowstick Wardrobe · World Textiles
+
+**Video:** [glowstick-world-textiles-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4) · 15s · 1080 × 1920
+
+Embroidery. Flowers. Ikat. A whole mood change with one light sweep. ✨
+
+This wardrobe study takes inspiration from Ukrainian vyshyvanka embroidery, Tehuantepec floral dress and Uzbek atlas textiles.
+Three distinct references, reimagined in the same overhead frame.
+
+Which texture deserves the next close-up?
+AI fashion interpretations, including a contemporary womenswear take on the atlas robe.
+Make your own set with **batch fashion try-on**: **https://curify-ai.com**.
+
+#Curify #BatchFashionTryOn #TextileInspiration #AIFashion #Ikat #Embroidery

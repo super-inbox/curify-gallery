@@ -328,3 +328,58 @@ Curify 原创 AI 时装示例。访问 **curify-ai.com**，体验 **Batch fashio
 ##飞天 #敦煌灵感 #AI短片 #古风美学 #AI换装 #Curify
 
 **快手版本：** 如果飞天忘了自己的名字，会发生什么？原创 AI 幻想短片《飞天·失名》。想做自己的古风造型和批量换装，访问 curify-ai.com。
+
+
+---
+
+## 2026-10-11 · 俯拍换装系列（小红书 / 快手）
+
+**状态：Q1–Q3 待审核、待排期；未预约发布。** 沿用原版 3 秒 Curify 片尾。中英文平台使用相同视频，以下为中文发布文案。
+
+| 顺序 | 视频 | 小红书 | 快手 | 日期 |
+|---|---|---|---|---|
+| Q1 | 荧光棒一扫，民族服饰灵感换一页✨ | 待排期 | 待排期 | 未设置 |
+| Q2 | 扇叶扫过去，下一套就来了🌀 | 待排期 | 待排期 | 未设置 |
+| Q3 | 同一个镜头，换三种织物心情✨ | 待排期 | 待排期 | 未设置 |
+
+### Q1 · 荧光棒一扫，民族服饰灵感换一页✨
+
+**视频：** [glowstick-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) · 15秒 · 1080 × 1920
+
+镜头不动，人也不用起身。
+荧光棒扫过，苗绣与银饰灵感、白族蓝白穿搭、彝族黑色百褶与彩色镶边，依次登场。
+
+你先注意到的是刺绣、银饰，还是配色？
+这是基于服饰模板的 AI 时装灵感演绎。
+
+想把一张照片变成一组穿搭？试试 **批量时装试穿（batch fashion try-on）**，访问 **https://curify-ai.com**。
+
+#Curify #AI换装 #批量换装 #民族服饰灵感 #荧光棒换装
+
+### Q2 · 扇叶扫过去，下一套就来了🌀
+
+**视频：** [fan-sweep-asian-silhouettes-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) · 15秒 · 1080 × 1920
+
+躺在榻榻米上，换装交给镜头前的扇叶。
+和服层次 → 韩服裙摆 → 纱丽垂褶，三种轮廓，一次俯拍实验。
+
+你想在哪一套按暂停：1、2，还是3？
+服装来自模板灵感的 AI 演绎。
+
+想试自己的不同造型？用 **批量时装试穿（batch fashion try-on）**，访问 **https://curify-ai.com**。
+
+#Curify #电扇换装 #俯拍换装 #AI时装 #批量换装
+
+### Q3 · 同一个镜头，换三种织物心情✨
+
+**视频：** [glowstick-world-textiles-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4) · 15秒 · 1080 × 1920
+
+白底红黑刺绣、大朵花绣、明亮的艾德莱斯纹样。
+这次把乌克兰 vyshyvanka、墨西哥特万特佩克服饰、乌兹别克 atlas 织物，变成三套俯拍换装灵感。
+
+荧光棒一过，你最想留下哪一套？
+AI 时装演绎；atlas 长袍采用当代女装搭配。
+
+把你的照片也做成一组穿搭：**批量时装试穿（batch fashion try-on）**，访问 **https://curify-ai.com**。
+
+#Curify #全球服饰灵感 #织物之美 #荧光棒换装 #AI换装

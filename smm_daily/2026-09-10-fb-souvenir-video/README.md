@@ -237,3 +237,8 @@ checked against both before it is counted twice.
 [Three fashion shorts + Feitian with the batch fashion try-on ending](2026-10-10-fashion-culture/README.md). Includes shared English captions for Facebook/Instagram and Chinese captions for 小红书/快手, with the requested curify-ai.com CTA. All four are prepared and **not posted**.
 
 The 2026-10-10 fashion captions are now consolidated in [posts_fb.md](posts_fb.md) (shared FB/Instagram English) and [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md) (Chinese).
+
+
+## 2026-10-11 · Overhead costume transitions
+
+Three new 15s vertical videos: glowstick / Chinese embroidery, fan sweep / Asian silhouettes, glowstick / world textiles. **Queued Q1–Q3; not scheduled or published.** All use the existing Batch fashion try-on + curify-ai.com ending. [Assets and production record](2026-10-11-overhead-costume/README.md). English captions in [posts_fb.md](posts_fb.md#overhead-costume-transitions--facebook--instagram-shared-copy); Chinese captions in [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md).
