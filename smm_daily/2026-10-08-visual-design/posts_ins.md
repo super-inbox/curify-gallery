@@ -38,8 +38,10 @@ for one product category, already published on RedNote, and it shows the same ba
 | 🗓️ (date not given) | **V12** Country tourism posters | _not a template post_; now a template: `template-country-tourism-collage-poster` | — | **`countries-france.jpeg`** + `countries-mexico.jpeg` · `countries-india.jpeg` · `countries-saudi.jpeg` | 📦 Batch | ⚠️ Saudi poster carries the official **Vision 2030** logo; remove it or drop the slide. ⚠️ India is 2:3 while the rest are 4:5, so keep it off slide 1 and expect a crop |
 | ◻︎ | **V13** Fashion AI sample board | _not a template_: original AI board, 8 frames | — | **`01-fashion-page2-v3.png`** (single image) | 👗 Fashion | B2B pitch to commercial studios. The board is 3000×2563 (≈1.17:1 landscape), which IG accepts as is; `rn-fashion-page2-v3-3x4.jpg` is the RedNote padding, not needed here |
 | ◻︎ | **V14** Still-life AI sample board | _not a template_: original AI board, 8 frames | — | **`02-still-life-page2-v3.png`** (single image) | 📦 Batch | Same as V13. Bottles, bags and jewellery are imagined, not reproductions of a client's product |
+| ◻︎ | **V15** What makes a gateway feel heavenly? | `media-theme-wallpaper-poster` | — | `celestial-south-heavenly-gate-ig-4x5.jpg` | 📦 Batch | Added 2026-10-11; after V14, not platform-scheduled |
+| ◻︎ | **V16** Through the gate. Into the celestial court. | `media-theme-wallpaper-poster` | — | `celestial-jade-emperor-palace-ig-4x5.jpg` | 📦 Batch | Added 2026-10-11; after V14, not platform-scheduled |
 
-**Suggested order:** V3 → V2 → V11 → V12 → V4 → V13 → V1 → V8 → V14 → V6 → V10 → V9 → V7 → V5.
+**Original suggested order (existing schedule takes precedence):** V3 → V2 → V11 → V12 → V4 → V13 → V1 → V8 → V14 → V6 → V10 → V9 → V7 → V5.
 This differs from RedNote on purpose: English-text and fashion carousels go first, and
 Chinese-language pieces (V7, V5) go last for this audience. V11 sits between the fashion posts
 because it's the most direct product-visual pitch in the batch. V13 follows the fashion run
@@ -369,3 +371,43 @@ set of frames. We also do **fashion visuals** and **photo retouching**. DM "STIL
 category and reference mood, or link in bio.
 
 #stilllifephotography #productphotography #fragrancephotography #jewelryphotography #commercialphotography #creativedirection #aidesign
+
+## 2026-10-11 · Celestial realm queue extension
+
+Queue: existing V14 → V15 South Heavenly Gate → V16 Jade Emperor’s Palace. Both are ready drafts; existing scheduled posts stay in place.
+
+## V15 · What makes a gateway feel heavenly?
+
+**Attach:** `celestial-south-heavenly-gate-ig-4x5.jpg`
+
+**Hook: What makes a gateway feel heavenly?**
+
+A staircase disappearing into cloud. A jade-and-gold gate that dwarfs the mountain. A tiny monkey watching from the foreground.
+
+The scale tells the story before a character says a word. This original AI-generated Chinese-mythology concept uses a dark foreground, a warm opening and layers of distant palaces to lead the eye through the scene.
+
+Would you start the story at the gate—or show what is waiting beyond it?
+
+Building a visual series around a story or game world? Send us the theme and the mood you want to carry across the set. Template via the link in bio.
+
+#VisualDevelopment #ChineseMythology #EnvironmentDesign #AIConceptArt #PosterDesign
+
+Bio destination: https://www.curify-ai.com/en/nano-template/media-theme-wallpaper-poster
+
+## V16 · Through the gate. Into the celestial court.
+
+**Attach:** `celestial-jade-emperor-palace-ig-4x5.jpg`
+
+**Hook: Through the gate. Into the celestial court.**
+
+For the second image, the viewpoint moves closer. Jade terraces, a long marble approach and a luminous golden hall give the same fictional world a different centre of gravity.
+
+The palette stays connected to the gateway poster: midnight blue, cloud white and restrained gold. The composition changes from an opening in the landscape to a destination.
+
+Original AI-generated mythology concept art. Which detail anchors the world for you—the bridge, the throne hall or the cloud ravines?
+
+Building a visual series around a story or game world? Send us the theme and the mood you want to carry across the set. Template via the link in bio.
+
+#VisualDevelopment #ChineseMythology #EnvironmentDesign #AIConceptArt #PosterDesign
+
+Bio destination: https://www.curify-ai.com/en/nano-template/media-theme-wallpaper-poster
