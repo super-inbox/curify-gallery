@@ -16,13 +16,12 @@
 
 **Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. All fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
 
-This table tracks the seven Instagram-scheduled videos. Earlier destination-publication history remains in [archived posting history](README_archive.md#schedule--log). Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
+This table tracks the seven Instagram-scheduled videos. Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
 
 ---
 
 _Companion file: **[`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md)** (小红书／快手, Chinese).
-The destination asset table, historical publish status and place × trade matrix are in
-**[`README_archive.md`](README_archive.md)**. The table above tracks the new fashion/culture batch; this file holds the English copy._
+The table above tracks the fashion/culture batch; this file holds the English copy._
 
 **What changed 2026-09-12:** three new destination films
 (**Bali · melukat**, **Dubai · the creek**, **Granada · Alhambra**) and two rebuilt ones,
@@ -55,7 +54,7 @@ paragraph the property owns, one ask that serves both.
 
 ## Assets — which file goes with which post
 
-**The historical asset table and publication log are preserved in [`README_archive.md`](README_archive.md)** — an archive of the previous folder README. The short version, all under `cultural_videos/`:
+Destination video assets, all under `cultural_videos/`:
 
 `bali/bali-melukat-30s-watermarked.mp4` · `dubai/dubai-creek-30s-watermarked.mp4` ·
 `granada/granada-alhambra-30s-watermarked.mp4` · `kyoto/kyoto-kimono-30s-watermarked.mp4` ·
@@ -252,8 +251,7 @@ for this thread's CTA: **DM in the body, `curify-ai.com` in the first comment.**
 
 The dual-audience copy above is for **destination groups**, where travellers and businesses sit
 together. In a single-trade room, cut the half that doesn't apply and use the matching voice from
-**[the five single-trade variants below](#the-five-single-trade-variants)**
-(matrix in [`README_archive.md`](README_archive.md)):
+**[the five single-trade variants below](#the-five-single-trade-variants)**:
 
 - **`Bali photographers` / `Kyoto photographers`** → G1. Cut the traveller paragraph. Lead on
   "an add-on to the package you already sell."
