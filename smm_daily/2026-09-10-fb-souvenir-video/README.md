@@ -1,165 +1,399 @@
-# Souvenir video — SMM thread (opened 2026-09-10)
+# Facebook / Instagram · Souvenir + fashion culture videos
 
-A visitor's photo becomes a ~30s cinematic film of the place they were. Sold as an add-on to a
-photo package that already exists, with **no second shoot**.
+## Publication schedule
 
-This file is the whole strategy: assets, publish status, the voice matrix, the red lines and the
-log. The copy lives in two channel files.
+**Schedule updated 2026-10-12:** Jay confirmed that Q1–Q3 are **scheduled on Instagram**. Together with the four Fashion × culture videos confirmed on 2026-10-10, all seven videos below are scheduled on Instagram. Publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
 
-| file | what it is |
-|---|---|
-| [`posts_fb.md`](posts_fb.md) | English copy for Facebook groups, plus shared Facebook/Instagram fashion captions — 5 destinations, dual traveller + resort/hotel voice, plus the five single-trade variants. CTA: DM in body, `curify-ai.com` in first comment |
-| [`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md) | 中文 copy for 小红书 / 快手 — earlier 5 destinations use 私信; the 2026-10-10 fashion batch uses the requested website CTA |
-
----
-
-## Assets × publish status
-
-**5 destinations.** Post masters (22–39MB, watermarked) in
-`curify-gallery/cultural_videos/<destination>/`, built by
-`curify-studio/dev/jayw/video_pipelines/costume_story_video/`.
-
-**`demos/tourism-souvenir-demo-09-08/`** — moved into this thread 2026-09-14 from
-`curify-gtm/client_VC_portfolio/smm/`. These are the **email-sized cuts** (2.5–5.4MB) of the same five
-destinations, and they are **live attachments**: `gtm_tools/batch_tourism_2026-09-08.json`
-and `batch_hotels_2026-09-12.json` attach them by absolute path. Those paths had been broken
-since the folder was moved outside git; they are repointed here and now resolve. **Do not
-move `demos/` without updating those two files.** Use the `cultural_videos/` masters for
-social posts and the `demos/` cuts for email — a 39MB attachment will not send.
-
-✅ posted · ◻︎ not yet · ⛔ never
-
-| Destination | Asset (`cultural_videos/`) | FB groups | 小红书 | 快手 |
+| Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
 |---|---|---|---|---|
-| **Bali · melukat** | `bali/bali-melukat-30s-watermarked.mp4` (39MB) | ✅ **09-13** — found via `bali photographer`, `bali villa` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
-| **Dubai · the creek** | `dubai/dubai-creek-30s-watermarked.mp4` (28MB) | ✅ **09-13** `dubai resorts`/`dubai travel` · ✅ **09-17** `dubai photography` 🔴 撞群 | ◻︎ 🔴 未发 | ⚠️ 待确认 |
-| **Granada · Alhambra** | `granada/granada-alhambra-30s-watermarked.mp4` (36MB) | ✅ **09-13** — `granada`, `granada tour` | ◻︎ 🔴 未发 | ⚠️ 待确认 |
-| **Kyoto · kimono** | `kyoto/kyoto-kimono-30s-watermarked.mp4` (30MB) | ✅ **09-17** — via `kimono`（另有更早一次 pre-log，群未记录） | ◻︎ | ◻︎ |
-| **China · 滕王阁** | `tengwangge/tengwangge-30s-preview-watermarked.mp4` (22MB) | ◻︎ *(earlier, pre-log)* | ◻︎ | ◻︎ **best first pick** — no positioning conflict, largest 文旅/汉服 base |
-| ~~Bali v1 · resort~~ | `bali/bali-resort-30s-watermarked.mp4` | ⛔ superseded | ⛔ | ⛔ |
-| ~~Dubai v1 · desert~~ | `dubai/dubai-desert-30s-watermarked.mp4` | ⛔ superseded | ⛔ | ⛔ |
-| 滕王阁 `-realmodel` / `-v3` | `tengwangge/…` | ⛔ **never** | ⛔ | ⛔ |
-| Santorini | — | ❌ no demo — do not post the pitch there | ❌ | ❌ |
+| Fashion Time Machine | **Scheduled** | Not recorded | Draft / not posted | Playful fashion discovery; invite viewers to choose an era. |
+| One Sarong, Three Moods | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
+| Chinese Silhouettes Remixed | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
+| Feitian · The Lost Name | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
+| Q1 · Rollover Wardrobe · Chinese Embroidery | **Scheduled** | Not recorded | Queued / draft | Playful rollover reveal; embroidery and colour details. |
+| Q2 · Fan Sweep · Asian Silhouettes | **Scheduled** | Not recorded | Queued / draft | Playful suspense; silhouette and drape. |
+| Q3 · Glowstick Wardrobe · World Textiles | **Scheduled** | Not recorded | Queued / draft | Curious textile discovery; distinct references. |
 
-### ✅ 09-17 · 京都进 `kimono` 群 —— 矩阵里贴合度最高的一格，而且是按计划走的
+**Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. All fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
 
-这一格本来就排在表上，说明写的是「tightest offer-to-buyer fit」，现在跑了。
-
-⭐ **它之所以是最紧的一格：和服体验的客人本来就是为「留个纪念」付的钱。**
-升级那个纪念品不需要额外论证 —— 不像跟摄影师解释"这是可以加价卖的加购项"，
-和服店老板自己就知道客人要带什么回家。这也是唯一一格 demo 和买家完全同源的：
-`kyoto-kimono-30s` 拍的就是这件事本身。
-
-**回来看什么：** 问「一条多少钱」「能不能挂我们店名」→ 体验商家在算加购账，对了；
-问「用什么软件做的」→ 落到了同行摄影师手里，那是 G1 不是 G3。
-
-### 🔴 09-17 · 迪拜进 `dubai photography` 群 —— 买家对，但和修图线三天内撞了同一批人
-
-`../2026-09-01-retouching/posts_fb.md` 的 **W3（09-14）** 发进了四类群，
-其中两类是 **`dubai photographer`** 和 `UAE photographer`。
-今天旅拍的迪拜片子又发进 **`dubai photography`** 群。
-
-**买家没错 —— 目的地摄影师本来就同时是这两样东西的买家**：
-他们拍片所以需要后期，他们卖套餐所以可以加卖纪念短片。
-`2026-09-10-fb-three-campaigns/campaign_matrix.md` 里 Dubai 这一格本来就写着两条线配对。
-
-**错的是节奏。** 标准是「一个群每 ~3 天一帖」，而且**从来不是两个不同的报价**。
-现在的情况可能是：同一批迪拜摄影师 09-14 收到"我们做白标修图"，
-09-17 收到"把客人照片做成纪念短片"。**三天两个不同的生意**，读起来就是广撒网 ——
-而评论区触达这套打法的全部前提就是不广撒网。
-
-**这是第二次撞了，而且方向反过来了。** 09-14 记的那次是修图 W3 撞进旅拍的 `dubai travel`；
-这次是旅拍撞进修图的 `dubai photographer`。两张排期表互相看不见，所以**这会一直发生**。
-
-⚠️ **下一条迪拜内容之前必须做的两件事：**
-1. **把两个线程的迪拜群 ID 对一遍。** 真重叠了就**给那个房间只留一个 offer**。
-2. **选哪一个：留旅拍短片。** 理由是它是**加购**不是替代 ——
-   摄影师可以把它加进现有套餐去卖，不用换掉任何现有供应商；
-   白标修图要求他们换掉或补上一个后期环节，决策更重、周期更长。
-   先卖那个更容易说"好"的。
-
-### 🔴 09-14 · 和修图线撞群的风险（Dubai）
-
-`../2026-09-01-retouching/posts_fb.md` 的 **W3** 在 09-14 发进了四类群，其中一类是
-**`dubai travel`** —— 而本线程 09-11 的迪拜投放正是 *travel · agents · tourism*。
-
-**如果是同一个群，它在三天内收到了我们两个不同的报价**：先是给他们客人做的纪念短片，
-再是给摄影师做的修图。这读起来就是广撒网，而"评论区触达"这套打法的全部前提是不广撒网。
-
-⚠️ **下一条迪拜内容发出去之前，把两个线程的群 ID 对一遍。** 两张排期表互相看不见 ——
-它们是两个文件、两张表，这是第一次撞上。真撞了就**给那个房间只留一个 offer**：
-**留旅拍短片** —— 那批人手里有的是客人，不是相机；修图那条对他们没有意义。
-
-### Two things the 09-13 round still owes the log
-
-1. **Group names and member counts.** The search keywords above record *how* the groups were
-   found, not *which* groups received the post or how big they were. Without the group and its
-   size there is no denominator, and the cell cannot be compared to anything — the exact failure
-   already sitting in `gtm_tools/outreach_denominator.csv` for RedNote, where a ¥27,800 close has
-   no denominator and so compares to nothing. Fill these in from the posting history while it is
-   still recoverable.
-2. 🔴 **更正（09-14）：小红书那三条没有发过。** 这一条原本写的是"三条已经违反定位文档发出去了"，
-   并据此要求去改 `smm-account-positioning-playbook-2026-07-05.md`。**前提是错的，要求也撤回。**
-   小红书这条渠道还没开张，定位冲突仍然是**未解的前置条件**，不是既成事实 ——
-   处理方式见 `../2026-09-01-retouching/posts_rednote.md` 开头那一节：改文档，或者开第三个号，二选一。
-   同一批记录里的快手三条也需要核实。
-   ⚠️ 教训：**把没发的记成已发，比空着更危险** —— 空着只是缺数据，记错会让后面每个判断都建在假分母上。
-
-⚠️ **Music on Bali / Dubai / Granada is a neutral placeholder** (`leberch-travel`). Each
-`project.json` records what its edit is actually scored for (gamelan/suling · oud over frame drum ·
-nylon-string guitar into bulería). Fine for a group post; replace before any of these becomes a
-paid deliverable or a flagship ad.
-
-### Why v1 Bali and Dubai were rebuilt (2026-09-12)
-
-Both were technically clean and commercially flat, same diagnosis twice: **eleven near-identical
-full-body wides**, one light (nine of eleven Bali frames were golden hour), nobody else in frame,
-and a wardrobe that fought the piece — Bali's ivory maxi dress is not admissible temple dress, and
-Dubai's cream abaya vanished against cream sand for eleven consecutive shots.
-
-The rebuilds fix the shot grammar (4 wides / 4 mediums / 2 no-face detail shots / exactly one
-close-up on the emotional beat), put the character *inside* a named ritual instead of walking past
-scenery, fill the frames with people, and walk the light from cold dawn to lamplight. Two shipped
-bugs also surfaced and are fixed: v1 Bali's **final frame is rotated 90°**, and both v1 pieces ran
-their theme line off the bottom of the frame reading `one photo, one fi`.
-
-Full post-mortem and the cultural research with sources: that pipeline's `README.md` and
-`STORYLINES.md`.
-
-The costume try-on library is still **Chinese costumes only** — extending it is what unlocks
-destinations beyond these five.
+This table tracks the seven Instagram-scheduled videos. Earlier destination-publication history remains in [archived posting history](README_archive.md#schedule--log). Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
 
 ---
 
-## The two rules that decide whether this works
+_Companion file: **[`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md)** (小红书／快手, Chinese).
+The destination asset table, historical publish status and place × trade matrix are in
+**[`README_archive.md`](README_archive.md)**. The table above tracks the new fashion/culture batch; this file holds the English copy._
 
-**1. The demo must be of the place the group is about.** A Kyoto video in a Bali group is the
-generic pitch this whole design exists to avoid — the advantage is that the viewer recognises their
-own location before reading a word. **The place name and the video swap together, never one
-without the other.**
+**What changed 2026-09-12:** three new destination films
+(**Bali · melukat**, **Dubai · the creek**, **Granada · Alhambra**) and two rebuilt ones,
+taking the library from 2 usable destinations to 5. Bali and Dubai v1 are superseded and
+**must not be posted** — see the asset table.
 
-**2. The voice must match the trade, not just the place.** These groups are *not* one audience cut
-five ways by geography. A destination photographer sells sessions; a tour operator sells seats and
-has never edited a photo; a hotel sells rooms and is buying marketing, not a product to resell. To
-a photographer "no second shoot" is the hook; to an operator it is meaningless because they were
-never shooting.
+---
 
-Both apply at once: **place × trade**. Get either wrong and it reads as the cold pitch that failed
-in `Product Photography`-type groups.
+## Destination-souvenir voice: traveller + property
 
-## Groups × voice
+Every earlier version of this pitch was B2B only — photographer, operator, hotel. These are
+written so the **traveller** and the **property** can both read the same post and each find
+themselves in it, because in a destination group both are standing in the room.
 
-Pick the row by **who is in the group**, then swap in the destination and its video. Full copy for
-each is in [`posts_fb.md`](posts_fb.md).
+It works because the two readings share a single sentence — *one photo becomes a 30-second
+film of the place you were* — and split only on who benefits:
 
-| Voice | Group shape | Who they are | What they're actually buying |
-|---|---|---|---|
-| 🌍 **dual** | destination groups — travellers *and* businesses in one room | both | *the* default since 09-12; traveller para + property para, one ask |
-| 📸 **G1** Destination photographer | `Bali photographers`, `Kyoto photographers` | sells sessions, edits their own work | a new line item on a package they already sell |
-| 💍 **G2** Wedding / elopement | `Bali wedding photographers`, `Destination weddings` | higher ticket, already sells a film | ⚠️ **not** a film. The short social cut the couple posts that week |
-| 👘 **G3** Costume & cultural experience | `Kimono photographers`, `Hanfu photography` | rents the costume, shoots as part of the experience | the souvenir the guest came for, upgraded |
-| 🚐 **G4** Tour operator / safari / villa | `Bali villa & tour operators`, `Dubai desert safari operators` | **does not shoot** — sells seats and stays | a per-guest upsell needing no photography skill |
-| 🏨 **G5** Luxury travel trade & expat business | `UAE luxury travel`, `Bali expats & business owners` | hotels, concierges, agencies | content for their own property, and a referral line |
+| | the traveller reads | the resort / hotel reads |
+|---|---|---|
+| **What it is** | the version of my trip I'd actually post | a souvenir I can sell or include, with no shoot |
+| **What it costs them** | one photo they already took | nothing to stock, nothing to ship, never runs out |
+| **The proof needed** | that it looks like *there* | that it carries their name, not ours |
+| **The ask** | send a photo, get one free | send a guest photo (with their OK), get one free |
+
+**Do not write two posts.** A post that switches audience mid-way reads as a pitch to
+neither. The structure below is: open on the film, one paragraph the traveller owns, one
+paragraph the property owns, one ask that serves both.
+
+---
+
+## Assets — which file goes with which post
+
+**The historical asset table and publication log are preserved in [`README_archive.md`](README_archive.md)** — an archive of the previous folder README. The short version, all under `cultural_videos/`:
+
+`bali/bali-melukat-30s-watermarked.mp4` · `dubai/dubai-creek-30s-watermarked.mp4` ·
+`granada/granada-alhambra-30s-watermarked.mp4` · `kyoto/kyoto-kimono-30s-watermarked.mp4` ·
+`tengwangge/tengwangge-30s-preview-watermarked.mp4`
+
+> ⛔ **Check the filename before every upload.** Three files in those folders must never be
+> posted: `tengwangge-30s-realmodel` and `tengwangge-30s-v3` reproduce a **real model's likeness
+> with no release on file** (tender material, private repo), and `bali-resort-30s` /
+> `dubai-desert-30s` are the superseded v1 cuts. The 滕王阁 file that posts is **`-preview`**,
+> which is built on a synthetic character. If in doubt, post Kyoto.
+
+The five destinations above depict **original invented characters** — no real person, no real
+property, no visible brand mark, every sign blank by instruction. No release is needed, and none
+may be captioned as a guest, a client session, or any named hotel's official content.
+
+⚠️ **Music on Bali / Dubai / Granada is a neutral placeholder.** Fine for a group post; replace
+before any becomes a paid deliverable or a flagship ad.
+
+---
+
+## Destination-souvenir CTA, and where it goes
+
+**In the post body: DM only.** Facebook throttles posts with outbound links, and this house
+rule predates the souvenir line — it is why every earlier post here ends on a DM line.
+
+**In the first comment: `curify-ai.com`.** Post it yourself, immediately, so it sits at the
+top of the thread.
+
+> *First comment, every post:*
+> "Examples and how it works → **curify-ai.com** — or just DM me a photo and I'll make one."
+
+Never put the domain in the body. Never post a carousel — single native video upload, proven
+on FB·Curify.
+
+---
+
+# The five posts
+
+Each is one destination, one video, native upload. **Swap the place name and the video
+together, never one without the other** — a Kyoto film in a Bali group is the generic pitch
+this whole design exists to avoid.
+
+---
+
+## 🇮🇩 Bali — `bali-melukat-30s`
+
+> **Thirty seconds of Bali, made from one photograph.**
+>
+> No crew, no second shoot, no drone. One still went in; this came out — the morning offering,
+> the sash being tied, the water at the spring, the rice terrace, the gamelan at dusk.
+>
+> **If you've been to Bali:** you already have the photo. It's somewhere in a camera roll with
+> four hundred others, and it has been looked at twice. This is the version that gets posted —
+> the one your friends actually watch to the end, of the day you actually had.
+>
+> **If you run a villa, a resort or an experience in Bali:** this is a souvenir with nothing to
+> stock, nothing to ship and no way to run out. A guest sends one photo at checkout and leaves
+> with a film of your place, under your name if you want it that way. It costs you no
+> photography skill and no equipment — and unlike a printed keepsake, guests post it, tagged,
+> to exactly the people who book trips like theirs.
+>
+> Either way the ask is the same: **send me one photo** — yours, or a guest's with their
+> permission — and I'll make one free so you can see it on your own location instead of mine.
+>
+> DM me.
+
+*Note on this one: the film follows a real ritual (melukat, the water purification), and the
+temple dress is correct — kebaya, kamen, and the sash that temple entry actually requires. If
+anyone in the group asks, that is the honest answer and it is worth giving; Balinese groups
+notice when it's wrong.*
+
+⭐ **Run this destination first.** Four Bali photographers are already tracked in
+`relationship_leads.json`, one has already been DM'd about this exact offer, and there is now a
+Bali demo to put in that conversation. *(Merged 2026-09-21 from the retired
+`posts_souvenir.md` A3 cell.)*
+
+---
+
+## 🇦🇪 Dubai — `dubai-creek-30s`
+
+> **Dubai in thirty seconds — the creek, the souk, the sand. Built from a single photo.**
+>
+> Not the skyline reel everyone has seen. The wooden dhows at dawn, the abra crossing, the
+> spice sacks, the gold, coffee poured from a dallah, the falcon, and the towers only at the
+> very end — across the water, from the old side.
+>
+> **If you've been:** the trip you remember is not the one on your phone. One frame is enough
+> to rebuild it into something worth sending to the people who weren't there.
+>
+> **If you run a hotel, a desert camp or a tour in the UAE:** every guest already leaves with a
+> hundred phone photos and nothing made out of any of them. This is a per-guest add-on you can
+> attach at booking or at checkout, priced like a souvenir rather than like video production —
+> white-label, no crew, nothing added to your operating day.
+>
+> Send me one photo — your own, or a guest's with their OK — and I'll cut one free from it, set
+> in your Dubai rather than a stock one.
+>
+> DM me.
+
+🔴 **Dubai has already collided with the retouching thread twice — read this before posting.**
+The retired `posts_souvenir.md` said to pair this with the Dubai retouching before/after and run
+the still first. **That advice is superseded.** `../2026-09-01-retouching/posts_fb.md` records
+the collision on 09-11 (`travel · agents · tourism`) and again on 09-17 (`dubai photography`
+vs W3 in `dubai photographer` / `UAE photographer`): the same people may have had two different
+offers from us inside three days.
+
+The buyer is not wrong — a destination shooter genuinely buys both, and `campaign_matrix.md`
+pairs the two lines on Dubai deliberately. **The cadence is wrong.** Rule now, quoted from that
+thread: *one post per group per ~3 days, and never two different offers* — and **where the rooms
+overlap, keep the souvenir video and drop retouching there**, because an add-on to a package they
+already sell is an easier yes than changing post-production vendor.
+
+⚠️ Neither schedule can see the other. **Diff the group IDs against
+`../2026-09-01-retouching/` before the next Dubai post.**
+*(Merged 2026-09-21 from the retired `posts_souvenir.md` A4 cell, corrected against the 09-17
+finding.)*
+
+---
+
+## 🇪🇸 Granada — `granada-alhambra-30s`
+
+> **Granada, thirty seconds, from one photograph.**
+>
+> Dawn at San Nicolás with the Alhambra still dark across the valley — then the myrtle court,
+> the lattice light, the Generalife, down the Darro into the Albaicín, mint tea, the Alcaicería,
+> back to the same wall at sunset with the whole city sitting on it, and a zambra in a
+> Sacromonte cave to finish.
+>
+> **If you've walked it:** you know it's a city you climb, not one you look at. A still can't
+> carry that. Thirty seconds can, and it's built from a photo you already have.
+>
+> **If you run a hotel, a carmen or a tour in Granada:** this is content for your own channels
+> built from stills you already own, and a souvenir you can offer a guest who is leaving
+> tomorrow. One image in, a vertical film out — the only format that travels now.
+>
+> One photo, yours or a guest's with permission, and the first one is free.
+>
+> DM me.
+
+*The shawl is a mantón de Manila and the dress is pomegranate red on purpose — granada is the
+pomegranate, and it's the city's own emblem. Spanish groups will clock it; it's a good reason
+to be in the comments.*
+
+---
+
+## 🇯🇵 Kyoto — `kyoto-kimono-30s`
+
+> **A kimono walk through Kyoto in thirty seconds — from one portrait.**
+>
+> The obi, the collar, the hair: all held exactly. Only the city moves around her.
+>
+> **If you've done a kimono session in Kyoto:** you didn't book it for documentation. You booked
+> it to have been there. A photo says you wore it; thirty seconds says you were in Kyoto wearing
+> it, and that's the one you send your family the same evening.
+>
+> **If you run a kimono studio, a ryokan or a cultural experience:** your guest has already paid
+> for a souvenir — this is the same souvenir, moving. It attaches to the package you already
+> sell, needs no second shoot, and goes out under your name.
+>
+> Send me one frame — a guest's with their permission, or one of your own promo shots if you'd
+> rather not use a client's — and I'll make one free.
+>
+> DM me.
+
+---
+
+## 🇨🇳 China · 滕王阁 — `tengwangge-30s-preview` ⚠️ **preview cut only**
+
+> **A Tang-dynasty evening at the Tengwang Pavilion — thirty seconds, from one portrait.**
+>
+> **If you travel for heritage sites:** the photo you took at the gate is not the memory you
+> came back with. This is.
+>
+> **If you run a scenic site, a costume-hire studio or a cultural venue:** a visitor photo
+> becomes a souvenir that costs nothing to stock and never runs out, sold beside the photo you
+> already sell or folded into admission. A printed photo is one sale; a film the visitor posts
+> is the same sale plus reach back to your gate.
+>
+> One photo, and the first sample is free.
+>
+> DM me.
+
+⛔ **Check the filename before uploading.** Only `-preview`. See red line 1.
+
+🈶 **In a Chinese-language room** (`Hanfu photography` and the 汉服/文旅 groups), post the
+Chinese copy from [`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md) § 🇨🇳 滕王阁 rather
+than translating the English above — it is already written for this film. Swap its hashtag line
+for this thread's CTA: **DM in the body, `curify-ai.com` in the first comment.**
+*(Merged 2026-09-21 from the retired `posts_souvenir.md` A2 cell.)*
+
+---
+
+## Voice adjustments, if the group is single-trade
+
+The dual-audience copy above is for **destination groups**, where travellers and businesses sit
+together. In a single-trade room, cut the half that doesn't apply and use the matching voice from
+**[the five single-trade variants below](#the-five-single-trade-variants)**
+(matrix in [`README_archive.md`](README_archive.md)):
+
+- **`Bali photographers` / `Kyoto photographers`** → G1. Cut the traveller paragraph. Lead on
+  "an add-on to the package you already sell."
+- **`Bali wedding photographers`** → G2, and ⚠️ never say this replaces a wedding film. It fills
+  the six weeks before one.
+- **`Kimono photographers` / `Hanfu photography`** → G3. Tightest fit in the matrix.
+- **`Dubai desert safari operators` / `Bali villa & tour operators`** → G4. **They do not
+  shoot.** Every word about sessions, frames and second shoots is meaningless there.
+- **Traveller groups** (`Backpacking Southeast Asia`, `Japan Travel Tips`) → cut the *property*
+  paragraph entirely and post only the traveller half. In those rooms the business paragraph is
+  what gets the post removed by a moderator.
+
+---
+
+## The five single-trade variants
+
+*Written before the dual-audience cut and kept because a single-trade room still wants one half,
+not both. The CTA here is the current one — DM in the body, `curify-ai.com` in the first comment.*
+
+### 📸 G1 — Destination photographer
+
+*The core voice, and the one the offer was designed around. They already shoot, already sell packages,
+already have the raw material sitting in Lightroom. Nothing here asks them to learn anything.*
+
+> **For photographers in [Bali] — what if every session also came with a 30-second cinematic souvenir
+> video?**
+>
+> This was made from a single portrait. No second shoot, no video gear, no extra day on location — it
+> can be sold as an add-on to the package you already offer.
+>
+> The reason I think it fits your work specifically: your clients are on a trip. They go home, and the
+> gallery is what the trip becomes. A stills gallery gets looked at twice and a vertical video gets
+> posted — which is also the version their friends see, with your name on it.
+>
+> If you run photo experiences in [Bali], I'll make one free sample from one of your photos. Send me
+> your favourite frame from a recent session.
+>
+> DM me. (`curify-ai.com` goes in the first comment, never the body.)
+
+---
+
+### 💍 G2 — Wedding & elopement
+
+*⚠️ **The one voice where the obvious pitch is wrong.** This audience already sells a wedding film, or
+works beside a videographer who does. "We turn photos into video" reads as an attack on a line item
+they or their partner already own. Position it as the short social cut, explicitly beside the film.*
+
+> **A question for destination wedding photographers — what do your couples post the week they get
+> home?**
+>
+> Not the gallery; it isn't ready. Not the film; that's six weeks out. They post one phone photo and
+> the moment passes.
+>
+> This is a 30-second vertical cut made from **one** of your stills — the elopement portrait you
+> already delivered in the sneak peek. It isn't a wedding film and it doesn't replace one; a film is a
+> different craft and a different budget. It's the thing that fills the six weeks in between, in the
+> format the couple's friends actually watch.
+>
+> If you shoot destination weddings in [Bali], send me one frame from a recent sneak peek and I'll cut
+> one free so you can see whether it sits next to your film or gets in its way.
+>
+> DM me. (`curify-ai.com` goes in the first comment, never the body.)
+
+---
+
+### 👘 G3 — Costume & cultural experience
+
+*The tightest fit in the whole matrix. The guest has already paid to be dressed and photographed — the
+photo IS the souvenir, so upgrading the souvenir needs no new argument. Kyoto/kimono and 汉服 both have
+a finished demo, which is rare.*
+
+> **Kimono studios in [Kyoto] — your guests are already paying for a souvenir. This is the same
+> souvenir, moving.**
+>
+> Made from one portrait from a dressing session. The obi, the collar, the hair — all held; only the
+> setting moves around her.
+>
+> Why I think this belongs in your offer and not somewhere else: a kimono session is *already* an
+> experience purchase. Nobody books it for documentation, they book it to have been there. A still
+> says they wore it. Thirty seconds says they were in Kyoto wearing it, and that's the one they send
+> to their family the same evening.
+>
+> Happy to make one free from a photo of yours — a recent guest shot, with their permission, or one of
+> your own promo frames if you'd rather not use a client's.
+>
+> DM me. (`curify-ai.com` goes in the first comment, never the body.)
+
+---
+
+### 🚐 G4 — Tour operator, safari & villa
+
+*⚠️ **They do not shoot.** Every photography word — "session", "second shoot", "your frame" — is
+meaningless or off-putting here. They own guests and guest phone photos, and they are looking for
+something to attach to a booking. Lead with the guest, not the camera.*
+
+> **[Bali] tour & villa operators — every guest already leaves with a hundred phone photos and nothing
+> made out of them.**
+>
+> This is a 30-second cinematic cut built from **one** photo. No filming, no crew, nothing added to
+> your day — one image goes in, this comes back.
+>
+> Where it fits your business: it's a per-guest add-on you can attach at booking or sell at checkout,
+> priced like a souvenir rather than like video production. You need no photography skill and no
+> equipment; the guest sends a picture and we do the rest, white-label under your name if you want it
+> that way.
+>
+> And it does something a printed souvenir can't — guests post it, tagged, to exactly the audience
+> that books trips like theirs.
+>
+> If you run tours, villas or experiences in [Bali], send me one guest photo (with their OK) and I'll
+> make a free sample.
+>
+> DM me. (`curify-ai.com` goes in the first comment, never the body.)
+
+---
+
+### 🏨 G5 — Luxury travel trade & expat business owners
+
+*Mixed room: hotels, concierges, agencies, and people who simply know everyone locally. Two hooks,
+because there are two buyers — the property that wants content, and the connector who wants a referral.
+Keep it short; this is the least targeted of the five groups and the most allergic to a pitch.*
+
+> **Made this from a single photo — 30 seconds, shot nowhere.**
+>
+> Posting it here because two different people in this group can use it.
+>
+> If you run a property or an experience in [Dubai]: it's content for your own channels, built from
+> stills you already own. One photo per clip, no shoot, no crew — and it's vertical, which is the only
+> format that travels now.
+>
+> If you don't, but you know the photographers and operators who would: I'll make them a free sample
+> too, and I'd rather be introduced than cold-DM anyone in here.
+>
+> Either way, the video above is the whole pitch — one image in, that out.
+>
+> DM me. (`curify-ai.com` goes in the first comment, never the body.)
+
+---
+
+### What changes between voices, and what never does
 
 | | G1 photographer | G2 wedding | G3 costume | G4 operator | G5 trade |
 |---|---|---|---|---|---|
@@ -168,77 +402,163 @@ each is in [`posts_fb.md`](posts_fb.md).
 | **Free sample asked of them** | a frame from a recent session | a sneak-peek frame | a guest or promo frame | a guest phone photo | either, or an introduction |
 | **Must never say** | — | "replaces your film" | — | anything about shooting, sessions or editing | a long pitch |
 
+Never varies: **one video per post, native upload, no link in the body, CTA in the first comment or
+the DM line.** And the place name and the video swap **together** — never one without the other.
+
 ---
 
-## Red lines
+---
 
-1. ⛔ **Never post `tengwangge-30s-realmodel` or `-v3`.** They reproduce the likeness of a **real
-   model** whose photographs a client supplied for a tender, and **no release is on file**. Tender
-   material in a private repo. The `-preview` cut is synthetic and is the one that posts. In doubt,
-   post Kyoto.
-2. ⛔ **Never post `bali-resort-30s` or `dubai-desert-30s`.** Superseded 09-12.
-3. ⛔ **No client claims.** The only closed deal in this vertical (client-007, ¥27,800) was 文创
+## Destination-souvenir red lines
+
+1. ⛔ **Never post `tengwangge-realmodel` or `-v3`.** Real model, no release. `-preview` only.
+2. ⛔ **No client claims.** The only closed deal in this vertical (client-007, ¥27,800) was 文创
    merchandise, **not video**. **No attraction, hotel, photographer or operator has bought this
-   format.** Every film is an example of the *format*. "Who else have you done this for" is the
-   first question in a trade room; the honest answer is "nobody yet — that's why the first is free."
-4. ⛔ **Never caption a demo** as a guest, a client session, or a named property's content. Every
-   character is invented and depicts nobody.
-5. ⛔ **No prices** in the post body. Price is a DM conversation.
-6. **Single native video, never a carousel.** Proven dead on FB·Curify.
-7. **Groups only, never the FB·Curify Page feed** — the Page identity is East-Asian language &
-   culture edutainment, and a souvenir pitch there is Position Drift.
+   format.** Present every film as an example of the *format*. "Who else have you done this for"
+   is the first question in a trade room and the honest answer is "nobody yet — that's why the
+   first one is free."
+3. ⛔ **No prices** in the post body. Price is a DM conversation.
+4. ⛔ **Never caption a demo** as a guest, a client session, or a named property's content.
+   Every character is invented and depicts nobody.
+5. **Place and video swap together.** Rule 1 of this whole thread.
+6. **Single native video, never a carousel. DM in the body, `curify-ai.com` in the first
+   comment.**
+7. **Groups only, never the FB·Curify Page feed.** The Page identity is East-Asian language &
+   culture edutainment; a souvenir-video pitch in the Page feed is Position Drift.
+   Drift check: ✅ group-scoped, off-Page.
 
 ---
 
-## Schedule & log
+## Log
 
-One post per group per **~3 days**. Never the same destination video into two groups the same day.
-**Read the result per cell** (`destination × trade`), not per channel: `G3 × Kyoto` and `G4 × Dubai`
-are different businesses that happen to share a folder.
+Record publishing dates, post links and results in the **Publication schedule** above and in
+`gtm_tools/outreach_denominator.csv`. Record the **group name and member count** — without them
+a post is unattributable, which is the exact failure already sitting in that CSV for RedNote.
 
-| Status | Voice | Destination | Channel / group | Members | Comments | DMs | Samples |
-|---|---|---|---|---|---|---|---|
-| ✅ **09-13** | 🌍 dual | Bali | FB — via `bali photographer`, `bali villa` | ⚠️ record | | | |
-| ✅ **09-13** | 🌍 dual | Dubai | FB — via `dubai resorts`, `dubai travel` | ⚠️ record | | | |
-| ✅ **09-13** | 🌍 dual | Granada | FB — via `granada`, `granada tour` | ⚠️ record | | | |
-| ◻︎ | 中文 | Bali · Dubai · Granada | 小红书 ×3 | 🔴 **更正 09-14：没有发过。** 之前记成 ✅ 09-13，是错的 | | | |
-| ⚠️ | 中文 | Bali · Dubai · Granada | 快手 ×3 | **待确认** —— 同一批记录里小红书那行是错的，这行也要核 | | | |
-| ✅ 09-11 | 🚐 G4 / 🏨 G5 | Dubai | FB ×3 — *travel* · *agents* · *tourism* | 🔴 **可能与修图线撞群** —— 见下 | | | |
-| ✅ earlier | ⚠️ unrecorded | Kyoto | FB — pre-log | ⚠️ record | | | |
-| ✅ earlier | ⚠️ unrecorded | China (滕王阁) | FB — pre-log | ⚠️ record | | | |
-| ◻︎ | 快手 | China (滕王阁) | **next pick** — no positioning conflict, biggest 文旅/汉服 base | | | | |
-| ✅ **09-17** | 👘 G3 | Kyoto | FB — via `kimono` | ⚠️ record | | | |
-| ◻︎ | 📸 G1 | Kyoto | `Kyoto photographers` — isolates place from trade | | | | |
-| ✅ **09-17** | 📸 G1 | Dubai | FB — via `dubai photography` | 🔴 **与修图 W3 撞群** — 见下 | | | |
-| ◻︎ | 🏨 G5 | Granada | Granada hotels / carmen & tourism trade | | | | |
-| ◻︎ | 💍 G2 | Bali | `Bali wedding photographers` — only after Bali has stood a week | | | | |
-| ◻︎ | 🚐 G4 | Bali | `Bali villa & tour operators` | | | | |
-| ❌ | any | Santorini | **no demo — do not post** (rule 1) | | | | |
+Read the result **per cell** (`destination × trade`), not per channel. The question is whether
+*souvenir video* converts in a destination room, not whether "Facebook works".
 
-Mirror each row into `gtm_tools/outreach_denominator.csv` so this channel stays comparable to
-email and RedNote:
+**New signal to watch, specific to the dual-audience cut:** which half replies. If travellers
+reply and properties don't, the offer is B2C and should be priced and sold as such. If
+properties reply and travellers don't, drop the traveller paragraph and go back to the G1–G5
+matrix. If neither, the destination is wrong, not the copy.
 
-```
-date | voice | destination | group | members | demo | views | comments | DMs | samples | paid
-```
+**2026-10-10 fashion batch:** English captions shared by Facebook and Instagram are appended below. The earlier destination captions retain their original Facebook-group positioning.
 
-**The signal to watch, now that 09-13 is out:** *which half replies.* If travellers reply and
-properties don't, the offer is B2C and should be priced and sold that way. If properties reply and
-travellers don't, drop the traveller paragraph and go back to the G1–G5 matrix. If neither, the
-destination is wrong, not the copy.
+---
 
-Related: 40 hotels in Bali / Dubai / Granada / Kyoto were emailed the same films in their own
-languages on 09-12 — `curify-studio/gtm_tools/HOTEL_VIDEO_BATCH_2026-09-12.md`. That batch and
-these posts hit the **same buyers in the same week**, so a property replying to either should be
-checked against both before it is counted twice.
+<!-- fashion-culture-2026-10-10 -->
+## Fashion × culture — Facebook + Instagram shared copy
 
-## New: fashion × culture batch — 2026-10-10
+Created 2026-10-10. **Instagram: all four scheduled, as confirmed by Jay; publishing dates/times not yet recorded. Facebook: drafts, not posted.** See the publication schedule at the top. Use the shared English caption on Facebook and Instagram, with the voice appropriate to each series. The films are original AI fashion concepts, not customer work or historical reconstructions. Each video includes bilingual titles and the Curify batch fashion try-on end card.
 
-[Three fashion shorts + Feitian with the batch fashion try-on ending](2026-10-10-fashion-culture/README.md). Includes shared English captions for Facebook/Instagram and Chinese captions for 小红书/快手, with the requested curify-ai.com CTA. All four are prepared and **not posted**.
+### 01 — Fashion Time Machine
 
-The 2026-10-10 fashion captions are now consolidated in [posts_fb.md](posts_fb.md) (shared FB/Instagram English) and [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md) (Chinese).
+Asset: [fashion-time-machine-curify.mp4](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/fashion-time-machine-curify.mp4)
+
+One face. Three fashion worlds. Which era are you keeping? 👀
+
+1 — Renaissance-inspired velvet
+2 — Art Deco pearls
+3 — Tomorrow’s silver tailoring
+
+I’m torn between 1 and 3. Drop your number.
+
+An original AI fashion concept by Curify. Explore **batch fashion try-on** and build your own wardrobe of possibilities at **https://curify-ai.com**.
+
+#FashionTransformation #FashionHistoryInspired #VirtualTryOn #AIFashion #Curify
+
+### 02 — One Sarong, Three Moods
+
+Asset: [one-sarong-three-moods-curify.mp4](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/one-sarong-three-moods-curify.mp4)
+
+The sarong stays. The whole mood changes. ✨
+
+An embroidered kebaya for a special day. A crisp shirt for work. A batik jacket for a slow weekend.
+
+Which would you wear first — 1, 2 or 3?
+
+An original AI styling concept inspired by Malaysia’s mix-and-match wardrobe. Explore **batch fashion try-on** at **https://curify-ai.com** and imagine more ways to wear your next look.
+
+#SarongStyle #KebayaStyle #BatikStyle #MalaysiaFashion #VirtualTryOn #Curify
+
+### 03 — Chinese Silhouettes Remixed
+
+Asset: [chinese-silhouettes-remixed-curify.mp4](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4)
+
+Your next outfit might start centuries ago.
+
+Rich colour. Quiet layers. Clean modern tailoring.
+
+Three contemporary interpretations of Chinese silhouettes, one model. Which belongs in your wardrobe — 1, 2 or 3?
+
+Original AI fashion concepts, inspired by Tang and Song silhouettes and modern Chinese styling. Explore **batch fashion try-on** at **https://curify-ai.com**.
+
+#ChineseInspiredFashion #ModernChineseStyle #HanfuInspired #AIFashion #VirtualTryOn #Curify
+
+### 04 — Feitian · The Lost Name
+
+Asset: [feitian-shiming-30s-music-v2-curify.mp4](../../drama/feitian-shiming-30s-music-v2-curify.mp4)
+
+A flying apsara. A name slipping away. A story written in silk and shadow.
+
+Our original AI fantasy short, **Feitian · The Lost Name**, now with the Curify fashion ending. Which detail stayed with you?
+
+Want to explore your own costume-inspired looks? Discover **batch fashion try-on** at **https://curify-ai.com**.
+
+#DunhuangInspired #Feitian #AIFilm #CostumeDesign #VirtualTryOn #Curify
+
+---
+
+Production inspiration: the supplied `fashion_Renaissance.mp4` and [NANYA’s styling reel](https://www.instagram.com/p/DeHK5jMTCm6/). NANYA’s footage, face, audio and branding are not used in these films. No affiliation or client relationship is implied.
 
 
-## 2026-10-11 · Overhead costume transitions
+---
 
-Three new 15s vertical videos: rollover / Chinese embroidery, slim cream fan-blade sweep / Asian silhouettes, glowstick / world textiles. **Queued Q1–Q3; not scheduled or published.** All use the existing Batch fashion try-on + curify-ai.com ending. [Assets and production record](2026-10-11-overhead-costume/README.md). English captions in [posts_fb.md](posts_fb.md#overhead-costume-transitions--facebook--instagram-shared-copy); Chinese captions in [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md).
+## Overhead costume transitions — Facebook + Instagram shared copy
+
+Created 2026-10-11. Q1–Q3 are **scheduled on Instagram**, confirmed by Jay on 2026-10-12. Publishing dates/times are not recorded; Facebook copies remain drafts. 15-second vertical videos with the existing 3-second Curify ending. [Production log](2026-10-11-overhead-costume/README.md).
+
+### Q1 · Rollover Wardrobe · Chinese Embroidery
+
+**Video:** [glowstick-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) · 15s · 1080 × 1920
+
+One rollover. A different page of the wardrobe. ✨
+
+Miao-inspired embroidery and silver accents → Bai-inspired blue and white → Yi-inspired pleated black and colourful borders.
+Roll to the side, reveal the next look. Three outfits in the same overhead frame. Which detail caught your eye first?
+
+AI fashion interpretations drawn from our costume templates.
+Try your own **batch fashion try-on** at **https://curify-ai.com**.
+
+#Curify #BatchFashionTryOn #AIFashion #RolloverTransition #Embroidery #FashionInspiration
+
+### Q2 · Fan Sweep · Asian Silhouettes
+
+**Video:** [fan-sweep-asian-silhouettes-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) · 15s · 1080 × 1920
+
+Wait for that single blade. 👀
+
+One overhead frame, three silhouette changes: kimono-inspired layers, a hanbok-inspired full skirt, then a sari-inspired drape.
+One slim cream-coloured fan blade sweeps close across the lens. The outfit changes under the cover, then the fabric gets the spotlight.
+
+Which look would you replay: 1, 2 or 3?
+AI fashion interpretations made from our costume templates.
+Explore **batch fashion try-on** at **https://curify-ai.com**.
+
+#Curify #BatchFashionTryOn #FanTransition #AIFashion #StyleExperiment #OutfitChange
+
+### Q3 · Glowstick Wardrobe · World Textiles
+
+**Video:** [glowstick-world-textiles-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4) · 15s · 1080 × 1920
+
+Embroidery. Flowers. Ikat. A whole mood change with one light sweep. ✨
+
+This wardrobe study takes inspiration from Ukrainian vyshyvanka embroidery, Tehuantepec floral dress and Uzbek atlas textiles.
+Three distinct references, reimagined in the same overhead frame.
+
+Which texture deserves the next close-up?
+AI fashion interpretations, including a contemporary womenswear take on the atlas robe.
+Make your own set with **batch fashion try-on**: **https://curify-ai.com**.
+
+#Curify #BatchFashionTryOn #TextileInspiration #AIFashion #Ikat #Embroidery

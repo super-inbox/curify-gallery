@@ -2,7 +2,7 @@
 
 ## Publication schedule
 
-**Queue updated 2026-10-11:** Three overhead costume videos added as Q1–Q3, pending review and scheduling on all platforms. No platform scheduling has been performed for this batch. **Previous confirmation (2026-10-10):** Jay confirmed that all four Fashion × culture videos are **scheduled on Instagram**. Scheduled publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
+**Schedule updated 2026-10-12:** Jay confirmed that Q1–Q3 are **scheduled on Instagram**. Together with the four Fashion × culture videos confirmed on 2026-10-10, all seven videos below are scheduled on Instagram. Publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
 
 | Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
 |---|---|---|---|---|
@@ -10,19 +10,19 @@
 | One Sarong, Three Moods | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
 | Chinese Silhouettes Remixed | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
 | Feitian · The Lost Name | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
-| Q1 · Rollover Wardrobe · Chinese Embroidery | **Queued / not scheduled** | Not set | Queued / draft | Playful rollover reveal; embroidery and colour details. |
-| Q2 · Fan Sweep · Asian Silhouettes | **Queued / not scheduled** | Not set | Queued / draft | Playful suspense; silhouette and drape. |
-| Q3 · Glowstick Wardrobe · World Textiles | **Queued / not scheduled** | Not set | Queued / draft | Curious textile discovery; distinct references. |
+| Q1 · Rollover Wardrobe · Chinese Embroidery | **Scheduled** | Not recorded | Queued / draft | Playful rollover reveal; embroidery and colour details. |
+| Q2 · Fan Sweep · Asian Silhouettes | **Scheduled** | Not recorded | Queued / draft | Playful suspense; silhouette and drape. |
+| Q3 · Glowstick Wardrobe · World Textiles | **Scheduled** | Not recorded | Queued / draft | Curious textile discovery; distinct references. |
 
 **Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. All fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
 
-This table tracks the four previously scheduled videos and three new queued videos. Earlier destination-publication history remains in [README.md](README.md#schedule--log). Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
+This table tracks the seven Instagram-scheduled videos. Earlier destination-publication history remains in [archived posting history](README_archive.md#schedule--log). Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
 
 ---
 
 _Companion file: **[`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md)** (小红书／快手, Chinese).
 The destination asset table, historical publish status and place × trade matrix are in
-**[`README.md`](README.md)**. The table above tracks the new fashion/culture batch; this file holds the English copy._
+**[`README_archive.md`](README_archive.md)**. The table above tracks the new fashion/culture batch; this file holds the English copy._
 
 **What changed 2026-09-12:** three new destination films
 (**Bali · melukat**, **Dubai · the creek**, **Granada · Alhambra**) and two rebuilt ones,
@@ -55,8 +55,7 @@ paragraph the property owns, one ask that serves both.
 
 ## Assets — which file goes with which post
 
-**The full asset table and the live publish status are in [`README.md`](README.md)** — kept in one
-place so they cannot drift. The short version, all under `cultural_videos/`:
+**The historical asset table and publication log are preserved in [`README_archive.md`](README_archive.md)** — an archive of the previous folder README. The short version, all under `cultural_videos/`:
 
 `bali/bali-melukat-30s-watermarked.mp4` · `dubai/dubai-creek-30s-watermarked.mp4` ·
 `granada/granada-alhambra-30s-watermarked.mp4` · `kyoto/kyoto-kimono-30s-watermarked.mp4` ·
@@ -254,7 +253,7 @@ for this thread's CTA: **DM in the body, `curify-ai.com` in the first comment.**
 The dual-audience copy above is for **destination groups**, where travellers and businesses sit
 together. In a single-trade room, cut the half that doesn't apply and use the matching voice from
 **[the five single-trade variants below](#the-five-single-trade-variants)**
-(matrix in [`README.md`](README.md)):
+(matrix in [`README_archive.md`](README_archive.md)):
 
 - **`Bali photographers` / `Kyoto photographers`** → G1. Cut the traveller paragraph. Lead on
   "an add-on to the package you already sell."
@@ -432,8 +431,7 @@ the DM line.** And the place name and the video swap **together** — never one 
 
 ## Log
 
-Mirror every post into the **Schedule & log** table in [`README.md`](README.md), and from there
-into
+Record publishing dates, post links and results in the **Publication schedule** above and in
 `gtm_tools/outreach_denominator.csv`. Record the **group name and member count** — without them
 a post is unattributable, which is the exact failure already sitting in that CSV for RedNote.
 
@@ -519,7 +517,7 @@ Production inspiration: the supplied `fashion_Renaissance.mp4` and [NANYA’s st
 
 ## Overhead costume transitions — Facebook + Instagram shared copy
 
-Created 2026-10-11. Proposed queue order Q1 → Q2 → Q3, after the already scheduled batch; publishing slots remain unset. 15-second vertical videos with the existing 3-second Curify ending. [Production log](2026-10-11-overhead-costume/README.md).
+Created 2026-10-11. Q1–Q3 are **scheduled on Instagram**, confirmed by Jay on 2026-10-12. Publishing dates/times are not recorded; Facebook copies remain drafts. 15-second vertical videos with the existing 3-second Curify ending. [Production log](2026-10-11-overhead-costume/README.md).
 
 ### Q1 · Rollover Wardrobe · Chinese Embroidery
 
