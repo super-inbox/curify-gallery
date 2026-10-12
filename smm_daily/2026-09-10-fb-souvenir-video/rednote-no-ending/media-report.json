@@ -1,0 +1,83 @@
+[
+  {
+    "source": "cultural_videos/costume_tryon/2026-10-10-fashion-culture/fashion-time-machine-curify.mp4",
+    "file": "fashion-time-machine-no-ending.mp4",
+    "duration": 14.833333333333334,
+    "frames": 445,
+    "resolution": "1080x1920",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed"
+  },
+  {
+    "source": "cultural_videos/costume_tryon/2026-10-10-fashion-culture/one-sarong-three-moods-curify.mp4",
+    "file": "one-sarong-three-moods-no-ending.mp4",
+    "duration": 14.833333333333334,
+    "frames": 445,
+    "resolution": "1080x1920",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed"
+  },
+  {
+    "source": "cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4",
+    "file": "chinese-silhouettes-remixed-no-ending.mp4",
+    "duration": 14.933333333333334,
+    "frames": 448,
+    "resolution": "1080x1920",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed"
+  },
+  {
+    "source": "drama/feitian-shiming-30s-music-v2-curify.mp4",
+    "file": "feitian-shiming-30s-music-v2-no-ending.mp4",
+    "duration": 30.0,
+    "frames": 900,
+    "resolution": "1080x1920",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed"
+  },
+  {
+    "source": "cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4",
+    "file": "glowstick-chinese-embroidery-no-ending.mp4",
+    "duration": 12.0,
+    "frames": 360,
+    "resolution": "1080x1920",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed"
+  },
+  {
+    "source": "cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4",
+    "file": "fan-sweep-asian-silhouettes-no-ending.mp4",
+    "duration": 12.0,
+    "frames": 360,
+    "resolution": "1080x1920",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed"
+  },
+  {
+    "source": "cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4",
+    "file": "glowstick-world-textiles-no-ending.mp4",
+    "duration": 12.0,
+    "frames": 360,
+    "resolution": "1080x1920",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed"
+  },
+  {
+    "source": "cultural_videos/costume_tryon/fashion_Renaissance.mp4",
+    "file": "fashion_Renaissance-no-ending.mp4",
+    "duration": 58.3,
+    "frames": 1749,
+    "resolution": "1080x1426",
+    "fps": "30/1",
+    "audio": true,
+    "full_decode": "passed",
+    "note": "Original already has no end card; copied unchanged."
+  }
+]
