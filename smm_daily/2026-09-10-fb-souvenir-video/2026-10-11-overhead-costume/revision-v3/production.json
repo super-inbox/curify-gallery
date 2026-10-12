@@ -1,0 +1,19 @@
+{
+  "model": "veo-3.1-generate-preview",
+  "first_frames": [
+    "look-1.png",
+    "bai-left.png",
+    "look-3.png"
+  ],
+  "sources": [
+    "roll-1.mp4",
+    "right-roll-2.mp4",
+    "roll-3.mp4 at 6–8s"
+  ],
+  "edit": "Two complete forward rolls, outfit cuts after each; 2s Yi reveal; original 3s ending. No reverse playback.",
+  "duration_seconds": 21,
+  "prompts": {
+    "veo-rolls.py": "Fixed camera directly above a woman lying on a soft horizontal mattress. She stays lying down with the back of her head resting on the mattress. She performs one slow natural full sideways log roll across the bed, like rolling over in bed. From lying on her back she turns onto her side, then lies flat on her belly, then continues onto her other side, then returns to lying on her back. One smooth continuous full rotation takes six seconds, then she rests. Her shoulders, hips and knees turn together. Arms folded against chest, knees slightly bent. Her body weight compresses the bedding, cheek touches mattress when face down, realistic fabric and gravity. She wears exactly the same complete outfit throughout the whole clip. Only one person. No transformation, no costume change, no double exposure. Photorealistic physical motion, quiet room, no speech.",
+    "veo-roll2.py": "Locked overhead camera looking vertically down at a real woman lying flat on a horizontal soft bed. She completes ONE full 360 degree log roll toward the RIGHT side of the image in a continuous movement. She starts lying FACE UP, turns to face image RIGHT, then lies FACE DOWN with her back toward camera, then turns to face image LEFT, then finishes FACE UP. Shoulders hips and feet rotate together around her long body axis. The full body moves from left side of the bed to the right. Keep rolling in the same direction all the way. Arms folded, knees gently bent, body stays pressed against mattress. One complete roll takes 5 seconds, then rest face-up. Same blue white embroidered outfit throughout. Natural human weight and cloth physics. No change of clothes, no cuts, no standing up, no extra person."
+  }
+}

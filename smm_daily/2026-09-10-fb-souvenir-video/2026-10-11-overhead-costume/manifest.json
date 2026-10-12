@@ -1,9 +1,9 @@
 {
   "china": {
-    "slug": "glowstick-chinese-embroidery",
+    "slug": "rollover-chinese-embroidery",
     "title": "Rollover Wardrobe · Chinese Embroidery",
-    "hook": "ROLL INTO YOUR NEXT LOOK",
-    "zh": "翻个身，换一套",
+    "hook": "ONE FULL ROLL. A NEW LOOK.",
+    "zh": "完整翻一圈，换一套",
     "labels": [
       [
         "01 / MIAO-INSPIRED",
@@ -19,8 +19,9 @@
       ]
     ],
     "music": "kaazoom-from-gentle-stream-to-the-city-streets-modern-chinese-music-434753.mp3",
-    "revision": "v2",
-    "transition": "full-body side rollover"
+    "revision": "v3",
+    "transition": "complete full-body rollover followed by outfit cut",
+    "duration_seconds": 21
   },
   "asia": {
     "slug": "fan-sweep-asian-silhouettes",

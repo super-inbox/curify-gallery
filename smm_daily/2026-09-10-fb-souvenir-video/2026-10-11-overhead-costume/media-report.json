@@ -19,10 +19,9 @@
     "audio": true,
     "full_decode": "passed"
   },
-  "glowstick-chinese-embroidery-curify.mp4": {
-    "duration": 15.0,
-    "video_duration": 15.0,
-    "video_frames": 450,
+  "rollover-chinese-embroidery-curify.mp4": {
+    "duration": 21.0,
+    "video_frames": 630,
     "width": 1080,
     "height": 1920,
     "frame_rate": "30/1",

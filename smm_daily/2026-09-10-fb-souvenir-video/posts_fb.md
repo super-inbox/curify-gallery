@@ -523,12 +523,12 @@ Created 2026-10-11. Proposed queue order Q1 → Q2 → Q3, after the already sch
 
 ### Q1 · Rollover Wardrobe · Chinese Embroidery
 
-**Video:** [glowstick-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) · 15s · 1080 × 1920
+**Video:** [rollover-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/rollover-chinese-embroidery-curify.mp4) · 21s · 1080 × 1920
 
-One rollover. A different page of the wardrobe. ✨
+One full rollover. A different page of the wardrobe. ✨
 
 Miao-inspired embroidery and silver accents → Bai-inspired blue and white → Yi-inspired pleated black and colourful borders.
-Roll to the side, reveal the next look. Three outfits in the same overhead frame. Which detail caught your eye first?
+Roll all the way over, then reveal the next look. Three outfits in the same overhead frame. Which detail caught your eye first?
 
 AI fashion interpretations drawn from our costume templates.
 Try your own **batch fashion try-on** at **https://curify-ai.com**.
