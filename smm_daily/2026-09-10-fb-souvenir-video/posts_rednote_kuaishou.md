@@ -338,16 +338,16 @@ Curify 原创 AI 时装示例。访问 **curify-ai.com**，体验 **Batch fashio
 
 | 顺序 | 视频 | 小红书 | 快手 | 日期 |
 |---|---|---|---|---|
-| Q1 | 完整翻一圈，民族服饰灵感换一页✨ | 待排期 | 待排期 | 未设置 |
+| Q1 | 翻个身，民族服饰灵感换一页✨ | 待排期 | 待排期 | 未设置 |
 | Q2 | 扇叶扫过去，下一套就来了🌀 | 待排期 | 待排期 | 未设置 |
 | Q3 | 同一个镜头，换三种织物心情✨ | 待排期 | 待排期 | 未设置 |
 
-### Q1 · 完整翻一圈，民族服饰灵感换一页✨
+### Q1 · 翻个身，民族服饰灵感换一页✨
 
-**视频：** [rollover-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/rollover-chinese-embroidery-curify.mp4) · 21秒 · 1080 × 1920
+**视频：** [glowstick-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) · 15秒 · 1080 × 1920
 
-镜头不动，躺着完整翻一圈。
-翻滚完成，下一套登场。苗绣与银饰灵感、白族蓝白穿搭、彝族黑色百褶与彩色镶边，依次登场。
+镜头不动，躺着翻个身。
+身体侧转，苗绣与银饰灵感、白族蓝白穿搭、彝族黑色百褶与彩色镶边，依次登场。
 
 你先注意到的是刺绣、银饰，还是配色？
 这是基于服饰模板的 AI 时装灵感演绎。
