@@ -1,9 +1,9 @@
 {
   "china": {
     "slug": "glowstick-chinese-embroidery",
-    "title": "Glowstick Wardrobe · Chinese Embroidery",
-    "hook": "ONE SWEEP. A NEW LOOK.",
-    "zh": "荧光棒一扫，衣橱换一页",
+    "title": "Rollover Wardrobe · Chinese Embroidery",
+    "hook": "ROLL INTO YOUR NEXT LOOK",
+    "zh": "翻个身，换一套",
     "labels": [
       [
         "01 / MIAO-INSPIRED",
@@ -18,7 +18,9 @@
         "彝族服饰灵感"
       ]
     ],
-    "music": "kaazoom-from-gentle-stream-to-the-city-streets-modern-chinese-music-434753.mp3"
+    "music": "kaazoom-from-gentle-stream-to-the-city-streets-modern-chinese-music-434753.mp3",
+    "revision": "v2",
+    "transition": "full-body side rollover"
   },
   "asia": {
     "slug": "fan-sweep-asian-silhouettes",
@@ -39,7 +41,9 @@
         "纱丽灵感"
       ]
     ],
-    "music": "crab_audio-elegant-style-301129.mp3"
+    "music": "crab_audio-elegant-style-301129.mp3",
+    "revision": "v2",
+    "transition": "single slim cream fan blade, pivot outside frame; controlled video compositing"
   },
   "global": {
     "slug": "glowstick-world-textiles",

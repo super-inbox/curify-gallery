@@ -10,7 +10,7 @@
 | One Sarong, Three Moods | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
 | Chinese Silhouettes Remixed | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
 | Feitian · The Lost Name | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
-| Q1 · Glowstick Wardrobe · Chinese Embroidery | **Queued / not scheduled** | Not set | Queued / draft | Playful reveal; embroidery and colour details. |
+| Q1 · Rollover Wardrobe · Chinese Embroidery | **Queued / not scheduled** | Not set | Queued / draft | Playful rollover reveal; embroidery and colour details. |
 | Q2 · Fan Sweep · Asian Silhouettes | **Queued / not scheduled** | Not set | Queued / draft | Playful suspense; silhouette and drape. |
 | Q3 · Glowstick Wardrobe · World Textiles | **Queued / not scheduled** | Not set | Queued / draft | Curious textile discovery; distinct references. |
 
@@ -521,28 +521,28 @@ Production inspiration: the supplied `fashion_Renaissance.mp4` and [NANYA’s st
 
 Created 2026-10-11. Proposed queue order Q1 → Q2 → Q3, after the already scheduled batch; publishing slots remain unset. 15-second vertical videos with the existing 3-second Curify ending. [Production log](2026-10-11-overhead-costume/README.md).
 
-### Q1 · Glowstick Wardrobe · Chinese Embroidery
+### Q1 · Rollover Wardrobe · Chinese Embroidery
 
 **Video:** [glowstick-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) · 15s · 1080 × 1920
 
-One glowstick sweep. A different page of the wardrobe. ✨
+One rollover. A different page of the wardrobe. ✨
 
 Miao-inspired embroidery and silver accents → Bai-inspired blue and white → Yi-inspired pleated black and colourful borders.
-Same overhead frame. Three looks to pause on. Which detail caught your eye first?
+Roll to the side, reveal the next look. Three outfits in the same overhead frame. Which detail caught your eye first?
 
 AI fashion interpretations drawn from our costume templates.
 Try your own **batch fashion try-on** at **https://curify-ai.com**.
 
-#Curify #BatchFashionTryOn #AIFashion #OutfitTransition #Embroidery #FashionInspiration
+#Curify #BatchFashionTryOn #AIFashion #RolloverTransition #Embroidery #FashionInspiration
 
 ### Q2 · Fan Sweep · Asian Silhouettes
 
 **Video:** [fan-sweep-asian-silhouettes-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) · 15s · 1080 × 1920
 
-Wait for the fan sweep. 👀
+Wait for that single blade. 👀
 
 One overhead frame, three silhouette changes: kimono-inspired layers, a hanbok-inspired full skirt, then a sari-inspired drape.
-The fan gets the transition. The fabric gets the spotlight.
+One slim cream-coloured fan blade sweeps close across the lens. The outfit changes under the cover, then the fabric gets the spotlight.
 
 Which look would you replay: 1, 2 or 3?
 AI fashion interpretations made from our costume templates.

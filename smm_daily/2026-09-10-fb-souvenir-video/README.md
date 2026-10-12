@@ -241,4 +241,4 @@ The 2026-10-10 fashion captions are now consolidated in [posts_fb.md](posts_fb.m
 
 ## 2026-10-11 · Overhead costume transitions
 
-Three new 15s vertical videos: glowstick / Chinese embroidery, fan sweep / Asian silhouettes, glowstick / world textiles. **Queued Q1–Q3; not scheduled or published.** All use the existing Batch fashion try-on + curify-ai.com ending. [Assets and production record](2026-10-11-overhead-costume/README.md). English captions in [posts_fb.md](posts_fb.md#overhead-costume-transitions--facebook--instagram-shared-copy); Chinese captions in [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md).
+Three new 15s vertical videos: rollover / Chinese embroidery, slim cream fan-blade sweep / Asian silhouettes, glowstick / world textiles. **Queued Q1–Q3; not scheduled or published.** All use the existing Batch fashion try-on + curify-ai.com ending. [Assets and production record](2026-10-11-overhead-costume/README.md). English captions in [posts_fb.md](posts_fb.md#overhead-costume-transitions--facebook--instagram-shared-copy); Chinese captions in [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md).
