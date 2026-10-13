@@ -1364,3 +1364,23 @@ Which scene direction would you test with your next studio concept?
 First comment:
 We can develop a batch of scene concepts around one reference portrait and a written brief. Send the setting, mood and details that need to stay consistent.
 https://www.curify-ai.com/en/nano-template/studio-digital-backdrop-scene
+
+---
+
+### Korean editorial retouching · English comparison · 2026-10-13
+
+**Status:** Ready for Facebook draft; not published or scheduled.
+
+**Attach:** `demos/hanza-editorial-2026-10-13/korean-editorial-retouching-en.png`
+
+A Korean editorial glow, across three poses.
+
+Brighter skin tones, a soft rosy warmth and delicate highlights: this comparison explores one Korean magazine-inspired portrait finish.
+
+Look across all three pairs. Does the mood stay consistent from the close-ups to the seated portrait? Which version would you choose for an editorial shoot?
+
+AI-generated concept illustration with an adapted character. These are illustrative before/after looks, not a real client retouch or an agent performance result.
+
+#PortraitRetouching #EditorialPhotography #KoreanEditorial #ColorGrading #CurifyAI
+
+**Alt text:** Six-panel portrait comparison of one AI-generated woman wearing a straw hat, white vest and brown scarf. Three poses appear in the top Before row and bottom After row. The After illustrations show brighter, rosier skin and more pronounced highlights. Title: Korean Editorial Retouching. Footer identifies the images as AI-generated illustrations, not real evaluation samples.
