@@ -2,7 +2,7 @@
 
 ## 全部视频发布总表
 
-**小红书无片尾导出：** [8 条视频下载与校验记录](rednote-no-ending/README.md)。上述 7 条的新文件已移除 Curify 片尾；另附原本就无片尾的 `fashion_Renaissance`。下表这 7 条的视频链接指向无片尾版，正文同时保留原版链接。已有预约状态沿用之前记录；本次只生成文件，没有替换平台上的预约视频。
+**小红书无水印、无片尾导出：** [8 条视频下载与校验记录](rednote-no-ending/README.md)。7 条新文件均已移除 Curify 水印／品牌角标和片尾，保留正文字幕；另附原本就无水印、无片尾的 `fashion_Renaissance`。8 条已于 2026-10-13 原位替换，文件名不变。下表这 7 条的视频链接指向无片尾版，正文同时保留原版链接。已有预约状态沿用之前记录；本次只生成文件，没有替换平台上的预约视频。
 
 **更新日期：2026-10-12。** Jay 已确认「时装 × 文化」4 条和「俯拍换装」Q1–Q3 共 7 条视频，均已在 **小红书、快手预约发布**。具体发布时间未提供；预约不等于已经发布。5 条旅行纪念片沿用历史记录，本次未确认其状态变化。另有 2 条本地新增的 3D 知识动画草稿，尚未排期；不计入本次预约的 7 条。已作废和限制素材也列在表末，避免误用。
 
@@ -284,7 +284,7 @@ _英文 Facebook 版本在 **[`posts_fb.md`](posts_fb.md)**。
 
 ### 01｜一张脸穿过三个时装世界
 
-**小红书无片尾版：** [fashion-time-machine-no-ending.mp4](rednote-no-ending/fashion-time-machine-no-ending.mp4) · 14.83秒。以下链接为保留片尾的原版。
+**小红书无水印、无片尾版：** [fashion-time-machine-no-ending.mp4](rednote-no-ending/fashion-time-machine-no-ending.mp4) · 14.83秒。以下链接为保留片尾的原版。
 
 视频：[fashion-time-machine-curify.mp4](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/fashion-time-machine-curify.mp4)
 
@@ -306,7 +306,7 @@ _英文 Facebook 版本在 **[`posts_fb.md`](posts_fb.md)**。
 
 ### 02｜同一条沙龙裙，三种打开方式
 
-**小红书无片尾版：** [one-sarong-three-moods-no-ending.mp4](rednote-no-ending/one-sarong-three-moods-no-ending.mp4) · 14.83秒。以下链接为保留片尾的原版。
+**小红书无水印、无片尾版：** [one-sarong-three-moods-no-ending.mp4](rednote-no-ending/one-sarong-three-moods-no-ending.mp4) · 14.83秒。以下链接为保留片尾的原版。
 
 视频：[one-sarong-three-moods-curify.mp4](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/one-sarong-three-moods-curify.mp4)
 
@@ -328,7 +328,7 @@ Curify 原创 AI 搭配示例，灵感来自马来西亚的文化融合穿搭。
 
 ### 03｜把东方衣橱穿进今天
 
-**小红书无片尾版：** [chinese-silhouettes-remixed-no-ending.mp4](rednote-no-ending/chinese-silhouettes-remixed-no-ending.mp4) · 14.93秒。以下链接为保留片尾的原版。
+**小红书无水印、无片尾版：** [chinese-silhouettes-remixed-no-ending.mp4](rednote-no-ending/chinese-silhouettes-remixed-no-ending.mp4) · 14.93秒。以下链接为保留片尾的原版。
 
 视频：[chinese-silhouettes-remixed-curify.mp4](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4)
 
@@ -348,7 +348,7 @@ Curify 原创 AI 时装示例。访问 **curify-ai.com**，体验 **Batch fashio
 
 ### 04｜飞天·失名
 
-**小红书无片尾版：** [feitian-shiming-30s-music-v2-no-ending.mp4](rednote-no-ending/feitian-shiming-30s-music-v2-no-ending.mp4) · 30.00秒。以下链接为保留片尾的原版。
+**小红书无水印、无片尾版：** [feitian-shiming-30s-music-v2-no-ending.mp4](rednote-no-ending/feitian-shiming-30s-music-v2-no-ending.mp4) · 30.00秒。以下链接为保留片尾的原版。
 
 视频：[feitian-shiming-30s-music-v2-curify.mp4](../../drama/feitian-shiming-30s-music-v2-curify.mp4)
 
@@ -375,7 +375,7 @@ Curify 原创 AI 时装示例。访问 **curify-ai.com**，体验 **Batch fashio
 
 ### Q1 · 翻个身，民族服饰灵感换一页✨
 
-**小红书无片尾版：** [glowstick-chinese-embroidery-no-ending.mp4](rednote-no-ending/glowstick-chinese-embroidery-no-ending.mp4) · 12.00秒。以下链接为保留片尾的原版。
+**小红书无水印、无片尾版：** [glowstick-chinese-embroidery-no-ending.mp4](rednote-no-ending/glowstick-chinese-embroidery-no-ending.mp4) · 12.00秒。以下链接为保留片尾的原版。
 
 **视频：** [glowstick-chinese-embroidery-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) · 15秒 · 1080 × 1920
 
@@ -391,7 +391,7 @@ Curify 原创 AI 时装示例。访问 **curify-ai.com**，体验 **Batch fashio
 
 ### Q2 · 扇叶扫过去，下一套就来了🌀
 
-**小红书无片尾版：** [fan-sweep-asian-silhouettes-no-ending.mp4](rednote-no-ending/fan-sweep-asian-silhouettes-no-ending.mp4) · 12.00秒。以下链接为保留片尾的原版。
+**小红书无水印、无片尾版：** [fan-sweep-asian-silhouettes-no-ending.mp4](rednote-no-ending/fan-sweep-asian-silhouettes-no-ending.mp4) · 12.00秒。以下链接为保留片尾的原版。
 
 **视频：** [fan-sweep-asian-silhouettes-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) · 15秒 · 1080 × 1920
 
@@ -407,7 +407,7 @@ Curify 原创 AI 时装示例。访问 **curify-ai.com**，体验 **Batch fashio
 
 ### Q3 · 同一个镜头，换三种织物心情✨
 
-**小红书无片尾版：** [glowstick-world-textiles-no-ending.mp4](rednote-no-ending/glowstick-world-textiles-no-ending.mp4) · 12.00秒。以下链接为保留片尾的原版。
+**小红书无水印、无片尾版：** [glowstick-world-textiles-no-ending.mp4](rednote-no-ending/glowstick-world-textiles-no-ending.mp4) · 12.00秒。以下链接为保留片尾的原版。
 
 **视频：** [glowstick-world-textiles-curify.mp4](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4) · 15秒 · 1080 × 1920
 
