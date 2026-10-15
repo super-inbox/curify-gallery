@@ -1,0 +1,15 @@
+{
+  "source_project": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-15-lead-013-ai-virtual-host-video",
+  "source_video": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-15-lead-013-ai-virtual-host-video/output/delivery/xiaolan_20s_virtual_host.mp4",
+  "destination_video": "assets/xiaolan-ai-virtual-host-20s.mp4",
+  "sha256": "dcb5c554e1578e81c1dd5c7e1d5961b2678e3321782786bc83e97822d05c722f",
+  "duration_seconds": 20,
+  "resolution": [
+    768,
+    1360
+  ],
+  "platform": "rednote",
+  "positioning": "AI虚拟数字人视频承制",
+  "status": "draft_not_published",
+  "contains_client_brief": false
+}
