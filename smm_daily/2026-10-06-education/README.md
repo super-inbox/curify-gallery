@@ -1,0 +1,146 @@
+# smm_daily / education — 科普图文系列
+
+_Series charter, drop index and progress tracker for every drop. All drops live in
+this one folder; each drop has its own `captions_<topic>.md` for copy, sources and
+known flaws. Rules and progress live only here — the captions files link back
+rather than copying them._
+
+Drops where the hook is **a fact that corrects a common belief**, delivered as a
+small set of infographic cards generated from shipped nano templates.
+
+Started 2026-09-21 with the 隐翅虫 (rove beetle) set.
+
+## The rule this series lives or dies by
+
+RedNote · Curify's algo identity is **Chinese history/culture reverse-trivia,
+text-first** (see `smm-account-positioning-playbook`). A card-first "education"
+series is *off* that identity, and flashcard-style cards as the flagship format
+are a measured bottom performer.
+
+So every drop here must clear one bar before it is written:
+
+> **Does it have a reverse-trivia core — a sentence that tells the reader the
+> opposite of what they assume?**
+
+If yes, it can run on RedNote · Curify as a text-first post with the cards as the
+payoff. If no, it is a utility post and belongs somewhere else, or nowhere.
+
+The 隐翅虫 set clears it: *the beetle doesn't bite you — your own slap is the
+injury.* Column name is therefore **「反常识科普」**, not「教育科普」. Same content,
+but the first one is on-identity and the second is drift.
+
+## House rules for a drop
+
+1. **Ground every claim in a source document**, committed or linked. These posts
+   give health and safety advice; an invented number here is not a typo.
+2. **Reuse a shipped nano template per card**, with the parameter recorded, so a
+   reader who clicks through can reproduce the card. The template page is the
+   landing page.
+3. **Run the CJK transcription QA** (`curify-frontend/scripts/qa_cjk_transcribe.cjs`)
+   on every card before publishing. Image models draw plausible *wrong*
+   characters — round 1 of the 隐翅虫 set shipped 袴 for 将, 捐伤 for 损伤, the
+   Japanese shinjitai 軽軽 for 轻轻, and an entirely fabricated pie chart. None of
+   it was visible at thumbnail size. **The QA script is not enough on its own:** in
+   the 中微子 drop it reported "SUSPECT: none" on 1K cards whose 南极/线缆/竣/银河系
+   were malformed at 2× zoom — the transcription model silently corrects. Generate at
+   2K and zoom-check every text block by eye.
+4. **Never put a prohibition in the facts block** of a generation prompt. It gets
+   treated as content and rendered onto the card. Prohibitions go in the
+   instruction block; facts stay positive.
+5. **Publish the watermarked copies**; keep clean masters in
+   `curify-frontend/raw/<topic>/out/`.
+6. **Strip third-party identifiers** from source documents — company names,
+   hotlines, addresses. The facts are public; the contact details are not ours.
+
+## Drops
+
+| Date | Topic | Cards | Posted | Read-out | Copy |
+|---|---|---|---|---|---|
+| 2026-09-21 | 隐翅虫 safety science | 4 (`01_structure_bilingual` … `04_first_aid_and_prevention`) | ✅ 3 posts, RedNote | pending — see below | [`captions_rove_beetle.md`](captions_rove_beetle.md) |
+| 2026-10-06 | 诺奖物理 · 中微子 / 冰立方 (+ 批量生成 CTA) | 4 (`01_ghost_through_fingernail` … `04_how_to_catch_a_ghost`) | ◻︎ 3 posts planned 10-07 / 09 / 11 | pending | [`captions_nobel_neutrino.md`](captions_nobel_neutrino.md) |
+
+| 2026-10-11 | 诺奖医学 · 光遗传学与抑郁症 | 3 (`01_nobel_is_not_a_cure` … `03_depression_is_not_weakness`) | ◻︎ 素材就绪，未发布 | pending | [`captions_nobel_depression.md`](captions_nobel_depression.md) |
+
+---
+
+# Schedule & progress
+
+Same shape as the sibling threads (`../2026-09-01-retouching/posts_fb.md`,
+`../2026-09-10-fb-souvenir-video/README.md`) so this channel stays comparable.
+
+**Status** ✅ sent · 🔴 sent off-plan · ◻︎ planned · ⛔ blocked
+
+## Drop 1 · 隐翅虫 (2026-09-21)
+
+Copy in [`captions_rove_beetle.md`](captions_rove_beetle.md). All four cards went out
+watermarked; clean masters are in `curify-frontend/raw/隐翅虫-smm-09-21/out/`.
+
+| Status | Post | Cover | Cards in post | Account | 点赞 | 收藏 | 评论 | 进推荐 |
+|---|---|---|---|---|---|---|---|---|
+| ✅ **09-21** | **1 · 主贴** — 不咬人也不喷毒，那一巴掌才是伤你的 | `03_why_not_slap.png` | 03 → 01 → 02 → 04 | ⚠️ record | | | | |
+| ✅ **09-21** | **2** — 它到底长什么样 | `01_structure_bilingual.png` | 01 | ⚠️ record | | | | |
+| ✅ **09-21** | **3** — 四步 + 防护清单 | `04_first_aid_and_prevention.png` | 04 | ⚠️ record | | | | |
+
+⚠️ **Three fields are unrecorded and only you can fill them:** which account each post went to,
+the post URLs, and the posting times. Without the account this drop is unattributable — the whole
+point of the read-out below is *which identity* the algorithm rewarded, and that cannot be
+recovered later.
+
+⚠️ **All three went out the same day.** The sibling threads run one post per room per ~3 days
+precisely to avoid self-collision; three posts from one account in one day is a different
+cadence than anything else in `smm_daily`. Worth noting in the read-out whether posts 2 and 3
+suppressed each other, because if they did it is a cadence result, not a topic result.
+
+ℹ️ **Card 02 (`02_species_science.png`) is not a cover anywhere** — it only appears inside post 1's
+carousel. If post 1 underperforms, 02 is the spare cover to test, not a fifth card to make.
+
+## Drop 2 · 诺奖中微子 (2026-10-06)
+
+Copy in [`captions_nobel_neutrino.md`](captions_nobel_neutrino.md). Clean masters are in
+`curify-frontend/raw/诺奖中微子-smm-10-06/out/`.
+
+| Status | Date | Post | Cover | Cards | Account | URL | 点赞 | 收藏 | 评论 | 私信「批量」 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| ◻︎ | **10-07** | **1 · 主贴** — 最大的望远镜不朝天看 | `01_ghost_through_fingernail.png` | 01 → 02 → 04 → 03 | | | | | | |
+| ◻︎ | 10-09 | **2** — 怎么抓到一个中微子 | `04_how_to_catch_a_ghost.png` | 04 | | | | | | |
+| ◻︎ | 10-11 | **3** — 从疯子构想到诺奖 | `03_crazy_idea_to_nobel.png` | 03 | | | | | | |
+
+Drop 1 went out same-day and can't separate cadence from topic, so this drop is **spaced two
+days apart**. Fill account, URL and time as each one goes out.
+
+Extra KPI column **私信「批量」**: this drop adds a conversion question — can 科普 content lead
+people to batch generation?
+
+## What to read, and when
+
+KPI is **收藏 + 评论**, not 点赞 and not clicks — this is the reach-authority engine
+(see *The rule this series lives or dies by* above).
+
+Fill each drop's table at **+48h** and again at **+7d**. Drop 1 exists to answer these three
+questions; later drops re-test them (compare drop 2 against drop 1 like for like):
+
+1. **Did the reverse-trivia hook carry it?** Post 1 leads on the 反常识 line; posts 2 and 3 are
+   reference material. If 1 outperforms 2 and 3 by a wide margin, the hook is doing the work and
+   「反常识科普」 is the right column name. If they perform alike, the topic is doing the work and
+   the column can be broader.
+2. **Was 科普 off-identity for the account?** This was filed as a 20% exploration bet against an
+   account whose proven identity is CN history/culture reverse-trivia. Compare 收藏率 against a
+   recent history/culture post from the same account, and against earlier drops here.
+3. **Go / no-go on a 固定栏目.** Only make this a standing column on a clear yes to both.
+
+Mirror the result into `curify-gtm/gtm_tools/outreach_denominator.csv` so RedNote stays comparable to
+the FB and email channels.
+
+```
+date | account | column | post | cover | 点赞 | 收藏 | 评论 | 推荐 | DMs
+```
+
+## Drop 3 · 诺奖医学与抑郁症（2026-10-11）
+
+正文、模板参数与逐项来源见 [captions_nobel_depression.md](captions_nobel_depression.md)。3 篇独立图文，素材就绪；未发布、未自动排期。建议每篇至少间隔两天。用户提供的微信正文未能读取，本期改用 Stanford / NIMH / WHO 核实资料独立撰写。
+
+| 状态 | Post | Cover | Account | 日期 | URL | 点赞 | 收藏 | 评论 |
+|---|---|---|---|---|---|---|---|---|
+| ◻︎ 素材就绪 | 1 · 诺奖研究抑郁，离治愈还有多远？ | `01_nobel_is_not_a_cure.png` | 小红书 · Curify（建议） | 待定 | | | | |
+| ◻︎ 素材就绪 | 2 · 神经元听光指挥，关键不只是光 | `02_how_optogenetics_works.png` | 小红书 · Curify（建议） | 待定 | | | | |
+| ◻︎ 素材就绪 | 3 · 抑郁症不是一场意志力考试 | `03_depression_is_not_weakness.png` | 小红书 · Curify（建议） | 待定 | | | | |

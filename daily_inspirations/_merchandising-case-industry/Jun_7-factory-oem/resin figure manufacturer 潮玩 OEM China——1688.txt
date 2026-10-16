@@ -1,0 +1,323 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+  
+  <meta charset="utf8">
+<link rel="shortcut icon" type="image/x-icon" href="//www.alibaba.com/favicon.ico" />
+<link rel="dns-prefetch" href="//g.alicdn.com" />
+<link rel="dns-prefetch" href="//img.alicdn.com" />
+<link rel="dns-prefetch" href="//gw.alicdn.com" />
+<link rel="dns-prefetch" href="//gw.alipayobjects.com" />
+<link rel="dns-prefetch" href="//search.alibabausercontent.com" />
+<link rel="dns-prefetch" href="//cbu01.alicdn.com" />
+<link rel="shortcut icon" type="image/x-icon" href="//cbu01.alicdn.com/favicon.ico?_=2020">
+
+<title>批发_供应_阿里巴巴</title>
+
+
+
+
+<meta name="data-spm" content=a26352>
+
+<meta name="ahot-aplus" content="1">
+<meta name="aplus-rate-ahot" content="1">
+
+<meta name="aplus-waiting" content="MAN">
+<meta name="splus-scene" content="search">
+<meta name="spacew-unikey" content=factory2025>
+
+<!-- 额外注入 -->
+<link rel="preconnect" href="https://h5api.wapa.1688.com" />
+<link rel="dns-prefetch" href="https://h5api.wapa.1688.com" />
+<link rel="preconnect" href="https://h5api.m.1688.com" />
+<link rel="dns-prefetch" href="https://h5api.m.1688.com" />
+<script src="https://g.alicdn.com/mtb/lib-mtop/2.7.3/mtop.js"></script>
+<script>(window.searchUtil || (window.searchUtil = {})).pageName="factory2025";</script>
+<!-- 下面的代码是接入jstracker 需要的配置目前就主搜需要 -->
+<script src="https://g.alicdn.com/code/npm/@ali/search-common-tools/0.1.1/index.umd.es5.production.js"></script>
+<script>
+  window.g_config = {};
+  window.g_config.jstracker2 = {};
+  window.g_config.jstracker2.pid = "31070-tracker"; // 这个固定
+  // 可选，白屏检测dom自定义
+  // window.g_config.jstracker2.whiteScreen = {
+  //   rootElementId: string, // 传 element 的 id string ，只检测指定节点内，不传则按 document.body 范围进行检测
+  // };
+</script>
+<script
+  src="//g.alicdn.com/jstracker/sdk-assests/5.7.1/index.js"
+  crossorigin="anonymous"
+></script>
+<script>(function(){try{function a(){return/pre-|__mtop_subdomain__=wapa/i.test(window.location.href)}function t(a,e){if(!t.cache){t.cache={}}if(typeof e!=="undefined"){if(t.cache[a])return;t.cache[a]=e}if(t.cache[a]){t.cache[a+"End"]=Date.now();t.cache[a+"Dur"]=t.cache[a+"End"]-t.cache[a];return}t.cache[a]=Date.now()}function w(a,e,t,r,n){if(!window.lib||!window.lib.mtop){var i=n&&n.retryTimes||0;var o={api:a,data:e,retryTimes:i};if(i<=2){console.warn("[mtop_not_found] ==> retry",o);var d=Object.assign({retryTimes:i+1},n||{});setTimeout(()=>{console.warn("[mtop_not_found] ==> retry do",o);w(a,e,t,r,d)},500);return}console.warn("[mtop_not_found] ==> onFail",o,window.lib);r&&r("[mtop_not_found]");return}var c=(n||{}).subDomain;window.lib.mtop.config.prefix="h5api";window.lib.mtop.config.mainDomain="1688.com";if(p){window.lib.mtop.config.subDomain=c||"wapa"}const f=Object.assign({api:a,v:"2.0",data:e,ecode:0},n);const s=((window||{}).searchSpace||{}).request||window.lib.mtop.request;return s(f,t,r)}function e(a,e,t,r,n){try{var i=e||{};var o=JSON.stringify(i);var d=["reqTppId",a,i.method||""].join("_");var c=function(a){var e=a&&a.data?a.data:a;t&&t(e)};w("mtop.relationrecommend.WirelessRecommend.recommend",{appId:a,params:o},c,r,Object.assign({jsonpIncPrefix:d},n))}catch(a){console.warn("fetchTpp fail",a);r(a)}}function r(){if(!window.searchUtil||!window.searchUtil.logTimer)return;var e=n.logTimer;var t=Object.assign({},e.cache);Object.keys(e.cache).forEach(function(a){if(/dur$/i.test(a)){return}t[a]=e.cache[a]-performance.timing.navigationStart;t[a]=e.cache[a]-performance.timing.navigationStart});return t}var p=a();var n=window.searchUtil||(window.searchUtil={});n.fetchTpp=e;n.fetchMtop=w;n.logTimer=t;n.getLogTimer=r;n.isApiPre=p;function i(a){var e={};a=a.substring(1);var t=a.split("&");for(var r=0;r<t.length;r++){if(t[r]){var n=t[r].split("=");e[decodeURIComponent(n[0])]=decodeURIComponent(n[1]||"")}}return e}var o=i(window.location.search);if(o.mode!=="prefetch"||!o.prefetchId)return;if(!window.opener)return;if(performance.navigation.type!==performance.navigation.TYPE_NAVIGATE)return;window.opener.postMessage({id:o.prefetchId,origin:window.location.origin,ready:"yes"},"https://www.1688.com");n.offerListPrefetch=true;t("offerV2");window.addEventListener("message",a=>{if(a.origin!=="https://www.1688.com")return;if(a.data.action!=="getOfferList")return;if(a.data.prefetchId!==o.prefetchId)return;const e={reqParams:a.data.params,response:a.data.data,timeCost:0};if(!window.data){window.data={}}window.data.offerV2=e;t("offerV2");window.dispatchEvent(new CustomEvent("search:firstDataReady:offerV2",{detail:e}))})}catch(a){console.warn("init preHead catch",a)}})();(function(){try{if(!window.searchUtil)return;var i=window.searchUtil.logTimer;var c=window.searchUtil.fetchTpp;if(!window.data){window.data={}}var e=s==="factory2025"?20:60;var f=32517;var o={major:{verticalProductFlag:"pcmarket",searchScene:"pcOfferSearch",charset:"GBK"},imallPCSearch:{verticalProductFlag:"pcindustry",searchScene:"pcOfferSearch",charset:"GBK"},factory2025:{verticalProductFlag:"pcfactory",searchScene:"pcCompanySearch",charset:"GBK",pageSize:20}};var d="major";var s=window.searchUtil.pageName||d;function a(a){var e="";var t=["0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];for(var r=0;r<a;r++){var n=Math.round(Math.random()*(t.length-1));e+=t[n]}return e}function w(a,e,t){try{if(!a)return{};if(!t){t={}}var n=t.autoDecode||true;var r=t.excludeKeys||[];var i=/\?/.test(a)?a.split("?")[1].split("&"):[];var o={};var d=e?function(a){return e.includes(a)}:function(a){return!!a&&!r.includes(a)};i.map(a=>{var e=a.split("=");var t=e[0];var r=e[1];if(!d(t))return;o[t]=n?p(r):r});return o}catch(a){console.warn("getAllQuery catch",a);return{}}}function p(e){try{return decodeURIComponent(e)}catch(a){return e}}function u(a,e){if(!e){e={}}var t=typeof e.autoDecode!=="undefined"?e.autoDecode:true;var r=location.search.replace(/(#[^?]*)/,"");if(!a){return w(r,undefined,e)}if(Array.isArray(a)){return w(r,a,e)}var n=r.match(new RegExp(a+"=([^&#]*)"));var i=n&&n[1]||"";return t?p(i):i}function g(a,e){(window.data||(window.data={}))[a]=e;window.dispatchEvent(new CustomEvent("search:firstDataReady"+":"+a,{detail:e}))}function t(r,a,n){i(r);var e=[];m(a,function(a,e,t){i(r);if(n&&typeof n==="function"){n(a,e)}g(r,{response:a,reqParams:e,timeCost:t&&t.timeCost||0})},{excludeKeys:e})}function m(a,e,t){var a=Object.assign({},a,y(t));var r=a.beginPage||1;var n=r>=1?((((window||{}).data||{}).offerV2||{}).response||{}).sessionId||"":"";var i=Object.assign({},a,{sessionId:n});var o=Date.now();function d(a){if(e)e(a,i,{timeCost:Date.now()-o})}c(f,i,d,d);return}function n(a){return/true/i.test(a)}function l(a){return+a||0}function r(){if(!window.data){window.data={}}if(!window.data.offerresultData){window.data.offerresultData={}}window.data.offerresultData.enable=true;if(!window.data.filtZeroResultData){window.data.filtZeroResultData={}}if(!window.data.filtZeroResultData.url){window.data.filtZeroResultData.url={more:location.href}}if(!window.data.filtbarData){window.data.filtbarData={enable:false,isDefault:true}}if(!window.data.pageConfigData){window.data.pageConfigData={}}if(!window.data.pageConfigData.keywords){var a=window.data.abResultData||{};var e=window.data.pageConfigData||{};Object.assign(window.data.pageConfigData,{enable:true,keywords:e.keywords||a.keywords||"",escapedKeywords:e.escapedKeywords||a.escapedKeywords||""})}if(!window.data.requestData){window.data.requestData={}}Object.assign(window.data.requestData,{enable:true});if(!window.data.requestData.params){window.data.requestData.params={}}if(!window.data.groupbuyData){window.data.groupbuyData={}}if(!window.data.groupbuyData.huopinAndJicai){window.data.groupbuyData.huopinAndJicai={leafCategoryId:"0",groupType:"huopin",enable:true}}}function h(a){if(!a||!a.pageConfigData)return;var e=a.pageConfigData||{};var t=a.openwidgetData||{};var r=t.frameOpenWidget||{};Object.assign(window.data,a,{pageConfigData:Object.assign({},e,{enable:true,beginPage:+e.beginPage,isForbidden:n(e.isForbidden)}),openwidgetData:Object.assign({},t,{frameOpenWidget:Object.assign({},r,{showSpaceFirst:n(r.showSpaceFirst),widgetId:l(r.widgetId)})})});if(e.p4pId){(window.data.offerresultData||(window.data.offerresultData={})).beasonP4PId=e.p4pId}if(window.updatePageTitle){window.updatePageTitle()}}function v(){if(!window.data)return;if(!window.data.pageId){window.data.pageId=a(48)}if(window.data.pageId){D.appendCommExpo({pageId:window.data.pageId||""})}if(window.data.pageConfigData){D.appendCommExpo({requestIdOld:window.data.pageConfigData.requestId||""});D.appendExtraExpo({se_keyword:encodeURIComponent(window.data.pageConfigData.keywords||"")})}}function y(a){var e=u("keywords",{autoDecode:false});var t=a&&a.excludeKeys||[];var r=u(undefined,{autoDecode:true,excludeKeys:["keywords","_mockUI_","_spaceDebug_","noTranslate"].concat(t)});var n=o[s]||o[d];var i=Object.assign({pageId:window.data.pageId||""},n,r,{keywords:e});return i}var D=window.searchUtil||(window.searchUtil={});D.querifyObj=b;D.fetchTpp=c;D.logTimer=i;D.getQuery=u;D.getOfferQuery=y;D.fetchSearchData=m;function b(e,t,a){if(!e)return"";if(!t)t="@";if(!a)a="^";return Object.keys(e).map(a=>[a,e[a]].join(t)).join(a)}D.appendCommExpo=function(a){if(!a)return;if(!D.commExpo){D.commExpo={}}Object.assign(D.commExpo,a)};D.appendExtraExpo=function(a){if(!a)return;if(!D.extraExpo){D.extraExpo={}}Object.assign(D.extraExpo,a)};D.getCommExpoStr=function(a){var e={};if(a&&typeof a==="object"){var t=a.withKeyword;if(t){e=D.extraExpo||{}}}var r=b(Object.assign({},D.commExpo||{},e));return r};D.fetchList=function(a){return m({beginPage:1,pageSize:e,method:s==="factory2025"?"getCompanyList":"getOfferList"},a)};D.processSearchConfig=h;D.prepareWinData=r;r();v();if(!D.offerListPrefetch){t("offerV2",{beginPage:1,pageSize:e,method:s==="factory2025"?"getCompanyList":"getOfferList"})}t("searchConfigV2",{method:"getSearchConfig"},function(a){h(a&&a.data)});t("filterDataV2",{method:"getSmartNavigation"});if(s==="factory2025"){t("factoryWidget",{method:"getCompanyOtherData"})}}catch(a){console.warn("init preBody catch",a)}})();</script>
+
+
+
+
+
+
+<script src=https://gw.alipayobjects.com/os/lib/babel/polyfill/7.7.0/dist/polyfill.min.js></script>
+<!-- React 16.x and React-Router 4.x -->
+<script src=https://gw.alipayobjects.com/os/lib/react/16.12.0/umd/react.production.min.js></script>
+<script src=https://g.alicdn.com/platform/c/react15-polyfill/0.0.1/dist/index.js></script>
+<script src=https://gw.alipayobjects.com/os/lib/react-dom/16.12.0/umd/react-dom.production.min.js></script>
+<!-- 广告曝光相关JS -->
+
+
+<script src=https://g.alicdn.com/assets-group/cbu-splus/1.0.5/index.js></script>
+
+
+<!-- Mtop 移动端拼在上面的js -->
+
+<!-- 霸下 -->
+
+<script src=https://g.alicdn.com/??/AWSC/AWSC/awsc.js,/sd/baxia-entry/baxiaCommon.js></script>
+
+
+<!-- 额外注入 -->
+<script src="https://o.alicdn.com/1688-pc/pc-dynamic-sc/index.js" data-alibar="new" data-workbench="hideLeftMenu=true&leftInitialMode=1&showSearch=false&isSticky=false"></script><script>(function(){function a(a,i){var r=window.data||{};var t=(r.abResultData||{}).ab_params||{};if(!i)i="1";return t[a]===i}window.__baxia__={};window.getUIDisplay=function(){if(window.getUIDisplay.result)return window.getUIDisplay.result;var a=/_mockui_=([^&#]*)/i.exec(location.search);if(a&&a[1]){a=a[1]}var i=window.data||{};var r=!!i.abResultData;var t=true;if(!r){return{abDataDone:r,ui2024:t}}var e=true;var u=true;var n={abDataDone:r,ui2024:t,ui2024v2:u,ui2024v2_2:e,uiscroll:false};if(r){window.getUIDisplay.result=n}return n}})();</script> 
+  
+  <script>
+  if (window.wpkReporter) {
+    // 异常曝光上报
+    var wpk = window.wpk = {install: ()=> {}, report: () => {}};
+    wpk.install();
+  }
+
+  // 后端接口加载耗时
+  window.hsfLoadTime = 0;
+
+  
+  window.hsfLoadTime = 18
+  
+
+</script>
+ 
+  
+  <style>
+  .initLoading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #f8f8f8;
+  }
+
+  .initLoading img {
+    position: relative;
+    left: 50%;
+    margin-left: -44px;
+    top: 20%;
+  }
+
+  html, body {
+    margin: 0;
+  }
+
+
+</style>
+
+
+ 
+</head>
+
+<body class="zh-cn" data-spm=24780423><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=213e06b517808157852081606e2946&asid=AQAAAACpFyVq3wS+EAAAAAAqsvgEfNFOXA==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+  
+  <!-- 临时注释掉 -->
+<div id="app">  
+
+
+  <div class="initLoading"><img src="https://img.alicdn.com/tfs/TB1uEdwSFXXXXb9apXXXXXXXXXX-88-34.gif" /></div>
+
+
+</div> 
+  
+  <script>
+    window.noDeepFormatPage = true;
+window.successDataCheck = function (data) {
+  try {
+    if(data.data) {
+      var dataString = Object.prototype.toString.call(data.data);
+      if(dataString === '[object Object]' || dataString === '[object Array]') {
+        return data.data
+      }
+    }
+  } catch (error) { }
+  return { "enable": false, "isDefault": true };
+}
+window.asyncSuccessDataCheck = function (data) {
+  try { 
+      if(data.data) {
+      var dataString = Object.prototype.toString.call(data.data);
+      if(dataString === '[object Object]' || dataString === '[object Array]') {
+        return data.data
+      }
+    }
+  } catch (error) {}
+  return { data: { "enable": false, "isDefault": true } }
+}
+
+function randomWord(range) {
+  var str = "";
+  var arr = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
+
+  for (var i = 0; i < range; i++) {
+    var pos = Math.round(Math.random() * (arr.length - 1));
+    str += arr[pos];
+  }
+  return str;
+}
+
+if (!window.data) window.data = {};
+window.data.pageMessage = {"pageId":"Slzi8SIoVt7v4sdTi6OlkuAY86m8CxiQG5u2h2w5uJ2rLqKB","pageName":"factory2025","sessionId":"cb1f631943ab4a028cf653c6171628f9","jsVersion":"2025"};
+
+if(!window.data.pageId){
+  var pageId = randomWord(48);
+  window.data.pageId = pageId;
+  window.data.pageMessage.pageId = pageId;
+}else{
+  window.data.pageMessage.pageId = window.data.pageId;
+}
+
+
+window.data.abResultData = successDataCheck({"msg":"ok","code":"200","data":{"zeus_params":{"pc_factory_search_batch_quotation_enable_v3":"0","pc_factory_userId":"0"},"keywords":"resin figure manufacturer 潮玩 OEM China","escapedKeywords":"resin+figure+manufacturer+%B3%B1%CD%E6+OEM+China","pc_new_ui_simplify":true,"new_ui":true,"ab_params":{"daogou_service_67":"test","lq_test_a":"1","facsort_shop_level":"1","price_range":"1","wm_ord_2":"2","cate_disperse_qp":"v1","fouding":"1","daogou_service_6":"base","zgc_recall_tb":"1","query_intention_con_semantic":"1","fab_uniq_rele_dist_sort":"1","param_sku_pic":"1","opense_fab_combine":"1","query_intention_add":"1","mergetoken_recall":"2","show_type_filter":"1","is_daogou_exp":"111","daogou_service_10166":"base","show_follow_filter":"1","zgc_recall_1688tk":"1","jgdz":"2","buyoffer_sp_tpp":"1","show_city_filter":"1","q_correct":"1","gallop_predict_single":"100","change_mfsz":"1","fy24_ui":"2","sn_od_free_postage":"1","factory_mergePhase":"1","fab_offer_gb_flow_rank":"1","itm_incubate":"v1","gyp_gmv":"3","fab_unify_price_all_domain":"1","no_clk_user_stay":"0","offer_to_sp_tpp":"1","fab_item_pool_personal":"3","companygb_sp_tpp":"1","gig":"1","new_sort":"1","pce_test_1":"2","offer_in_tpp_sp":"1","cate_disperse_sp":"v1","zgc_recall_i2i2s":"0","general_p4p_param":"2","fab_hp_uniq_rele_group_sort":"1","fab_company_gb_flow_rank":"1","itm_incubate_qp":"v1","rs_upgrade_use_new_context":"1","fab_uniq_rele_group_sort":"1","is_pic_ins_recall":"1","param_sku_pic_fix":"1","neg_100":"100","zgc_search_fc4_gate":"1","factory_qp_main_pic":"1","summary":"1","daogou_service_97":"base","xinpin_dist":"1","wm_itm_1":"4","price_center_version_param":"v2","show_factory_filter":"1","page_list_param":"160","daogou_service_1813":"test","sn_sp_tpp":"1","card_ui_2208":"1","card_ui_2209":"1","show_taomai_filter":"0","daogou_service_18":"base","search_od_sn_upgrade":"1","show_back_rate_filter":"1","daogou_service_13":"test"}}});
+
+
+// 处理tag样式逻辑
+window.data.tagConfig = {"memberTagIds":{"isShiliDangKou":"3910593","isSuperFactory":"3938689"},"tagIds":{"isPinZhiBaoZhang":"3951041","deliveryHours48":"286402","deliveryHours24":"286466","superNewProduct":"277762","isImallExpert":"3981057"}};
+
+window.handleOfferTagData = function (data) {
+  try {
+    if (data && data.offerList && data.offerList.length > 0) {
+      for (var i = 0; i < data.offerList.length; i++) {
+        var offerData = data.offerList[i] || {};
+        var offerTagData = offerData.marketOfferTag || {};
+        for (var j in window.data.tagConfig) {
+          var currentTagData = window.data.tagConfig[j];
+          var insertData = tagFindForAry(currentTagData, offerTagData[j], offerData.company || {});
+          if (!offerData.feMapping) {
+            offerData.feMapping = {};
+          }
+          offerData.feMapping[j] = insertData;
+        }
+      }
+    }
+  } catch (error) { console.log('tag数据格式异常'); }
+  function tagFindForAry(data, ary, existedData) {
+    if (!ary || !data) {
+      return {};
+    }
+    var result = {};
+    for (var i in data) {
+      if (typeof existedData[i] !== 'undefined') {
+        result[i] = existedData[i];
+      } else if (ary.indexOf(data[i]) !== -1) {
+        result[i] = true;
+      } else {
+        result[i] = false;
+      }
+    }
+    return result;
+  }
+}
+window.handleOfferTagData(window.data.offerresultData)
+ 
+
+
+// 泛AB相关数据
+window.data.fabConfigData = {"service_Global":{},"service_node":{},"experimentsAry":[],"experimentsStr":""}
+ 
+
+
+ 
+  </script>
+  
+  <script>
+
+// 设置标题
+
+window.updatePageTitle = function() {
+  if (!window.data) return;
+  var keywords = (((window.data || {}).requestData || {}).params || {}).keywords || ((window.data || {}).pageConfigData || {}).keywords || '';
+  if (!keywords) return;
+  if (window.data.offerresultData && window.data.offerresultData.emptyOfferType === 1) {
+    document.title = keywords + '_搜索';
+  } else {
+    document.title = keywords + '_' + keywords + '批发_' + keywords + '供应_阿里巴巴';
+  }
+}
+window.updatePageTitle();
+
+</script>
+
+
+
+  
+  
+<script>
+  function getPageUrlParam(variable) {
+    let query = window.location.search.substring(1);
+    let vars = query.split("&");
+    for (let i = 0; i < vars.length; i++) {
+      let pair = vars[i].split("=");
+      if (pair[0] == variable) {
+        return pair[1];
+      }
+    }
+    return '';
+  }
+  // 页面PV上报
+  var aplusReport = (window.goldlog_queue || (window.goldlog_queue = []));
+  // 搜索结果数
+  var c_srescnt = (window.data && window.data.offerresultData && window.data.offerresultData.totalCount) ? window.data.offerresultData.totalCount : "";
+  // 关键词
+  var c_sek = (window.data && window.data.pageConfigData && window.data.pageConfigData.keywords) ? window.data.pageConfigData.keywords : "";
+  // 页码
+  var c_sep = (window.data && window.data.pageConfigData && window.data.pageConfigData.beginPage) ? window.data.pageConfigData.beginPage : "";
+  // 广告ID
+  var c_p4pid = (window.data && window.data.offerresultData && window.data.offerresultData.beasonP4PId) ? window.data.offerresultData.beasonP4PId : "";
+  // 类目ID
+  var c_secid = (window.data && window.data.pageConfigData && window.data.pageConfigData.postCategoryId) ? window.data.pageConfigData.postCategoryId : "";
+  // requestId
+  var c_requestid = (window.data && window.data.pageConfigData && window.data.pageConfigData.requestId) ? window.data.pageConfigData.requestId : "";
+  // jsVersion
+  var c_jsVersion = (window.data && window.data.pageMessage && window.data.pageMessage.jsVersion) ? window.data.pageMessage.jsVersion : "";
+  // 搜索类型
+  var c_set = 2;
+  // 1688官方浏览器插件来源
+  var source = getPageUrlParam('source');
+  var ret = "ali_resin_trace=c_srescnt=" + c_srescnt + "|c_sek=" + c_sek + "|c_sep=" + c_sep + "|c_p4pid=" + c_p4pid + "|c_secid=" + c_secid + "|c_requestid=" + c_requestid + "|c_set=" + c_set + "|source=" + source;
+  aplusReport.push({
+    action: 'goldlog.sendPV',
+    arguments: [{
+      is_auto: false
+    }, {
+      ret: ret,
+    }]
+  });
+  
+  
+</script>
+ 
+ 
+  
+  <!-- 额外注入 preBody -->
+<script>(function(){if(window.searchUtil&&window.searchUtil.prepareWinData){window.searchUtil.prepareWinData()}})();</script>
+
+<!-- 项目脚本资源加载 -->
+<script src=></script>
+<script src=https://search.alibabausercontent.com/space-wand-faas/ossCDN/pc_factory2025_0.0.48_index.js></script>
+<!-- 亮灯相关JS -->
+<script src=https://g.alicdn.com/kissy/k/1.4.14/seed-min.js></script>
+<script src=https://g.alicdn.com/aliww/ww-light-cbu/index.js></script>
+
+<!-- 额外注入 -->
+<script>var version="0.0.17";(function fetchBtrack(a){try{if(window.BtrackLogged)return;window.BtrackLogged=true;var s=document.createElement("script");if(!a){return}var b="https://g.alicdn.com/zgc/btrack-logger/"+a+"/home.js";s.src=b;s.async=true;s.addEventListener("load",function(){if(window.__processLink__){window.__processLink__()} });document.body.appendChild(s)}catch(e){console.warn("[fetchBtrack] catch",e)} })(version);</script>
+ 
+</body>
+
+</html>

@@ -1,0 +1,345 @@
+
+📌 Found 422 image files (.png/.jpg/.jpeg) under SOURCE_DIR
+✅ Added 104 new inspiration records to nano_inspiration.json
+
+=== Template Match Summary ===
+Matched:   104
+Unmatched: 203
+
+--- Unmatched files (no template prefix match) ---
+  - architecture_analysis_1.jpg
+  - architecture_analysis_2.jpg
+  - character_analysis_1.png
+  - character_analysis_2.png
+  - character_deconstruction_1.jpg
+  - character_deconstruction_2.jpg
+  - education_card_1.png
+  - education_card_2.png
+  - education_card_3.png
+  - education_card_4.png
+  - english_vocab_1.png
+  - english_vocab_2.png
+  - english_vocab_3.png
+  - evolution_timeline_1.jpg
+  - evolution_timeline_2.jpg
+  - herbal_medicine_1.jpg
+  - herbal_medicine_2.jpg
+  - hot_event_1.png
+  - hot_event_2.png
+  - intangible_heritage_1.png
+  - intangible_heritage_2.png
+  - mini_city_weather_1.png
+  - mini_city_weather_2.png
+  - species_science_1.png
+  - species_science_2.png
+  - travel_planning_1.jpg
+  - travel_planning_2.jpg
+  - visual_recipe_1.png
+  - visual_recipe_2.png
+  - 4c167348-bf61-4ddf-84cb-05b202efcbc4.jpg
+  - 6639347e-a059-46d3-98fc-420d37c024b1.jpg
+  - cb3e074b-8a5f-4d7a-b1ac-44318b678e55.jpg
+  - Mixue 2.png
+  - Mixue 3.png
+  - energy.jpg
+  - escape.jpg
+  - virtual interaction 1.png
+  - virtual interaction 2.png
+  - horse4.png
+  - horse5.png
+  - horse6.png
+  - horse7.png
+  - Pig-killing feast.png
+  - WHO-America 1.jpg
+  - bread 2.png
+  - new year.png
+  - Eiffel Tower.png
+  - Ferrero Rocher.png
+  - template-species-science-zh-dove-tree.jpg
+  - template-species-science-zh-red-crowned-crane.jpg
+  - 0cf2b759-2ca7-4f2f-8973-7061e502d4cd.jpg
+  - 1b3b4413-13a0-485d-9fc3-c416e9d7b919.jpg
+  - 1d0ed303-8981-4aca-ae7c-6066a5aa2242.jpg
+  - 4bc2f16c-45de-4d0f-a564-e0f05952dcde.jpg
+  - 5b084acc-cad6-474b-aed5-7a086eeddd55.jpg
+  - 5f2e2ee7-45f4-4a07-9e1a-d08defbc6451.jpg
+  - 6a612773-30bc-438c-8617-6792e6b24798.jpg
+  - 75d74b55-fb16-46c3-aaa0-b35d2ff43b2a.jpg
+  - 7caa281c-8e0f-40b7-b524-df0009989019.jpg
+  - 9a0b68ef-f615-47ba-8785-579650445f22.jpg
+  - Journey to the West 1.png
+  - Journey to the West 2.png
+  - Journey to the West 3.png
+  - Journey to the West 4.png
+  - Journey to the West 5.png
+  - Journey to the West 6.png
+  - Ming_costume 2.png
+  - Ming_costume.png
+  - Sixi balls_menu.png
+  - Song_costume.png
+  - Sun Wukong_analysis.png
+  - Tang_costume.png
+  - The industrial revolution_development.png
+  - Zootopia_card.png
+  - amusement park_card.png
+  - ce56f3e4-7daf-42c4-9eb3-74fdb5e718b6.jpg
+  - 0618582a-fe8e-4eaa-89fe-1047e4f32091.jpg
+  - 06f5f702-568a-4048-a1c3-5084385ae89f.jpg
+  - 13e3fb68-e4d2-4a09-a91d-742e8f029ee4.jpg
+  - 14a8766-f6be-4e96-9641-337e110a0ef8.jpg
+  - 1849c6aa-7c23-440d-a06c-85c3f0f8e53d.jpg
+  - 1d0ed303-8981-4aca-ae7c-6066a5aa2242.jpg
+  - 1ff0635f-7511-44d6-93a9-d559eaa196eb.jpg
+  - 239cdbb4-1110-403c-89b1-09337c8632e2.jpg
+  - 3b0ca602-c653-4ed3-b1dd-8758438f637a.jpg
+  - 3deee2b5-4f69-4faa-be52-fad5552b10d9.jpg
+  - 436b9df3-d16f-424a-8ab1-084ef3e8e780.jpg
+  - 54a4394f-672f-4576-b153-2bd3a7a04470.jpg
+  - 55916fd0-e839-4266-801a-e6c830f32028.jpg
+  - 56954de3-78f1-42a6-a2ad-3354b34960d1.jpg
+  - 5dd445bc-d1de-439b-941d-643ddac0bd9a.jpg
+  - 6639347e-a059-46d3-98fc-420d37c024b1.png
+  - 6915259b-cb46-402d-b220-2667a0386a33.jpg.jpg
+  - 6a612773-30bc-438c-8617-6792e6b24798.jpg
+  - 70141768-de91-4f26-8506-dabd77291864.jpg
+  - 74d2cebf-6593-4df9-85d7-a8544e459d39.jpg
+  - 75d74b55-fb16-46c3-aaa0-b35d2ff43b2a.jpg
+  - 8768d9a1-7c1b-4240-899d-8b74170a8102.jpg
+  - 89526aa9-8649-4de4-a8cf-46022609a568.jpg
+  - 9a0b68ef-f615-47ba-8785-579650445f22.jpg
+  - BEIJING_travel strategy.png
+  - Peking Opera_costume.png
+  - a9045034-b3a6-43d6-bae7-d87e57f3ec75.jpg
+  - aabd35b4-a11d-4835-9a9d-e2d282ccca59.jpg
+  - b0cd2f0c-b0b0-4108-98b8-a226a8303c22.jpg
+  - beeb82f8-95a8-48a7-9ee4-97b6c91538a4.jpg
+  - ce56f3e4-7daf-42c4-9eb3-74fdb5e718b6.jpg
+  - e25764eb-481c-40eb-b050-a80af3a89bf4.jpg
+  - ed914f6f-4bfa-4ca4-a244-3ea37e983897.jpg
+  - fish lantern_intangible cultural heritage.png
+  - resource environmental bearing capacity_knowledge.png
+  - template-building-en-gothic-cathedral 1.jpg
+  - template-building-en-gothic-cathedral.jpg
+  - template-fashion-ecommerce-zh-desk-lamp.jpg
+  - template-fashion-ecommerce-zh-headphones 2.jpg
+  - template-fashion-ecommerce-zh-mouse.jpg
+  - template-mbti-zh-annual-meeting 2.jpg
+  - template-mbti-zh-annual-meeting 3.jpg
+  - template-mbti-zh-annual-meeting 4.jpg
+  - template-mbti-zh-annual-meeting 5.jpg
+  - template-mbti-zh-annual-meeting 6.jpg
+  - template-mbti-zh-annual-meeting 7.jpg
+  - template-mbti-zh-annual-meeting.jpg
+  - template-product-ecommerce-zh-hairdryer.jpg
+  - template-fashion-ecommerce-zh-dress.jpg
+  - template-fashion-ecommerce-zh-hat.jpg
+  - template-fashion-ecommerce-zh-jacket.jpg
+  - template-fashion-ecommerce-zh-jeans.jpg
+  - template-fashion-ecommerce-zh-shoes.jpg
+  - template-mbti-zh-amusement-park 1.jpg
+  - template-mbti-zh-amusement-park 2.jpg
+  - template-mbti-zh-amusement-park 3.jpg
+  - template-mbti-zh-amusement-park 4.jpg
+  - template-mbti-zh-amusement-park 5.jpg
+  - template-mbti-zh-amusement-park 6.jpg
+  - template-mbti-zh-amusement-park 7.jpg
+  - template-mbti-zh-supermarket 2.jpg
+  - template-mbti-zh-supermarket 3.jpg
+  - template-mbti-zh-supermarket 4.jpg
+  - template-mbti-zh-supermarket 5.jpg
+  - template-mbti-zh-supermarket 6.jpg
+  - template-mbti-zh-supermarket.jpg
+  - 086feba2-620a-44fc-83cb-5bd19833cabd.jpg
+  - 0cf2b759-2ca7-4f2f-8973-7061e502d4cd.jpg
+  - 1b3b4413-13a0-485d-9fc3-c416e9d7b919.jpg
+  - 4bc2f16c-45de-4d0f-a564-e0f05952dcde.jpg
+  - 5b084acc-cad6-474b-aed5-7a086eeddd55.jpg
+  - 5f2e2ee7-45f4-4a07-9e1a-d08defbc6451.jpg
+  - 78ca1402-c363-442d-a616-c2fb9da1205e.jpg
+  - 7caa281c-8e0f-40b7-b524-df0009989019.jpg
+  - 7cc1711e-99a4-4808-a934-b6dbbbe65c91.jpg
+  - 80aedcea-ffdf-4699-a423-a4fef6cde590.jpg
+  - 81a4a5ad-ebf4-4be6-8bc3-dea86cc79291.jpg
+  - 85a8255f-dea5-405a-b1c7-56476e8e786c.jpg
+  - 93fbf631-9aa1-47b1-addb-15ab48c315a3.jpg
+  - 9793d27e-2805-4fb8-aad7-fd810a178eef.jpg
+  - b2a68866-4016-47af-b8cb-c35b570033ed.jpg
+  - b31bd57f-95d2-485b-9e7b-0d16d4d0d37f.jpg
+  - b50b70d3-9b60-4c74-bb4d-ada1ef8a5bac.jpg
+  - c04aa160-60bc-4abc-bf9c-d2d46a203640.jpg
+  - c0e4715a-9ab0-4a2d-8f0c-df5630b0f5e0.jpg
+  - d28db709-f400-4087-97d3-9543f0728479.jpg
+  - db7fc9fb-a412-42be-9012-32fbd56a23f1.jpg
+  - db898c8b-707a-4b61-9e09-a76bf058aa7f.jpg
+  - e2358478-699c-4aaf-996d-c005ac2841b7.jpg
+  - e51ee4ba-2984-4cb0-82f1-baf22367fff4.jpg
+  - f0e700d2-02a9-4756-ab9e-37c8812e10f1.jpg
+  - f92ed01c-727a-49cb-ba9f-dcce8a31b656.jpg
+  - the Empire State Building_analysis.png
+  - tiger_protection.png
+  - western art_development.png
+  - xiaoxin_character.png
+  - template-character-group-chinese-figure-bawangbieji.jpg
+  - template-character-group-chinese-figure-fengshenbang.jpg
+  - template-character-group-chinese-figure-mudan-ting.jpg
+  - template-character-group-chinese-figure-water-margin.jpg
+  - template-mbti-zh-cafe 2.jpg
+  - template-mbti-zh-cafe 3.jpg
+  - template-mbti-zh-cafe.jpg
+  - template-mbti-zh-plane-1.jpg
+  - template-mbti-zh-plane-2.jpg
+  - template-mbti-zh-plane-3.jpg
+  - template-mbti-zh-sleep.png
+  - template-mbti-zh-cafe.jpg
+  - template-mbti-zh-ski-resort 2.jpg
+  - template-mbti-zh-ski-resort 3.jpg
+  - template-mbti-zh-ski-resort 4.jpg
+  - template-mbti-zh-ski-resort.jpg
+  - template-weather-en-foster-city.jpg
+  - template-battle-zh-hanxin-baiqi.jpg 1.png
+  - template-battle-zh-hanxin-baiqi.jpg 2.png
+  - template-battle-zh-sunwu-wuqi.jpg
+  - template-building-en-gothic-cathedral 2.jpg
+  - template-building-en-gothic-cathedral 3.jpg
+  - template-building-en-gothic-cathedral 4.jpg
+  - template-mbti-zh-concert.jpg
+  - template-mbti-zh-gym.jpg
+  - template-mbti-zh-office.jpg
+  - template-mbti-zh-zoo.jpg
+  - Buddha skipping wall_menu.png
+  - Chinese society_development.png
+  - Spring Festival_English card.png
+  - dragon's blood_medicine.jpg
+
+--- Matched files ---
+  - template-food-en-kangaroo-steak.jpg
+  - template-herbal-zh-atractylodes-macrocephala.jpg
+  - template-word-scene-zh-astronaut-space.jpg
+  - template-word-scene-zh-chef-kitchen.jpg
+  - template-herbal-zh-achyranthes.jpg
+  - template-herbal-zh-caulis-spatholobi.jpg
+  - template-herbal-zh-chuanxiong.jpg
+  - template-herbal-zh-leonurus.jpg
+  - template-herbal-zh-safflower.jpg
+  - template-word-scene-zh-family-restaurant.jpg
+  - template-word-scene-zh-family-road.jpg
+  - template-word-scene-zh-student-classroom.jpg
+  - template-word-scene-zh-student-laboratory.jpg
+  - template-word-scene-zh-student-library.jpg
+  - template-herbal-zh-coix-lacryma-jobi.jpg
+  - template-herbal-zh-dioscorea-polystachya.jpg
+  - template-herbal-zh-poria.jpg
+  - template-portrait-retouching-blueprint-en 1.jpg
+  - template-portrait-retouching-blueprint-en 2.jpg
+  - template-portrait-retouching-blueprint-en 3.jpg
+  - template-portrait-retouching-blueprint-en 4.png
+  - template-portrait-retouching-blueprint-en 5.png
+  - template-food-en-beef-tartare.jpg
+  - template-food-en-kangaroo-steak.jpg
+  - template-food-en-lamb-curry.jpg
+  - template-food-en-neapolitan-pizza.jpg
+  - template-food-en-texas-smoked-bbq.jpg
+  - template-herbal-zh-coptis.jpg
+  - template-herbal-zh-dandelion.jpg
+  - template-herbal-zh-forsythia.jpg
+  - template-herbal-zh-houttuynia-cordata.jpg
+  - template-herbal-zh-isatis-root.jpg
+  - template-herbal-zh-prunella-vulgaris.jpg
+  - template-word-scene-zh-family-airport.jpg
+  - template-word-scene-zh-family-amusement.jpg
+  - template-word-scene-zh-family-firestation.jpg
+  - template-word-scene-zh-family-hotel.jpg
+  - template-word-scene-zh-family-postoffice.jpg
+  - template-word-scene-zh-family-waterpark.jpg
+  - template-character-zh-academic-dream-of-the-red-chamber 1.jpg
+  - template-character-zh-academic-dream-of-the-red-chamber 2.jpg
+  - template-character-zh-academic-dream-of-the-red-chamber 3.jpg
+  - template-character-zh-academic-three-kingdoms 1.jpg
+  - template-character-zh-academic-three-kingdoms 2.jpg
+  - template-character-zh-academic-three-kingdoms 3.jpg
+  - template-herbal-zh-albizia-julibrissin.jpg
+  - template-herbal-zh-polygonum-multiflorum-caulis.jpg
+  - template-herbal-zh-semen-platycladi.jpg
+  - template-herbal-zh-semen-ziziphi-spinosae.jpg
+  - template-intangible-heritage-zh-anshun-opera.jpg
+  - template-intangible-heritage-zh-lion-dance.jpg
+  - template-word-scene-zh-shinchan-classroom.jpg
+  - template-word-scene-zh-shinchan-hot-pot.jpg
+  - template-word-scene-zh-shinchan-metro.jpg
+  - template-word-scene-zh-shinchan-stadium.jpg
+  - template-word-scene-zh-shinchan-swimming-pool.png
+  - template-character-zh-academic-journey-to-the-west 1.jpg
+  - template-character-zh-academic-journey-to-the-west 2.jpg
+  - template-character-zh-academic-journey-to-the-west 3.jpg
+  - template-character-zh-academic-sandy.jpg
+  - template-character-zh-academic-sun-wukong.jpg
+  - template-character-zh-academic-tang-seng.jpg
+  - template-character-zh-academic-zhu-bajie.jpg
+  - template-character-zh-eight-immortals.jpg
+  - template-character-zh-twelve-beauties-jinling 2.jpg
+  - template-character-zh-twelve-beauties-jinling.jpg
+  - template-herbal-zh-adenophora.jpg
+  - template-herbal-zh-goji.jpg
+  - template-herbal-zh-lily.jpg
+  - template-herbal-zh-ophiopogon.jpg
+  - template-herbal-zh-polygonatum.jpg
+  - template-herbal-zh-goji.jpg
+  - template-herbal-zh-jujube.jpg
+  - template-herbal-zh-longan.jpg
+  - template-travel-zh-xishuangbanna.jpg
+  - template-word-scene-zh-military-base 1.jpg
+  - template-word-scene-zh-military-base 2.jpg
+  - template-word-scene-zh-new-year 1.jpg
+  - template-word-scene-zh-new-year 2.jpg
+  - template-word-scene-zh-party.jpg
+  - template-word-scene-zh-ski-resort.jpg
+  - template-word-scene-zh-supermarket.jpg
+  - template-word-scene-zh-temple-fair 1.jpg
+  - template-word-scene-zh-temple-fair 2.jpg
+  - template-word-scene-zh-temple-fair 3.jpg
+  - template-food-en-bak-kut-teh.jpg
+  - template-food-en-banh-mi.jpg
+  - template-food-en-beef-bourguignon.jpg
+  - template-food-en-beef-wellington.jpg
+  - template-food-en-bun-cha.jpg
+  - template-food-en-nasi-lemak.jpg
+  - template-food-en-paella.jpg
+  - template-food-en-peking-duck.jpg
+  - template-food-en-taco.jpg
+  - template-food-en-tom-yum-soup.jpg
+  - template-food-en-vietnamese-spring-rolls.jpg
+  - template-fruit-en-avocado.jpg
+  - template-fruit-en-blueberry.jpg
+  - template-fruit-en-chilean-cherries.jpg
+  - template-fruit-en-cranberries.jpg
+  - template-fruit-en-durian.jpg
+  - template-fruit-en-kiwi.jpg
+  - template-fruit-en-raspberry.jpg
+  - template-fruit-en-salak.jpg
+
+=== Images per template ===
+template-herbal-zh: 34
+template-word-scene: 34
+template-character-zh: 30
+template-food: 28
+template-solar-term: 8
+template-fruit: 8
+template-character-analysis-zh: 7
+template-intangible-heritage-zh: 6
+template-what-if-history: 6
+template-education-zh: 5
+template-costume-zh: 5
+template-evolution: 5
+template-cultural-relic: 5
+template-dog-breed: 5
+template-portrait-retouching-blueprint: 5
+template-recipe-zh: 4
+template-travel-zh: 4
+template-architecture: 4
+template-species-zh: 3
+template-weather-zh: 3
+template-hot-event-analysis-zh: 2
+template-species-science-zh: 2
+template-education-card: 1
+
+(skip) CDN sync not requested. Use --sync to upload via gsutil.

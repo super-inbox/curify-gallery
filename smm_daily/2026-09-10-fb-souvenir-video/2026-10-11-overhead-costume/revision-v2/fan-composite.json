@@ -1,0 +1,21 @@
+{
+  "method": "single slim cream blade, offscreen pivot, next outfit revealed only behind opaque sweep",
+  "blade_width": 480,
+  "blade_height": 3600,
+  "pivot": [
+    540,
+    -1000
+  ],
+  "wipe_intervals": [
+    [
+      2.8,
+      4.4
+    ],
+    [
+      7.2,
+      8.8
+    ]
+  ],
+  "covered_fraction": 1.0,
+  "body_frames": 360
+}

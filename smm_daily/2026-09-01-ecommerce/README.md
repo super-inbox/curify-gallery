@@ -1,0 +1,217 @@
+# E-commerce — FB Groups + 快手 + 小红书, one folder (2026-09-01 … 09-18)
+
+
+## 2026-09-22 · New publishing candidate: fashion batch campaign
+
+`fashion_batch_campaign` / FB **W4** / RedNote **C9**: narrated 22-second, 1080×1920 fashion campaign demonstration. **Candidate only; neither scheduled nor published.** English narration and graphics; English FB and Chinese RedNote draft copy are in the existing post files. Kuaishou was not requested.
+
+Video: [curify_fashion_batch_ad_narrated.mp4](../../ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4). Generation and narration notes are stored beside it. This follows the existing convention of keeping videos in `ecommerce_ad_videos` and post plans here.
+
+Index clearance is `check`, retaining the existing poster-reference model provenance question. No third-party logo was seen in the generated video review frames; that does not establish the source model's provenance. The older asset counts and dated status snapshots below predate this addition.
+
+---
+
+_Consolidated 2026-09-11 from `2026-09-01-fb-ecommerce/` and
+`2026-09-06-ecommerce-ad-videos/`. Same buyer, same four groups, same cadence rule,
+same CTA gates, same stop rule — they were two folders because they were written a
+week apart, not because they were two campaigns._
+
+| File | What |
+|---|---|
+| **`posts_fb.md`** | Every Facebook post — 2 workflow (W1–W2) + 6 ad-video + **9 apparel teardowns (A1–A9)** + 2 supply recuts. One merged plan/progress table at the top |
+| **`posts_rednote_kuaishou.md`** | 中文 —— 11 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB. Includes 4 服装干货 (服装-1…4; 服装-2 = A7, 服装-3 = A6, 服装-4 = A9) **and the next candidate batch** — 5 viral posts pulled apart plus 8 candidates, merged in 09-21 |
+| `index.json` | machine-readable index of `curify-gallery/ecommerce_ad_videos` |
+| `prompts/` | prompt provenance + the Minimax H3 series |
+| `demos/ad-variants-demo-09-10/` | W2's asset and its master set — source, nine variants, `PROVENANCE.md`. Also a live email attachment |
+
+**This file holds what governs all three channels.** Clearance, the group list, cadence
+and the stop rule are not per-channel and are not repeated in the three post files.
+
+---
+
+## Two asset families, one buyer
+
+| | Source | Where they live | Posts |
+|---|---|---|---|
+| **Workflow** | `curify-gallery/ecommerce_workflow/` — 29 videos + the nine-variant still | 29 × 1080×1920 h264+AAC | W1, W2 |
+| **Ad videos** | `curify-gallery/ecommerce_ad_videos/` — 11 videos | see `index.json` | 6 shippable, by `id` |
+
+Neither video set is in this folder. The only images here are `demos/ad-variants-demo-09-10/`
+(moved in 2026-09-14) and the five apparel teardown stills `a1`–`a5`. **Videos are a manual native upload from the local file**; only 5 of the
+29 workflow videos are on CDN/YouTube and none are in the autopost pool
+(`project_fb_follower_growth.md`).
+
+⚠️ `demos/ad-variants-demo-09-10/_one-to-nine.jpg` is byte-identical to
+`demos/ad-variants-demo-09-10/_one-to-nine.jpg` (the master, moved into this thread 09-14) and to
+`smm_daily/2026-08-21-xianyu-services/H-one-sku-nine-variants.jpg` (the 闲鱼/淘宝 copy).
+**Leave the portfolio original where it is** —
+`curify-studio/gtm_tools/batch_marketing_agency_2026-09-10.json` attaches it by
+absolute path. The three copies are deliberate: three platforms, three folders that
+each have to stand alone.
+
+---
+
+## Apparel / fashion — where this folder stands (2026-09-20)
+
+**FB** — 8 teardowns (`A1`–`A7`, `A9`; A8 retired 09-21) + `fabric_ad` + `model_standing`, plus the 2 supply-side recuts.
+Two sent: **A1 on 09-19, A2 on 09-20**. `model_standing` is still held for FB — but it
+🔴 **went out on RedNote while on hold**, so the likeness question is now live rather than
+theoretical. It is answerable in one sentence by whoever generated it; see
+`posts_rednote_kuaishou.md`.
+**中文** — 8 confirmed out on RedNote: 4 videos (`matcha_drink`, `rotation_chair`, `fabric_ad`,
+and 🔴 `model_standing` while on hold) + 3 图文 on **09-20** (电商验收, 服装-1, 服装-2) + the
+`curify-fashion.png` poster on 09-21. 🕐 **服装-3 and 服装-4 are "published or scheduled" —
+not confirmed either way**, and are marked 🕐 rather than ✅ on purpose; see the note above that
+table. ⚠️ Four RedNote dates still uncaptured, and the poster's Chinese copy never made it into
+the repo. **快手 still has nothing out** despite five video scripts being ready.
+
+**`A6`, `A7`, `A9` and all four 服装干货 are drawn from real apparel jobs, published as method only.**
+A1–A4 already worked this way — the inner-layer bleed, the flattened hem tab, the nine-vs-seven
+buttons and the dress-form-vs-person ratio rule are all one client job's findings, with none of
+its imagery. ⛔ **Method is publishable; the work is not.** No client or lead imagery in any
+post; **never copy a string out of a source record** (garment style numbers are printed on the
+hangtags and search straight back to the brand); and **no success rate or delivered-outcome
+claim** — of the apparel jobs on file, one is qualified-positive still in revision and two carry
+explicit negative client verdicts. Full rule at the head of `A6–A9` in `posts_fb.md`; the same
+line is drawn for the N6–N9 cells in [`posts_fb.md`](posts_fb.md) § *Category & buyer cells*
+(those cells were lettered B6–B9 until 2026-09-21; renumbered because B1–B4 are group ids).
+
+**Template source for new stills.** The nano library's fashion slice — 11 families, 133
+variants, prompt copy joined — is indexed at
+`agentic-adhoc/resources/fashion-materials/nano-templates.json`, with the five-axis generation
+model in `axes.json` and the per-image clearance rules in `clearance.md`. A1's still already
+came from there. ⛔ **Not blanket-cleared**: `template-fashion-ecommerce-zh-jacket.jpg` was
+rejected for a visible CAMEL logo, and the other twenty `zh-*` variants from that batch have
+never been checked. A6, A7 and A9 were given stills on 09-21, each looked at first —
+`template-personal-fashion-outfit-style-variations-women-1` was **rejected on inspection** for
+three-stripe sneakers reading as Adidas trade dress. **A8 was retired** the same day: nothing
+in the library is a measurement form, so it had no image and no cheap route to one.
+
+✅ **All four 服装干货 have images.** 服装-1 and 服装-2 use 3:4 cards —
+`rn-服装1-七类翻车.jpg`, `rn-服装2-五个机位.jpg` — generated by `make_apparel_rn_cards.py` in
+the deck palette, **every mark drawn by the script**. 服装-3, 服装-4 and 服装-2's second image
+come from the template library, **each looked at before it was taken**. No crop, trace or
+reference of any job's output; no brand name or style number in any of them. ⚠️ **`A6`–`A9` are still text-only** — same rule when someone builds
+their stills: our own assets, never a job's output.
+
+---
+
+## Clearance — read before scheduling anything
+
+`asset-authority-distribution-inventory.md` §3 already draws this line: **自有素材，自有输出
+→ ✅ 立即可用** vs **第三方版权 → ❌ 不可公开**, the same rule that keeps Labubu and the
+Chaplin/Forrest Gump translation demos permanently off the public feed. Applying it here:
+
+| `id` | Video | On-screen brand | Verdict |
+|---|---|---|---|
+| `angryalert` | `angryAlert/AngryAlert_vertical.mp4` (+ landscape cut) | Curify | ✅ **ship** |
+| `matcha_drink` | `matcha_drink/matcha_drink.mp4` | none | ✅ **ship** |
+| `rotation_chair` | `rotation_chair/rotation_chair.mp4` | none | ✅ **ship** |
+| `fabric_ad` | `fabric_ad/fabric_ad.mp4` *(added 09-18)* | none | ✅ **ship** |
+| `kungfu_sf` | `redbull/kungfu_redbull_SF.mp4` | Curify | ✅ **ship** — ⚠️ rename file first |
+| `model_standing` | `model-standing.mp4` | none | ⚠️ **check** — likeness · 🔴 **already public on RedNote** while on hold |
+| `oilight` | `oilight final.mp4` | OILIGHT™ | ⚠️ **check** — client brand + live footage |
+| `corona_sunrise` | `corona/Mountain_Sunrise_Beer_Climax.mp4` | **Corona** | ⛔ **internal** |
+| `mooncakes` | `starbucks/mooncakes.mp4` | **Starbucks siren** | ⛔ **internal** |
+| `molly_forest` | `popmart/Molly_walks_into_a_cozy_forest.mp4` | **POPMART + Snow White** | ⛔ **internal** |
+| `beauty_cream` | `beauty_cream/beauty_cream.mp4` | **POND'S** | ⛔ **internal** |
+
+**The four ⛔ rows are spec ads for live trademarks** — AB InBev, Starbucks, POP MART
+(plus a Disney character design), Unilever. They are genuinely good work and they are
+exactly right for an investor deck or a sales call, where the exposure is low. On a
+public feed they are someone else's mark on our marketing, and the beer one additionally
+trips alcohol ad-policy on both FB and Kuaishou.
+
+**They are not wasted — they are re-renderable.** The craft is in the prompt, not the
+logo. `prompts/beauty_cream.json` carries a de-branded re-render of `beauty_cream` under a house
+name; the same one-line swap fixes the other three. That is the unlock, and it costs one
+generation each.
+
+**The two ⚠️ rows, one question each:**
+- **`model_standing`** — photoreal human face. If the render used a pose or
+  likeness reference of a real model, the output carries that person's face. Confirm the
+  reference was synthetic; if it wasn't, re-render before it goes anywhere external.
+- **`oilight`** — OILIGHT™ reads as a real client brand, and the opening
+  desert shot is live-action with an identifiable person (licensed stock, or not ours).
+  Needs the client's written OK *and* the footage provenance.
+
+**`kungfu_sf` rename:** no energy-drink mark appears in any sampled frame — the brand is in the
+*filename only*. Rename to `kungfu_sf_energy_spec.mp4` so the asset name stops implying
+a tie-in that the footage doesn't make.
+
+---
+
+⚠️ **The numbering changed on 2026-09-11.** Videos are keyed by the `id` in `index.json` now, not by row number — the old clearance table and the old §3 were numbered differently from each other, so `#3` meant two different videos depending on which table you read.
+
+---
+
+## Channel mechanics
+
+| | **FB — Groups, not the Page** | **Kuaishou 快手** | **小红书 RedNote** |
+|---|---|---|---|
+| Why | Page identity is locked to Sinosphere culture edutainment. An ad-craft video in the Page feed is Position Drift. Groups don't carry that risk — same call as the 09-01 e-commerce post. | New surface, no positioning history to protect. Audience is 实体商家 / 电商卖家 / 工厂老板 — the people who actually buy batch ad production. | Same buyer as 快手, skewed toward 服装 / 饰品 / 家居 sellers. 评论区 is the real channel — the posts exist so there is something to see when someone opens the profile. |
+| Format | **Native video upload**, single video, never a carousel. No link in the post body — FB throttles link-outs; a native upload is not one. | 竖屏 9:16 原生上传。前 3 秒必须是成品画面，不要 logo 开场。 | 竖屏 9:16 视频 / 3:4 图文卡。首图决定一切。 |
+| Language | English | 中文，口语，别端着 | 中文；落点在退货率和成本，不是 craft |
+| CTA | **First comment**, never the body | 主页 + 私信；口播带一次官网 | 私信 only，**正文不放任何外链** |
+| KPI | replies, not reach | 私信数，不是播放量 | 私信数 |
+| Drift check | ✅ group-scoped, off-Page | ✅ new account | ✅ e-commerce buyers, off the culture feed |
+
+**Groups** (from the 09-01 series): **B1** `105108073643190` E-commerce product
+photography (5.2K, ⚠️ has an explicit anti-spam ban rule) · **B2** `765595303494969`
+Product Photographer USA (1.3K) · **B3** `313105103563214` Apparels/Fashion Sell & Buy
+(5.0K) · **B4** `1212659302803905` Online E-Commerce sellers solution (6.9K).
+
+**Cadence:** one post per group per ~3 days. Never the same video into two groups the
+same day. B1 last — it's the ban-rule group, and a video post reads more promotional
+than a teardown does.
+
+**Orientation note:** `kungfu_sf`, `fabric_ad` and the angryAlert landscape cut are 16:9;
+everything else is 9:16. Both Chinese feeds are vertical, so a landscape asset letterboxes —
+use `AngryAlert_vertical.mp4` where there's a vertical cut. **Otherwise post as-is** —
+a vertical recut would perform better, but it is not a gate.
+
+**The CTA, both platforms** — self-serve `curify-ai.com/tools/product-video` (verified
+live, renders the real inline generate surface, not a waitlist card), batch/contact
+`curify-ai.com/contact` (verified live).
+
+---
+
+## Suggested order — ad videos
+
+| Slot | Video | Where |
+|---|---|---|
+| 1 | `rotation_chair` | B4 — strongest B2B proof, clearest batch pull |
+| 2 | `matcha_drink` | Kuaishou — first post, zero risk |
+| 3 | `angryAlert` (landscape) | B2 |
+| 4 | `rotation_chair` | Kuaishou |
+| 5 | `fabric_ad` | **B3** — apparel asset into the apparel group |
+| 6 | `angryAlert` (vertical) | Kuaishou |
+| 7 | `matcha_drink` | B1 — last, ban-rule group |
+| — | `kungfu_sf` *(renamed)* | was slot 5 into B3. **Re-plan recommended:** an energy-drink spec spot in an apparel group is the category mismatch this folder warns about. Move to B2 |
+| — | `model_standing` | B3, **only after the likeness check** |
+
+~3 days apart per group. Log every reply into `gtm_tools/relationship_leads.json` with
+`channel: "facebook_group"` or `"kuaishou"` plus `need_verbatim`. Same **20-comment stop rule** as everything else — if 20 comments produce no real conversation, stop and
+re-read the demand rather than posting more.
+
+## Cadence and logging — both channels, and the workflow posts too
+
+One group at a time, **~3 days apart**. Never the same asset into two groups on the
+same day — FB collapses it as duplicate distribution.
+
+**B1 last, always** — for videos and for W1/W2. `105108073643190` carries an explicit
+anti-spam ban rule, and a video post reads more promotional than a teardown does. The
+one thing that goes into B1 first is **A1**, the neck-joint teardown in `posts_fb.md`:
+it is the cheapest, least promotional thing in the folder, and it is the test of whether
+this register survives there at all. Nothing else runs in B1 until A1 has stood a week.
+
+**Category match is not optional.** Do not send the coffee maker to an apparel group,
+and do not send the serum bottle to B3 — that is the same mismatch the video table in
+`posts_fb.md` exists to prevent.
+
+**Logging:** every reply into `gtm_tools/relationship_leads.json` with
+`channel: "facebook_group"` or `"kuaishou"`, plus `need_verbatim` and
+`need_confidence: "stated"`. **Do not create a new file.** Counts toward the same
+**20-comment stop rule** as the retouching series — one pilot across all of it, not
+one per folder. If 20 comments produce no real conversation, stop and re-read the
+demand rather than posting more.

@@ -1,0 +1,36 @@
+[
+  {
+    "scene": 1,
+    "image": "image1.jpg",
+    "narration": "Transform your everyday spaces into timeless moments with CG Hunter. Designed for elegance, crafted for authenticity.",
+    "music": "Soft piano with light ambient tones"
+  },
+  {
+    "scene": 2,
+    "image": "image2.jpg",
+    "narration": "From handcrafted trays to sculpted stands, each piece tells a story of detail, design, and care.",
+    "music": "Gentle acoustic guitar with warm background pads"
+  },
+  {
+    "scene": 3,
+    "image": "image3.jpg",
+    "narration": "Whether sharing moments with family or celebrating milestones, CG Hunter brings warmth to every table.",
+    "music": "Lighthearted strings with mellow rhythm"
+  },
+  {
+    "scene": 4,
+    "image": "image4.jpg",
+    "narration": "Inspired by nature, refined for the modern home — CG Hunter makes every gathering unforgettable.",
+    "music": "Elegant orchestral swell blending into calm ambient"
+  },
+  {
+    "scene": 5,
+    "type": "logo_animation",
+    "visual_prompt": "Elegant logo animation on a minimalist beige background. The CG Hunter logo fades in gracefully at the center. Surrounding it, delicate greenery leaves gently sway as if in a soft breeze. A warm golden light highlights the logo, creating a luxurious and authentic atmosphere. Minimalist, modern, sophisticated.",
+    "motion_style": "Subtle, organic, smooth fade-in and leaf motion",
+    "color_palette": "Neutral beige, soft white, natural green, warm gold accents",
+    "narration": "CG Hunter — Authentic Beauty, Every Day.",
+    "brand_description": "A women-owned design house creating luxury faux greenery, handcrafted trays, and timeless home accents — blending artistry, authenticity, and modern living.",
+    "music": "Refined cinematic ambient with a soft crescendo"
+  }
+]

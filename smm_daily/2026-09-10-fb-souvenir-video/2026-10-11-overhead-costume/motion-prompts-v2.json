@@ -1,0 +1,22 @@
+{
+  "roll-in-1": {
+    "first": "../stills/china-1.png",
+    "last": "side-1.png",
+    "prompt": "A calm realistic movement between these two exact reference poses. An adult woman lying on soft teal bedding slowly rolls onto her right side. Her head, shoulders, hips and legs rotate together in one gentle coordinated side roll. Her knees bend naturally and both hands move gently together. Her face and body stay anatomically correct throughout. She remains lying on the mattress. The exact same outfit stays unchanged from first to last frame. Fixed overhead camera, stable room and identity. Only ONE simple small side roll, finishing at the supplied final pose. Soft natural cloth movement and breathing. Ordinary realistic editorial footage with clean natural lighting."
+  },
+  "roll-out-2": {
+    "first": "side-2.png",
+    "last": "../stills/china-2.png",
+    "prompt": "A calm realistic movement between these two exact reference poses. An adult woman lying on soft teal bedding slowly rolls from her right side onto her back. Her head, shoulders, hips and legs rotate together in one gentle coordinated side roll. Her knees bend naturally and both hands move gently together. Her face and body stay anatomically correct throughout. She remains lying on the mattress. The exact same outfit stays unchanged from first to last frame. Fixed overhead camera, stable room and identity. Only ONE simple small side roll, finishing at the supplied final pose. Soft natural cloth movement and breathing. Ordinary realistic editorial footage with clean natural lighting."
+  },
+  "roll-in-2": {
+    "first": "../stills/china-2.png",
+    "last": "side-2.png",
+    "prompt": "A calm realistic movement between these two exact reference poses. An adult woman lying on soft teal bedding slowly rolls onto her right side. Her head, shoulders, hips and legs rotate together in one gentle coordinated side roll. Her knees bend naturally and both hands move gently together. Her face and body stay anatomically correct throughout. She remains lying on the mattress. The exact same outfit stays unchanged from first to last frame. Fixed overhead camera, stable room and identity. Only ONE simple small side roll, finishing at the supplied final pose. Soft natural cloth movement and breathing. Ordinary realistic editorial footage with clean natural lighting."
+  },
+  "roll-out-3": {
+    "first": "side-3.png",
+    "last": "../stills/china-3.png",
+    "prompt": "A calm realistic movement between these two exact reference poses. An adult woman lying on soft teal bedding slowly rolls from her right side onto her back. Her head, shoulders, hips and legs rotate together in one gentle coordinated side roll. Her knees bend naturally and both hands move gently together. Her face and body stay anatomically correct throughout. She remains lying on the mattress. The exact same outfit stays unchanged from first to last frame. Fixed overhead camera, stable room and identity. Only ONE simple small side roll, finishing at the supplied final pose. Soft natural cloth movement and breathing. Ordinary realistic editorial footage with clean natural lighting."
+  }
+}

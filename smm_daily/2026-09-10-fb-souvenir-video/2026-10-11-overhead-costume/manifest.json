@@ -1,0 +1,69 @@
+{
+  "china": {
+    "slug": "glowstick-chinese-embroidery",
+    "title": "Rollover Wardrobe · Chinese Embroidery",
+    "hook": "ROLL INTO YOUR NEXT LOOK",
+    "zh": "翻个身，换一套",
+    "labels": [
+      [
+        "01 / MIAO-INSPIRED",
+        "苗绣与银饰灵感"
+      ],
+      [
+        "02 / BAI-INSPIRED",
+        "白族服饰灵感"
+      ],
+      [
+        "03 / YI-INSPIRED",
+        "彝族服饰灵感"
+      ]
+    ],
+    "music": "kaazoom-from-gentle-stream-to-the-city-streets-modern-chinese-music-434753.mp3",
+    "revision": "v2",
+    "transition": "full-body side rollover"
+  },
+  "asia": {
+    "slug": "fan-sweep-asian-silhouettes",
+    "title": "Fan Sweep · Asian Silhouettes",
+    "hook": "WAIT FOR THE FAN SWEEP",
+    "zh": "扇叶扫过，下一套登场",
+    "labels": [
+      [
+        "01 / KIMONO-INSPIRED",
+        "和服灵感"
+      ],
+      [
+        "02 / HANBOK-INSPIRED",
+        "韩服灵感"
+      ],
+      [
+        "03 / SARI-INSPIRED",
+        "纱丽灵感"
+      ]
+    ],
+    "music": "crab_audio-elegant-style-301129.mp3",
+    "revision": "v2",
+    "transition": "single slim cream fan blade, pivot outside frame; controlled video compositing"
+  },
+  "global": {
+    "slug": "glowstick-world-textiles",
+    "title": "Glowstick Wardrobe · World Textiles",
+    "hook": "THREE TEXTILES. ONE FRAME.",
+    "zh": "不换机位，只换穿搭",
+    "labels": [
+      [
+        "01 / VYSHYVANKA-INSPIRED",
+        "乌克兰刺绣灵感"
+      ],
+      [
+        "02 / TEHUANTEPEC-INSPIRED",
+        "特万特佩克花绣灵感"
+      ],
+      [
+        "03 / ATLAS-INSPIRED",
+        "乌兹别克艾德莱斯织物灵感"
+      ]
+    ],
+    "music": "alexgrohl-sweet-life-luxury-chill-438146.mp3"
+  }
+}

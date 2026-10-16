@@ -1,0 +1,310 @@
+{
+ "_comment": "Index of curify-gallery/ecommerce_ad_videos for SMM distribution (FB Groups + Kuaishou + RedNote). Drafted 2026-09-06; folder consolidated into 2026-09-01-ecommerce on 2026-09-11. FB copy in posts_fb.md, 中文 copy for BOTH 快手 and 小红书 in posts_rednote_kuaishou.md (the two Chinese channels were merged into one file 2026-09-19), all keyed by the id field below. fabric_ad added 2026-09-18. 2026-09-22: the four videos that sat loose in the folder root (matcha_drink, rotation_chair, fabric_ad, beauty_cream) moved into per-id folders like the rest, each with a `watermarked` sibling built by ecommerce_ad_videos/watermark_videos.py (house tiled -30 slant, params taken verbatim from curify-frontend/scripts/lib/watermark.cjs). model-standing.mp4 deliberately left in the root. clearance drives whether an item may go on a public feed at all -- see README.md (Clearance) and curify-studio/docs/asset-authority-distribution-inventory.md sec 3 group B.",
+ "root": "~/curify-gallery/ecommerce_ad_videos",
+ "cta": {
+  "self_serve": "https://www.curify-ai.com/tools/product-video",
+  "batch": "https://www.curify-ai.com/contact",
+  "brand": "curify-ai.com",
+  "batch_line_en": "We do these in batches for catalogs -- one product, a full set of ad cuts. Contact us: curify-ai.com/contact",
+  "batch_line_zh": "整个产品线可以批量做 -- 一个 SKU 出一整套广告片。批量合作私信或看主页 curify-ai.com"
+ },
+ "clearance_tiers": {
+  "ship": "Own or unbranded output. Cleared for public feeds.",
+  "check": "One unresolved question (likeness or source footage provenance). Hold until answered.",
+  "internal": "Third-party trademark or character IP rendered on screen. Internal / investor decks only -- never a public feed. Matches the group-B rule in asset-authority-distribution-inventory.md."
+ },
+ "videos": [
+  {
+   "id": "angryalert",
+   "file": "angryAlert/AngryAlert_vertical.mp4",
+   "alt_files": [
+    "angryAlert/AngryAlert_landscape.mp4",
+    "angryAlert/AngryAlert_landscape_segment.mp4",
+    "angryAlert/Angry_Alert_App_Commercial_Generation.mp4"
+   ],
+   "duration_s": 20.3,
+   "resolution": "720x1280",
+   "orientation": "vertical",
+   "landscape_variant": {
+    "file": "angryAlert/AngryAlert_landscape.mp4",
+    "duration_s": 16.0,
+    "resolution": "1280x720"
+   },
+   "category": "app / SaaS commercial",
+   "subject": "Fictional 'Angry Alert' emotion-detection app; live-action-style office scenes, red HUD overlay on a face",
+   "brand_on_screen": "Curify (bookend logo card)",
+   "clearance": "ship",
+   "clearance_note": "Own fictional product, own output. Curify logo bookend already baked in. Small 'Veo' generator watermark visible in one corner.",
+   "best_for": [
+    "kuaishou",
+    "fb_groups"
+   ],
+   "hook": "An ad for a product that does not exist -- made to show the format, not the app"
+  },
+  {
+   "id": "matcha_drink",
+   "file": "matcha_drink/matcha_drink.mp4",
+   "watermarked": "matcha_drink/matcha_drink-watermarked.mp4",
+   "duration_s": 15.1,
+   "resolution": "720x1280",
+   "orientation": "vertical",
+   "category": "food & beverage / CPG",
+   "subject": "Iced matcha latte build: falling banana slices, milk pour into layered glass, macro condensation on the finished cup",
+   "brand_on_screen": "none",
+   "clearance": "ship",
+   "clearance_note": "Fully unbranded. Cleanest asset in the set -- safe on any feed, any market.",
+   "best_for": [
+    "kuaishou",
+    "fb_groups",
+    "tiktok",
+    "youtube"
+   ],
+   "hook": "No studio, no food stylist, no pour-over take 40"
+  },
+  {
+   "id": "rotation_chair",
+   "file": "rotation_chair/rotation_chair.mp4",
+   "watermarked": "rotation_chair/rotation_chair-watermarked.mp4",
+   "duration_s": 10.0,
+   "resolution": "720x1280",
+   "orientation": "vertical",
+   "category": "furniture / hard goods",
+   "subject": "Ergonomic mesh office chair: airflow particle viz through the mesh back, HUD armrest-adjust readout, 360 hero in a styled interior",
+   "brand_on_screen": "none",
+   "clearance": "ship",
+   "clearance_note": "Unbranded generic chair. Safe. Has an AI-generator sparkle watermark bottom-right.",
+   "best_for": [
+    "kuaishou",
+    "fb_groups"
+   ],
+   "hook": "The feature-explainer shot that normally needs a 3D artist",
+   "has_prompt": true,
+   "prompt_file": "prompts/rotation_chair.json"
+  },
+  {
+   "id": "fabric_ad",
+   "file": "fabric_ad/fabric_ad.mp4",
+   "watermarked": "fabric_ad/fabric_ad-watermarked.mp4",
+   "duration_s": 15.0,
+   "resolution": "1344x768",
+   "orientation": "landscape",
+   "category": "apparel / textile",
+   "subject": "Cotton-to-garment macro film: ivory cotton boll, twisted yarn with an amber warmth pass, raking view over the charcoal weave, a suspended fabric sheet catching one slow wave, water beads rolling on the slope, closing on a charcoal button-down on a hanger",
+   "brand_on_screen": "none",
+   "clearance": "ship",
+   "clearance_note": "Own output, own prompt, fully unbranded -- no text, no logo, no mannequin, no human face anywhere in frame. Text-to-video only: the reference-upload attempt was rejected by MiniMax's approval review, so nothing from the two third-party reference ads reached the model. Provenance recorded in agentic-adhoc real-projects 2026-09-18-internal-005-fabric-ad-video. Clearance-wise this is as clean as matcha_drink.",
+   "best_for": [
+    "fb_groups",
+    "kuaishou",
+    "rednote"
+   ],
+   "hook": "The one thing a listing photo has never been able to show: what the cloth is",
+   "orientation_note": "16:9 landscape, like kungfu_sf. It letterboxes on the two vertical Chinese feeds; a 9:16 recut would perform better but is not a gate -- operator decision 2026-09-19 is to post whatever dimension exists. Cover frame for RedNote should be the weave beat, cropped 3:4.",
+   "has_prompt": true,
+   "prompt_file": "prompts/fabric_ad.json",
+   "source_record": "~/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-09-18-internal-005-fabric-ad-video.json"
+  },
+  {
+   "id": "fashion_batch_campaign",
+   "file": "fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4",
+   "duration_s": 22.0,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "category": "apparel / accessories -- campaign demonstration",
+   "subject": "One ivory pebbled-leather handbag across a whole campaign: travertine studio product, model on a sunlit limestone street, Mediterranean terrace scene, gold-clasp detail, a moving batch grid, then an inquiry CTA",
+   "brand_on_screen": "none on the product; Curify CTA card",
+   "clearance": "ship",
+   "clearance_note": "Own output end to end. The bag is unbranded -- ivory leather, generic gold clasp -- and derives from our own curify-fashion.png poster, itself generated. Audio is a synthesized instrumental bed plus an ElevenLabs narration track; no third-party song, no voice clone of a real person. Production notes state plainly that this is an AI campaign demonstration, NOT footage of a customer project, and the narration makes no success-rate or client claim. \u26a0\ufe0f One photoreal model face -- the likeness chain is generated-from-generated (text prompt + our own poster as reference), so the exposure is lower than model_standing's, but it is the same class of open question.",
+   "best_for": [
+    "fb_groups",
+    "rednote",
+    "kuaishou"
+   ],
+   "hook": "One product, a whole campaign -- the six frames a drop needs, off one photo",
+   "orientation_note": "\u2b50 1080x1920 native. The first asset in this set that is correctly shaped for BOTH Chinese feeds without a recut.",
+   "production_notes": "fashion_batch_campaign/production_notes.md",
+   "narration_script": "fashion_batch_campaign/narration_script.txt",
+   "generation": {"images": "built-in image tool from the poster reference", "motion": "MiniMax-H3 (CN API)", "voice": "ElevenLabs Lily, eleven_multilingual_v2"},
+   "note": "Naming does not follow the folder's <id>/<id>.mp4 convention. Left as delivered rather than renamed under someone else's file; watermark_videos.py therefore skips it."
+  },
+  {
+   "id": "model_standing",
+   "file": "model-standing.mp4",
+   "duration_s": 10.0,
+   "resolution": "720x1280",
+   "orientation": "vertical",
+   "category": "apparel / fashion",
+   "subject": "Male model in a black suit, full-length, in a marble-and-brass elevator lobby; slow orbit",
+   "brand_on_screen": "none",
+   "clearance": "check",
+   "published_while_on_hold": {"channel": "rednote", "date": "unrecorded, confirmed by operator 2026-09-20", "note": "Went out while clearance was and still is `check`. The open question is now live rather than theoretical -- see posts_rednote_kuaishou.md. No prompt or generation record exists on disk; file metadata says encoder=Google and it carries a Chrome download quarantine flag, so it came from a Google generation tool as a browser download. If it was generated text-only with no image uploaded, there is no real-model reference and this clears; whoever generated it can answer that in one sentence."},
+   "clearance_note": "Unbranded garment, but a photoreal human face. If this was rendered from a pose/likeness reference of a real model, the face may carry that person's likeness -- the documented failure mode in the fashion-model pose-ref note. Confirm the reference was synthetic before any public feed or client deck.",
+   "best_for": [
+    "fb_groups",
+    "kuaishou"
+   ],
+   "hook": "On-model apparel without booking a model"
+  },
+  {
+   "id": "kungfu_sf",
+   "file": "redbull/kungfu_redbull_SF.mp4",
+   "duration_s": 20.6,
+   "resolution": "1280x720",
+   "orientation": "landscape",
+   "category": "energy drink / lifestyle spec spot",
+   "subject": "Kungfu figure across SF landmarks -- tiled rooftops with red lanterns, downtown rooftop leap, Golden Gate at sunset with falling autumn leaves",
+   "brand_on_screen": "Curify (persistent corner logo)",
+   "clearance": "ship",
+   "clearance_note": "No energy-drink trademark visible in any sampled frame -- the brand lives in the FILENAME only. Rename the file before it leaves the building so the asset name does not imply a tie-in.",
+   "rename_to": "kungfu_sf_energy_spec.mp4",
+   "best_for": [
+    "fb_groups",
+    "kuaishou"
+   ],
+   "hook": "Landmark-scale action without a location permit"
+  },
+  {
+   "id": "oilight",
+   "file": "oilight/oilight final.mp4",
+   "duration_s": 26.4,
+   "resolution": "720x1280",
+   "orientation": "vertical",
+   "category": "home fragrance / candle",
+   "subject": "Desert dig live-action, oil pour into a gold-rim vessel, OILIGHT wordmark-and-flame logo end card",
+   "brand_on_screen": "OILIGHT (trademark symbol shown)",
+   "clearance": "check",
+   "clearance_note": "Two open questions: (1) OILIGHT appears to be a real third-party or client brand -- publishing it as our marketing sample needs their written OK, or the client-confidential rule applies; (2) the opening desert footage is live-action with an identifiable person, so it is either licensed stock or someone else's footage. Resolve both before use.",
+   "best_for": [],
+   "hook": null
+  },
+  {
+   "id": "costume_tryon_dynasty",
+   "file": "~/curify-gallery/cultural_videos/costume_tryon/ (3 clips)",
+   "duration_s": 12.5,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "category": "apparel / costume change (\u53d8\u88c5)",
+   "subject": "Tang-dynasty court dress try-on: bellingham_male, haaland_male, haaland_female",
+   "brand_on_screen": "Curify corner logo",
+   "clearance": "internal",
+   "published_against_clearance": {"channel": "rednote", "date": "earlier, exact date not captured", "reported": "2026-09-23", "operator_position": "the models are AI generated; these were posted before", "status": "live; clearance unchanged"},
+   "published_against_clearance_fb": {"channel": "facebook_groups", "date": "2026-09-23", "clip": "bellingham_male_dynasty_tryon", "groups": "ecommerce seller / shopify seller / fashion", "status": "live; clearance unchanged", "note": "Materially different exposure from the RedNote posting, on two axes: (1) Western platform with an active IP/publicity reporting flow, and the person is an England international whose image rights are professionally managed; (2) posted into COMMERCIAL seller groups, i.e. unambiguous commercial use, which is the aggravating factor rather than a neutral one. The risk that matters is not the post -- it is the account, which is the same account A1/A2/W3/W4 were building standing in. Deleting the post is one action and closes it."},
+   "published_against_clearance_kuaishou": {"channel": "kuaishou", "date": "2026-09-23", "state": "posted_or_scheduled, not confirmed per item", "status": "clearance unchanged"},
+   "clearance_note": "\u26d4 REAL, IDENTIFIABLE FOOTBALLERS. The faces are recognisably two current professional players, and one clip is a gender-swapped version of one of them. Using a named athlete's likeness in outbound marketing is a publicity-rights problem, and commercial use is the aggravating factor rather than a mitigating one -- these are among the most commercially licensed faces in sport. The gender-swap adds a separate harm: altering a real identifiable person's appearance in commercial content. Same tier as corona/starbucks/popmart: internal decks and sales calls only, never a public feed. \u26a0\ufe0f Also note the on-screen TANG DYNASTY title renders doubled/ghosted in all three.",
+   "best_for": [],
+   "hook": null,
+   "operator_position_2026_09_23": "That the render is AI-generated is accepted and is not the objection -- an AI-generated image of a real person still carries that person's likeness, and generated celebrity likeness is the case publicity-rights law is currently most focused on, not an exception to it. That they were posted before is also accepted, and is why this entry now records live exposure rather than a hypothetical. Prior posting is not clearance; it is the same shape as the 09-17 RedNote mis-post and model_standing, both of which stayed recorded as open. Tier unchanged.",
+   "unlock": "Re-render the same wardrobe and choreography on SYNTHETIC identities. The craft is in the costume, lighting and the change itself, not in whose face it is -- the same one-swap unlock prompts/beauty_cream.json records for the branded case. Costs one generation each."
+  },
+  {
+   "id": "beat_fashion_0922",
+   "file": "curify-gtm/client_VC_portfolio/fashion-model-09-05/beat-fashion-2026-09-22/ (2 clips)",
+   "duration_s": 8.1,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "category": "apparel / beat-matched lookbook",
+   "subject": "female-beat-matched, male-beat-matched -- held fashion poses cut to music accents",
+   "brand_on_screen": "none",
+   "clearance": "internal",
+   "published_against_clearance": {"channel": "rednote", "date": "2026-09-23", "operator_position": "the models are AI generated", "status": "live; clearance unchanged"},
+   "published_against_clearance_kuaishou": {"channel": "kuaishou", "date": "2026-09-23", "state": "posted_or_scheduled, not confirmed per item", "status": "clearance unchanged"},
+   "clearance_note": "\u26d4 CLIENT WORK. Its own README states the deliverables are saved into client_VC_portfolio/fashion-model-09-05/ -- the client-006 line, customer_data: true, whose OOTD job is recorded client_satisfied: false. Both clips are driven by counterparty-supplied WeChat reference videos; the README describes the female clip as 'a very close reference-guided recreation of the same female character, setting and pose sequence', i.e. a recreation of someone else's creative, and the male identity comes from that same client job's model image. Publishing either as our marketing republishes a counterparty's work. Internal only.",
+   "best_for": [],
+   "hook": null,
+   "operator_position_2026_09_23": "Accepted that the rendered people are synthetic -- that was never the objection here. The objection is provenance, not personhood: these deliverables live in client_VC_portfolio/fashion-model-09-05/ (client-006, customer_data: true), they were driven by counterparty-supplied WeChat reference videos, and the job's own README calls the female clip a very close reference-guided recreation of the same character, setting and pose sequence. A synthetic render of someone else's supplied creative is still their creative. Tier unchanged.",
+   "unlock": "The FORMAT is ours to use -- held poses cut to measured audio accents, validated here to within one frame at 30fps. Re-run it on our own synthetic identity and our own music and it ships. What cannot travel is this character, this wardrobe and this pose sequence.",
+   "craft_note": "Timing validation is unusually good and worth keeping as method: cuts within 8-17ms of selected onsets, music correlation 0.991-0.993 after AAC export, zero measured offset."
+  },
+  {
+   "id": "corona_sunrise",
+   "file": "corona/Mountain_Sunrise_Beer_Climax.mp4",
+   "duration_s": 8.0,
+   "resolution": "1280x720",
+   "orientation": "landscape",
+   "category": "beer / beverage spec spot",
+   "subject": "Climber in a blue shell opens a clear beer bottle at a snow summit at sunrise",
+   "brand_on_screen": "Corona (bottle label and lime)",
+   "clearance": "internal",
+   "clearance_note": "Corona is a live trademark (Grupo Modelo / AB InBev). Also depicts alcohol, which carries its own ad-policy restrictions on both FB and Kuaishou. Internal only.",
+   "best_for": [],
+   "hook": null
+  },
+  {
+   "id": "mooncakes",
+   "file": "starbucks/mooncakes.mp4",
+   "duration_s": 19.7,
+   "resolution": "1280x720",
+   "orientation": "landscape",
+   "category": "coffee / seasonal retail spec spot",
+   "subject": "Mooncake and a latte on a wooden table, steam rising, warm window light",
+   "brand_on_screen": "Starbucks (siren logo on the cup)",
+   "clearance": "internal",
+   "clearance_note": "Starbucks siren logo rendered clearly on the cup. Live trademark. Internal only.",
+   "best_for": [],
+   "hook": null
+  },
+  {
+   "id": "molly_forest",
+   "file": "popmart/Molly_walks_into_a_cozy_forest.mp4",
+   "duration_s": 8.0,
+   "resolution": "1280x720",
+   "orientation": "landscape",
+   "category": "designer toy / IP crossover",
+   "subject": "Fairytale forest, a figure in a Snow White gown raises a hand, ice letters spell POPMART",
+   "brand_on_screen": "POPMART (spelled in ice letters) + Snow White costume likeness",
+   "clearance": "internal",
+   "clearance_note": "Double exposure -- POP MART is a live trademark AND the Snow White character design reads as Disney. This is the same class as the Labubu print assets that are permanently off the public feed. Internal only.",
+   "best_for": [],
+   "hook": null
+  },
+  {
+   "id": "beauty_cream",
+   "file": "beauty_cream/beauty_cream.mp4",
+   "watermarked": "beauty_cream/beauty_cream-watermarked.mp4",
+   "duration_s": 10.0,
+   "resolution": "720x1280",
+   "orientation": "vertical",
+   "category": "beauty / skincare",
+   "subject": "Pink-silk cosmetic hero: jar on a glass podium, falling diamonds, sunburst backlight, lotus and petals",
+   "brand_on_screen": "POND'S White Beauty (wordmark on the jar)",
+   "clearance": "internal",
+   "clearance_note": "POND'S is a live Unilever trademark, rendered legibly on the jar. Internal only. The de-branded re-render in prompts/beauty_cream.json is the publishable replacement.",
+   "best_for": [],
+   "hook": null,
+   "has_prompt": true,
+   "prompt_file": "prompts/beauty_cream.json"
+  },
+  {
+   "id": "fashion_batch_campaign",
+   "file": "fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4",
+   "duration_s": 22.0,
+   "resolution": "1080x1920",
+   "orientation": "vertical",
+   "fps": 30,
+   "category": "fashion / handbag / batch campaign demo",
+   "subject": "Ivory handbag studio, model, Mediterranean lifestyle and detail shots; moving output grid; Curify batch-generation inquiry CTA.",
+   "brand_on_screen": "Curify",
+   "audio": "English ElevenLabs Lily narration with original synthesized instrumental music",
+   "on_screen_language": "en",
+   "clearance": "check",
+   "clearance_note": "Generated in this task from an operator-supplied Curify poster reference. Existing folder notes leave the poster reference-model provenance unresolved; retained for candidate review, not declared cleared. AI-generated demo, not a client case study.",
+   "best_for": [
+    "fb_groups",
+    "rednote"
+   ],
+   "hook": "One product. A whole campaign.",
+   "status": "candidate",
+   "added_at": "2026-09-22",
+   "platform_status": {
+    "fb_groups": "candidate_not_scheduled",
+    "rednote": "candidate_not_scheduled"
+   },
+   "post_refs": {
+    "fb_groups": "posts_fb.md",
+    "rednote": "posts_rednote_kuaishou.md"
+   },
+   "provenance_file": "fashion_batch_campaign/production_notes.md",
+   "narration_script": "fashion_batch_campaign/narration_script.txt"
+  }
+ ]
+}
