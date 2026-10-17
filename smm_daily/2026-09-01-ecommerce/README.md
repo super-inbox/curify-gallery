@@ -1,5 +1,19 @@
 # E-commerce — FB Groups + 快手 + 小红书, one folder (2026-09-01 … 09-18)
 
+## 2026-10-17 · Ecommerce video queue: presenter + hands-on demonstration
+
+Added to the existing FB and RedNote publishing sequence; **queued candidates only, no scheduled dates or published posts**. Keep existing scheduled items in place. Within this new pair, publish the chair first, then the Pocket4P reference; follow the existing channel cadence. Kuaishou is unchanged.
+
+| Order within this addition | Video | Facebook | RedNote | Source / use |
+|---|---|---|---|---|
+| 1 | [English AI presenter + chair B-roll, v2](../../ecommerce_ad_videos/rotation_chair/chair-presenter-EN-v2-watermarked.mp4) · 22.6s · 720×1280 | **W6** · B4 / relevant ecommerce seller groups | **C10** · ecommerce track | Curify AI concept sample; English voice/subtitles; slanted Curify watermark. Use corrected v2, not the 24s first cut. |
+| 2 | [Pocket4P hands-on unboxing](../../ecommerce_ad_videos/RedNote-Pocket4P-unboxing-no-watermark.mp4) · 40.98s · 1440×2560 | **W7** · ecommerce product-video reference | **C11** · hands-only product demonstration reference | Third-party RedNote clip by **浮生半盏茶**; downloaded reference, not a Curify production or client case. No reuse permission recorded; confirm reuse scope before uploading the third-party video. |
+
+Source for Pocket4P: [算是给我抢到了！大疆Pocket4P开箱](https://www.xiaohongshu.com/explore/6a5c37d4000000000100148e). The title is the creator's title, not independent verification of the product model. Draft copy and platform statuses are in the existing `posts_fb.md` and `posts_rednote_kuaishou.md`. Videos remain local in `ecommerce_ad_videos`; no video binaries are part of this Git change.
+
+---
+
+
 
 ## 2026-09-22 · New publishing candidate: fashion batch campaign
 

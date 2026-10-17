@@ -50,6 +50,8 @@ whether the register survives there at all.
 | ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
 | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
 | ◻︎ candidate | **W4** · one product, a whole campaign | narrated native video | `fashion_batch_campaign` · 22 s | B3 / B4 candidates; no date set · source review pending | — | | | |
+| ◻︎ queued · pair #1 | **W6** · English presenter + chair B-roll v2 | native video · 22.6s | [chair v2](../../ecommerce_ad_videos/rotation_chair/chair-presenter-EN-v2-watermarked.mp4) | B4 / relevant ecommerce seller groups; no date set | ecommerce seller / Shopify seller | | | |
+| ◻︎ queued · pair #2 | **W7** · hands-on Pocket4P reference | video reference · 40.98s | [Pocket4P](../../ecommerce_ad_videos/RedNote-Pocket4P-unboxing-no-watermark.mp4) | relevant ecommerce seller groups; no date set; third-party reuse scope unconfirmed | ecommerce seller / electronics seller | | | |
 | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
 | ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
 | ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
@@ -1799,3 +1801,42 @@ Planning your next drop? DM “BATCH” with your store link, number of products
 ### Posting notes
 
 Native upload; no external link in the body. Keep the quote CTA consistent with the video end card. No free-sample or exact-fidelity claim has been added. Leave published date, group and results blank until an actual post is confirmed.
+
+
+## W6 · An English presenter, with the product doing the explaining (2026-10-17)
+
+**Status:** queued, first of this new pair; not scheduled or published. Follow W6 with W7 after the existing cadence interval. Existing scheduled items retain their place.
+**Video:** [chair-presenter-EN-v2-watermarked.mp4](../../ecommerce_ad_videos/rotation_chair/chair-presenter-EN-v2-watermarked.mp4) — 22.6 seconds, 720×1280, English speech and captions, AI presenter alternating with product B-roll. Corrected 7-second transition; do not substitute the older 24-second cut.
+**Provenance:** Curify-created AI concept sample, not a real customer testimonial or evidence of sales performance. Keep the AI disclosure and slanted watermark.
+
+**Draft post:**
+
+A product video needs more than someone talking to camera.
+
+In this chair concept, an AI presenter introduces the product, then the edit cuts to the mesh back, curved profile and armrest details while the explanation continues. The viewer gets both a person to follow and a close look at the product.
+
+This is an AI-made demonstration, not a customer review. For a real campaign, we build the script around the actual product and the claims the seller can support.
+
+Planning several product videos? DM your product category, available footage and the number of versions you need. We can scope the scripts, presenter segments and product edits as a batch.
+
+**Record after posting:** date, group, permalink, replies and qualified enquiries. No posting action was taken when this entry was added.
+
+## W7 · A product demonstration can work without a face on camera (2026-10-17)
+
+**Status:** queued reference, second of this new pair; not scheduled or published. Third-party reuse permission is not recorded; confirm scope before native re-upload. Do not present this as Curify's work.
+**Video:** [RedNote-Pocket4P-unboxing-no-watermark.mp4](../../ecommerce_ad_videos/RedNote-Pocket4P-unboxing-no-watermark.mp4) — 40.98 seconds, 1440×2560, original audio retained. Watermark-free download does not establish ownership.
+**Source credit:** 浮生半盏茶, “算是给我抢到了！大疆Pocket4P开箱”, [original RedNote post](https://www.xiaohongshu.com/explore/6a5c37d4000000000100148e). Include creator credit in the post; put the source link in the first comment per this file's format.
+
+**Draft post:**
+
+Not every product video needs an on-camera presenter.
+
+This hands-on unboxing reference uses opening, handling, accessory details and close-ups to show the product. The hands give the viewer a sense of scale and make each action easy to follow.
+
+Reference credit: 浮生半盏茶 on RedNote. This is third-party work shared for format discussion, not a Curify production.
+
+For your own product, the choice is practical: use a presenter when the explanation benefits from a person, and use hands-on footage when the product demonstration can carry the story.
+
+Which format would help your next launch: presenter-led, hands-only, or a mix? DM your category and available footage if you are planning a batch.
+
+**Record after posting:** date, group, permalink, replies and qualified enquiries. No posting action was taken when this entry was added.
