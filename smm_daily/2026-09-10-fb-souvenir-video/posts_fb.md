@@ -1,5 +1,23 @@
 # FB · Souvenir video — 5 destinations, one dual-audience voice (2026-09-12)
 
+## 2026-10-17 · Love Scene — Facebook queue
+
+**Status:** Queued / draft; not scheduled or published. Facebook only; no Instagram scheduling requested.
+
+**Video:** [love-scene.mp4](../../drama_animation/love-scene.mp4) · 15.19s · 1280 × 720 · 30 fps · audio included.
+
+**Caption:**
+
+“We’re done.” Two words, a whole scene. 💔
+
+A glance, a pause, a change in expression. Sometimes the smallest moments carry the most emotion.
+
+What stayed with you most: the eyes, the hesitation, or that final line?
+
+#LoveScene #ShortFilm #Drama #VisualStorytelling
+
+---
+
 _Companion file: **[`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md)** (小红书／快手, Chinese).
 The asset table, publish status, place × trade matrix, red lines and schedule log are in
 **[`README.md`](README.md)** — this file is the English copy._
