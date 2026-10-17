@@ -1,5 +1,23 @@
 # Facebook / Instagram · Souvenir + fashion culture videos
 
+## 2026-10-17 · Love Scene — Facebook queue
+
+**Status:** Queued / draft; not scheduled or published. Facebook only; no Instagram scheduling requested.
+
+**Video:** [love-scene.mp4](../../drama_animation/love-scene.mp4) · 15.19s · 1280 × 720 · 30 fps · audio included.
+
+**Caption:**
+
+“We’re done.” Two words, a whole scene. 💔
+
+A glance, a pause, a change in expression. Sometimes the smallest moments carry the most emotion.
+
+What stayed with you most: the eyes, the hesitation, or that final line?
+
+#LoveScene #ShortFilm #Drama #VisualStorytelling
+
+---
+
 ## Publication schedule
 
 **Schedule updated 2026-10-12:** Jay confirmed that Q1–Q3 are **scheduled on Instagram**. Together with the four Fashion × culture videos confirmed on 2026-10-10, all seven videos below are scheduled on Instagram. Publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
