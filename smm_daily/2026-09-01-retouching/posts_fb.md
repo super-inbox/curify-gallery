@@ -1384,3 +1384,46 @@ AI-generated concept illustration with an adapted character. These are illustrat
 #PortraitRetouching #EditorialPhotography #KoreanEditorial #ColorGrading #CurifyAI
 
 **Alt text:** Six-panel portrait comparison of one AI-generated woman wearing a straw hat, white vest and brown scarf. Three poses appear in the top Before row and bottom After row. The After illustrations show brighter, rosier skin and more pronounced highlights. Title: Korean Editorial Retouching. Footer identifies the images as AI-generated illustrations, not real evaluation samples.
+
+
+---
+
+## 2026-10-19 · Wedding generation and batch retouching
+
+**Status:** W5 / F2 / P3 are ◻︎ drafts; not published or scheduled. Original user-supplied images and source hashes: [PROVENANCE.md](demos/wedding-shoes-korean-editorial-2026-10-19/PROVENANCE.md). F2 is a new footwear draft; the earlier F1 publication record remains unchanged.
+
+| Status | Voice | Post | Image | CTA |
+|---|---|---|---|---|
+| ◻︎ | 💍 W | W5 · Six lifetimes, one love | [Wedding concept](demos/wedding-shoes-korean-editorial-2026-10-19/01-lifetimes-wedding.png) | Wedding image generation |
+| ◻︎ | 👠 F | F2 · Consistent footwear images | [Footwear comparison](demos/wedding-shoes-korean-editorial-2026-10-19/02-womens-shoe-retouching.png) | Batch product retouching |
+| ◻︎ | 🎧 P | P3 · Korean editorial finish | [Portrait comparison](demos/wedding-shoes-korean-editorial-2026-10-19/03-korean-editorial-retouching.png) | Batch portrait retouching |
+
+### W5 · Six lifetimes, one love
+
+A first hand held in a prehistoric landscape. A meeting above the clouds. A lantern-lit evening, a shared umbrella—and finally, a wedding in this lifetime.
+
+This six-scene concept takes the Chinese “love across lifetimes” wedding idea and turns it into a visual story. It offers a direction for wedding welcome artwork, digital invitations or a story album.
+
+The characters and scenes are illustrative concepts, not photographs of a real couple's wedding.
+
+**First-comment CTA:** We create custom AI wedding images. DM us your preferred eras, scenes, image count and intended use. We’ll agree on character references and a visual direction before building the series.
+
+### F2 · Six shoe styles, one consistent finish
+
+Leather needs controlled highlights. Satin needs its texture. Suede needs detail without a harsh, crunchy finish.
+
+This illustrative comparison shows directions for lighting correction, colour matching, background cleanup and detail repair across six shoe styles. For a full catalogue, the brief should also protect the original silhouette, heel shape, hardware and material colour.
+
+AI effect illustration; not a real client delivery or a measured before-and-after test.
+
+**First-comment CTA:** Need a batch of product images retouched? DM a few originals, a target reference, the image count and your deadline. We’ll agree on a sample finish before applying it across the batch.
+
+### P3 · A Korean editorial look across the whole set
+
+A brighter finish only works if skin, white fabric and shadows still have detail.
+
+This three-pose concept shows a Korean magazine-inspired colour treatment. Compare the skin tone across poses, the texture in the white outfit and the depth in the hat and hair. A consistent set needs a shared reference, followed by adjustments for each image’s lighting.
+
+AI-generated illustration with an adjusted character appearance; not a real-world performance test.
+
+**First-comment CTA:** We offer batch portrait colour grading and retouching, including Korean editorial-inspired looks. DM a few originals, your style reference, image count and intended use so we can establish a sample finish for the full set.
