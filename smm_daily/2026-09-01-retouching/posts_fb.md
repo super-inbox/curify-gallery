@@ -81,7 +81,7 @@ also the better thing to put in a buyer group first.
 | ✅ **reported 10-09** | — | 🧸 C | **C7** · shoot once, sell every season | `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg` | a **kids & babies photographer** group (name not recorded) · batch CTA | | | |
 | ✅ **reported 10-11** | — | 🧸 C | **C8** · Jurassic rainforest | `demos/scene-worlds-2026-10-11/01-jurassic-before-after-en.jpg` | kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups (user-reported; exact names/URLs not recorded) | | | |
 | ◻︎ | after C7 | 🧸 C | **C9** · Hogwarts-inspired hall | `demos/scene-worlds-2026-10-11/02-hogwarts-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
-| ◻︎ | after C7 | 🧸 C | **C10** · Frozen-inspired ice palace | `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ✅ **reported 10-20** | — | 🧸 C | **C10** · Frozen-inspired ice palace | `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg` | Group search keywords: **kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups** · exact group names, count and publication date not provided | | | |
 | ◻︎ | after C7 | 🧸 C | **C11** · Asgard-inspired golden city | `demos/scene-worlds-2026-10-11/04-asgard-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
@@ -1287,7 +1287,7 @@ From the sheen of leather heels to the satin finish of bridal shoes and the soft
 
 ## 2026-10-11 · Cinematic scene enhancement C8–C11
 
-The user explicitly requested these synthetic-child examples for this retouching sequence. They reuse the existing AI-generated source and contain no real child or client photograph. Earlier blanket exclusions in this historical file do not apply to this specifically authorized synthetic set. Queue C7 → C8 → C9 → C10 → C11 at the existing cadence; do not displace scheduled posts. C8 was reported posted on 2026-10-11; C9–C11 remain ready drafts, not platform-scheduled.
+The user explicitly requested these synthetic-child examples for this retouching sequence. They reuse the existing AI-generated source and contain no real child or client photograph. Earlier blanket exclusions in this historical file do not apply to this specifically authorized synthetic set. Queue C7 → C8 → C9 → C10 → C11 at the existing cadence; do not displace scheduled posts. C8 was reported posted on 2026-10-11; C10 was confirmed published on Facebook on 2026-10-20 (actual publication date not provided). C9 and C11 remain ready drafts, not platform-scheduled.
 
 Use each English before/after card as a single-image FB post. Keep `overview-en.jpg` as an optional collection asset, not a duplicate same-day post.
 
@@ -1330,6 +1330,9 @@ We can develop a batch of scene concepts around one reference portrait and a wri
 https://www.curify-ai.com/en/nano-template/studio-digital-backdrop-scene
 
 ### C10 · Frozen-inspired ice palace
+
+**Status:** ✅ Published on Facebook, confirmed by the user on 2026-10-20. Actual publication date and post links were not provided.
+**Group search keywords (as reported):** “kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups”. These are search keywords, not verified group names; the number of groups was not provided.
 
 **Attach:** `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg`
 
