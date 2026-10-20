@@ -1427,3 +1427,31 @@ This three-pose concept shows a Korean magazine-inspired colour treatment. Compa
 AI-generated illustration with an adjusted character appearance; not a real-world performance test.
 
 **First-comment CTA:** We offer batch portrait colour grading and retouching, including Korean editorial-inspired looks. DM a few originals, your style reference, image count and intended use so we can establish a sample finish for the full set.
+
+
+---
+
+## 2026-10-20 · F3 · Rose-jewel footwear pair
+
+**Status:** ◻︎ Draft; not published or scheduled. Follows the F2 footwear theme in this retouching series.
+**Attach in order:** [1 · Pink rose heels](demos/rose-jewel-footwear-2026-10-20/01-pink-rose-jewel-heels.jpg), [2 · Blue rose heels](demos/rose-jewel-footwear-2026-10-20/02-blue-rose-jewel-heels.jpg). One two-image post, not a before/after comparison.
+**Source:** [PROVENANCE.md](demos/rose-jewel-footwear-2026-10-20/PROVENANCE.md). User-supplied finished images, presented as visual references.
+**CTA:** Batch bridal / footwear retouching and themed image creation.
+
+### Post
+
+A rose garden or a royal-blue evening? 🌹
+
+Pink roses, green jeweled vines and pearl ankle details give the first look a soft, romantic mood. Blue roses, gold branches and lace give the second a richer evening feel.
+
+For detail-heavy footwear imagery, the finishing brief matters: keep petal edges distinct, control highlights on pearls and stones, and retain fine chains and lace against the background. Across a full set, skin tone, metal colour and lighting should feel consistent.
+
+These two images are visual style references. Which direction would you choose for a bridal campaign: pink or blue?
+
+#BridalInspiration #FootwearPhotography #ProductRetouching #WeddingShoes
+
+**First-comment CTA:** Have a batch of bridal shoes, footwear or accessories to retouch—or a themed image series to create? DM a few source images, your style reference, image count and intended use. We’ll agree on a sample direction before developing the set. Product retouching should preserve the shoe’s original shape, colours and decorative details.
+
+**Alt text, image 1:** Close-up of pink high-heeled sandals with pink roses, green jeweled vines, pearl ankle strands and dangling pink stones, against a warm floral background.
+
+**Alt text, image 2:** Close-up of blue high-heeled sandals with blue roses, gold branches, pearl and jewel details and lace, against a blue-and-white floral background.
