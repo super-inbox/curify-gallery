@@ -32,6 +32,7 @@
 | 旅行纪念 | [格拉纳达 · 阿尔罕布拉](../../cultural_videos/granada/granada-alhambra-30s-watermarked.mp4) | 未发布（历史记录） | 待确认（历史记录） | 未记录 |
 | 旅行纪念 | [京都 · 和服](../../cultural_videos/kyoto/kyoto-kimono-30s-watermarked.mp4) | 未发布（历史记录） | 未发布（历史记录） | 未记录 |
 | 旅行纪念 | [滕王阁 · preview](../../cultural_videos/tengwangge/tengwangge-30s-preview-watermarked.mp4) | 未发布（历史记录） | 未发布（历史记录） | 未记录 |
+| 旅行纪念 | [W1 · 武康大楼·秋季街拍](../../cultural_videos/wukang/wukang-autumn-fashion-20s.mp4) | **已加入待发布顺序，未预约、未发布** | 不排期（本次仅小红书） | 未指定 |
 | 时装 × 文化 | [01 · 一张脸穿过三个时装世界](rednote-no-ending/fashion-time-machine-no-ending.mp4) | **已预约发布** | **已预约发布** | 未提供 |
 | 时装 × 文化 | [02 · 同一条沙龙裙，三种打开方式](rednote-no-ending/one-sarong-three-moods-no-ending.mp4) | **已预约发布** | **已预约发布** | 未提供 |
 | 时装 × 文化 | [03 · 把东方衣橱穿进今天](rednote-no-ending/chinese-silhouettes-remixed-no-ending.mp4) | **已预约发布** | **已预约发布** | 未提供 |
@@ -536,3 +537,31 @@ AI 时装演绎；atlas 长袍采用当代女装搭配。
 本片为AI生成剧情与产品样品展示。
 
 #面膜 #职场女性 #好好照顾自己 #剧情广告 #AI短片 #品牌短片
+
+---
+
+## 2026-10-22 · W1 · 武康大楼秋季街拍纪念片
+
+**状态：** 已加入本地小红书发布顺序，未预约、未发布；本次不安排快手。实际发布账号及日期待执行发布时记录。
+
+**旅行纪念系列顺序：** 巴厘岛 → 迪拜 → 格拉纳达 → 京都 → 滕王阁 preview → **上海武康大楼（新增第6条）**。本条追加在既有目的地系列之后，不改变其他视频的历史状态。
+
+**小红书上传用：** [无Curify水印版](../../cultural_videos/wukang/wukang-autumn-fashion-20s.mp4) · 20秒 · 1080 × 1920 · 24fps。
+**带斜水印归档：** [Curify斜水印版](../../cultural_videos/wukang/wukang-autumn-fashion-20s-watermarked.mp4)。
+
+**标题：把武康大楼的秋天，带回家**
+
+红砖、梧桐、驼色风衣，还有几声快门。🍂
+
+从鸟瞰武康大楼，到转身回看、扶一下衣领，把一次秋日 citywalk 剪成20秒的街拍纪念。
+同一个人物、同一套穿搭，换几个角度，就能留下不同的旅行心情。
+
+这是一支AI生成的文旅纪念短片样片，人物为原创虚拟角色，并非真人客片。
+
+旅行留下的照片，也可以成为一段会动的纪念。旅拍工作室、文旅项目或城市体验，都可以围绕自己的地点和风格设计这样的短片。
+
+下一站，你想把哪座城市拍成纪念片？有想做的地点或风格，欢迎私信聊聊。
+
+#武康大楼 #上海秋天 #上海Citywalk #秋日穿搭 #旅行纪念 #AI短片 #文旅视频
+
+**素材记录：** 使用本次选定的MGM参考音轨；片尾为已确认的满屏赏秋图，已移除小红书标识。音轨来源：https://www.douyin.com/video/7698268570895076648 。该来源记录不放入发布正文。

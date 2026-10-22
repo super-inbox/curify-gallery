@@ -578,3 +578,32 @@ AI fashion interpretations, including a contemporary womenswear take on the atla
 Make your own set with **batch fashion try-on**: **https://curify-ai.com**.
 
 #Curify #BatchFashionTryOn #TextileInspiration #AIFashion #Ikat #Embroidery
+
+---
+
+## 2026-10-22 · Shanghai Wukang — autumn street style
+
+**Status:** Added to the local Facebook publishing sequence; queued / draft, not scheduled or published. No Instagram scheduling requested.
+
+**Destination-souvenir sequence:** Bali → Dubai → Granada → Kyoto → Tengwang Pavilion (preview only) → **Shanghai Wukang (new, #6)**. Append to the existing destination sequence; keep all previously recorded statuses unchanged.
+
+**Upload:** [Curify slanted-watermark version](../../cultural_videos/wukang/wukang-autumn-fashion-20s-watermarked.mp4) · 20.00s · 1080 × 1920 · 24fps.
+**Clean master:** [wukang-autumn-fashion-20s.mp4](../../cultural_videos/wukang/wukang-autumn-fashion-20s.mp4).
+
+**Caption:**
+
+Take a little Shanghai autumn home. 🍂
+
+The curve of Wukang Building, warm light on red brick, a few street-style poses — and a camera click to keep the moment.
+
+This 20-second AI-generated souvenir concept turns a landmark visit into a fashion-film keepsake. Same character, same autumn outfit, a different view of the city with every cut.
+
+For travellers, it’s a new way to remember a place. For photo studios and travel experiences, it’s a souvenir-video format to explore alongside the photos you already offer.
+
+Which city would you take home in a short film? DM us your destination and a photo idea.
+
+#Shanghai #WukangBuilding #AutumnInShanghai #CityWalk #TravelMemories #AIVideo
+
+**First comment:** Examples and how it works → curify-ai.com — or DM us your destination.
+
+**Asset note:** Original AI character, not an actual guest session. Current cut uses the user-selected MGM reference audio and the approved autumn end card. Reference source: https://www.douyin.com/video/7698268570895076648 .
