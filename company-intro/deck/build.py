@@ -23,6 +23,7 @@ deck is worse than a failed build.
 import argparse
 import base64
 import io
+import os
 import re
 import sys
 from pathlib import Path
@@ -61,7 +62,10 @@ def inline_img(key: str) -> str:
 def build(src_name: str, pdf_name: str, html_only: bool) -> None:
     src = HERE / src_name
     out_html = HERE / (src_name.replace("_src.html", "_built.html"))
-    out_pdf = HERE / pdf_name
+    library = Path(os.environ.get("CURIFY_PORTFOLIOS", str(HERE.parents[2] / "curify-gtm" / "curify_portfolios")))
+    out_pdf = library / "company" / pdf_name
+    if not html_only:
+        out_pdf.parent.mkdir(parents=True, exist_ok=True)
     html = src.read_text()
 
     # inline the stylesheet — Chrome would load it from disk anyway, but a

@@ -24,7 +24,10 @@
 # would have called back about.
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
-SRC="${1:-$HERE/../Curify_AI_公司介绍_客户版.pdf}"
+LIBRARY="${CURIFY_PORTFOLIOS:-$HERE/../../../curify-gtm/curify_portfolios}"
+OUT="$LIBRARY/print"
+SRC="${1:-$LIBRARY/company/Curify_AI_公司介绍_客户版.pdf}"
+mkdir -p "$OUT"
 WORK="$(mktemp -d)"
 trap 'rm -rf "$WORK"' EXIT
 
@@ -38,7 +41,7 @@ echo "1/3  转曲 (text -> outlines)"
 gs -o "$WORK/outlined.pdf" "${COMMON[@]}" -dNoOutputFonts -dNOCACHE "$SRC" >/dev/null
 
 echo "2/3  normalise to exact A4 (Chromium emits 210.2 x 297.3mm)"
-gs -o "$HERE/Curify_AI_公司介绍_客户版_转曲_A4.pdf" "${COMMON[@]}" \
+gs -o "$OUT/Curify_AI_公司介绍_客户版_转曲_A4.pdf" "${COMMON[@]}" \
    -dFIXEDMEDIA -dDEVICEWIDTHPOINTS=595.276 -dDEVICEHEIGHTPOINTS=841.890 -dPDFFitPage \
    "$WORK/outlined.pdf" >/dev/null
 
@@ -70,7 +73,7 @@ for i in $(seq 1 9); do
   gs -o "$WORK/crop_$i.pdf" "${COMMON[@]}" -dFirstPage=$i -dLastPage=$i \
      -dFIXEDMEDIA -dDEVICEWIDTHPOINTS=592.276 -dDEVICEHEIGHTPOINTS=838.890 \
      -c "<< /PageOffset [-$INSET -$INSET] >> setpagedevice" \
-     -f "$HERE/Curify_AI_公司介绍_客户版_转曲_A4.pdf" >/dev/null
+     -f "$OUT/Curify_AI_公司介绍_客户版_转曲_A4.pdf" >/dev/null
   # 3b. re-centre on the 216x303mm sheet and flood the whole sheet with the page
   #     colour underneath. Offset 10.00394 = 8.50394 (3mm) + 1.5 (the inset),
   #     so the artwork lands in exactly the same place it had before the crop.
@@ -80,11 +83,11 @@ for i in $(seq 1 9); do
      -f "$WORK/crop_$i.pdf" >/dev/null
   PARTS+=("$WORK/bp_$i.pdf")
 done
-gs -o "$HERE/Curify_AI_公司介绍_客户版_转曲_出血3mm.pdf" "${COMMON[@]}" \
+gs -o "$OUT/Curify_AI_公司介绍_客户版_转曲_出血3mm.pdf" "${COMMON[@]}" \
    -dFIXEDMEDIA -dDEVICEWIDTHPOINTS=612.283 -dDEVICEHEIGHTPOINTS=858.898 "${PARTS[@]}" >/dev/null
 
 echo "done:"
-for f in "$HERE"/Curify_AI_公司介绍_客户版_转曲_*.pdf; do
+for f in "$OUT"/Curify_AI_公司介绍_客户版_转曲_*.pdf; do
   printf '  %-52s %s  fonts=%s\n' "$(basename "$f")" \
     "$(pdfinfo "$f" | awk '/Page size/{print $3"x"$5"pt"}')" \
     "$(pdffonts "$f" | tail -n +3 | grep -c . || true)"

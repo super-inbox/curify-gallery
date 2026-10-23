@@ -118,3 +118,8 @@ Docs intentionally left in their date folders (not in either category): template
 - **AI-Native Product** — creator / SMB-facing generation at [curify-ai.com](https://curify-ai.com): structured data & long-tail keywords → thousands of on-brand visual assets, multilingual video, and one-click design tools.
 
 **Links** · Website: [curify-ai.com](https://curify-ai.com) · Mentorship (founder, Jay Wang): [mentorcruise.com/mentor/jaywang](https://mentorcruise.com/mentor/jaywang/)
+
+
+## Curify portfolio library
+
+[Browse the consolidated portfolios](https://github.com/super-inbox/curify-gtm/tree/codex/consolidate-portfolios-20261023/curify_portfolios) — company introductions, e-commerce / jewelry, fashion, video, brand and industrial design.
