@@ -1,6 +1,25 @@
 # Data Science × AI｜Facebook · Jay
 
-英文可发布文案，面向个人专业受众；全部为草稿、未预约、未发布。与 [Publication Sequence](publication_sequence.md) 共用顺序。Facebook CTA 按用户要求直接附 MentorCruise 链接；不是 LinkedIn 队列，也不沿用 Curify 文化号的首评规则。
+建议先后顺序，尚未预约或发布；本表仅维护Facebook状态。前三篇面向转入 Data Science / AI 的学习者，S04 从代码检索过渡到后续 AI 创业与咨询内容。
+
+下方为英文文案，面向 Jay 的专业受众；CTA 直接附 MentorCruise 链接。
+
+定位、素材说明及资料核对见 [系列编辑说明](README.md)。
+
+## Publication Sequence
+
+| 顺序 | ICP | 主题／标题 | 素材 | 文案 | 状态 | 发布日期／链接 |
+|---|---|---|---|---|---|---|
+| S01 | A · 转行入门 | Build one useful AI workflow before collecting tools. | [素材](assets/ai-stack.jpeg) | [查看文案](#s01) | 草稿／未排期 | — |
+| S02 | A · 转行入门 | Forecasting starts with what you could know at the time. | [素材](assets/time-series-forecsting.gif) | [查看文案](#s02) | 草稿／未排期 | — |
+| S03 | A · 转行入门 | Why an AI search system still needs keywords. | [素材](assets/hybrid-retrieval.png) | [查看文案](#s03) | 草稿／未排期 | — |
+| S04 | A → B · 场景适配 | Why does an AI coding agent still use grep? | [延展自 Hybrid Retrieval](assets/hybrid-retrieval.png)；以文字场景讲解 | [查看文案](#s04) | 草稿／未排期 | — |
+| S05 | B · AI创业与咨询 | Faster generation can come with a memory bill. | [素材](assets/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F1%EF%BC%9AKV%20Cache_1_Dev.E_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg) | [查看文案](#s05) | 草稿／未排期 | — |
+| S06 | B · AI创业与咨询 | A model that runs is not yet a service that scales. | [素材](assets/AI-inference.jpeg) | [查看文案](#s06) | 草稿／未排期 | — |
+| S07 | B · AI创业与咨询 | A lab leaderboard is not your product evaluation. | [素材](assets/frontier-labs.png) | [查看文案](#s07) | 草稿／未排期 | — |
+| S08 | B · AI创业与咨询 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
+
+---
 
 ## S01
 

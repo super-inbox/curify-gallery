@@ -1,6 +1,11 @@
-# Data Science × AI — Publication Sequence
+# Data Science × AI — 系列编辑说明
 
-更新：2026-10-28。原目录 `2026-09-05-founder-vision-linkedin` 更名为 `2026-09-05-data-science-ai-series`，日期保留历史起点。本文件接替原 `post_linkedin.md` 作为系列入口；原文完整保留在 [Founder Vision 历史稿](post_founder_vision_archive.md)，视频和制作脚本随目录一起保留。
+更新：2026-10-28。原目录 `2026-09-05-founder-vision-linkedin` 更名为 `2026-09-05-data-science-ai-series`，日期保留历史起点。各平台的发布顺序与完整文案已合并：
+
+- [小红书：Publication Sequence＋文案](posts_rednote.md)
+- [Facebook：Publication Sequence＋文案](posts_fb.md)
+
+各平台表格独立回填状态，不再维护单独的 Publication Sequence 文件。原文完整保留在 [Founder Vision 历史稿](post_founder_vision_archive.md)，视频和制作脚本随目录一起保留。
 
 ## 定位与两个 ICP
 
@@ -16,21 +21,6 @@
 CTA：小红书只用私信或“在 MentorCruise 搜 Jay Wang”，正文不放网址；Facebook 可直接附 [Jay Wang 的 MentorCruise 主页](https://mentorcruise.com/mentor/jaywang/)。A 邀请讨论背景、目标和项目；B 邀请描述业务、负载和瓶颈。不承诺拿 offer、固定收益或未经测试的提速。
 
 已参考该账号的实际可见笔记与互动，详见 [账号措辞观察](audience_notes.md)。取样用于措辞方向，不当作全账号排名或因果结论。
-
-## Publication Sequence
-
-这是建议先后顺序，不是平台排期。两端按同一编号独立推进；没有给定日历日期，全部为未排期、未发布。先用三篇建立可理解的基础，由一篇代码检索的桥接内容过渡，再进入四篇创业技术判断；读者可以按 A/B 路线跳读。原 Founder Vision 不插入这八篇，不修改其历史发布状态。
-
-| 顺序 | ICP | 主题／小红书标题 | Facebook hook | 原始素材 | 文案 | 小红书状态 | Facebook 状态 | 发布日期／链接 |
-|---|---|---|---|---|---|---|---|---|
-| S01 | A · 转行入门 | AI Stack · 转行AI，别把工具清单当学习路线 | Build one useful AI workflow before collecting tools. | [素材](assets/ai-stack.jpeg) | [小红书](posts_rednote.md#s01) · [FB](posts_fb.md#s01) | 草稿／未排期 | 草稿／未排期 | — |
-| S02 | A · 转行入门 | Time Series Forecasting · 预测模型更强了，为什么还会算错 | Forecasting starts with what you could know at the time. | [素材](assets/time-series-forecsting.gif) | [小红书](posts_rednote.md#s02) · [FB](posts_fb.md#s02) | 草稿／未排期 | 草稿／未排期 | — |
-| S03 | A · 转行入门 | Hybrid Retrieval · 向量检索很强，为什么还要关键词 | Why an AI search system still needs keywords. | [素材](assets/hybrid-retrieval.png) | [小红书](posts_rednote.md#s03) · [FB](posts_fb.md#s03) | 草稿／未排期 | 草稿／未排期 | — |
-| S04 | A → B · 场景适配 | 代码检索 · AI写代码，为何还在用grep？ | Why does an AI coding agent still use grep? | [延展自 Hybrid Retrieval](assets/hybrid-retrieval.png)；以文字场景讲解 | [小红书](posts_rednote.md#s04) · [FB](posts_fb.md#s04) | 草稿／未排期 | 草稿／未排期 | — |
-| S05 | B · AI创业与咨询 | KV Cache · AI回答变快，代价可能是显存 | Faster generation can come with a memory bill. | [素材](assets/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F1%EF%BC%9AKV%20Cache_1_Dev.E_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg) | [小红书](posts_rednote.md#s05) · [FB](posts_fb.md#s05) | 草稿／未排期 | 草稿／未排期 | — |
-| S06 | B · AI创业与咨询 | AI Inference · AI能跑起来，和能服务用户是两回事 | A model that runs is not yet a service that scales. | [素材](assets/AI-inference.jpeg) | [小红书](posts_rednote.md#s06) · [FB](posts_fb.md#s06) | 草稿／未排期 | 草稿／未排期 | — |
-| S07 | B · AI创业与咨询 | Frontier Labs / 模型选择 · 模型榜单第一，未必最适合你的产品 | A lab leaderboard is not your product evaluation. | [素材](assets/frontier-labs.png) | [小红书](posts_rednote.md#s07) · [FB](posts_fb.md#s07) | 草稿／未排期 | 草稿／未排期 | — |
-| S08 | B · AI创业与咨询 | Anthropic versus SaaS · 模型越来越强，AI创业还能做什么 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [小红书](posts_rednote.md#s08) · [FB](posts_fb.md#s08) | 草稿／未排期 | 草稿／未排期 | — |
 
 ## 素材使用与编辑备注
 

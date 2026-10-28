@@ -1,6 +1,25 @@
 # Data Science × AI｜小红书 · Jay
 
-中文可发布文案。顺序与 [Publication Sequence](publication_sequence.md) 一致；全部为草稿、未预约、未发布。每条从“标题”开始复制，素材说明不属于帖子正文。小红书正文与 CTA 均不放 URL。
+建议先后顺序，尚未预约或发布；本表仅维护小红书状态。前三篇面向转入 Data Science / AI 的学习者，S04 从代码检索过渡到后续 AI 创业与咨询内容。
+
+下方为中文文案，每条从“标题”开始复制。CTA 只用私信或在 MentorCruise 搜 Jay Wang，不放网址。
+
+定位、素材说明及资料核对见 [系列编辑说明](README.md)。
+
+## Publication Sequence
+
+| 顺序 | ICP | 主题／标题 | 素材 | 文案 | 状态 | 发布日期／链接 |
+|---|---|---|---|---|---|---|
+| S01 | A · 转行入门 | AI Stack · 转行AI，别把工具清单当学习路线 | [素材](assets/ai-stack.jpeg) | [查看文案](#s01) | 草稿／未排期 | — |
+| S02 | A · 转行入门 | Time Series Forecasting · 预测模型更强了，为什么还会算错 | [素材](assets/time-series-forecsting.gif) | [查看文案](#s02) | 草稿／未排期 | — |
+| S03 | A · 转行入门 | Hybrid Retrieval · 向量检索很强，为什么还要关键词 | [素材](assets/hybrid-retrieval.png) | [查看文案](#s03) | 草稿／未排期 | — |
+| S04 | A → B · 场景适配 | 代码检索 · AI写代码，为何还在用grep？ | [延展自 Hybrid Retrieval](assets/hybrid-retrieval.png)；以文字场景讲解 | [查看文案](#s04) | 草稿／未排期 | — |
+| S05 | B · AI创业与咨询 | KV Cache · AI回答变快，代价可能是显存 | [素材](assets/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F1%EF%BC%9AKV%20Cache_1_Dev.E_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg) | [查看文案](#s05) | 草稿／未排期 | — |
+| S06 | B · AI创业与咨询 | AI Inference · AI能跑起来，和能服务用户是两回事 | [素材](assets/AI-inference.jpeg) | [查看文案](#s06) | 草稿／未排期 | — |
+| S07 | B · AI创业与咨询 | Frontier Labs / 模型选择 · 模型榜单第一，未必最适合你的产品 | [素材](assets/frontier-labs.png) | [查看文案](#s07) | 草稿／未排期 | — |
+| S08 | B · AI创业与咨询 | Anthropic versus SaaS · 模型越来越强，AI创业还能做什么 | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
+
+---
 
 ## S01
 
