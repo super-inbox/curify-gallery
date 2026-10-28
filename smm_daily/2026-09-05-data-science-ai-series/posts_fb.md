@@ -1,6 +1,6 @@
 # Data Science × AI｜Facebook · Jay
 
-建议先后顺序，尚未预约或发布；本表仅维护Facebook状态。前三篇面向转入 Data Science / AI 的学习者，S04 从代码检索过渡到后续 AI 创业与咨询内容。
+本表仅维护 Facebook 状态，所有帖子仍为草稿、未排期；不沿用小红书的发布状态。 各篇按主题采用不同视角：技术总览、机制科普、专家对比、工程实践或行业讨论。
 
 下方为英文文案，面向 Jay 的专业受众；CTA 直接附 MentorCruise 链接。
 
@@ -8,82 +8,101 @@
 
 ## Publication Sequence
 
-| 顺序 | ICP | 主题／标题 | 素材 | 文案 | 状态 | 发布日期／链接 |
-|---|---|---|---|---|---|---|
-| S01 | A · 转行入门 | Build one useful AI workflow before collecting tools. | [素材](assets/ai-stack.jpeg) | [查看文案](#s01) | 草稿／未排期 | — |
-| S02 | A · 转行入门 | Forecasting starts with what you could know at the time. | [素材](assets/time-series-forecsting.gif) | [查看文案](#s02) | 草稿／未排期 | — |
-| S03 | A · 转行入门 | Why an AI search system still needs keywords. | [素材](assets/hybrid-retrieval.png) | [查看文案](#s03) | 草稿／未排期 | — |
-| S04 | A → B · 场景适配 | Why does an AI coding agent still use grep? | [延展自 Hybrid Retrieval](assets/hybrid-retrieval.png)；以文字场景讲解 | [查看文案](#s04) | 草稿／未排期 | — |
-| S05 | B · AI创业与咨询 | Faster generation can come with a memory bill. | [素材](assets/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F1%EF%BC%9AKV%20Cache_1_Dev.E_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg) | [查看文案](#s05) | 草稿／未排期 | — |
-| S06 | B · AI创业与咨询 | A model that runs is not yet a service that scales. | [素材](assets/AI-inference.jpeg) | [查看文案](#s06) | 草稿／未排期 | — |
-| S07 | B · AI创业与咨询 | A lab leaderboard is not your product evaluation. | [素材](assets/frontier-labs.png) | [查看文案](#s07) | 草稿／未排期 | — |
-| S08 | B · AI创业与咨询 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
+| 顺序 | ICP | 视角 | 主题／标题 | 素材 | 文案 | 状态 | 发布日期／链接 |
+|---|---|---|---|---|---|---|---|
+| S01 | A · 转行入门 | 技术总览＋学习路径 | The AI stack: nine layers, and how to connect them. | [素材](assets/ai-stack.jpeg) | [查看文案](#s01) | 草稿／未排期 | — |
+| S02 | A · 统计／DS 转 AI | 统计×AI 科普 | Time-series foundation models sit at the intersection of statistics and AI. | [素材](assets/time-series-forecsting.gif) | [查看文案](#s02) | 草稿／未排期 | — |
+| S03 | A · 检索实践 | 技术教学＋动手练习 | Hybrid retrieval, explained with a four-document RRF example. | [素材](assets/hybrid-retrieval.png) | [查看文案](#s03) | 草稿／未排期 | — |
+| S04 | A → B · 场景适配 | 场景适配／工程观点 | Why does an AI coding agent still use grep? | [延展自 Hybrid Retrieval](assets/hybrid-retrieval.png)；以文字场景讲解 | [查看文案](#s04) | 草稿／未排期 | — |
+| S05 | A · AI 工程基础 | 机制科普 | Why long conversations need KV caching. | [素材](assets/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F1%EF%BC%9AKV%20Cache_1_Dev.E_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg) | [查看文案](#s05) | 草稿／未排期 | — |
+| S06 | A · 转行 AI Engineering | 专家对比＋职业学习 | Ollama, vLLM and SGLang: what inference infrastructure actually optimizes. | [素材](assets/AI-inference.jpeg) | [查看文案](#s06) | 草稿／未排期 | — |
+| S07 | B · AI 行业观察 | 行业观察／争议讨论 | The AI lab race is a moving picture, not a permanent tier list. | [素材](assets/frontier-labs.png) | [查看文案](#s07) | 草稿／未排期 | — |
+| S08 | B · AI 创业与咨询 | 创业观点 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
 
 ---
 
 ## S01
 
-**Build one useful AI workflow before collecting tools.**
+**The AI stack: nine layers, and how to connect them.**
 
-An AI stack diagram can look like a shopping list for a career change. Start with one small problem instead: an assistant that answers questions about expense policies.
+This diagram focuses on generative AI applications. An AI stack diagram is most useful when you can explain what each layer does. Here is how I would introduce the nine layers to someone moving into AI engineering.
 
-It needs to read the documents, find relevant passages, produce an answer, and check whether that answer is useful. Think of a small shop: supplies, shelves, staff and quality checks have different jobs.
+1. Models generate or interpret content: for example, Claude or Qwen.
+2. Inference and access make a model callable: Ollama and vLLM are examples.
+3. Orchestration coordinates steps and branches: LangGraph or LlamaIndex.
+4. Tools and protocols connect business systems: HTTP APIs or MCP.
+5. Memory retains selected information across interactions: a database with explicit rules, or a system such as Mem0. This is different from a model’s KV cache.
+6. Retrieval storage keeps searchable material: pgvector or Elasticsearch.
+7. Embeddings represent content as vectors; rerankers reorder retrieved candidates. Sentence Transformers and cross-encoder rerankers are useful examples to explore.
+8. Extraction turns documents into usable inputs: for example, Docling.
+9. Evaluation and observability check behaviour and trace execution: test scripts and a tool such as Langfuse.
 
-The model is one component. You do not need every database, agent framework and monitoring tool on the diagram to build your first project.
+My learning recommendation: get hands-on with one or two representatives in each layer. Understand their inputs, outputs and failure modes. You do not need every tool in the diagram, and one application does not need every layer.
 
-Try ten realistic questions with expected answers. Build the simplest workflow that handles them, inspect its mistakes, and add tools when you can explain what they fix.
+Then connect a real workflow. For an employee-policy assistant, extract documents, split them into passages, embed and store them, retrieve evidence, generate a cited answer, and evaluate it against a fixed question set. Track latency along the way.
 
-That is a much stronger portfolio story than a list of libraries you have tried.
+Add a leave-balance tool when the workflow needs live business data. Add persistent preferences when there is a reason to remember them. Add orchestration when the branching justifies it.
 
-Changing careers into Data Science or AI? Bring your background and a project idea, and we can discuss a practical learning plan.
+If you are changing careers into AI, we can discuss a learning plan that turns this overview into an end-to-end project.
 
-[Mentoring / consulting enquiry — Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+[Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
 
-#DataScience #CareerTransition #AI
+#AIEngineering #DataScience #CareerTransition
 
 ---
 
 ## S02
 
-**Forecasting starts with what you could know at the time.**
+**Time-series foundation models sit at the intersection of statistics and AI.**
 
-How many loaves should a bakery prepare tomorrow? That is a forecasting problem before it is a model-selection problem.
+Sales, electricity demand and sensor readings are familiar territory for statistics. They are now also a setting for foundation models.
 
-Past sales and a promotion already on the calendar can help. Tomorrow’s actual foot traffic cannot be used as if it were already known.
+Exponential smoothing models levels, trends and seasonal patterns. ARIMA models temporal relationships in a series and its errors. Typically, we fit a model around the series we want to forecast.
 
-Time-series foundation models learn from many sequences before being applied to another forecasting task. Timestral is one example. Pretraining is a starting point, not a guarantee that it will beat a simple baseline on your data.
+A time-series foundation model moves part of the learning earlier: pretrain across many sequences, then transfer that learning to another forecasting task. Some support zero-shot forecasting; some can also be adapted further. This does not necessarily mean using a chat model or converting every number into prose.
 
-For a first portfolio project, compare a model with “same as last week.” Train on earlier observations and test on later ones. Repeat across several periods.
+The Timestral illustration has two stages. The upper half represents pretraining. The lower half applies the trained model to a shop’s data: sales are the target, past foot traffic is a historical covariate, and a promotion already on the calendar is a known future covariate. Covariates are simply additional variables that may help explain the target.
 
-Show a forecast range as well as a central estimate. A business decision needs to account for uncertainty and the different costs of overstocking and running out.
+The output can include quantiles—a way to describe a range of possible outcomes rather than one exact number.
 
-Want to turn forecasting into a portfolio project? We can discuss the business question, baseline and evaluation design.
+Statistical judgment still matters. Time order, seasonality and uncertainty do not disappear with pretraining. Tomorrow’s actual traffic cannot be treated as known when making today’s forecast.
 
-[Mentoring / consulting enquiry — Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+A useful exercise is to compare a seasonal baseline, a classical model and a foundation model on the same rolling time splits. Examine forecast errors and interval coverage. This is a particularly interesting project for someone bringing a statistics or analytics background into AI.
 
-#DataScience #CareerTransition #AI
+[Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+
+#AIEngineering #DataScience #CareerTransition
 
 ---
 
 ## S03
 
-**Why an AI search system still needs keywords.**
+**Hybrid retrieval, explained with a four-document RRF example.**
 
-“AX-17 error” and “When will my travel expenses be reimbursed?” ask different things of a search engine.
+Document assistants and many agents need to find evidence before answering or acting. Hybrid retrieval is a useful building block for that job.
 
-The first needs precise terminology. The second may need a connection to a document titled “Expense reimbursement timelines.”
+In this example, BM25 scores term matches using lexical statistics. Embedding-based retrieval compares vector representations to find semantically related content. Their raw scores are on different scales, so simply adding them is not a sound default.
 
-Hybrid retrieval combines keyword-based and semantic search. Imagine two librarians: one looks up names and codes, the other looks for related topics.
+Reciprocal Rank Fusion (RRF) combines positions instead. Each list contributes 1 / (k + rank); ranks start at 1. Use k = 60 for this toy example. An absent document contributes zero from that list.
 
-Reciprocal Rank Fusion, or RRF, merges their ranked lists using positions rather than adding raw scores from different scoring systems. It is a way to combine candidates, not proof that the final answer is correct.
+BM25 returns A, B, C. Vector search returns C, A, D.
 
-For a portfolio exercise, compare keyword, vector and hybrid search on a small set of realistic questions. Include exact codes and everyday paraphrases. Check whether the right evidence appears before evaluating the generated answer.
+- A: 1/61 + 1/62 ≈ 0.03252
+- C: 1/63 + 1/61 ≈ 0.03227
+- B: 1/62 ≈ 0.01613
+- D: 1/63 ≈ 0.01587
 
-Building your first retrieval project? We can work through the dataset, comparison and evaluation so you can explain your choices.
+The fused order is A, C, B, D. A places well in both lists. We have combined ranking signals without directly calibrating BM25 and similarity scores; 60 is a parameter choice, not a universal requirement.
 
-[Mentoring / consulting enquiry — Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+Try this hands-on: collect 20 short documents, write ten questions and label the relevant evidence. Retrieve three candidates from each method, merge them with RRF, then check whether the correct evidence appears in each method’s top three. Record latency too.
 
-#DataScience #CareerTransition #AI
+Manuals, reports and policy files are natural places to explore this. Different data may call for different combinations—the next post looks at grep in coding agents.
+
+Want to turn the exercise into a retrieval portfolio project? We can work through the data, implementation and evaluation.
+
+[Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+
+#AIEngineering #DataScience #CareerTransition
 
 ---
 
@@ -113,67 +132,80 @@ Designing retrieval for an AI product? Bring a representative task and a few fai
 
 ## S05
 
-**Faster generation can come with a memory bill.**
+**Why long conversations need KV caching.**
 
-Imagine rewriting a report while repeatedly rebuilding your notes from the beginning. A cache lets you reuse some of that work.
+You paste a long document into a GPT-style assistant, ask for a summary, then ask it to expand one section. Why should the system redo all earlier work every time it generates another token?
 
-A model’s KV cache stores intermediate attention data for earlier tokens. It reduces repeated computation; it is not a saved final answer.
+Start with two stages. Prefill processes the input and produces intermediate attention data, including keys and values. Decode generates new tokens step by step. A token may be a word fragment or another unit; it is not always a word or character.
 
-For common full-attention implementations, longer sequences need more cache memory. Serving more simultaneous requests also adds memory pressure.
+The KV cache keeps earlier keys and values so decoding can reuse them. It stores intermediate computation, not a finished answer or a persistent profile of the user.
 
-That matters to founders because “the AI is slow” can describe different experiences: waiting for the first output or waiting between later pieces of output.
+There is a second opportunity: reuse across requests. If the next request begins with the same long document, a serving system with prefix caching may reuse the matching prefix instead of processing it again. Support, cache retention and an actual match all matter. This describes a general mechanism, not a claim about a particular chat product’s internals.
 
-Before choosing a replacement model, record input length, output length, concurrency and memory use. Separating those factors gives your team a better starting point for diagnosis than treating latency as one number.
+What if you edit the input? For a typical autoregressive Transformer, appending a new question may preserve a reusable prefix. Changing a sentence in the middle changes dependencies from that point onward, so that suffix generally needs processing again. Block boundaries and implementation details affect how much can be reused.
 
-If your AI product is hitting latency or memory limits, bring a workload description and measurements. We can discuss an architecture review and a practical investigation plan.
+Long context therefore raises two questions: how much can the model accept, and how much work can the system reuse? Caching saves computation but consumes memory. Prefix reuse primarily reduces repeated input processing; it does not remove the work of generating every new token.
 
-[Mentoring / consulting enquiry — Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+If you are moving from using models to building AI systems, this is a useful place to start learning inference engineering.
 
-#AIEngineering #AIStartups #AIConsulting
+[Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+
+#AIEngineering #DataScience #CareerTransition
 
 ---
 
 ## S06
 
-**A model that runs is not yet a service that scales.**
+**Ollama, vLLM and SGLang: what inference infrastructure actually optimizes.**
 
-A demo feels fast with one person. Then several people arrive together and start waiting.
+Many people know that a trained model needs to be deployed for inference. Fewer have worked with the infrastructure between loading weights and serving users reliably.
 
-Think of inference serving as a restaurant kitchen. Scheduling orders, sharing preparation and managing limited space all affect the experience.
+These three tools are useful entry points. They are runtime and serving systems with overlapping capabilities, not three mutually exclusive model architectures.
 
-Ollama can be a useful starting point for local experiments. vLLM and SGLang are also candidates when evaluating a serving stack. Their capabilities overlap: these are not three exclusive tiers, and Ollama is not limited to one request at a time.
+**Ollama: simplify getting a model running and callable.**
+It offers a convenient local workflow for downloading and running models through an API. Quantized weights can reduce memory requirements, with quality and speed trade-offs to test. Think personal document Q&A, learning experiments or internal prototypes. Ollama also supports concurrency when memory and configuration allow it.
 
-Compare candidates on the same workload, model and hardware, with precision settings recorded. Measure time to first output, generation speed, latency under concurrency and failures. Then consider cost per successful task.
+**vLLM: use memory and batching more effectively.**
+PagedAttention manages KV cache in blocks to reduce memory waste. Continuous batching lets completed requests leave and new requests join an active workload. Prefix caching can reuse repeated input computation.
+This is relevant to concurrent Q&A and batch generation. With a supported vision-language model, vLLM can also serve image questions or document-image understanding. The engine serves the model; it does not add vision capabilities to a text-only model.
 
-The useful question is not “Which engine wins?” It is “Which setup meets our users’ needs with an operating burden we can sustain?”
+**SGLang: pay attention to reusable context and generation workflows.**
+RadixAttention organizes reusable prefix KV data in a tree structure. Requests sharing an opening can avoid repeating some computation. A support service with a long shared policy, or agent branches sharing task context, provides a concrete workload to investigate.
+SGLang is also a general serving framework. Prefix reuse is not exclusive to it; vLLM supports it too.
 
-Moving from a demo to real users? We can discuss serving options, a fair benchmark and the trade-offs behind your deployment decision.
+I would start selection with the workload: local experimentation, concurrent service, repeated long prefixes, or multimodal inputs. Then hold model, hardware and precision constant and measure time to first token, generation speed and latency under load.
 
-[Mentoring / consulting enquiry — Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+For a career move into AI engineering, this is an important layer to learn. We can build a practical path from local inference to a small deployed service.
 
-#AIEngineering #AIStartups #AIConsulting
+[Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+
+#AIEngineering #DataScience #CareerTransition
 
 ---
 
 ## S07
 
-**A lab leaderboard is not your product evaluation.**
+**The AI lab race is a moving picture, not a permanent tier list.**
 
-You would not hire a restaurant chef solely on competition results. You would also ask whether they can serve your menu reliably on a busy evening.
+When I see an AI lab tier list, I wonder how much of it will still look the same next month.
 
-An AI lab reputation survey can be interesting context. It is not a test of your support queue, document workflow or business assistant.
+This is an ongoing race in training, post-training, compute, talent and product delivery. Progress is not revealed smoothly: labs work behind the scenes, then release concentrated bursts of capability. A quiet period is not necessarily a halt.
 
-Build a small evaluation set from real tasks: common cases, awkward edge cases and outputs that must follow a format. Define success before comparing candidates.
+Two examples worth tracking in this cycle are Meta’s Muse family and Moonshot’s Kimi K3. On October 27, Meta and NVIDIA announced expanded work on Muse training and inference. Moonshot’s K3 materials emphasize native vision, long context and coding workloads. These are different routes into a changing competitive field, not evidence of a single universal winner.
 
-Alongside correctness, record waiting time, failure handling and total cost per acceptable result. A cheap call that needs repeated retries may be an expensive workflow.
+My view is that the landscape deserves weekly attention, while weekly excitement deserves skepticism. “Top tier” could mean broad capability, coding, multimodal performance or strength of the open-model ecosystem. The answer changes with the dimension.
 
-A useful model decision should explain both why you chose it and which jobs you would not give it. That is stronger evidence of product judgment than citing a ranking.
+The supplied Frontier List puts Anthropic and OpenAI in its Frontier group places Google DeepMind, Meta and Moonshot in n-1, and puts Microsoft and Amazon further down. It is a survey of people’s judgments, not a controlled test that settles every comparison.
 
-Choosing models for an AI product? We can discuss task-specific evaluation, failure cases and a selection process your team can explain.
+Before saying a lab is falling behind, I would look across multiple release cycles: is it narrowing gaps, delivering usable models and building an area of leadership? One missing launch or one chart is weak evidence for declaring it out of the race.
 
-[Mentoring / consulting enquiry — Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+Who belongs in your top tier today? Who is catching up, and who is genuinely losing ground? Name the dimension behind your answer—research, coding, multimodality or ecosystem.
 
-#AIEngineering #AIStartups #AIConsulting
+For a deeper conversation about the AI landscape and technical direction, you can find me on MentorCruise.
+
+[Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
+
+#AIIndustry #FrontierModels #AI
 
 ---
 
