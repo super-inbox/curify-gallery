@@ -83,6 +83,9 @@ also the better thing to put in a buyer group first.
 | ◻︎ | after C7 | 🧸 C | **C9** · Hogwarts-inspired hall | `demos/scene-worlds-2026-10-11/02-hogwarts-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
 | ✅ **reported 10-20** | — | 🧸 C | **C10** · Frozen-inspired ice palace | `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg` | Group search keywords: **kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups** · exact group names, count and publication date not provided | | | |
 | ◻︎ | after C7 | 🧸 C | **C11** · Asgard-inspired golden city | `demos/scene-worlds-2026-10-11/04-asgard-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ◻︎ | — | 📦 G | **G1** · Black headphones need more than a white background | `demos/product-retouching-2026-10-28/01-headphones-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
+| ◻︎ | — | 📦 G | **G2** · Jewellery retouching: sparkle with detail | `demos/product-retouching-2026-10-28/02-ring-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
+| ◻︎ | — | 📦 G | **G3** · Light sandals: clean backgrounds, visible edges | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
@@ -1458,3 +1461,58 @@ These two images are visual style references. Which direction would you choose f
 **Alt text, image 1:** Close-up of pink high-heeled sandals with pink roses, green jeweled vines, pearl ankle strands and dangling pink stones, against a warm floral background.
 
 **Alt text, image 2:** Close-up of blue high-heeled sandals with blue roses, gold branches, pearl and jewel details and lace, against a blue-and-white floral background.
+
+
+---
+
+## 2026-10-28 · Product retouching G1–G3
+
+Filed in the retouching series at the user’s request. All three posts are drafts, not published or scheduled. Original images retained; see [PROVENANCE.md](demos/product-retouching-2026-10-28/PROVENANCE.md)。
+
+### G1 · Black headphones need more than a white background
+
+**Attach:** [01-headphones-before-after.jpg](demos/product-retouching-2026-10-28/01-headphones-before-after.jpg)
+
+Black products need enough tonal separation to show their shape without turning grey.
+
+In this headphone comparison, look at the ear-pad texture, the sheen on the outer shell and the separation between the headband and background. A clean backdrop still needs a convincing contact shadow.
+
+For a catalogue batch, agree on black levels, highlight strength and background treatment first. Then check buttons, seams and ear-cup geometry against the source images.
+
+Supplied comparison image shown as a visual reference; not a verified client delivery or performance test.
+
+#ProductRetouching #HeadphonePhotography #EcommercePhotography
+
+**First-comment CTA — Batch Product Retouching:** Have a batch of product photos to edit? DM a few originals, your target reference, image count, intended use and deadline. We handle background cleanup, colour correction, lighting refinement and detail cleanup. Agree on a sample finish first, then roll it out across the batch.
+
+### G2 · Jewellery retouching: sparkle with detail
+
+**Attach:** [02-ring-before-after.jpg](demos/product-retouching-2026-10-28/02-ring-before-after.jpg)
+
+Jewellery images need highlights, but turning every bright area white makes the details harder to read.
+
+This ring comparison is a useful reference for facet definition, prong edges and smooth reflections across the band. Contrast within the stone helps the facets remain visible.
+
+For product work, check stone count, setting structure, band proportions and engraving against the original. The editing brief should preserve those features while refining colour and lighting.
+
+Supplied comparison image shown as a visual reference; not a verified client delivery or performance test.
+
+#JewelleryRetouching #RingPhotography #ProductPhotography
+
+**First-comment CTA — Batch Product Retouching:** Have a batch of product photos to edit? DM a few originals, your target reference, image count, intended use and deadline. We handle background cleanup, colour correction, lighting refinement and detail cleanup. Agree on a sample finish first, then roll it out across the batch.
+
+### G3 · Light sandals: clean backgrounds, visible edges
+
+**Attach:** [03-sandals-before-after.jpg](demos/product-retouching-2026-10-28/03-sandals-before-after.jpg)
+
+Beige footwear on a pale background can lose its edges—or its actual colour—during cleanup.
+
+In this sandal comparison, look at the strap edges, surface texture and shadow beneath the soles. A brighter background should still leave the beige colour and the shape of the heels readable.
+
+Across a footwear batch, keep background, colour treatment and framing consistent while checking each style’s buckles, stitching, silhouette and heel proportions against the originals.
+
+Supplied comparison image shown as a visual reference; not a verified client delivery or performance test.
+
+#FootwearRetouching #ProductRetouching #EcommercePhotography
+
+**First-comment CTA — Batch Product Retouching:** Have a batch of product photos to edit? DM a few originals, your target reference, image count, intended use and deadline. We handle background cleanup, colour correction, lighting refinement and detail cleanup. Agree on a sample finish first, then roll it out across the batch.
