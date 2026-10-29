@@ -29,7 +29,7 @@
 | S07 | 行业竞争／争议讨论 | 发布节奏、相互追赶、Meta Muse 与 Kimi K3；谁领先／掉队，以及判断维度 | 讨论观点，轻量专业交流 |
 | S08 | 创业观点 | 用户已认可，保留原文 | 原 CTA 保留 |
 
-S08 小红书已发布，由操作者在本轮确认；具体日期与帖子链接尚未提供。Facebook 状态不随之改为已发布。
+截至 2026-10-29，操作者确认小红书 S01–S08 全部已发布，具体发布日期与帖子链接尚未提供。Facebook S01（AI Stack）于 2026-10-28 已发布，S02（Time Series Forecasting）于 2026-10-29 已发布，链接尚未提供；其余六篇仍为草稿、未排期。两端状态分别维护。
 
 CTA：小红书只用私信或“在 MentorCruise 搜 Jay Wang”，正文不放网址；Facebook 可直接附 [Jay Wang 的 MentorCruise 主页](https://mentorcruise.com/mentor/jaywang/)。A 邀请讨论背景、目标和项目；B 按选题邀请描述业务、负载、瓶颈或参与行业讨论；S05/S06 已明确转向工程学习 CTA。不承诺拿 offer、固定收益或未经测试的提速。
 

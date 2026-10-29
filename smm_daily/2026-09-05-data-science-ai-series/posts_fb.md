@@ -1,6 +1,6 @@
 # Data Science × AI｜Facebook · Jay
 
-本表仅维护 Facebook 状态，所有帖子仍为草稿、未排期；不沿用小红书的发布状态。 各篇按主题采用不同视角：技术总览、机制科普、专家对比、工程实践或行业讨论。
+本表仅维护 Facebook 状态，截至 2026-10-29，S01 AI Stack 已于 2026-10-28 发布，S02 Time Series Forecasting 已于 2026-10-29 发布；其余仍为草稿、未排期。 各篇按主题采用不同视角：技术总览、机制科普、专家对比、工程实践或行业讨论。
 
 下方为英文文案，面向 Jay 的专业受众；CTA 直接附 MentorCruise 链接。
 
@@ -10,8 +10,8 @@
 
 | 顺序 | ICP | 视角 | 主题／标题 | 素材 | 文案 | 状态 | 发布日期／链接 |
 |---|---|---|---|---|---|---|---|
-| S01 | A · 转行入门 | 技术总览＋学习路径 | The AI stack: nine layers, and how to connect them. | [素材](assets/ai-stack.jpeg) | [查看文案](#s01) | 草稿／未排期 | — |
-| S02 | A · 统计／DS 转 AI | 统计×AI 科普 | Time-series foundation models sit at the intersection of statistics and AI. | [素材](assets/time-series-forecsting.gif) | [查看文案](#s02) | 草稿／未排期 | — |
+| S01 | A · 转行入门 | 技术总览＋学习路径 | The AI stack: nine layers, and how to connect them. | [素材](assets/ai-stack.jpeg) | [查看文案](#s01) | 已发布（操作者确认） | 2026-10-28／链接未提供 |
+| S02 | A · 统计／DS 转 AI | 统计×AI 科普 | Time-series foundation models sit at the intersection of statistics and AI. | [素材](assets/time-series-forecsting.gif) | [查看文案](#s02) | 已发布（操作者确认） | 2026-10-29／链接未提供 |
 | S03 | A · 检索实践 | 技术教学＋动手练习 | Hybrid retrieval, explained with a four-document RRF example. | [素材](assets/hybrid-retrieval.png) | [查看文案](#s03) | 草稿／未排期 | — |
 | S04 | A → B · 场景适配 | 场景适配／工程观点 | Why does an AI coding agent still use grep? | [延展自 Hybrid Retrieval](assets/hybrid-retrieval.png)；以文字场景讲解 | [查看文案](#s04) | 草稿／未排期 | — |
 | S05 | A · AI 工程基础 | 机制科普 | Why long conversations need KV caching. | [素材](assets/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%8A%A0%E9%80%9F1%EF%BC%9AKV%20Cache_1_Dev.E_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg) | [查看文案](#s05) | 草稿／未排期 | — |
