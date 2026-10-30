@@ -1,5 +1,43 @@
 # Facebook / Instagram · Souvenir + fashion culture videos
 
+## Publication schedule
+
+| Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
+|---|---|---|---|---|
+| [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
+| [H2 · 400 Years of Gowns](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/gowns-through-time-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
+| [H3 · 100 Years of Bridal Style](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-bridal-style-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
+| [Fashion Time Machine](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/fashion-time-machine-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Playful fashion discovery; invite viewers to choose an era. |
+| [One Sarong, Three Moods](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/one-sarong-three-moods-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
+| [Chinese Silhouettes Remixed](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
+| [Feitian · The Lost Name](../../drama/feitian-shiming-30s-music-v2-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
+| [Q1 · Rollover Wardrobe · Chinese Embroidery](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Playful rollover reveal; embroidery and colour details. |
+| [Q2 · Fan Sweep · Asian Silhouettes](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Playful suspense; silhouette and drape. |
+| [Q3 · Glowstick Wardrobe · World Textiles](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Curious textile discovery; distinct references. |
+| [Bali · Melukat](../../cultural_videos/bali/bali-melukat-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
+| [Dubai · The Creek](../../cultural_videos/dubai/dubai-creek-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
+| [Granada · Alhambra](../../cultural_videos/granada/granada-alhambra-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
+| [Kyoto · Kimono](../../cultural_videos/kyoto/kyoto-kimono-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
+| [Tengwang Pavilion · Preview](../../cultural_videos/tengwangge/tengwangge-30s-preview-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
+| [Love Scene](../../drama_animation/love-scene.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Emotional short film. |
+| [W1 · Shanghai Wukang](../../cultural_videos/wukang/wukang-autumn-fashion-20s-watermarked.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Autumn street style. |
+| [K1 · Tummy Feelings](2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. |
+| [K2 · Fridge Transport Team](2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. |
+| Bali · Resort (superseded) | Do not publish | — | Do not publish | Retired version. |
+| Dubai · Desert (superseded) | Do not publish | — | Do not publish | Retired version. |
+| Tengwang Pavilion · `-realmodel` / `-v3` | Do not publish | — | Do not publish | Restricted versions. |
+| `fashion_Renaissance.mp4` / NANYA styling reel | Reference only; no publication plan | — | Reference only; no publication plan | Production references, not queued posts. |
+
+**2026-10-30 update:** H1–H3 are queued for both Facebook and Instagram, in order H1 → H2 → H3. Local publication plan only; no platform scheduling or publishing has occurred. Dates/times are not assigned. English captions and upload links are in the H1–H3 section below.
+
+**Schedule updated 2026-10-12:** Jay confirmed that Q1–Q3 are **scheduled on Instagram**. Together with the four Fashion × culture videos confirmed on 2026-10-10, those seven fashion/culture videos are scheduled on Instagram. Publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
+
+**Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. All fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
+
+This table covers every video in this file. Clean and watermarked exports share one row; G1–G5 are caption variants of the destination videos, not additional films. Retired, restricted and reference-only materials are listed separately at the end. Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
+
+---
+
 ## 2026-10-17 · Love Scene — Facebook queue
 
 **Status:** Queued / draft; not scheduled or published. Facebook only; no Instagram scheduling requested.
@@ -18,28 +56,8 @@ What stayed with you most: the eyes, the hesitation, or that final line?
 
 ---
 
-## Publication schedule
-
-**Schedule updated 2026-10-12:** Jay confirmed that Q1–Q3 are **scheduled on Instagram**. Together with the four Fashion × culture videos confirmed on 2026-10-10, all seven videos below are scheduled on Instagram. Publishing dates/times were not supplied and remain unrecorded; scheduled does not mean published. Facebook copies remain drafts.
-
-| Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
-|---|---|---|---|---|
-| Fashion Time Machine | **Scheduled** | Not recorded | Draft / not posted | Playful fashion discovery; invite viewers to choose an era. |
-| One Sarong, Three Moods | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
-| Chinese Silhouettes Remixed | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
-| Feitian · The Lost Name | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
-| Q1 · Rollover Wardrobe · Chinese Embroidery | **Scheduled** | Not recorded | Queued / draft | Playful rollover reveal; embroidery and colour details. |
-| Q2 · Fan Sweep · Asian Silhouettes | **Scheduled** | Not recorded | Queued / draft | Playful suspense; silhouette and drape. |
-| Q3 · Glowstick Wardrobe · World Textiles | **Scheduled** | Not recorded | Queued / draft | Curious textile discovery; distinct references. |
-
-**Voice follows the series.** Fashion posts can be playful or styling-led; culture posts can be reflective; drama can be cinematic. The destination-souvenir series below retains its traveller + property voice, with G1–G5 adjustments for specific trades. English copy may be shared between Facebook and Instagram without forcing every series into the same tone. All fashion/culture posts retain the batch fashion try-on + curify-ai.com CTA.
-
-This table tracks the seven Instagram-scheduled videos. Add actual publishing dates, post links and results after publication; do not count scheduling as a published post.
-
----
-
 _Companion file: **[`posts_rednote_kuaishou.md`](posts_rednote_kuaishou.md)** (小红书／快手, Chinese).
-The table above tracks the fashion/culture batch; this file holds the English copy._
+The table above tracks all videos in this file; the sections below hold the English copy._
 
 **What changed 2026-09-12:** three new destination films
 (**Bali · melukat**, **Dubai · the creek**, **Granada · Alhambra**) and two rebuilt ones,
@@ -528,7 +546,6 @@ Want to explore your own costume-inspired looks? Discover **batch fashion try-on
 
 Production inspiration: the supplied `fashion_Renaissance.mp4` and [NANYA’s styling reel](https://www.instagram.com/p/DeHK5jMTCm6/). NANYA’s footage, face, audio and branding are not used in these films. No affiliation or client relationship is implied.
 
-
 ---
 
 ## Overhead costume transitions — Facebook + Instagram shared copy
@@ -581,6 +598,44 @@ Make your own set with **batch fashion try-on**: **https://curify-ai.com**.
 
 ---
 
+## 2026-10-12 · Original 3D knowledge animation — Facebook / Instagram drafts
+
+Two 30-second landscape samples, 1920×1080, 25 fps, with Mandarin narration and Chinese subtitles. **Draft only; not scheduled or published.** English captions below accompany the Chinese-language videos. Both clean and Curify-watermarked masters are in [the batch folder](2026-10-12-kids-3d-knowledge-animation/). The fridge film uses the corrected v2 opening: vehicles approach the camera.
+
+### K1 · Tummy Feelings
+
+**Upload:** [Watermarked video](2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-curify.mp4) · [Clean master](2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-clean.mp4)
+
+A little bear has a big feeling—and a grumbly tummy. 🐻
+
+This original 30-second 3D animation turns the connection between emotions and the gut into a simple story with friendly animal characters.
+
+Building a children's learning series? We can create 3D animated knowledge videos in batches, with recurring characters and stories around the human body, everyday science and food safety.
+
+DM us your topic, audience age and episode length to discuss a sample.
+
+#3DAnimation #KidsLearning #EducationalAnimation #AIAnimation
+
+**First comment:** More examples: curify-ai.com
+
+### K2 · Fridge Transport Team
+
+**Upload:** [Watermarked video — corrected v2](2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-curify.mp4) · [Clean master](2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-clean.mp4)
+
+Tiny trucks. One important fridge mission. 🚚🥪
+
+Meet a cheerful forklift and delivery truck learning to keep raw meat separate from ready-to-eat food: sealed containers, raw meat below, ready-to-eat food above.
+
+We turn practical knowledge into original 3D character stories—and can produce them in batches for children's learning channels, education brands and content teams.
+
+Have a topic for the next mission? DM us your brief and let's plan a series.
+
+#3DAnimation #FoodSafety #KidsLearning #EducationalContent
+
+**First comment:** More examples: curify-ai.com
+
+---
+
 ## 2026-10-22 · Shanghai Wukang — autumn street style
 
 **Status:** Added to the local Facebook publishing sequence; queued / draft, not scheduled or published. No Instagram scheduling requested.
@@ -607,3 +662,71 @@ Which city would you take home in a short film? DM us your destination and a pho
 **First comment:** Examples and how it works → curify-ai.com — or DM us your destination.
 
 **Asset note:** Original AI character, not an actual guest session. Current cut uses the user-selected MGM reference audio and the approved autumn end card. Reference source: https://www.douyin.com/video/7698268570895076648 .
+
+---
+
+## 2026-10-29 · H1–H3 · Fashion Through Time — Facebook queue
+
+**Status:** Queued for Facebook and Instagram as of 2026-10-30; not scheduled or published. Use the English captions below on both platforms, in order H1 → H2 → H3; dates/times remain unassigned. This is a user-requested fashion/history exploration on Facebook, not an already validated Facebook winning format. Evaluate Facebook and Instagram results separately.
+
+**Format:** Three 30-second films, 1080 × 1920, bilingual era labels, music, original AI character; no brand watermark or advertising end card. Full-body motion sequences, not still-image slideshows. [Batch details and previews](2026-10-29-fashion-through-time/README.md).
+
+### H1 · 100 Years of Fashion
+
+**Upload:** [100-years-of-fashion-30s.mp4](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4)
+
+100 years. Five silhouettes. Watch the waistline move. ✨
+
+From a high-necked long skirt to a dropped waist, a full 1950s skirt, flared trousers and blazer-and-denim tailoring—this 30-second film follows selected British and French fashion inspirations from around 1900 to 2000.
+
+The surprise is in the outline: where the waist sits, how the fabric falls, and how much room the clothes give the body.
+
+Which change caught your eye? Save it as a little silhouette timeline, and follow for the next chapter.
+
+Original AI interpretation of selected styles, not archival footage or a complete history of what everyone wore.
+
+We also create fashion visual series for collections and campaigns. DM “FASHION” to discuss a brief.
+
+#FashionHistory #VintageStyle #FashionThroughTime #Silhouette #AIFashion
+
+**Optional first comment:** More Curify examples → https://curify-ai.com
+
+### H2 · 400 Years of Gowns
+
+**Upload:** [gowns-through-time-30s.mp4](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/gowns-through-time-30s.mp4)
+
+The waist rises. The skirt widens. Then everything changes again. ✨
+
+Five European formalwear inspirations, from around 1550 to 1950: rich Renaissance sleeves, Rococo volume, an Empire waist, a bell-shaped crinoline skirt and a sculpted mid-century evening gown.
+
+Watch the 1750 → 1810 change. It is a completely different way to frame the same person.
+
+Which silhouette would you want to see in a whole film?
+
+AI-created interpretations of selected upper-class formal styles; dates are approximate. These are not museum reconstructions or everyday dress for all Europeans.
+
+Follow for more costume stories. For a fashion or cultural visual series, DM “GOWNS”.
+
+#FashionHistory #HistoricalFashion #CostumeDesign #VintageGowns #AIFashion
+
+**Optional first comment:** Curify fashion visuals and series production → https://curify-ai.com
+
+### H3 · 100 Years of Bridal Style
+
+**Upload:** [100-years-of-bridal-style-30s.mp4](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-bridal-style-30s.mp4)
+
+One colour. A century of different silhouettes. 🤍
+
+Pearl-like beading and a dropped waist. A lace tea-length dress. Dramatic puff sleeves. A strapless A-line. A clean, long-sleeved silhouette.
+
+Five British white-bridalwear inspirations, from around the 1920s to the 2020s, brought together in 30 seconds. White bridalwear is one tradition—not a universal wedding timeline, and each decade held many different styles.
+
+Which detail feels timeless to you: the sleeves, the veil or the shape of the skirt?
+
+Original AI fashion interpretations, not real wedding footage or reproductions of a particular designer gown.
+
+Save for bridal inspiration. Studios and bridal brands: DM “BRIDAL” to explore a visual series.
+
+#BridalStyle #WeddingDress #VintageBride #FashionHistory #AIFashion
+
+**Optional first comment:** Examples → https://curify-ai.com

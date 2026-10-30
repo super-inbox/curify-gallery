@@ -8,3 +8,5 @@
 - [2026-10-15 · AI虚拟数字人视频承制（小红书／快手已发布）](posts_rednote_kuaishou.md#2026-10-15--ai虚拟数字人视频承制)
 
 - 2026-10-22 · 上海武康大楼秋季街拍：已追加为旅行纪念系列第6条，FB与小红书均为本地待发布、未预约、未发布。[FB文案](posts_fb.md#2026-10-22--shanghai-wukang--autumn-street-style) · [小红书文案](posts_rednote_kuaishou.md#2026-10-22--w1--武康大楼秋季街拍纪念片) · [视频与版本说明](../../cultural_videos/wukang/README.md)。
+
+- 2026-10-29 · 服饰年代演变 H1–H3：百年女装、四百年礼服、百年婚纱。2026-10-30 已加入 Facebook／Instagram／小红书／快手四平台本地发布计划，未预约、未发布；不计入历史已发布确认。[三条成片与预览](2026-10-29-fashion-through-time/README.md) · [Facebook 文案](posts_fb.md#2026-10-29--h1h3--fashion-through-time--facebook-queue) · [小红书文案](posts_rednote_kuaishou.md#2026-10-29--h1h3--服饰年代演变小红书待发布)。
