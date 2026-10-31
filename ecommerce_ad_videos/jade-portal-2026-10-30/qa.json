@@ -1,0 +1,17 @@
+{
+  "duration_s": 15.0,
+  "width": 720,
+  "height": 1280,
+  "fps": "24/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "bytes": 8596622,
+  "decode_check": "ffmpeg full decode passed",
+  "visual_review": "1-fps contact sheet: phone portal, jar reveal, repeated product array, hero landing present; no visible brand/text or gross product distortion at sampled frames. Not a frame-perfect guarantee.",
+  "audio": "Native generated AAC sound; loudnorm target -16 LUFS / -1.5 dBTP; audio perceptual review not performed.",
+  "source_dimensions": [
+    768,
+    1344
+  ],
+  "export": "Center crop to 756x1344 then 720x1280; 15 seconds; H.264/yuv420p/AAC/faststart."
+}

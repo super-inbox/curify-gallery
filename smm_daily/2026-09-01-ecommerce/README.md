@@ -1,5 +1,7 @@
 # E-commerce — FB Groups + 快手 + 小红书, one folder (2026-09-01 … 09-18)
 
+- 2026-10-30 · Jade Portal 原创强动效广告：[成片与制作记录](../../ecommerce_ad_videos/jade-portal-2026-10-30/README.md) · [小红书 C12 发布表](posts_rednote_kuaishou.md#publication-schedule) · [Instagram IG-E1 发布表](posts_instagram.md#publication-schedule)。成片就绪，本地待发布，未预约、未发布；日期待定。
+
 ## 2026-10-17 · Ecommerce video queue: presenter + hands-on demonstration
 
 Added to the existing FB and RedNote publishing sequence; **queued candidates only, no scheduled dates or published posts**. Keep existing scheduled items in place. Within this new pair, publish the chair first, then the Pocket4P reference; follow the existing channel cadence. Kuaishou is unchanged.
