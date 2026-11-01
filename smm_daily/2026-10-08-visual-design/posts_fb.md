@@ -93,6 +93,24 @@ Which version would you choose for a sticker, a campaign illustration or a game 
 
 AI-generated style concepts, not a reference-photo fidelity test.
 
-**First-comment CTA:** Have a character, product or learning theme to turn into a visual series? DM your brief, references, intended use and image count. We create themed image sets and style explorations for ecommerce, entertainment and education, starting with a sample direction.
+**First-comment CTA:** Have a character, product or learning theme to turn into a visual series? DM your brief, references, intended use and image count. We offer batch image generation and series style design for ecommerce, entertainment and education, starting with a sample direction.
 
 #HalloweenArt #CharacterDesign #StyleExploration #AIDesign
+
+
+## V19 · Three Halloween makeup and styling directions
+
+**Status:** Draft, not published or scheduled. Separate single-image post from V18's cat style grid.
+**Attach:** [Three-look collage](halloween-style-lab-2026-11-01/halloween-makeup-three-looks.png). Two portraits above, one centered below.
+
+A Halloween encore: which makeup and styling direction would you try? 🎃
+
+Moonlit witch: soft curls, a black bow and a moon-and-bat backdrop.
+Playful pumpkin: an overhead angle, theatrical makeup and an expressive pose.
+Dark pumpkin: twin ponytails, a deeper lip and a close-up composition.
+
+Makeup, hair, wardrobe, props and setting work together to shape each look. These are AI-generated concept references, not client photos or a same-person before-and-after test.
+
+**First-comment CTA:** Need a themed portrait series or a batch of visuals for a beauty brand or photography studio? We offer AI makeup-and-styling concepts and batch image generation. DM “LOOKS” with your theme, references, intended use and image count. Approve a sample direction, then expand it into poses, compositions and scenes.
+
+#HalloweenMakeup #MakeupAndStyling #AIPortraits #BatchImageGeneration #CreativeStudio
