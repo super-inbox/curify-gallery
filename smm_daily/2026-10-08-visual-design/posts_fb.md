@@ -77,3 +77,22 @@ Original AI-generated mythology concept art. Which detail anchors the world for 
 First comment:
 We can help develop a consistent visual series from a scene brief. Start with the world, the mood and the elements that should repeat.
 https://www.curify-ai.com/en/nano-template/media-theme-wallpaper-poster
+
+---
+
+## V18 · One pumpkin cat, four styles
+
+**Status:** Draft, not published or scheduled. Single-image Halloween encore / evergreen style exploration.
+**Attach:** [Four-style poster](halloween-style-lab-2026-11-01/halloween-cat-four-styles.png).
+
+Halloween may be over, but this pumpkin cat is staying a little longer. 🎃
+
+One character idea, four materials: sculpted clay, soft needle felt, layered paper and crisp pixel art. The amber eyes, purple hat and pumpkin connect the set; texture changes the mood.
+
+Which version would you choose for a sticker, a campaign illustration or a game character?
+
+AI-generated style concepts, not a reference-photo fidelity test.
+
+**First-comment CTA:** Have a character, product or learning theme to turn into a visual series? DM your brief, references, intended use and image count. We create themed image sets and style explorations for ecommerce, entertainment and education, starting with a sample direction.
+
+#HalloweenArt #CharacterDesign #StyleExploration #AIDesign
