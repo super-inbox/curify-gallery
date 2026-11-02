@@ -10,11 +10,11 @@ S09 added 2026-11-02. Draft only; not scheduled or published. This file records 
 
 ## S09
 
-**Does your team need training or evaluation data for multimodal AI or agents?**
+**Training or evaluation data for multimodal AI or agents**
 
 At Curify, we’re exploring video-to-3D pairs, motion trajectories, and design-task traces—from briefs and tool actions to revisions and final outputs.
 
-The attached clip compares source footage with our simplified 3D reconstruction. It’s an early prototype; training benefits are still unvalidated.
+The attached clip compares source footage with simplified 3D reconstruction. These paired examples could support research in motion understanding, spatial reasoning, and camera tracking, or serve as evaluation cases for video and 3D models.
 
 I’d love to hear what data your team struggles to source and what quality standards matter. We’re open to small pilots using authorized material and agreed acceptance criteria.
 
