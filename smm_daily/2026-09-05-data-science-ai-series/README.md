@@ -4,6 +4,7 @@
 
 - [小红书：Publication Sequence＋文案](posts_rednote.md)
 - [Facebook：Publication Sequence＋文案](posts_fb.md)
+- [LinkedIn：Publication Sequence＋文案](posts_linkedin.md)
 
 各平台表格独立回填状态，不再维护单独的 Publication Sequence 文件。原文完整保留在 [Founder Vision 历史稿](post_founder_vision_archive.md)，视频和制作脚本随目录一起保留。
 
@@ -77,3 +78,16 @@ CTA：小红书只用私信或“在 MentorCruise 搜 Jay Wang”，正文不放
 ## 历史 Founder Vision
 
 [原 LinkedIn 文案与制作记录](post_founder_vision_archive.md)完整保留，仅供历史查阅；其中旧平台 CTA 和 Curify 产品表达不适用于本系列。原两个视频、ASS 字幕和三个 Python 制作脚本保持原名与内容。后续如需作为个人经历帖复用，另列新编号，不把历史素材当成已发布的系列新帖。
+
+## 2026年11月2日 S09 多模态训练数据需求交流
+
+新增英文LinkedIn S09与Facebook适配稿，归入本系列Jay专业受众的B路线。目标为多模态LLM、视频模型、空间／动作理解方向的研究者、数据负责人、数据质量与采购团队。展示的是配对原视频、简化白模渲染及可编辑动画的工作流方向；目前仍是原型，未证明模型训练收益。CTA是直接沟通具体数据需求、定义小规模pilot，或介绍负责这类需求的人；本条不使用MentorCruise转化链接。
+
+- [LinkedIn S09](posts_linkedin.md#s09) · [Facebook S09](posts_fb.md#s09)
+- 两个平台均为草稿，未排期、未发布；原有平台状态不变。未新增小红书内容。
+- 沿用Gallery中的白模对照候选作内部参考；它仍是78帧样段、带Souvenir Video标签，并非本系列新制成片。用户已指定现有3D重建视频作LinkedIn及Facebook配套素材，保留样段与原型说明。Souvenir Video原记录保留。
+- 具体报价、转包层级和潜在终端名称留在私有项目记录，不放进面向人脉网络的帖子。
+
+### S09 范围扩展与配套视频
+
+2026-11-02按用户补充扩展至3D重建、动作轨迹、design benchmark的任务过程及评估数据。设计任务trajectory指可观察的工具动作、中间产物、修改及结果，不是私有思维链；不把潜在数据形式写成已可规模供货的数据集。LinkedIn与Facebook文案均已更新，CTA继续为需求沟通、小规模pilot和负责人引荐。现有3D重建视频作为本条配套素材，只展示重建这一方向；两端仍未排期、未发布。

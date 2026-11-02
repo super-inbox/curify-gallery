@@ -2,7 +2,7 @@
 
 本表仅维护 Facebook 状态，截至 2026-10-29，S01 AI Stack 已于 2026-10-28 发布，S02 Time Series Forecasting 已于 2026-10-29 发布；其余仍为草稿、未排期。 各篇按主题采用不同视角：技术总览、机制科普、专家对比、工程实践或行业讨论。
 
-下方为英文文案，面向 Jay 的专业受众；CTA 直接附 MentorCruise 链接。
+下方为英文文案，面向 Jay 的专业受众；S01–S08 沿用 MentorCruise CTA，S09 面向多模态数据需求，采用私信与圈内引荐 CTA。
 
 定位、素材说明及资料核对见 [系列编辑说明](README.md)。
 
@@ -18,6 +18,8 @@
 | S06 | A · 转行 AI Engineering | 专家对比＋职业学习 | Ollama, vLLM and SGLang: what inference infrastructure actually optimizes. | [素材](assets/AI-inference.jpeg) | [查看文案](#s06) | 草稿／未排期 | — |
 | S07 | B · AI 行业观察 | 行业观察／争议讨论 | The AI lab race is a moving picture, not a permanent tier list. | [素材](assets/frontier-labs.png) | [查看文案](#s07) | 草稿／未排期 | — |
 | S08 | B · AI 创业与咨询 | 创业观点 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
+
+| S09 | B · 多模态数据负责人／研究与采购 | 需求验证＋圈内引荐 | 3D reconstruction, design-task trajectories and evaluation data | [配套3D重建视频](../../drama_animation/white-model-reconstruction-2026-11-02/source-vs-white-model-v14.mp4) | [查看文案](#s09) | 草稿／未排期 | — |
 
 ---
 
@@ -230,3 +232,32 @@ Building an AI business? Bring a workflow and the assumptions behind it. We can 
 [Mentoring / consulting enquiry — Jay Wang on MentorCruise](https://mentorcruise.com/mentor/jaywang/)
 
 #AIEngineering #AIStartups #AIConsulting
+
+
+---
+
+## S09
+
+**Does anyone in my network work on training or evaluation data for multimodal AI or agents?**
+
+We’ve been working on video-to-3D reconstruction and a design benchmark. I’d like to connect with teams looking for data that captures how a task gets done, as well as the final result.
+
+The video shows one prototype: original footage paired with our simplified 3D reconstruction. We’re still refining the motion and spatial alignment.
+
+The broader directions we’re exploring include:
+
+• Video / 3D pairs and motion trajectories.
+• Design-task trajectories: the brief, tool actions, intermediate work, revisions, and final output.
+• Benchmark tasks and quality checks for evaluating whether an agent actually meets the requirements.
+
+If you work on multimodal LLMs, video understanding, spatial reasoning, or creative-tool agents, what data is hardest to source? What format and quality checks would you need?
+
+I’d be happy to discuss a small pilot around a concrete requirement. These workflows are still being validated; we haven’t demonstrated a model-training benefit yet.
+
+Message me if this is relevant, or introduce me to someone who owns datasets, evaluation, or data sourcing on your team.
+
+#MultimodalAI #TrainingData #AIAgents
+
+### S09 编辑备注（不复制进帖子）
+
+2026-11-02新增，面向Jay专业圈子的多模态训练／评估数据需求，不投Curify历史文化号。当前仅草稿、未排期、未发布；LinkedIn与Facebook状态独立回填。[LinkedIn版本与素材边界](posts_linkedin.md#s09)。用户已选现有3D重建对照视频作配套素材；其为原型样段，不能当作design trajectory演示或已验证训练数据。动作轨迹与设计任务过程分别表述。无训练收益、规模化产能或具体客户背书的声明。

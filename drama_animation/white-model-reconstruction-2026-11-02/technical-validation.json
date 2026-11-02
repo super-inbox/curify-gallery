@@ -1,0 +1,50 @@
+{
+  "qa-v10-v14.mp4": {
+    "decode": "PASS",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1440,
+          "height": 832,
+          "r_frame_rate": "25/1",
+          "nb_read_frames": "78"
+        }
+      ]
+    },
+    "sha256": "7fc49f4dbc7abb129cb77ad1449f2406177c50e14548c676195b64bb23565644"
+  },
+  "qa-half-speed-v14.mp4": {
+    "decode": "PASS",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1440,
+          "height": 832,
+          "r_frame_rate": "25/2",
+          "nb_read_frames": "78"
+        }
+      ]
+    },
+    "sha256": "971ed59d2e188481a000cc95870ad89f1245583af1b659eb807da61411273bf8"
+  },
+  "source-vs-white-model-v14.mp4": {
+    "decode": "PASS",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "25/1",
+          "nb_read_frames": "78"
+        }
+      ]
+    },
+    "sha256": "33398e423006bdf03395d23562a8d8a67fc5a4265023dae1872c80680a53eff7"
+  }
+}
