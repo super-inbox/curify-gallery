@@ -9,3 +9,5 @@
 - Added 2026-11-02 to [Facebook souvenir queue](../../smm_daily/2026-09-10-fb-souvenir-video/posts_fb.md#2026-11-02--s1--coastal-walk). Local draft only; no platform scheduling or publishing performed. Instagram not requested.
 
 Storage: edited video moved to `drama_animation/coastal-walk-10s-cropped.mp4` at the user’s request. The MP4 remains local and is excluded from this commit; the relative video link is for the local workspace.
+
+- 2026-11-02: also added to the [RedNote souvenir queue](../../smm_daily/2026-09-10-fb-souvenir-video/posts_rednote_kuaishou.md#2026-11-02--s1--海边散步), with Chinese title and caption. Local queued draft; not scheduled or published. No other platform added.
