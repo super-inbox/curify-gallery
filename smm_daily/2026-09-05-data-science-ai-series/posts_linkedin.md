@@ -10,25 +10,15 @@ S09 added 2026-11-02. Draft only; not scheduled or published. This file records 
 
 ## S09
 
-**Working on training or evaluation data for multimodal models or AI agents? I’d love to compare notes.**
+**Does your team need training or evaluation data for multimodal AI or agents?**
 
-We’ve been working on video-to-3D reconstruction and a design benchmark, and I’m interested in connecting with teams that need data capturing both an outcome and the process behind it.
+At Curify, we’re exploring video-to-3D pairs, motion trajectories, and design-task traces—from briefs and tool actions to revisions and final outputs.
 
-The attached video is one example: original footage paired with our simplified, editable 3D animation. We’re refining motion, timing, camera alignment, and occlusion. It’s a short prototype demonstration, not a finished training dataset.
+The attached clip compares source footage with our simplified 3D reconstruction. It’s an early prototype; training benefits are still unvalidated.
 
-More broadly, we’re exploring:
+I’d love to hear what data your team struggles to source and what quality standards matter. We’re open to small pilots using authorized material and agreed acceptance criteria.
 
-• Paired video and 3D reconstructions, with motion trajectories and scene structure.
-• Design-task trajectories: briefs, observable tool actions, intermediate artifacts, revisions, and final outputs.
-• Evaluation cases and quality checks that capture whether a task meets its requirements.
-
-I’d like to hear from researchers, engineers, data leads, and data sourcing teams working on multimodal LLMs, video or spatial understanding, and agents that use creative tools.
-
-What data is difficult for your team to obtain? What would make it usable—specific annotations, action traces, temporal precision, coverage of failure cases, or a particular evaluation protocol?
-
-If there’s a concrete fit, I’d be happy to discuss a small pilot using material you’re authorized to share, with an agreed data format and acceptance criteria. We’re still validating these workflows and haven’t established a model-training benefit.
-
-If this is relevant to your work, please message me. Introductions to people who define or source this kind of data would also be very welcome.
+DM me—or introduce me to someone in your network working on these needs.
 
 #MultimodalAI #TrainingData #AIAgents
 
