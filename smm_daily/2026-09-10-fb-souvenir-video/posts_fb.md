@@ -4,6 +4,7 @@
 
 | Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
 |---|---|---|---|---|
+| [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
 | [H2 · 400 Years of Gowns](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/gowns-through-time-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
 | [H3 · 100 Years of Bridal Style](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-bridal-style-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
@@ -730,3 +731,30 @@ Save for bridal inspiration. Studios and bridal brands: DM “BRIDAL” to explo
 #BridalStyle #WeddingDress #VintageBride #FashionHistory #AIFashion
 
 **Optional first comment:** Examples → https://curify-ai.com
+
+
+---
+
+## 2026-11-02 · S1 · Coastal Walk
+
+**Status:** Added to the Facebook souvenir-video series as a local queued draft; not scheduled or published. Date/time and post link unassigned. Instagram not requested.
+
+**Upload:** [Coastal Walk · corner-watermark crop](../../drama_animation/coastal-walk-10s-cropped.mp4) · 10s · 720×1280 · 24fps · original audio.
+
+**Storage:** Video is local-only in `drama_animation/`; not included in the Git push.
+
+**Cover:** [Coastal portrait](../../cultural_videos/coastal-walk-2026-11-02/cover.jpg)
+
+**Source/edit:** User-supplied video. Cropped the outer edges to remove the corner marks, which switch from bottom to top halfway through. Original file unchanged. Location and creator not verified; do not present this as a Curify production or customer session. [Edit and source notes](../../cultural_videos/coastal-walk-2026-11-02/README.md).
+
+**Facebook caption:**
+
+Some souvenirs fit in a suitcase. Others feel like this. 🌊
+
+Sea breeze, a coastal path, and a moment you wish lasted a little longer.
+
+What part of a trip would you keep in a ten-second film: the view, the walk, or the person beside you?
+
+#TravelMemories #CoastalWalk #TravelFilm #SouvenirVideo
+
+**After publishing:** Record the actual date, post URL, group if used, views, shares and replies in the schedule above.
