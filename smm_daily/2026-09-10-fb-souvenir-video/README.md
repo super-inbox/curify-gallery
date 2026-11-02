@@ -14,3 +14,5 @@
 - 2026-11-02 · Coastal Walk 海边旅拍：已裁去上下角落水印，10秒竖屏，保留原音轨。[Facebook 文案与发布表](posts_fb.md#2026-11-02--s1--coastal-walk) · [视频与剪辑说明](../../cultural_videos/coastal-walk-2026-11-02/README.md)。本地待发布、未预约、未发布；Instagram 未安排。
 
 - 2026-11-02 · Coastal Walk 同步加入[小红书旅行纪念系列 S1](posts_rednote_kuaishou.md#2026-11-02--s1--海边散步)：中文标题、正文、视频与封面链接已备齐；本地待发布、未预约、未发布。视频仅存本地 `drama_animation/`。
+
+- 2026-11-02 · [白模重建实验 v14](2026-11-02-white-model-reconstruction/README.md)：原片与生成白模对照，小红书中文＋Facebook英文；本地展示候选，待视觉确认，未排期、未发布。
