@@ -17,4 +17,4 @@
 
 - 2026-11-02 · 白模复刻与训练数据合作 v14（[Facebook英文文案](posts_fb.md) · [小红书中文文案](posts_rednote_kuaishou.md)）：原片与生成白模对照，小红书中文＋Facebook英文；本地展示候选，待视觉确认，未排期、未发布。
 
-- 2026-11-03 · 《瑞羊纳福》珍珠画制作过程：根据工艺品成品图生成的 AI 演示。[Facebook 文案](posts_fb.md#pearl-painting-20261103) · [小红书／快手文案](posts_rednote_kuaishou.md#pearl-painting-20261103) · [15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)。待发布，未排期。
+- 2026-11-03 · 《瑞羊纳福》珍珠画制作过程：根据工艺品成品图生成的 AI 演示。[Facebook 英文文案](posts_fb.md#pearl-painting-20261103) · [小红书／快手中文文案](posts_rednote_kuaishou.md#pearl-painting-20261103) · [15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)。待发布，未排期。

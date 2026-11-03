@@ -855,30 +855,20 @@ AI 时装演绎；atlas 长袍采用当代女装搭配。
 
 <a id="pearl-painting-20261103"></a>
 
-## 2026-11-03 · Pearl by pearl / 一颗颗贴出羊毛
+## 2026-11-03 · 《瑞羊纳福》珍珠画
 
-小红书、快手均为草稿，未排期、未发布。[15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)
+小红书、快手草稿，未排期、未发布。[15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 精简报价单](2026-11-03-pearl-painting/curify-video-pricing-zh.png)
 
-### 小红书 · English
+### 小红书
 
-**How do pearls become fleece?**
+**一颗半珠，怎么变成小羊的绒毛？**
 
-What makes the little sheep’s fleece look soft? Watch the pen lift a half-pearl from the green tray and press its flat back onto the picture. Each curved face catches the light. A row of pearls becomes fleece; a single pearl becomes the center of a plum blossom.
+看绿色小盘：有的珍珠翻了面，露出平平的珠底。用点珠笔把平底贴在画上，留下朝外的圆弧反光。贴在羊额头，一排珍珠就成了绒毛；贴在梅花中央，一颗就成了花蕊。
 
-We used a photo of the finished craft as the reference for this 15-second AI visualization. The final pullback shows how those tiny details fit together in the wooden frame.
-
-#PearlArt #CraftProcess #AIVideo
-
-### 快手 · English
-
-A sheep made of half-pearls, one press at a time. Watch the domed pearls turn into fleece, then see the whole framed picture. This 15-second clip is an AI visualization based on the finished craft.
-
-### 中文备选
-
-**一颗半珠，怎么变成羊毛？**
-
-一幅珍珠画里的羊毛，是怎么做出蓬松感的？点珠笔从绿色小盘里取出半颗珍珠，平底贴在画上，圆润的一面朝外。一颗颗排在羊额头上，就成了羊毛；在梅花中央点上一颗，又成了花蕊。
-
-我们以《瑞羊纳福》的成品图为参考，用 AI 把这段制作过程做成了 15 秒短片。看到最后，镜头拉开，才看清这些小细节拼成了怎样的一幅画。
+这段 15 秒短片是我们根据《瑞羊纳福》成品图，用 AI 演示的制作过程。最后镜头拉远，才看清羊毛和花蕊原来在同一幅画里。
 
 #珍珠画 #手工艺 #AI视频
+
+### 快手
+
+看这只小羊的毛，是一颗颗半珠贴出来的。点珠笔从绿盘取珠，平底贴下去，圆面朝外，一颗挨着一颗就有了羊毛的样子。我们用《瑞羊纳福》的成品图做了这段 AI 制作演示，最后三秒看看整幅画。

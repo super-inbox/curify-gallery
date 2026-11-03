@@ -783,18 +783,12 @@ Looking for a data-production partner or a joint development project? Message us
 
 <a id="pearl-painting-20261103"></a>
 
-## 2026-11-03 · 瑞羊纳福 / Pearl painting
+## 2026-11-03 · Pearl painting
 
-Facebook 草稿，未排期、未发布。[15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)
+Facebook draft · not scheduled or published. [15-second video](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify rate card (Chinese)](2026-11-03-pearl-painting/curify-video-pricing-zh.png)
 
-### 中文主文案
+### Facebook caption
 
-一幅珍珠画里的羊毛，是怎么做出蓬松感的？点珠笔从绿色小盘里取出半颗珍珠，平底贴在画上，圆润的一面朝外。一颗颗排在羊额头上，就成了羊毛；在梅花中央点上一颗，又成了花蕊。
+How do you give a painted sheep fluffy fleece? Pick up a half-pearl from the green tray and press its flat side onto the picture. The rounded side catches the light. A row of pearls becomes fleece; a single pearl makes the center of a plum blossom.
 
-我们以《瑞羊纳福》的成品图为参考，用 AI 把这段制作过程做成了 15 秒短片。看到最后，镜头拉开，才看清这些小细节拼成了怎样的一幅画。
-
-### English alternate
-
-What makes the little sheep’s fleece look soft? Watch the pen lift a half-pearl from the green tray and press its flat back onto the picture. Each curved face catches the light. A row of pearls becomes fleece; a single pearl becomes the center of a plum blossom.
-
-We used a photo of the finished craft as the reference for this 15-second AI visualization. The final pullback shows how those tiny details fit together in the wooden frame.
+We used a photo of the finished artwork to create this 15-second AI rendering of the craft process. Watch the camera pull back at the end to see the whole piece in its wooden frame.
