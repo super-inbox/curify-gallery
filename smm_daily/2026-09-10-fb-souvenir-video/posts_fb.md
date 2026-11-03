@@ -4,6 +4,7 @@
 
 | Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
 |---|---|---|---|---|
+| [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
 | [H2 · 400 Years of Gowns](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/gowns-through-time-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
@@ -779,3 +780,21 @@ We’re open to working with major AI model vendors, AI companies and research t
 Looking for a data-production partner or a joint development project? Message us with your data type, target volume and quality requirements.
 
 #3DReconstruction #WhiteModelAnimation #AITrainingData #CustomData #AIPartnerships
+
+<a id="pearl-painting-20261103"></a>
+
+## 2026-11-03 · 瑞羊纳福 / Pearl painting
+
+Facebook 草稿，未排期、未发布。[15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)
+
+### 中文主文案
+
+一幅珍珠画里的羊毛，是怎么做出蓬松感的？点珠笔从绿色小盘里取出半颗珍珠，平底贴在画上，圆润的一面朝外。一颗颗排在羊额头上，就成了羊毛；在梅花中央点上一颗，又成了花蕊。
+
+我们以《瑞羊纳福》的成品图为参考，用 AI 把这段制作过程做成了 15 秒短片。看到最后，镜头拉开，才看清这些小细节拼成了怎样的一幅画。
+
+### English alternate
+
+What makes the little sheep’s fleece look soft? Watch the pen lift a half-pearl from the green tray and press its flat back onto the picture. Each curved face catches the light. A row of pearls becomes fleece; a single pearl becomes the center of a plum blossom.
+
+We used a photo of the finished craft as the reference for this 15-second AI visualization. The final pullback shows how those tiny details fit together in the wooden frame.

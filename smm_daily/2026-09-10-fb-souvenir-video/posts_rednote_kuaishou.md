@@ -6,6 +6,7 @@
 
 | 系列 | 视频 | 小红书 | 快手 | 微信视频号（WeChat Channels） | 抖音 | 预约日期 / 时间 |
 |---|---|---|---|---|---|---|
+| 工艺品制作 | [《瑞羊纳福》珍珠画](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | 待发布 | 待发布 | 未安排 | 未安排 | 未排期 |
 | 旅行纪念 | [S1 · 海边散步 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | 已加入待发布队列，未预约、未发布（11-02） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 服饰年代演变 | [H1 · 百年女装](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | 待发布，未预约、未发布（10-30更新） | 待发布，未预约、未发布（10-30新增） | 未排期 | 未排期 | 未指定 |
 | 服饰年代演变 | [H2 · 四百年礼服](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/gowns-through-time-30s.mp4) | 待发布，未预约、未发布（10-30更新） | 待发布，未预约、未发布（10-30新增） | 未排期 | 未排期 | 未指定 |
@@ -851,3 +852,33 @@ AI 时装演绎；atlas 长袍采用当代女装搭配。
 有训练数据采购、定制制作或联合开发需求，欢迎私信「白模合作」，聊聊数据类型、规模和验收要求。
 
 #白模复刻 #3D重建 #大模型训练数据 #数据定制 #AI合作 #三维动画
+
+<a id="pearl-painting-20261103"></a>
+
+## 2026-11-03 · Pearl by pearl / 一颗颗贴出羊毛
+
+小红书、快手均为草稿，未排期、未发布。[15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)
+
+### 小红书 · English
+
+**How do pearls become fleece?**
+
+What makes the little sheep’s fleece look soft? Watch the pen lift a half-pearl from the green tray and press its flat back onto the picture. Each curved face catches the light. A row of pearls becomes fleece; a single pearl becomes the center of a plum blossom.
+
+We used a photo of the finished craft as the reference for this 15-second AI visualization. The final pullback shows how those tiny details fit together in the wooden frame.
+
+#PearlArt #CraftProcess #AIVideo
+
+### 快手 · English
+
+A sheep made of half-pearls, one press at a time. Watch the domed pearls turn into fleece, then see the whole framed picture. This 15-second clip is an AI visualization based on the finished craft.
+
+### 中文备选
+
+**一颗半珠，怎么变成羊毛？**
+
+一幅珍珠画里的羊毛，是怎么做出蓬松感的？点珠笔从绿色小盘里取出半颗珍珠，平底贴在画上，圆润的一面朝外。一颗颗排在羊额头上，就成了羊毛；在梅花中央点上一颗，又成了花蕊。
+
+我们以《瑞羊纳福》的成品图为参考，用 AI 把这段制作过程做成了 15 秒短片。看到最后，镜头拉开，才看清这些小细节拼成了怎样的一幅画。
+
+#珍珠画 #手工艺 #AI视频
