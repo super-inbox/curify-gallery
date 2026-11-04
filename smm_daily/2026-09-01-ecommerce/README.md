@@ -1,6 +1,6 @@
-# E-commerce — FB Groups + 快手 + 小红书, one folder (2026-09-01 … 09-18)
+# E-commerce — Facebook / Instagram + 快手 + 小红书, one folder (2026-09-01 … 09-18)
 
-- 2026-10-30 · Jade Portal 原创强动效广告：[成片与制作记录](../../ecommerce_ad_videos/jade-portal-2026-10-30/README.md) · [小红书 C12 发布表](posts_rednote_kuaishou.md#publication-schedule) · [Instagram IG-E1 发布表](posts_instagram.md#publication-schedule)。成片就绪，本地待发布，未预约、未发布；日期待定。
+- 2026-10-30 · Jade Portal 原创强动效广告：[成片与制作记录](../../ecommerce_ad_videos/jade-portal-2026-10-30/README.md) · [小红书 C12 发布表](posts_rednote_kuaishou.md#publication-schedule) · [Instagram IG-E1 发布表](posts_fb.md#publication-schedule)。成片就绪，本地待发布，未预约、未发布；日期待定。
 
 ## 2026-10-17 · Ecommerce video queue: presenter + hands-on demonstration
 
@@ -34,7 +34,7 @@ week apart, not because they were two campaigns._
 
 | File | What |
 |---|---|
-| **`posts_fb.md`** | Every Facebook post — 2 workflow (W1–W2) + 6 ad-video + **9 apparel teardowns (A1–A9)** + 2 supply recuts. One merged plan/progress table at the top |
+| **`posts_fb.md`** | Shared Facebook / Instagram English copy and publication schedule, including IG-E1 Jade Portal. Existing Facebook posts — 2 workflow (W1–W2) + 6 ad-video + **9 apparel teardowns (A1–A9)** + 2 supply recuts. One merged plan/progress table at the top |
 | **`posts_rednote_kuaishou.md`** | 中文 —— 11 条文案 for **both** 快手 and 小红书, one file (merged 2026-09-19). Not a translation of FB. Includes 4 服装干货 (服装-1…4; 服装-2 = A7, 服装-3 = A6, 服装-4 = A9) **and the next candidate batch** — 5 viral posts pulled apart plus 8 candidates, merged in 09-21 |
 | `index.json` | machine-readable index of `curify-gallery/ecommerce_ad_videos` |
 | `prompts/` | prompt provenance + the Minimax H3 series |
@@ -231,3 +231,5 @@ and do not send the serum bottle to B3 — that is the same mismatch the video t
 **20-comment stop rule** as the retouching series — one pilot across all of it, not
 one per folder. If 20 comments produce no real conversation, stop and re-read the
 demand rather than posting more.
+
+- 2026-11-04 · Muse换装参考：[小红书 C14](posts_rednote_kuaishou.md#c14--muse换装--电商批量换装) · [Facebook／Instagram E-MUSE](posts_fb.md#e-muse--one-character-a-whole-wardrobe)。CTA：为电商提供批量换装。均本地待发布、未预约、未发布；视频来源 @muse，非我们的制作案例。

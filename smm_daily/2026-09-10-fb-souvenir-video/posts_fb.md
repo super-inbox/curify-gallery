@@ -4,7 +4,7 @@
 
 | Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
 |---|---|---|---|---|
-| [S2 · Friends · Then and Now](../../social_media_virals/2026-11-04-friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Nostalgia / memory-film exploration; third-party AI montage. |
+| [S2 · Friends · Then and Now](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Nostalgia / memory-film exploration; third-party AI montage. |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
@@ -801,11 +801,11 @@ We used a photo of the finished artwork to create this 15-second AI rendering of
 
 **Status:** Added to the souvenir / memory-film series for Facebook and Instagram. Local queue only; neither scheduled nor published. Dates and post links unassigned. This nostalgia experiment is separate from the destination-travel posts.
 
-**Upload:** [RedNote-overlay-cleaned video](../../social_media_virals/2026-11-04-friends-then-and-now/friends-then-and-now-rednote-clean.mp4) · about 61 seconds · 720×1280 · original audio. MP4 is local-only, not pushed to Git.
+**Upload:** [RedNote-overlay-cleaned video](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) · about 61 seconds · 720×1280 · original audio. MP4 is local-only, not pushed to Git.
 
-**Cover:** [Then-and-now frame](../../social_media_virals/2026-11-04-friends-then-and-now/cover.jpg)
+**Cover:** [Then-and-now frame](../../social_media_virals/2026-11-04/friends-then-and-now/cover.jpg)
 
-**Source/edit:** [Emma Park on RedNote](https://www.xiaohongshu.com/explore/6ae9520f0000000003017587). Third-party AI montage; not a Curify production, endorsement or genuine meeting. Removed RedNote edge overlays by cropping 80px at the top/bottom and padding back to 9:16; interior AI-generator marks remain. Source age labels have not been independently verified. [Provenance and QA](../../social_media_virals/2026-11-04-friends-then-and-now/README.md).
+**Source/edit:** [Emma Park on RedNote](https://www.xiaohongshu.com/explore/6ae9520f0000000003017587). Third-party AI montage; not a Curify production, endorsement or genuine meeting. Removed RedNote edge overlays by cropping 80px at the top/bottom and padding back to 9:16; interior AI-generator marks remain. Source age labels have not been independently verified. [Provenance and QA](../../social_media_virals/2026-11-04/friends-then-and-now/README.md).
 
 **Shared English caption — Facebook / Instagram:**
 

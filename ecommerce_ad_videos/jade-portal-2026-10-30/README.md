@@ -28,7 +28,7 @@
 - 完整动态提示词：[motion-prompt.txt](motion-prompt.txt)。
 - 生成记录：[generation.json](generation.json)；[generate.py](generate.py) 支持查询已有任务，不重复提交。
 - 中文队列：[小红书电商发布表](../../smm_daily/2026-09-01-ecommerce/posts_rednote_kuaishou.md)。
-- 英文队列：[Instagram 电商发布表](../../smm_daily/2026-09-01-ecommerce/posts_instagram.md)。
+- 英文队列：[Facebook／Instagram 电商发布表](../../smm_daily/2026-09-01-ecommerce/posts_fb.md)。
 
 ## 测试方法
 

@@ -6,7 +6,7 @@
 
 | 系列 | 视频 | 小红书 | 快手 | 微信视频号（WeChat Channels） | 抖音 | 预约日期 / 时间 |
 |---|---|---|---|---|---|---|
-| 时光纪念 / 怀旧 | [S2 · 老友记 · 与年轻的自己同框](../../social_media_virals/2026-11-04-friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | 待发布，未预约、未发布（11-04新增） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
+| 时光纪念 / 怀旧 | [S2 · 老友记 · 与年轻的自己同框](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | 待发布，未预约、未发布（11-04新增） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 工艺品制作 | [《瑞羊纳福》珍珠画](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | 待发布 | 待发布 | 未安排 | 未安排 | 未排期 |
 | 旅行纪念 | [S1 · 海边散步 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | 已加入待发布队列，未预约、未发布（11-02） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 服饰年代演变 | [H1 · 百年女装](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | 待发布，未预约、未发布（10-30更新） | 待发布，未预约、未发布（10-30新增） | 未排期 | 未排期 | 未指定 |
@@ -881,11 +881,11 @@ AI 时装演绎；atlas 长袍采用当代女装搭配。
 
 **状态：** 加入旅行纪念系列下的「时光纪念 / 怀旧」探索，小红书本地待发布，未预约、未发布，日期和帖子链接待补。英文版同步列入 Facebook／Instagram；本次不安排快手、视频号或抖音，不计入此前历史已发布确认。
 
-**视频：** [去除小红书边缘水印版](../../social_media_virals/2026-11-04-friends-then-and-now/friends-then-and-now-rednote-clean.mp4) · 约61秒 · 720×1280 · 保留原音轨。视频仅在本地，不随 Git 推送。
+**视频：** [去除小红书边缘水印版](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) · 约61秒 · 720×1280 · 保留原音轨。视频仅在本地，不随 Git 推送。
 
-**封面：** [年轻与年长形象同框](../../social_media_virals/2026-11-04-friends-then-and-now/cover.jpg)
+**封面：** [年轻与年长形象同框](../../social_media_virals/2026-11-04/friends-then-and-now/cover.jpg)
 
-**素材说明：** 来源 [Emma Park 的小红书笔记](https://www.xiaohongshu.com/explore/6ae9520f0000000003017587)。这是第三方 AI 合成怀旧片段，不是真实重聚影像，也不是 Curify 原创或客户案例。上下各裁80像素再补黑边保留9:16，片内 AI 生成标识保留；原片年龄字幕未独立核实。[来源与剪辑记录](../../social_media_virals/2026-11-04-friends-then-and-now/README.md)。
+**素材说明：** 来源 [Emma Park 的小红书笔记](https://www.xiaohongshu.com/explore/6ae9520f0000000003017587)。这是第三方 AI 合成怀旧片段，不是真实重聚影像，也不是 Curify 原创或客户案例。上下各裁80像素再补黑边保留9:16，片内 AI 生成标识保留；原片年龄字幕未独立核实。[来源与剪辑记录](../../social_media_virals/2026-11-04/friends-then-and-now/README.md)。
 
 **标题：当老友记里的他们，遇见年轻的自己**
 
