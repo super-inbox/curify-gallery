@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.xiaohongshu.com/explore/6ae9520f0000000003017587",
+  "retrieved_date": "2026-11-04",
+  "source_account": "Emma Park",
+  "source_description": "当他们和20年前的自己坐在一起…\n#老友记[话题]#",
+  "counts_at_retrieval": {
+    "likedCount": "2,036",
+    "collectedCount": "149",
+    "commentCount": "92",
+    "shareCount": "199"
+  },
+  "source_sha256": "d65c8aca01848fe36e9b280ab644f0320df6fc1007739267d70c0554576c64cb",
+  "nature": "Third-party AI then-and-now montage; not genuine reunion footage or a Curify production.",
+  "edit": "Crop top and bottom 80px and pad black to 720x1280; remove RedNote platform/account edge overlays, retain interior labels and AI-generator marks. Audio stream copied.",
+  "storage": "Both MP4s local-only, not pushed to Git."
+}
