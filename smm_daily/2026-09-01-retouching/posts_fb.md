@@ -86,6 +86,7 @@ also the better thing to put in a buyer group first.
 | ◻︎ | — | 📦 G | **G1** · Black headphones need more than a white background | `demos/product-retouching-2026-10-28/01-headphones-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 | ◻︎ | — | 📦 G | **G2** · Jewellery retouching: sparkle with detail | `demos/product-retouching-2026-10-28/02-ring-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 | ◻︎ | — | 📦 G | **G3** · Light sandals: clean backgrounds, visible edges | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
+| ◻︎ | — | 📦 G | **G4** · Zeelum backpack: show the opening | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Product photographers / studios · draft, not scheduled | | | |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
@@ -1516,3 +1517,15 @@ Supplied comparison image shown as a visual reference; not a verified client del
 #FootwearRetouching #ProductRetouching #EcommercePhotography
 
 **First-comment CTA — Batch Product Retouching:** Have a batch of product photos to edit? DM a few originals, your target reference, image count, intended use and deadline. We handle background cleanup, colour correction, lighting refinement and detail cleanup. Agree on a sample finish first, then roll it out across the batch.
+
+## 2026-11-05 · G4 · From a product still to an opening sequence
+
+**Attach:** [10-second backpack demo](demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4)
+
+A closed backpack tells you very little about the space inside. In this 10-second photo-to-video test, the lower zipper travels around the pocket, the flap folds down, and the camera cuts to the lining of the main compartment. No hands enter the frame.
+
+For a studio planning a similar shoot, photograph the bag closed and fully open from the same angle. Then get a close-up of the zipper path and the interior you want the viewer to see. Those views give the edit a clear starting point and a clear reveal.
+
+#ProductPhotography #ProductVideo #StudioWorkflow
+
+**First-comment CTA:** Planning a product shoot with a moving feature? Send the existing views and tell us which action matters. We can suggest what to capture before the shoot.
