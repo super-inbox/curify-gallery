@@ -1528,4 +1528,4 @@ For a studio planning a similar shoot, photograph the bag closed and fully open 
 
 #ProductPhotography #ProductVideo #StudioWorkflow
 
-**First-comment CTA:** Planning a product shoot with a moving feature? Send the existing views and tell us which action matters. We can suggest what to capture before the shoot.
+**First-comment CTA:** We partner with high-end photography studios to create product videos with cinematic camera movement. DM us to discuss your next project.
