@@ -24,6 +24,7 @@
 | [Tengwang Pavilion · Preview](../../cultural_videos/tengwangge/tengwangge-30s-preview-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
 | [Love Scene](../../drama_animation/love-scene.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Emotional short film. |
 | [W1 · Shanghai Wukang](../../cultural_videos/wukang/wukang-autumn-fashion-20s-watermarked.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Autumn street style. |
+| [Yuanmingyuan, Then and Now](../../cultural_videos/yuanmingyuan/yuanmingyuan-then-and-now-15s.mp4) | Not requested | Not scheduled | Queued / unpublished | Reflective destination souvenir with bilingual titles. |
 | [K1 · Tummy Feelings](2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. |
 | [K2 · Fridge Transport Team](2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. |
 | Bali · Resort (superseded) | Do not publish | — | Do not publish | Retired version. |
@@ -820,3 +821,23 @@ AI-created nostalgia montage, not real reunion footage. Source: Emma Park on Red
 #Friends #ThenAndNow #TVNostalgia #AIVideo #MemoryFilm
 
 **After posting:** Track each platform separately: date, post link, views/reach, watch time where available, shares, saves and comments. Keep the AI disclosure and source credit with either platform's caption.
+
+---
+
+<a id="yuanmingyuan-then-and-now-20261107"></a>
+
+## 2026-11-07 · Yuanmingyuan, Then and Now
+
+**Status:** Queued for Facebook, with date and time unassigned.
+
+**Upload:** [15-second bilingual master](../../cultural_videos/yuanmingyuan/yuanmingyuan-then-and-now-15s.mp4) · 1080 × 1920 · 24 fps. [Asset and source notes](../../cultural_videos/yuanmingyuan/README.md)
+
+### English caption
+
+At Yuanmingyuan, the stones are still there. What might the gardens have looked like when the fountains were running?
+
+In 15 seconds, photographs of the Great Fountain, Haiyantang and Wanfang Anhe dissolve into illustrative reconstructions. A quiet original score carries us through all three scenes.
+
+Have a campaign or a topic to explain? Curify produces ad videos, TV commercials and AI-powered educational shorts in batches. DM us your brief or visit curify-ai.com.
+
+#Yuanmingyuan #Beijing #CulturalHeritage #ThenAndNow #Curify

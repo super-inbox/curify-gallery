@@ -20,3 +20,4 @@
 - 2026-11-03 · 《瑞羊纳福》珍珠画制作过程：根据工艺品成品图生成的 AI 演示。[Facebook 英文文案](posts_fb.md#pearl-painting-20261103) · [小红书／快手中文文案](posts_rednote_kuaishou.md#pearl-painting-20261103) · [15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)。待发布，未排期。
 
 - 2026-11-04 · S2 老友记时光纪念：已加入[Facebook／Instagram 英文系列](posts_fb.md#2026-11-04--s2--friends--then-and-now)和[小红书中文系列](posts_rednote_kuaishou.md#2026-11-04--s2--老友记--与年轻的自己同框)。[素材与来源](../../social_media_virals/2026-11-04/friends-then-and-now/README.md)；三平台均本地待发布、未预约、未发布，MP4 仅保留本地。
+- 2026-11-07 · 圆明园今昔 / Yuanmingyuan, Then and Now：三景 15 秒，中英双语成片。[英文发布文案](posts_fb.md#yuanmingyuan-then-and-now-20261107) · [中文发布文案](posts_rednote_kuaishou.md#yuanmingyuan-then-and-now-20261107) · [成片](../../cultural_videos/yuanmingyuan/yuanmingyuan-then-and-now-15s.mp4)。待发布，未排期。
