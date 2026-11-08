@@ -91,3 +91,13 @@ CTA：小红书只用私信或“在 MentorCruise 搜 Jay Wang”，正文不放
 ### S09 范围扩展与配套视频
 
 2026-11-02按用户补充扩展至3D重建、动作轨迹、design benchmark的任务过程及评估数据。设计任务trajectory指可观察的工具动作、中间产物、修改及结果，不是私有思维链；不把潜在数据形式写成已可规模供货的数据集。LinkedIn与Facebook文案均已更新，CTA继续为需求沟通、小规模pilot和负责人引荐。现有3D重建视频作为本条配套素材，只展示重建这一方向；两端仍未排期、未发布。
+
+
+## Facebook S10 · 大模型推荐系统书籍介绍
+
+2026-11-08 新增，仅面向 Facebook · Jay，状态为草稿／未排期。采用作者导读视角，面向 DS／AI 学习者及推荐系统从业者，以通俗需求示例引出技术路线；CTA 为 Amazon 购书链接与专业讨论，不追加 mentoring 销售 CTA。
+
+- [发布表与完整文案](posts_fb.md#s10)；配图使用现有[书封](../../ds_ai/book_recommendation/LLM%20book.jpg)。
+- 书名、作者及出版社与书封核对；内容范围及读者基础参照 [Springer 官方书页及目录](https://link.springer.com/book/10.1007/978-3-032-01152-7)。不声称刚出版，不添加未经核实的销量、评价或效果数字。
+- [Amazon 链接](https://www.amazon.com/dp/B0FX7N91FQ)采用用户提供的 ASIN，去掉搜索跟踪参数；Amazon 页面本次未能读取，内容核对以出版社为准。
+- 未新增小红书或 LinkedIn 文案，既有发布进度保留。

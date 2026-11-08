@@ -2,7 +2,7 @@
 
 本表仅维护 Facebook 状态，截至 2026-10-29，S01 AI Stack 已于 2026-10-28 发布，S02 Time Series Forecasting 已于 2026-10-29 发布；其余仍为草稿、未排期。 各篇按主题采用不同视角：技术总览、机制科普、专家对比、工程实践或行业讨论。
 
-下方为英文文案，面向 Jay 的专业受众；S01–S08 沿用 MentorCruise CTA，S09 面向多模态数据需求，采用私信与圈内引荐 CTA。
+下方为英文文案，面向 Jay 的专业受众；S01–S08 沿用 MentorCruise CTA，S09 面向多模态数据需求，采用私信与圈内引荐 CTA；S10 为作者书籍介绍，采用 Amazon 购书与讨论 CTA。
 
 定位、素材说明及资料核对见 [系列编辑说明](README.md)。
 
@@ -18,8 +18,8 @@
 | S06 | A · 转行 AI Engineering | 专家对比＋职业学习 | Ollama, vLLM and SGLang: what inference infrastructure actually optimizes. | [素材](assets/AI-inference.jpeg) | [查看文案](#s06) | 草稿／未排期 | — |
 | S07 | B · AI 行业观察 | 行业观察／争议讨论 | The AI lab race is a moving picture, not a permanent tier list. | [素材](assets/frontier-labs.png) | [查看文案](#s07) | 草稿／未排期 | — |
 | S08 | B · AI 创业与咨询 | 创业观点 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
-
 | S09 | B · 多模态数据负责人／研究与采购 | 需求验证＋圈内引荐 | 3D reconstruction, design-task trajectories and evaluation data | [配套3D重建视频](../../drama_animation/white-model-reconstruction-2026-11-02/source-vs-white-model-v14.mp4) | [查看文案](#s09) | 草稿／未排期 | — |
+| S10 | A → B · DS／AI 学习者与推荐系统从业者 | 作者视角＋技术导读 | My book: Building Recommender Systems Using Large Language Models | [书封](../../ds_ai/book_recommendation/LLM%20book.jpg) | [查看文案](#s10) | 草稿／未排期 | — |
 
 ---
 
@@ -261,3 +261,32 @@ Message me if this is relevant, or introduce me to someone who owns datasets, ev
 ### S09 编辑备注（不复制进帖子）
 
 2026-11-02新增，面向Jay专业圈子的多模态训练／评估数据需求，不投Curify历史文化号。当前仅草稿、未排期、未发布；LinkedIn与Facebook状态独立回填。[LinkedIn版本与素材边界](posts_linkedin.md#s09)。用户已选现有3D重建对照视频作配套素材；其为原型样段，不能当作design trajectory演示或已验证训练数据。动作轨迹与设计任务过程分别表述。无训练收益、规模化产能或具体客户背书的声明。
+
+
+---
+
+## S10
+
+**What changes when a recommender system can understand what you mean?**
+
+Think about asking for a book: “I know the basics of machine learning, but I want something that helps me build a real application.” That sentence contains a goal, a starting point, and a preference—useful context for a recommendation.
+
+This is the intersection I explore in my book, Building Recommender Systems Using Large Language Models, published by Springer.
+
+The book follows a progression from traditional recommendation methods to LLM-powered systems:
+
+• Enhancing an existing recommender with LLMs.
+• Using an LLM as the recommender itself.
+• Building conversational recommendations that let users express and refine their needs.
+• Bringing in multimodal information, then exploring generative recommendation and planning.
+
+It combines technical explanations with coding exercises and case studies, and also covers challenges such as privacy and fairness. A basic grounding in machine learning and NLP will help you get the most from it.
+
+For people moving from data science into AI, recommendation is a concrete application to study: the system has to connect an understanding of the user with a useful decision. For practitioners already working on personalization, the book offers a structured way to explore where LLMs fit.
+
+You can find the book on Amazon:
+https://www.amazon.com/dp/B0FX7N91FQ
+
+If you work on recommendations, which part are you most interested in exploring with LLMs: understanding content, learning user preferences, or building a conversational experience? I’d love to hear what you’re working on.
+
+#RecommenderSystems #LargeLanguageModels #DataScience #AppliedAI
