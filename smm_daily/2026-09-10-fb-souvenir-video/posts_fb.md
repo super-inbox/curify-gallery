@@ -5,6 +5,7 @@
 | Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
 |---|---|---|---|---|
 | [S2 · Friends · Then and Now](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Nostalgia / memory-film exploration; third-party AI montage. |
+| [S3 · Great Wall in Snow](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | Queued / not scheduled / not published | Not specified; follows S2 | Queued / not scheduled / not published | Winter travel memory; third-party source: Simple So. |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
@@ -841,3 +842,29 @@ In 15 seconds, photographs of the Great Fountain, Haiyantang and Wanfang Anhe di
 Have a campaign or a topic to explain? Curify produces ad videos, TV commercials and AI-powered educational shorts in batches. DM us your brief or visit curify-ai.com.
 
 #Yuanmingyuan #Beijing #CulturalHeritage #ThenAndNow #Curify
+
+---
+
+## 2026-11-10 · S3 · Great Wall in Snow
+
+**Status / sequence:** Local souvenir publication queue, after S2 · Friends. English shared copy for Facebook and Instagram; neither scheduled nor published. Date/time and post URLs unassigned.
+
+**Upload:** [Original reel](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) · 7.223s · 1440×2560 · 30 fps · audio included. Video remains local-only.
+
+**Cover:** [Snow-covered Great Wall](../../social_media_virals/2026-11-10/facebook-1490040333004144/cover.jpg)
+
+**Source:** [Simple So on Facebook](https://www.facebook.com/reel/1490040333004144). Third-party reference, not a Curify production. Original creator, capture date, exact location and generation method unverified. No edits. [Provenance and QA](../../social_media_virals/2026-11-10/facebook-1490040333004144/README.md).
+
+**Shared English caption — Facebook / Instagram:**
+
+Some souvenirs are a colour. This one is white. ❄️
+
+The Great Wall winds through snow-covered ridges, disappearing into the mist. Seven seconds of a winter landscape worth remembering.
+
+Which would you keep from a winter trip: the wide-open view or the footsteps beside you?
+
+Source: Simple So on Facebook. Shared as travel-film inspiration.
+
+#GreatWall #WinterScenery #TravelMemories #SouvenirVideo #ChinaTravel
+
+**After publishing:** Record each platform’s actual date, post link, views, shares and comments. Keep source attribution; do not describe the footage as today's snowfall or a Curify shoot.
