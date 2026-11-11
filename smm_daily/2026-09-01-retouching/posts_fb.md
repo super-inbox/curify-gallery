@@ -1529,3 +1529,28 @@ For a studio planning a similar shoot, photograph the bag closed and fully open 
 #ProductPhotography #ProductVideo #StudioWorkflow
 
 **First-comment CTA:** We partner with high-end photography studios to create product videos with cinematic camera movement. DM us to discuss your next project.
+
+
+---
+
+## 2026-11-11 · G5 · Watch retouching: make the metal read
+
+**Status:** Draft; not published or scheduled. Product-retouching continuation, filed in this series at the user’s request.
+**Attach:** [Watch before/after reference](demos/watch-commercial-retouching-2026-11-11/watch-before-after.jpg)
+**Source:** [PROVENANCE.md](demos/watch-commercial-retouching-2026-11-11/PROVENANCE.md). User-supplied visual reference, not a verified Curify client delivery.
+
+### Post
+
+A clean background is only the starting point for a watch photo.
+
+In this supplied comparison, look at the highlights along the bracelet, the brushed finish around the case and the separation between the dial, hands and hour markers. Those small transitions make the metal easier to read.
+
+For a catalogue batch, agree on metal colour, reflection strength and background treatment with a sample first. Then check each image against its original: lettering, dial markings, hands and bracelet structure should still describe the same product.
+
+This comparison is a visual reference for the finishing brief, not a verified example of our own client work.
+
+#WatchPhotography #ProductRetouching #CommercialRetouching #EcommercePhotography
+
+**First-comment CTA — Batch Product Retouching:** We offer batch commercial retouching for watches, jewellery and other products. DM a few originals, your target reference, image count, intended use and deadline. We’ll agree on a sample finish first, then apply the agreed standard across the batch.
+
+**Alt text:** Side-by-side watch-retouching reference. The left image shows a rose-gold-tone bracelet watch with uneven reflections against a grey background; the right shows a white background, more controlled metal highlights and clearer dial details. Chinese labels identify the original and retouched images.
