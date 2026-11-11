@@ -1529,3 +1529,45 @@ For a studio planning a similar shoot, photograph the bag closed and fully open 
 #ProductPhotography #ProductVideo #StudioWorkflow
 
 **First-comment CTA:** We partner with high-end photography studios to create product videos with cinematic camera movement. DM us to discuss your next project.
+
+---
+
+## 2026-11-11 · G5 · Watch retouching: make the metal read
+
+**Status:** Draft; not published or scheduled. Product-retouching continuation, filed in this series at the user’s request.
+**Attach:** [Watch before/after reference](demos/watch-commercial-retouching-2026-11-11/watch-before-after.jpg)
+**Source:** [PROVENANCE.md](demos/watch-commercial-retouching-2026-11-11/PROVENANCE.md). User-supplied visual reference, not a verified Curify client delivery.
+
+### Post
+
+A clean background is only the starting point for a watch photo.
+
+In this supplied comparison, look at the highlights along the bracelet, the brushed finish around the case and the separation between the dial, hands and hour markers. Those small transitions make the metal easier to read.
+
+For a catalogue batch, agree on metal colour, reflection strength and background treatment with a sample first. Then check each image against its original: lettering, dial markings, hands and bracelet structure should still describe the same product.
+
+This comparison is a visual reference for the finishing brief, not a verified example of our own client work.
+
+#WatchPhotography #ProductRetouching #CommercialRetouching #EcommercePhotography
+
+**First-comment CTA — Batch Product Retouching:** We offer batch commercial retouching for watches, jewellery and other products. DM a few originals, your target reference, image count, intended use and deadline. We’ll agree on a sample finish first, then apply the agreed standard across the batch.
+
+**Alt text:** Side-by-side watch-retouching reference. The left image shows a rose-gold-tone bracelet watch with uneven reflections against a grey background; the right shows a white background, more controlled metal highlights and clearer dial details. Chinese labels identify the original and retouched images.
+
+---
+
+## 2026-11-11 · G6 · What makes a watch sparkle in a product photo?
+
+**Status:** Draft, pending image rights confirmation before social publication.
+**Image:** Silver watch with a stone-set bezel. Use the internal reference once public use is confirmed.
+**Source:** [Client-supplied visual reference](demos/watch-sparkle-reference-2026-11-11/PROVENANCE.md).
+
+Look at where the light lands on this watch. The stones around the bezel catch small, bright points. The bracelet picks up broader reflections that follow the curve of each link. On the dial, the pearlescent colour stays visible around the hands and hour markers.
+
+That’s a useful brief for a glossy product finish. Keep the brightest highlights on the stones and polished edges, and check at thumbnail size that you can still read the dial and see the bracelet links.
+
+Image supplied by a client as a visual reference.
+
+#WatchPhotography #ProductRetouching #JewelleryPhotography
+
+**Alt text:** Three-quarter view of a silver bracelet watch with a sparkling stone-set bezel, a pearlescent dial and an opening that shows part of the movement.
