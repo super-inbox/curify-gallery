@@ -1161,7 +1161,7 @@ C1 的论点放在**一支精华瓶**上讲，C7 直接用合成的孩子展示�
 
 ## 2026-11-11 · G5 · 手表商业精修，重点看金属光影
 
-**状态：** 草稿，未发布、未排期。按用户要求加入 Retouching 商品精修系列。
+**状态：** ✅ 小红书已发布（2026-11-12 用户确认）。
 **配图：** [手表精修前后对照](demos/watch-commercial-retouching-2026-11-11/watch-before-after.jpg)
 **素材说明：** 用户提供的视觉参考，非已核验的 Curify 客户交付案例；详见 [PROVENANCE.md](demos/watch-commercial-retouching-2026-11-11/PROVENANCE.md)。
 
@@ -1181,7 +1181,7 @@ C1 的论点放在**一支精华瓶**上讲，C7 直接用合成的孩子展示�
 
 ## 2026-11-11 · G6 · 手表怎么修得闪，表盘还看得清？
 
-**状态：** 草稿。
+**状态：** ✅ 小红书已发布（2026-11-12 用户确认）。
 **配图：** [银色镶石表圈手表](demos/watch-sparkle-reference-2026-11-11/watch-sparkle-reference.jpg)
 **素材说明：** [客户提供的效果参考](demos/watch-sparkle-reference-2026-11-11/PROVENANCE.md)。
 
