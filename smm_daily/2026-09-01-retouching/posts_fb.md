@@ -1558,8 +1558,8 @@ This comparison is a visual reference for the finishing brief, not a verified ex
 
 ## 2026-11-11 · G6 · What makes a watch sparkle in a product photo?
 
-**Status:** Draft, pending image rights confirmation before social publication.
-**Image:** Silver watch with a stone-set bezel. Use the internal reference once public use is confirmed.
+**Status:** Draft.
+**Attach:** [Silver watch with a stone-set bezel](demos/watch-sparkle-reference-2026-11-11/watch-sparkle-reference.jpg)
 **Source:** [Client-supplied visual reference](demos/watch-sparkle-reference-2026-11-11/PROVENANCE.md).
 
 Look at where the light lands on this watch. The stones around the bezel catch small, bright points. The bracelet picks up broader reflections that follow the curve of each link. On the dial, the pearlescent colour stays visible around the hands and hour markers.
