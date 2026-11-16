@@ -22,11 +22,11 @@
 | S08 | B · AI 创业与咨询 | 创业观点 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
 | S09 | B · 多模态数据负责人／研究与采购 | 需求验证＋圈内引荐 | 3D reconstruction, design-task trajectories and evaluation data | [配套3D重建视频](../../drama_animation/white-model-reconstruction-2026-11-02/source-vs-white-model-v14.mp4) | [查看文案](#s09) | 草稿／未排期 | — |
 | S10 | A → B · DS／AI 学习者与推荐系统从业者 | 作者视角＋技术导读 | My book: Building Recommender Systems Using Large Language Models | [书封](../../ds_ai/book_recommendation/LLM%20book.jpg) | [查看文案](#s10) | 草稿／未排期 | — |
-| S11 | A · DS／AI 求职者 | 求职 coaching＋作品集实操 | An AI-built demo still needs your engineering judgment. | 文字帖／无需新增素材 | [查看文案](#s11) | 草稿／未排期 | — |
-| S12 | B · AI startup 创始人 | 创业 coaching＋pilot 设计 | Before an AI pilot starts, agree on the decision it should enable. | 文字帖／无需新增素材 | [查看文案](#s12) | 草稿／未排期 | — |
-| S13 | A · DS／DE／软件工程转 AI | 职业路径＋差距诊断 | Moving into AI engineering starts with a specific job, not a universal roadmap. | 文字帖／无需新增素材 | [查看文案](#s13) | 草稿／未排期 | — |
+| S11 | A · DS／AI 求职者 | 求职 coaching＋作品集实操 | Build a portfolio your target team has a reason to care about. | 文字帖／无需新增素材 | [查看文案](#s11) | 草稿／未排期 | — |
+| S12 | B · AI startup 创始人 | 创业 coaching＋pilot 设计 | An AI project gets harder when you promise the unproven parts. | 文字帖／无需新增素材 | [查看文案](#s12) | 草稿／未排期 | — |
+| S13 | A · DS／DE／软件工程转 AI | 职业路径＋差距诊断 | An AI career transition needs a schedule that leaves room for depth. | 文字帖／无需新增素材 | [查看文案](#s13) | 草稿／未排期 | — |
 | S14 | B · AI 产品技术负责人 | 工程科普＋上线评审 | Your agent says “done.” What actually changed? | 文字帖／无需新增素材 | [查看文案](#s14) | 草稿／未排期 | — |
-| S15 | A → B · 工程师／小团队技术负责人 | 工程观点＋review 练习 | When AI produces code quickly, review the decisions it made. | 文字帖／无需新增素材 | [查看文案](#s15) | 草稿／未排期 | — |
+| S15 | A → B · 工程师／小团队技术负责人 | 工程观点＋review 练习 | “Fully implemented.” Excellent. Now show me what actually works. | 文字帖／无需新增素材 | [查看文案](#s15) | 草稿／未排期 | — |
 | S16 | A · DS 求职／DA 转 DS | 面试 coaching＋练习设计 | Prepare for the work behind the data science title. | 文字帖／无需新增素材 | [查看文案](#s16) | 草稿／未排期 | — |
 
 ---
@@ -304,86 +304,88 @@ If you work on recommendations, which part are you most interested in exploring 
 
 ## S11
 
-**An AI-built demo still needs your engineering judgment.**
+**Build a portfolio your target team has a reason to care about.**
 
-A demo shows that something runs. For an interview, I would also want a clear account of the decisions behind it.
+Many portfolios lose the reader at the project idea.
 
-My suggestion: add a one-page decision record to one existing project before starting another.
+Learn a model, find a dataset to apply it to. Learn a framework, build another chatbot. The project works, but someone in industry has little reason to discuss it further. Too many portfolios arrive at the same place.
 
-Take a document assistant. Explain:
+When I mentor someone on project selection, I look for two directions: depth in the method, or a close connection to a real application.
 
-• Who needs it, and which questions the source material cannot answer.
-• Your simplest baseline and a few cases it gets wrong.
-• One change you tested against that baseline on the same questions.
-• The trade-off: answer quality, latency, cost, or maintenance.
-• What AI helped implement, how you verified it, and where you would start debugging a failure.
+For a methods-focused project, choose one or two target teams. Read their technical blogs and papers. Identify a problem they are working on and understand why the existing approach is insufficient. Then take a manageable piece of it: reproduce a key result, change the data or constraints, and investigate where the method succeeds and fails.
 
-Keep the claims proportional to the evidence. A small, reproducible experiment is useful; presenting it as a production system with imaginary users is not.
+That gives the team something relevant to discuss with you. “Frontier” needs to mean you understand a substantive technical question, including the limits of the evidence.
 
-Then try a practical rehearsal: change an input or break a dependency. Can you explain the failure, locate it, and defend the fix?
+For an application-focused project, get close to actual work. A mentee I worked with recently used requirements from real design-department tasks to develop data simulations and benchmarks. This attracted interest from companies because they could recognise the connection to their own work. The project had a basis in real requirements and data.
 
-Whether a portfolio gets opened varies by employer. The part you can control is whether the work gives you specific evidence for your resume and enough understanding for a technical discussion.
+Preserve the awkward details: the inputs people actually have, the variations they encounter, and what makes an output usable. With simulated data, explain what the simulation represents and what it leaves out.
 
-If you want help reviewing what your portfolio actually demonstrates, we can work through it here:
+Before starting, answer three questions: Which team should care? How does this connect to their work? Where will I go deep enough to have a useful technical conversation?
+
+If you want to develop a project around your target teams, bring one or two of them to our discussion:
 https://mentorcruise.com/mentor/jaywang/
 
-#AIEngineering #DataScience #CareerDevelopment
+#AIEngineering #DataScience #Portfolio #CareerDevelopment
 
 
 ---
 
 ## S12
 
-**Before an AI pilot starts, agree on the decision it should enable.**
+**An AI project gets harder when you promise the unproven parts.**
 
-A promising demo can lead to “let’s try it.” Before building more, I would clarify what both sides need to learn from that trial.
+In AI client work, a difficult conversation often starts much earlier than delivery: a capability was promised before anyone established that it worked.
 
-For a document-extraction product, keep the first pilot focused on one workflow: extract agreed fields, let an operator review them, and deliver usable records.
+The team thinks the first release is an assisted workflow. The customer is expecting full automation. Both remember agreeing on the project.
 
-Write down five things with the customer:
+I separate two questions: what deserves priority, and what we can responsibly promise.
 
-1. The daily user, the person accepting the work, and the purchasing decision-maker. They may be different people.
-2. The current process and its baseline: time spent, errors, and rework.
-3. What counts as completion. Include review and correction time, not just model processing time.
-4. The exceptions that require human handling and who owns that handoff.
-5. The review date and the next decision: continue, revise, or stop. If it continues, who advances the budget and procurement process?
+Prioritisation includes uncertainty. If the feature the customer wants depends on an unproven capability, the first milestone may need to test that capability before the team commits to the rest of the build.
 
-Set thresholds for this workflow. An impressive aggregate accuracy number can conceal a small number of expensive mistakes.
+Promises need concrete inputs, outputs, and operating conditions. “Handles complex documents” leaves too much room for different interpretations.
 
-A paid pilot can test willingness to pay. A well-scoped unpaid pilot can still answer useful questions. In either case, distinguish interest, actual use, and purchase commitment—and collect evidence for each.
+For a document-processing project, I would ask the customer for representative inputs, mark the fields they expect, and show the corresponding outputs. Identify what has been demonstrated, what needs human review, and how the first release handles poor scans, missing pages, or a new template.
 
-If you are shaping an early AI pilot, bring the user, workflow, and biggest unresolved assumption. We can work through the plan:
+Make feedback equally tangible. When a result is “not good enough,” ask the customer to mark the problem and show the expected result. Annotated examples, screenshots, and a working prototype can expose a disagreement that another page of prose will miss.
+
+For each milestone, agree on what will be delivered, what data and feedback the customer must provide, and which findings determine the next phase. Discuss the effect of new requirements on scope and timing when they arise.
+
+An uncertain capability can be tested. A promise made with a different definition of “finished” is much harder to repair.
+
+If you are scoping an AI engagement, bring the requirement, a representative input, and the commitments already made:
 https://mentorcruise.com/mentor/jaywang/
 
-#AIStartups #B2B #CustomerDiscovery
+#AIStartups #ClientDelivery #ProductDevelopment
 
 
 ---
 
 ## S13
 
-**Moving into AI engineering starts with a specific job, not a universal roadmap.**
+**An AI career transition needs a schedule that leaves room for depth.**
 
-“AI Engineer” is a useful search term, but it is too broad to serve as a learning plan.
+In AI career coaching, I often see broad exposure without much depth. Someone has tried the tools, finished tutorials, and built a working project. The conversation gets harder when we examine why the method works or what happens when the data changes.
 
-Start with a few jobs you would actually apply for. For each responsibility, mark: done before, understand but have not done, or unfamiliar. Add evidence beside the first category.
+Standing out takes a direction and sustained commitment. Once the direction is clear, I would plan in months, with time for repeated practice and revision.
 
-Then build from your existing strengths:
+For someone who already codes and wants to work on retrieval and AI applications, an illustrative six-month schedule could look like this:
 
-• Data engineering: data quality, pipelines, access controls, and monitoring can support a retrieval application. Add answer evaluation and a usable service interface.
-• Data science: experimental design and metric selection can support an AI product. Practice serving a model, handling changed inputs, and rolling back a version.
-• Backend engineering: APIs, deployment, and debugging transfer well. Add model evaluation and error analysis so you can diagnose “the service is healthy, but the answer is wrong.”
+Months 1–2: strengthen the relevant foundations. Implement small, important components yourself and explain their inputs, outputs, and failure conditions.
 
-These are examples for application-oriented roles. Research and model-training positions require a separate assessment of mathematical, optimization, and training-systems skills. One RAG demo does not demonstrate all of them.
+Months 3–4: investigate one concrete problem. Read the relevant methods, reproduce a baseline, analyse failures, and change one important factor at a time. Keep a record of what the experiments show.
 
-For each gap, define an observable deliverable. What could you show or explain that would establish you can do the work?
+Months 5–6: introduce realistic constraints: varied inputs, latency, cost, and failure handling. Turn the work into a reproducible portfolio project and practise discussing it in depth.
 
-That gives you a more useful next step than collecting another general roadmap.
+Six months is a planning example, not a promise of career readiness. The schedule depends on your starting point, target role, and weekly availability. Put the time in your calendar and leave room to revisit weak areas.
 
-If you want to map your experience to a specific AI role, bring your background and a target job description:
+Use AI as a practice partner. Ask it to challenge your assumptions, supply a flawed implementation, or change the input conditions. Explain and fix the problem yourself, then check references and actual results. Its approval is not evidence of mastery.
+
+Every two weeks, review what you still cannot explain, which experiments changed your understanding, and what to practise next. A portfolio can grow through increasingly serious versions of the same project.
+
+If you are ready for that commitment, bring your target direction, current skills, and realistic weekly availability:
 https://mentorcruise.com/mentor/jaywang/
 
-#AIEngineering #CareerTransition #DataEngineering
+#AIEngineering #CareerTransition #LearningPlan
 
 
 ---
@@ -394,7 +396,7 @@ https://mentorcruise.com/mentor/jaywang/
 
 An order-management assistant can produce a polite success message while changing the wrong record, acting twice, or saving nothing.
 
-For an initial evaluation plan, I would separate three questions:
+An evaluation of this assistant needs to check three things:
 
 • Outcome: did the intended state change, with unrelated records left untouched?
 • Behaviour: did the observable tool calls respect permissions, confirmations, and duplicate-action rules?
@@ -406,7 +408,7 @@ Check exact fields with explicit rules. Use a clear rubric for subjective qualit
 
 Compare old and new versions under the same conditions when prompts, models, or tools change. Repeat trials where variability matters, and feed newly observed failures back into the test set.
 
-The release discussion becomes more concrete when everyone can point to a business outcome rather than an impressive conversation.
+Bring the final business state and the tool-call record to the release review. A good answer does not establish that the correct order was updated.
 
 If your agent works in a demo but the release criteria are unclear, we can design an evaluation plan around one real task:
 https://mentorcruise.com/mentor/jaywang/
@@ -418,30 +420,39 @@ https://mentorcruise.com/mentor/jaywang/
 
 ## S15
 
-**When AI produces code quickly, review the decisions it made.**
+**“Fully implemented.” Excellent. Now show me what actually works.**
 
-A generated feature can look reasonable and pass its tests while introducing decisions nobody explicitly discussed: retry policy, access rules, cache expiry, or partial failure handling.
+Give AI a complicated requirement and wait a moment:
 
-My review exercise is to follow one user action end to end.
+“Fully implemented. All tests passing.”
 
-For “import a file,” trace the request, background processing, and saved result. Ask:
+Excellent. Let’s establish which definition of “fully” we are celebrating.
 
-1. What state changes? Can a repeated click create duplicate records?
-2. What happens midway through a failure? Is retrying safe, and what happens to partial output?
-3. Can the next maintainer locate the behaviour and diagnose a failure from the available logs?
+You asked for batch processing; it may handle one record. You asked for persistence; the data may live in memory. You asked for a working workflow; the interface may be backed by mock responses. A very smooth demo of a quietly smaller requirement.
 
-Then inspect the tests. A green result is more informative when you know the test would reject a plausible incorrect implementation. Deliberately simulate a duplicate request or timeout and check what fails.
+I would follow up with specific questions:
 
-Keep changes small enough to understand and verify. A disposable internal script and a core customer-facing service deserve different review depth.
+“Map each original requirement to its implementation.”
+“Which calls are real, and which parts are mocked, stubbed, or omitted?”
+“Run a new input through the whole workflow. Where is the result stored?”
+“Show the failure path. Did you execute it, or do you expect it to work?”
 
-AI can help explore unfamiliar code and propose counterexamples. The team still needs a clear owner for decisions that affect users and operations.
+Check the answers against the code and the running system. Another confident paragraph from the same AI is not independent verification.
 
-For interview practice, take some AI-assisted code and explain one design choice you accepted, one you rejected, and the evidence behind each.
+Then build checks at the appropriate levels:
 
-If you want to strengthen that engineering judgment or review a project together:
+• Unit tests for local logic and boundaries: empty input, missing fields, duplicates.
+• Integration tests for the connections: API, queue, worker, database. Critical connections need testing against real dependencies in an appropriate test environment, rather than relying entirely on mocks.
+• Smoke tests after startup or deployment: run a critical user path and verify that the entry point, dependencies, and result are available.
+
+Review the tests too. If the implementation covers half the requirement and the tests cover the same half, everything can be beautifully green. Deliberately break an important behaviour occasionally and check that the test catches it.
+
+Trusting every completion report leaves the undiscovered work for a future debugging session. Those sessions rarely arrive at a convenient time.
+
+If you want a second look at an AI-assisted project and its verification gaps:
 https://mentorcruise.com/mentor/jaywang/
 
-#SoftwareEngineering #CodeReview #AIEngineering
+#AIEngineering #SoftwareTesting #CodeReview
 
 
 ---
@@ -452,7 +463,7 @@ https://mentorcruise.com/mentor/jaywang/
 
 SQL, algorithms, statistics, machine learning, causal inference, agents: a preparation list can expand faster than you can work through it.
 
-I would separate two questions: what does the target role deliver, and how will the interview assess it?
+A preparation schedule needs to account for both the work and the interview format.
 
 Read the job description for the work: product decisions and experiments, predictive modelling, or deployment and reliability. Ask the recruiter about the known interview format. One person’s experience of not being asked algorithms is not a reason to remove coding practice from your own plan.
 
@@ -464,7 +475,7 @@ For a modelling role, try “offline predictions improved, but business results 
 
 Record where you get stuck: the concept, the implementation, or explaining a trade-off. Use that record to choose next week’s practice, then repeat the exercise.
 
-This is a preparation diagnostic, not a prediction of what every company will ask.
+If you can reason through the statistics but still struggle to write the code live, give coding more of the next practice block. The diagnostic should change how you spend your time.
 
 If you want a focused preparation plan, bring a target job description and a question you recently struggled with:
 https://mentorcruise.com/mentor/jaywang/
