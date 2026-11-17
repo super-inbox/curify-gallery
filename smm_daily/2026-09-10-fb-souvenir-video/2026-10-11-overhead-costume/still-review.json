@@ -1,0 +1,18 @@
+{
+  "review": "All nine final stills visually inspected; two arms/hands, consistent original model per series, reclining pose.",
+  "rejected": [
+    "Original sari output exec-6e8d8205-0397-4591-b1e5-3d8fa90243c6.png: extra left hand on abdomen. Excluded before video submission."
+  ],
+  "correction": "Corrected with imagegen: exec-7e13beaa-3b3d-4a0b-821a-57e468be1ca4.png; saved as stills/asia-3.png.",
+  "final_stills": {
+    "asia-1.png": "9e819e86730c038ce28bcf3f22ec2ec43c99d6d663a2f6b932e8d626cc671721",
+    "asia-2.png": "db7fd4e2613ae3091f7ba8eeb2c5b1a348a097fe4fc301a44417f737604f6ba4",
+    "asia-3.png": "6ccf1989512c5a4920aa22265f53e625ff885ad7d57864390eb40fac56253b23",
+    "china-1.png": "ef3acc19a4be8b33aa2c9dfe41be6e31c0449e019ccdf9eca579191b1b9f5c49",
+    "china-3.png": "eeb9a7d3019f07a0b35cc5f80730267ee9e0cbd4fe928c5f36fb7385e6900436",
+    "china-2.png": "2cb2697377a5acf25eaa7c7bc840c082c9d7fa476a72c4e4011def0898158801",
+    "global-2.png": "95a01cd8137b58671576768458b6bc332eec4a5a620049e55ce62911c824cf13",
+    "global-3.png": "cab563c218f306be7312e765d1bdba603c6722a30ce1c78ec01c7a3f702b8588",
+    "global-1.png": "fd132915a787be0b3a6477fe10374d416332fb023a062092518cead9ff52a275"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source_url": "https://www.instagram.com/reels/DfFjLJZR1vD/",
+  "source_account": "muse",
+  "caption": "tap and hold. that’s your halloween alter ego. which one did you get?",
+  "retrieved_date": "2026-11-04",
+  "method": "Video URL from public Instagram embed page",
+  "duration_s": 18.874966,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "audio_present": true,
+  "sha256": "bdbc5ab9555ff5187b5e173f05561791f5ee67627c0d15051a3a0e0809d58c81",
+  "decode_check": "passed",
+  "visual_review": "Sampled every two seconds; plush character costume changes, no visible Instagram corner watermark in sampled frames.",
+  "edit": "Original downloaded file; no crop, watermark edit or re-encoding.",
+  "publication": "Added to ecommerce RedNote C14 and Facebook/Instagram E-MUSE local draft queues on 2026-11-04; not scheduled or published. Third-party reference credit retained.",
+  "storage": "Video local only, excluded from Git."
+}

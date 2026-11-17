@@ -1,0 +1,242 @@
+[
+  {
+    "id": "template-character-zh-baiqi",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-baiqi.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-baiqi-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "baiqi"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-direnjie",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-direnjie.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-direnjie-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "direnjie"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-hanxin",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-hanxin.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-hanxin-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "hanxin"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-libai",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-libai.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-libai-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "libai"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-liqingzhao",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-liqingzhao.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-liqingzhao-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "liqingzhao"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-sushi",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-sushi.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-sushi-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "sushi"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-weiqing",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-weiqing.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-weiqing-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "weiqing"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-wuzetian",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-wuzetian.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-wuzetian-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "wuzetian"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-zhaokuo",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-zhaokuo.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-zhaokuo-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "zhaokuo"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-zhugeliang",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-zhugeliang.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-zhugeliang-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "zhugeliang"
+      }
+    }
+  },
+  {
+    "id": "template-what-if-history-byzantine-tang",
+    "template_id": "template-what-if-history",
+    "asset": {
+      "image_path": "/images/insp/template-what-if-history-zh-byzantine-tang.jpg",
+      "preview_path": "/images/insp_preview/template-what-if-history-zh-byzantine-tang-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史假设类",
+        "title": "byzantine tang"
+      }
+    }
+  },
+  {
+    "id": "template-what-if-history-ming-renaissance",
+    "template_id": "template-what-if-history",
+    "asset": {
+      "image_path": "/images/insp/template-what-if-history-zh-ming-renaissance.jpg",
+      "preview_path": "/images/insp_preview/template-what-if-history-zh-ming-renaissance-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史假设类",
+        "title": "ming renaissance"
+      }
+    }
+  },
+  {
+    "id": "template-what-if-history-qin-alexander",
+    "template_id": "template-what-if-history",
+    "asset": {
+      "image_path": "/images/insp/template-what-if-history-zh-qin-alexander.jpg",
+      "preview_path": "/images/insp_preview/template-what-if-history-zh-qin-alexander-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史假设类",
+        "title": "qin alexander"
+      }
+    }
+  },
+  {
+    "id": "template-what-if-history-roman-han",
+    "template_id": "template-what-if-history",
+    "asset": {
+      "image_path": "/images/insp/template-what-if-history-zh-roman-han.jpg",
+      "preview_path": "/images/insp_preview/template-what-if-history-zh-roman-han-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史假设类",
+        "title": "roman han"
+      }
+    }
+  },
+  {
+    "id": "template-what-if-history-tang-arab",
+    "template_id": "template-what-if-history",
+    "asset": {
+      "image_path": "/images/insp/template-what-if-history-zh-tang-arab.jpg",
+      "preview_path": "/images/insp_preview/template-what-if-history-zh-tang-arab-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史假设类",
+        "title": "tang arab"
+      }
+    }
+  },
+  {
+    "id": "template-what-if-history-zheng-he-america",
+    "template_id": "template-what-if-history",
+    "asset": {
+      "image_path": "/images/insp/template-what-if-history-zh-zheng-he-america.jpg",
+      "preview_path": "/images/insp_preview/template-what-if-history-zh-zheng-he-america-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史假设类",
+        "title": "zheng he america"
+      }
+    }
+  }
+]

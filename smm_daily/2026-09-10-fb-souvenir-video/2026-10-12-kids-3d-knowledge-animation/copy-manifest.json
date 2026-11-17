@@ -1,0 +1,50 @@
+[
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/肚肚闹情绪_30秒_横屏1080P.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/drama_animation/tummy-feelings-30s-clean.mp4",
+    "sha256": "43f2dd2a88c0a0e8a52fa2c45c579fcc9e9bd312e5d4a508b404e10293396781",
+    "bytes": 22980426
+  },
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/肚肚闹情绪_30秒_横屏1080P.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/smm_daily/2026-09-10-fb-souvenir-video/2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-clean.mp4",
+    "sha256": "43f2dd2a88c0a0e8a52fa2c45c579fcc9e9bd312e5d4a508b404e10293396781",
+    "bytes": 22980426
+  },
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/肚肚闹情绪_30秒_Curify水印.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/drama_animation/tummy-feelings-30s-curify.mp4",
+    "sha256": "f96a2f9436b703b900f7d89398e2905dd35f638a1e8d810dbe91dd25d31b4a8b",
+    "bytes": 23917054
+  },
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/肚肚闹情绪_30秒_Curify水印.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/smm_daily/2026-09-10-fb-souvenir-video/2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-curify.mp4",
+    "sha256": "f96a2f9436b703b900f7d89398e2905dd35f638a1e8d810dbe91dd25d31b4a8b",
+    "bytes": 23917054
+  },
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/冰箱运输队_30秒_横屏1080P.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/drama_animation/fridge-transport-team-30s-v2-clean.mp4",
+    "sha256": "5bcba4b1687dbfeb1d9fd6db782b560ee5bf7ce16188d6518af14e0c9d301029",
+    "bytes": 13254783
+  },
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/冰箱运输队_30秒_横屏1080P.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/smm_daily/2026-09-10-fb-souvenir-video/2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-clean.mp4",
+    "sha256": "5bcba4b1687dbfeb1d9fd6db782b560ee5bf7ce16188d6518af14e0c9d301029",
+    "bytes": 13254783
+  },
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/冰箱运输队_30秒_Curify水印_v2前进修正版.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/drama_animation/fridge-transport-team-30s-v2-curify.mp4",
+    "sha256": "bdd2f404aa716f0bb77363e9fce7d77b2d37468231e0b71637b752451bddb6ee",
+    "bytes": 13673096
+  },
+  {
+    "source": "/Users/qqwjq/agentic-adhoc/design-agent-v0/eval/real-projects/projects/2026-10-12-kids-3d-knowledge-animation/output/deliverables/冰箱运输队_30秒_Curify水印_v2前进修正版.mp4",
+    "destination": "/Users/qqwjq/curify-gallery/smm_daily/2026-09-10-fb-souvenir-video/2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-curify.mp4",
+    "sha256": "bdd2f404aa716f0bb77363e9fce7d77b2d37468231e0b71637b752451bddb6ee",
+    "bytes": 13673096
+  }
+]

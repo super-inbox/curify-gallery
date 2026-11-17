@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1340
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,75,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,21,21,67,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.16,Default,,0,0,0,,{\alpha&HCC&}Did you know our Earth has a\Nstory as old as time itself?
+Dialogue: 0,0:00:04.16,0:00:08.96,Default,,0,0,0,,{\alpha&HCC&}Let’s take a little journey\Nthrough the ages to discover\Nhow our world came to
+Dialogue: 0,0:00:08.96,0:00:11.20,Default,,0,0,0,,{\alpha&HCC&}be just the way it is now
+Dialogue: 0,0:00:11.20,0:00:15.04,Default,,0,0,0,,{\alpha&HCC&}Imagine the Earth as a big\Ncake being baked in an oven
+Dialogue: 0,0:00:15.04,0:00:16.05,Default,,0,0,0,,{\alpha&HCC&}In the beginning
+Dialogue: 0,0:00:16.05,0:00:16.53,Default,,0,0,0,,{\alpha&HCC&}about 4
+Dialogue: 0,0:00:16.53,0:00:17.72,Default,,0,0,0,,{\alpha&HCC&}6 billion years ago
+Dialogue: 0,0:00:17.72,0:00:19.21,Default,,0,0,0,,{\alpha&HCC&}there was the Hadean time
+Dialogue: 0,0:00:19.21,0:00:20.76,Default,,0,0,0,,{\alpha&HCC&}It was like a fiery kitchen
+Dialogue: 0,0:00:20.76,0:00:23.37,Default,,0,0,0,,{\alpha&HCC&}with hot lava and erupting\Nvolcanoes everywhere
+Dialogue: 0,0:00:23.37,0:00:25.04,Default,,0,0,0,,{\alpha&HCC&}The Earth was still forming
+Dialogue: 0,0:00:25.04,0:00:26.89,Default,,0,0,0,,{\alpha&HCC&}like dough bubbling in the\Nheat
+Dialogue: 0,0:00:26.89,0:00:27.17,Default,,0,0,0,,{\alpha&HCC&}Then
+Dialogue: 0,0:00:27.17,0:00:30.09,Default,,0,0,0,,{\alpha&HCC&}things started to settle down\Nduring the Archean age
+Dialogue: 0,0:00:30.09,0:00:33.30,Default,,0,0,0,,{\alpha&HCC&}Imagine little invisible\Ncreatures—the first tiny bits\Nof life—beginning to
+Dialogue: 0,0:00:33.30,0:00:35.30,Default,,0,0,0,,{\alpha&HCC&}appear in the oceans
+Dialogue: 0,0:00:35.30,0:00:36.45,Default,,0,0,0,,{\alpha&HCC&}They were so small
+Dialogue: 0,0:00:36.45,0:00:39.78,Default,,0,0,0,,{\alpha&HCC&}you’d need a super special\Nmagnifying glass to see them
+Dialogue: 0,0:00:39.78,0:00:43.30,Default,,0,0,0,,{\alpha&HCC&}These early microbes were\Nthe tiny builders starting to\Nconstruct life’s
+Dialogue: 0,0:00:43.30,0:00:45.30,Default,,0,0,0,,{\alpha&HCC&}wonderful home
+Dialogue: 0,0:00:45.30,0:00:47.30,Default,,0,0,0,,{\alpha&HCC&}Next came the Proterozoic\Nage
+Dialogue: 0,0:00:47.30,0:00:47.62,Default,,0,0,0,,{\alpha&HCC&}Here
+Dialogue: 0,0:00:47.62,0:00:49.30,Default,,0,0,0,,{\alpha&HCC&}something magical\Nhappened
+Dialogue: 0,0:00:49.30,0:00:51.99,Default,,0,0,0,,{\alpha&HCC&}These tiny builders began to\Nmake oxygen
+Dialogue: 0,0:00:51.99,0:00:54.43,Default,,0,0,0,,{\alpha&HCC&}a bit like trees do when they\Nlet out
+Dialogue: 0,0:00:54.43,0:00:56.43,Default,,0,0,0,,{\alpha&HCC&}fresh air
+Dialogue: 0,0:00:56.43,0:00:57.07,Default,,0,0,0,,{\alpha&HCC&}With oxygen
+Dialogue: 0,0:00:57.07,0:00:58.91,Default,,0,0,0,,{\alpha&HCC&}more complex life started to\Ngrow
+Dialogue: 0,0:00:58.91,0:01:00.59,Default,,0,0,0,,{\alpha&HCC&}like jellyfish and other simple
+Dialogue: 0,0:01:00.59,0:01:02.59,Default,,0,0,0,,{\alpha&HCC&}sea creatures floating around
+Dialogue: 0,0:01:02.59,0:01:04.98,Default,,0,0,0,,{\alpha&HCC&}Then zoom forward to the\NPaleozoic age
+Dialogue: 0,0:01:04.98,0:01:06.75,Default,,0,0,0,,{\alpha&HCC&}when the Earth turned into\Nan
+Dialogue: 0,0:01:06.75,0:01:08.75,Default,,0,0,0,,{\alpha&HCC&}adventurous aquarium!
+Dialogue: 0,0:01:08.75,0:01:10.36,Default,,0,0,0,,{\alpha&HCC&}Fish swam through the\Noceans
+Dialogue: 0,0:01:10.36,0:01:12.91,Default,,0,0,0,,{\alpha&HCC&}and brave creatures started\Nto crawl onto land
+Dialogue: 0,0:01:12.91,0:01:14.91,Default,,0,0,0,,{\alpha&HCC&}creating the first forests
+Dialogue: 0,0:01:14.91,0:01:18.12,Default,,0,0,0,,{\alpha&HCC&}Imagine hopping around\Nwith the first\Namphibians—like giant\Nfroggies exploring
+Dialogue: 0,0:01:18.12,0:01:20.12,Default,,0,0,0,,{\alpha&HCC&}new worlds!
+Dialogue: 0,0:01:20.12,0:01:21.47,Default,,0,0,0,,{\alpha&HCC&}Into the Mesozoic age
+Dialogue: 0,0:01:21.47,0:01:23.32,Default,,0,0,0,,{\alpha&HCC&}and now we meet the\Ndinosaurs!
+Dialogue: 0,0:01:23.32,0:01:27.16,Default,,0,0,0,,{\alpha&HCC&}This was a time of giant\Ncreatures roaming both land\Nand sky
+Dialogue: 0,0:01:27.16,0:01:30.68,Default,,0,0,0,,{\alpha&HCC&}Imagine enormous reptiles\Nstretching their necks to\Nmunch leaves from tall
+Dialogue: 0,0:01:30.68,0:01:31.02,Default,,0,0,0,,{\alpha&HCC&}trees
+Dialogue: 0,0:01:31.02,0:01:32.92,Default,,0,0,0,,{\alpha&HCC&}like oversized toys coming to\Nlife
+Dialogue: 0,0:01:32.92,0:01:33.41,Default,,0,0,0,,{\alpha&HCC&}Finally
+Dialogue: 0,0:01:33.41,0:01:34.98,Default,,0,0,0,,{\alpha&HCC&}we reach the Cenozoic age
+Dialogue: 0,0:01:34.98,0:01:37.41,Default,,0,0,0,,{\alpha&HCC&}when mammals and birds\Ntook to the stage
+Dialogue: 0,0:01:37.41,0:01:41.51,Default,,0,0,0,,{\alpha&HCC&}Think of it as a big\Nplayground filled with all\Nkinds of animals
+Dialogue: 0,0:01:41.51,0:01:42.21,Default,,0,0,0,,{\alpha&HCC&}from woolly
+Dialogue: 0,0:01:42.21,0:01:44.21,Default,,0,0,0,,{\alpha&HCC&}mammoths to early horses\Ntrotting around
+Dialogue: 0,0:01:44.21,0:01:45.51,Default,,0,0,0,,{\alpha&HCC&}And here we are now
+Dialogue: 0,0:01:45.51,0:01:47.27,Default,,0,0,0,,{\alpha&HCC&}still part of this last age

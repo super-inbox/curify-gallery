@@ -1,0 +1,197 @@
+[
+  {
+    "id": "template-cultural-relic-dunhuang-mogao-grottoes",
+    "template_id": "template-cultural-relic",
+    "asset": {
+      "image_path": "/images/insp/template-cultural-relic-zh-dunhuang-mogao-grottoes.jpg",
+      "preview_path": "/images/insp_preview/template-cultural-relic-zh-dunhuang-mogao-grottoes-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史文物类",
+        "title": "dunhuang mogao grottoes"
+      }
+    }
+  },
+  {
+    "id": "template-cultural-relic-four-sheep-square-zun",
+    "template_id": "template-cultural-relic",
+    "asset": {
+      "image_path": "/images/insp/template-cultural-relic-zh-four-sheep-square-zun.jpg",
+      "preview_path": "/images/insp_preview/template-cultural-relic-zh-four-sheep-square-zun-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史文物类",
+        "title": "four sheep square zun"
+      }
+    }
+  },
+  {
+    "id": "template-cultural-relic-simu-wu-ding",
+    "template_id": "template-cultural-relic",
+    "asset": {
+      "image_path": "/images/insp/template-cultural-relic-zh-simu-wu-ding.jpg",
+      "preview_path": "/images/insp_preview/template-cultural-relic-zh-simu-wu-ding-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史文物类",
+        "title": "simu wu ding"
+      }
+    }
+  },
+  {
+    "id": "template-cultural-relic-terracotta-warriors",
+    "template_id": "template-cultural-relic",
+    "asset": {
+      "image_path": "/images/insp/template-cultural-relic-zh-terracotta-warriors.jpg",
+      "preview_path": "/images/insp_preview/template-cultural-relic-zh-terracotta-warriors-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史文物类",
+        "title": "terracotta warriors"
+      }
+    }
+  },
+  {
+    "id": "template-cultural-relic-yuewang-goujian-sword",
+    "template_id": "template-cultural-relic",
+    "asset": {
+      "image_path": "/images/insp/template-cultural-relic-zh-yuewang-goujian-sword.jpg",
+      "preview_path": "/images/insp_preview/template-cultural-relic-zh-yuewang-goujian-sword-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "历史文物类",
+        "title": "yuewang goujian sword"
+      }
+    }
+  },
+  {
+    "id": "template-dog-breed-bulldog",
+    "template_id": "template-dog-breed",
+    "asset": {
+      "image_path": "/images/insp/template-dog-breed-zh-bulldog.jpg",
+      "preview_path": "/images/insp_preview/template-dog-breed-zh-bulldog-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "犬种科普类",
+        "title": "bulldog"
+      }
+    }
+  },
+  {
+    "id": "template-dog-breed-husky",
+    "template_id": "template-dog-breed",
+    "asset": {
+      "image_path": "/images/insp/template-dog-breed-zh-husky.jpg",
+      "preview_path": "/images/insp_preview/template-dog-breed-zh-husky-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "犬种科普类",
+        "title": "husky"
+      }
+    }
+  },
+  {
+    "id": "template-dog-breed-labrador",
+    "template_id": "template-dog-breed",
+    "asset": {
+      "image_path": "/images/insp/template-dog-breed-zh-labrador.jpg",
+      "preview_path": "/images/insp_preview/template-dog-breed-zh-labrador-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "犬种科普类",
+        "title": "labrador"
+      }
+    }
+  },
+  {
+    "id": "template-dog-breed-poodle",
+    "template_id": "template-dog-breed",
+    "asset": {
+      "image_path": "/images/insp/template-dog-breed-zh-poodle.jpg",
+      "preview_path": "/images/insp_preview/template-dog-breed-zh-poodle-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "犬种科普类",
+        "title": "poodle"
+      }
+    }
+  },
+  {
+    "id": "template-dog-breed-teddy",
+    "template_id": "template-dog-breed",
+    "asset": {
+      "image_path": "/images/insp/template-dog-breed-zh-teddy.jpg",
+      "preview_path": "/images/insp_preview/template-dog-breed-zh-teddy-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "犬种科普类",
+        "title": "teddy"
+      }
+    }
+  },
+  {
+    "id": "template-education-zh-conservation-of-energy",
+    "template_id": "template-education-zh",
+    "asset": {
+      "image_path": "/images/insp/template-education-zh-conservation-of-energy.jpg",
+      "preview_path": "/images/insp_preview/template-education-zh-conservation-of-energy-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "学科知识卡片",
+        "title": "conservation of energy"
+      }
+    }
+  },
+  {
+    "id": "template-education-zh-newtons-laws",
+    "template_id": "template-education-zh",
+    "asset": {
+      "image_path": "/images/insp/template-education-zh-newtons-laws.jpg",
+      "preview_path": "/images/insp_preview/template-education-zh-newtons-laws-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "学科知识卡片",
+        "title": "newtons laws"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-explorer-forest",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-explorer-forest.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-explorer-forest-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "explorer forest"
+      }
+    }
+  }
+]

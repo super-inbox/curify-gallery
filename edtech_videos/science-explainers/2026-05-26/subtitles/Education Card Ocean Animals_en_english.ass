@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1200
+PlayResY: 896
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,50,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,2,0,2,24,24,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.60,Default,,0,0,0,,{\alpha&HCC&}Have you ever wondered what lives beneath the\Nwaves of the ocean?
+Dialogue: 0,0:00:03.60,0:00:07.21,Default,,0,0,0,,{\alpha&HCC&}Let's dive in and explore some amazing creatures\Nyou might find there
+Dialogue: 0,0:00:07.21,0:00:07.60,Default,,0,0,0,,{\alpha&HCC&}First
+Dialogue: 0,0:00:07.60,0:00:09.21,Default,,0,0,0,,{\alpha&HCC&}imagine meeting a dolphin
+Dialogue: 0,0:00:09.21,0:00:12.52,Default,,0,0,0,,{\alpha&HCC&}These smart and playful creatures love to leap\Nthrough the waves
+Dialogue: 0,0:00:12.52,0:00:14.30,Default,,0,0,0,,{\alpha&HCC&}They often swim together in groups
+Dialogue: 0,0:00:14.30,0:00:16.43,Default,,0,0,0,,{\alpha&HCC&}chatting with each other just like friends
+Dialogue: 0,0:00:16.43,0:00:18.43,Default,,0,0,0,,{\alpha&HCC&}on a playground
+Dialogue: 0,0:00:18.43,0:00:21.29,Default,,0,0,0,,{\alpha&HCC&}Dolphins are curious and love to discover new\Nthings
+Dialogue: 0,0:00:21.29,0:00:22.64,Default,,0,0,0,,{\alpha&HCC&}much like you exploring a
+Dialogue: 0,0:00:22.64,0:00:24.64,Default,,0,0,0,,{\alpha&HCC&}new toy
+Dialogue: 0,0:00:24.64,0:00:24.86,Default,,0,0,0,,{\alpha&HCC&}Now
+Dialogue: 0,0:00:24.86,0:00:27.35,Default,,0,0,0,,{\alpha&HCC&}picture a sea turtle gliding through the water
+Dialogue: 0,0:00:27.35,0:00:30.66,Default,,0,0,0,,{\alpha&HCC&}These ancient swimmers have been around since\Nthe time of dinosaurs!
+Dialogue: 0,0:00:30.66,0:00:31.76,Default,,0,0,0,,{\alpha&HCC&}They move gracefully
+Dialogue: 0,0:00:31.76,0:00:33.96,Default,,0,0,0,,{\alpha&HCC&}as if they’re floating on a watery highway
+Dialogue: 0,0:00:33.96,0:00:36.18,Default,,0,0,0,,{\alpha&HCC&}Their shell is like a protective shield
+Dialogue: 0,0:00:36.18,0:00:37.18,Default,,0,0,0,,{\alpha&HCC&}keeping them safe
+Dialogue: 0,0:00:37.18,0:00:38.17,Default,,0,0,0,,{\alpha&HCC&}just like a trusty
+Dialogue: 0,0:00:38.17,0:00:40.17,Default,,0,0,0,,{\alpha&HCC&}coat keeps you warm
+Dialogue: 0,0:00:40.17,0:00:42.60,Default,,0,0,0,,{\alpha&HCC&}As we swirl around in the ocean currents
+Dialogue: 0,0:00:42.60,0:00:44.08,Default,,0,0,0,,{\alpha&HCC&}we might spot a jellyfish
+Dialogue: 0,0:00:44.08,0:00:46.04,Default,,0,0,0,,{\alpha&HCC&}They seem to glow in the dark
+Dialogue: 0,0:00:46.04,0:00:47.99,Default,,0,0,0,,{\alpha&HCC&}like a nightlight in your room
+Dialogue: 0,0:00:47.99,0:00:49.76,Default,,0,0,0,,{\alpha&HCC&}Jellyfish drift along with the currents
+Dialogue: 0,0:00:49.76,0:00:51.30,Default,,0,0,0,,{\alpha&HCC&}their long tentacles flowing behind
+Dialogue: 0,0:00:51.30,0:00:53.30,Default,,0,0,0,,{\alpha&HCC&}them like ribbons in the wind
+Dialogue: 0,0:00:53.30,0:00:55.30,Default,,0,0,0,,{\alpha&HCC&}They’re gentle dancers of the sea
+Dialogue: 0,0:00:55.30,0:00:55.73,Default,,0,0,0,,{\alpha&HCC&}And then
+Dialogue: 0,0:00:55.73,0:00:56.67,Default,,0,0,0,,{\alpha&HCC&}there’s the octopus
+Dialogue: 0,0:00:56.67,0:00:57.71,Default,,0,0,0,,{\alpha&HCC&}the eight-armed wonder
+Dialogue: 0,0:00:57.71,0:00:58.78,Default,,0,0,0,,{\alpha&HCC&}With arms like long
+Dialogue: 0,0:00:58.78,0:00:59.64,Default,,0,0,0,,{\alpha&HCC&}curious fingers
+Dialogue: 0,0:00:59.64,0:01:01.62,Default,,0,0,0,,{\alpha&HCC&}an octopus can explore every nook and
+Dialogue: 0,0:01:01.62,0:01:03.62,Default,,0,0,0,,{\alpha&HCC&}cranny
+Dialogue: 0,0:01:03.62,0:01:07.49,Default,,0,0,0,,{\alpha&HCC&}They can change color and texture to blend in\Nwith the ocean floor
+Dialogue: 0,0:01:07.49,0:01:08.13,Default,,0,0,0,,{\alpha&HCC&}almost like
+Dialogue: 0,0:01:08.13,0:01:10.13,Default,,0,0,0,,{\alpha&HCC&}a magical disappearing act
+Dialogue: 0,0:01:10.13,0:01:14.64,Default,,0,0,0,,{\alpha&HCC&}Did you know that these ocean creatures live in a\Nplace where the water covers
+Dialogue: 0,0:01:14.64,0:01:16.64,Default,,0,0,0,,{\alpha&HCC&}more than half of our planet?
+Dialogue: 0,0:01:16.64,0:01:17.62,Default,,0,0,0,,{\alpha&HCC&}Oceans are like vast
+Dialogue: 0,0:01:17.62,0:01:20.25,Default,,0,0,0,,{\alpha&HCC&}exciting homes filled with millions of different\Nspecies
+Dialogue: 0,0:01:20.25,0:01:21.08,Default,,0,0,0,,{\alpha&HCC&}And within them
+Dialogue: 0,0:01:21.08,0:01:23.32,Default,,0,0,0,,{\alpha&HCC&}coral reefs are bustling underwater cities
+Dialogue: 0,0:01:23.32,0:01:24.16,Default,,0,0,0,,{\alpha&HCC&}full of life and

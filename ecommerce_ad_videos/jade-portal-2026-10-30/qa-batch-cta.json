@@ -1,0 +1,26 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 720,
+      "height": 1280,
+      "r_frame_rate": "24/1"
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "r_frame_rate": "0/0"
+    }
+  ],
+  "format": {
+    "duration": "19.000000",
+    "size": "8378575"
+  },
+  "decode_check": "passed",
+  "cta_duration_s": 4,
+  "audio_note": "Original generated audio; final 4s reused at half volume under CTA with fades.",
+  "visual_review": "CTA frame at 17s inspected: English and Chinese text rendered, no clipping, centered layout."
+}

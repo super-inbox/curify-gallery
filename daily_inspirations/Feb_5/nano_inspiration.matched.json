@@ -1,0 +1,208 @@
+[
+  {
+    "image_id": "template-herbal-zh-notoginseng",
+    "template_id": "template-herbal-zh",
+    "language": "zh",
+    "category": "中草药类",
+    "parameters": {
+      "herb_name": "三七"
+    },
+    "image_url": "/images/template_cards/template-herbal-zh-notoginseng.jpg",
+    "preview_image_url": "/images/template_cards/template-herbal-zh-notoginseng-prev.jpg"
+  },
+  {
+    "image_id": "template-evolution-zh-chinese-social-changes",
+    "template_id": "template-evolution-zh",
+    "language": "zh",
+    "category": "发展纪年类",
+    "parameters": {
+      "theme": "中国社会变迁",
+      "theme_en": "Chinese Social Changes",
+      "start_period": "原始社会",
+      "end_period": "新时代"
+    },
+    "image_url": "/images/template_cards/template-evolution-zh-chinese-social-changes.jpg",
+    "preview_image_url": "/images/template_cards/template-evolution-zh-chinese-social-changes-prev.jpg"
+  },
+  {
+    "image_id": "template-travel-zh-beijing",
+    "template_id": "template-travel-zh",
+    "language": "zh",
+    "category": "旅游规划图",
+    "parameters": {
+      "destination": "北京",
+      "date_range": "1/19-1/25"
+    },
+    "image_url": "/images/template_cards/template-travel-zh-beijing.jpg",
+    "preview_image_url": "/images/template_cards/template-travel-zh-beijing-prev.jpg"
+  },
+  {
+    "image_id": "template-architecture-zh-oriental-pearl-tower",
+    "template_id": "template-architecture-zh",
+    "language": "zh",
+    "category": "建筑分析图",
+    "parameters": {
+      "landmark": "东方明珠广播电视塔"
+    },
+    "image_url": "/images/template_cards/template-architecture-zh-oriental-pearl-tower.jpg",
+    "preview_image_url": "/images/template_cards/template-architecture-zh-oriental-pearl-tower-prev.jpg"
+  },
+  {
+    "image_id": "template-architecture-zh-national-stadium-bird-nest",
+    "template_id": "template-architecture-zh",
+    "language": "zh",
+    "category": "建筑分析图",
+    "parameters": {
+      "landmark": "国家体育场（鸟巢）"
+    },
+    "image_url": "/images/template_cards/template-architecture-zh-national-stadium-bird-nest.jpg",
+    "preview_image_url": "/images/template_cards/template-architecture-zh-national-stadium-bird-nest-prev.jpg"
+  },
+  {
+    "image_id": "template-architecture-zh-giant-wild-goose-pagoda",
+    "template_id": "template-architecture-zh",
+    "language": "zh",
+    "category": "建筑分析图",
+    "parameters": {
+      "landmark": "西安大雁塔"
+    },
+    "image_url": "/images/template_cards/template-architecture-zh-giant-wild-goose-pagoda.jpg",
+    "preview_image_url": "/images/template_cards/template-architecture-zh-giant-wild-goose-pagoda-prev.jpg"
+  },
+  {
+    "image_id": "template-species-zh-siberian-tiger",
+    "template_id": "template-species-zh",
+    "language": "zh",
+    "category": "动植物保护",
+    "parameters": {
+      "species_name": "东北虎"
+    },
+    "image_url": "/images/template_cards/template-species-zh-siberian-tiger.jpg",
+    "preview_image_url": "/images/template_cards/template-species-zh-siberian-tiger-prev.jpg"
+  },
+  {
+    "image_id": "template-character-zh-crayon-shinchan-shinnosuke-nohara",
+    "template_id": "template-character-zh",
+    "language": "zh",
+    "category": "人物像素拆解",
+    "parameters": {
+      "character_source": "蜡笔小新",
+      "character_name": "野原新之助"
+    },
+    "image_url": "/images/template_cards/template-character-zh-crayon-shinchan-shinnosuke-nohara.jpg",
+    "preview_image_url": "/images/template_cards/template-character-zh-crayon-shinchan-shinnosuke-nohara-prev.jpg"
+  },
+  {
+    "image_id": "template-recipe-zh-four-joy-meatballs",
+    "template_id": "template-recipe-zh",
+    "language": "zh",
+    "category": "食谱",
+    "parameters": {
+      "dish_name": "四喜丸子"
+    },
+    "image_url": "/images/template_cards/template-recipe-zh-four-joy-meatballs.jpg",
+    "preview_image_url": "/images/template_cards/template-recipe-zh-four-joy-meatballs-prev.jpg"
+  },
+  {
+    "image_id": "template-recipe-zh-buddha-jumps-over-the-wall",
+    "template_id": "template-recipe-zh",
+    "language": "zh",
+    "category": "食谱",
+    "parameters": {
+      "dish_name": "佛跳墙"
+    },
+    "image_url": "/images/template_cards/template-recipe-zh-buddha-jumps-over-the-wall.jpg",
+    "preview_image_url": "/images/template_cards/template-recipe-zh-buddha-jumps-over-the-wall-prev.jpg"
+  },
+  {
+    "image_id": "template-recipe-zh-sweet-and-sour-ribs",
+    "template_id": "template-recipe-zh",
+    "language": "zh",
+    "category": "食谱",
+    "parameters": {
+      "dish_name": "糖醋排骨"
+    },
+    "image_url": "/images/template_cards/template-recipe-zh-sweet-and-sour-ribs.jpg",
+    "preview_image_url": "/images/template_cards/template-recipe-zh-sweet-and-sour-ribs-prev.jpg"
+  },
+  {
+    "image_id": "template-recipe-zh-kung-pao-chicken",
+    "template_id": "template-recipe-zh",
+    "language": "zh",
+    "category": "食谱",
+    "parameters": {
+      "dish_name": "宫保鸡丁"
+    },
+    "image_url": "/images/template_cards/template-recipe-zh-kung-pao-chicken.jpg",
+    "preview_image_url": "/images/template_cards/template-recipe-zh-kung-pao-chicken-prev.jpg"
+  },
+  {
+    "image_id": "template-character-analysis-zh-sun-wukong",
+    "template_id": "template-character-analysis-zh",
+    "language": "zh",
+    "category": "人物分析图",
+    "parameters": {
+      "character_name": "孙悟空",
+      "art_style": "水墨工笔风",
+      "left_section_title": "个人档案",
+      "right_section_title": "羁绊关系"
+    },
+    "image_url": "/images/template_cards/template-character-analysis-zh-sun-wukong.jpg",
+    "preview_image_url": "/images/template_cards/template-character-analysis-zh-sun-wukong-prev.jpg"
+  },
+  {
+    "image_id": "template-weather-zh-beijing",
+    "template_id": "template-weather-zh",
+    "language": "zh",
+    "category": "微缩城市天气预报",
+    "parameters": {
+      "city_name": "北京"
+    },
+    "image_url": "/images/template_cards/template-weather-zh-beijing.jpg",
+    "preview_image_url": "/images/template_cards/template-weather-zh-beijing-prev.jpg"
+  },
+  {
+    "image_id": "template-weather-zh-nanjing",
+    "template_id": "template-weather-zh",
+    "language": "zh",
+    "category": "微缩城市天气预报",
+    "parameters": {
+      "city_name": "南京"
+    },
+    "image_url": "/images/template_cards/template-weather-zh-nanjing.jpg",
+    "preview_image_url": "/images/template_cards/template-weather-zh-nanjing-prev.jpg"
+  },
+  {
+    "image_id": "template-weather-zh-wuhan",
+    "template_id": "template-weather-zh",
+    "language": "zh",
+    "category": "微缩城市天气预报",
+    "parameters": {
+      "city_name": "武汉"
+    },
+    "image_url": "/images/template_cards/template-weather-zh-wuhan.jpg",
+    "preview_image_url": "/images/template_cards/template-weather-zh-wuhan-prev.jpg"
+  },
+  {
+    "image_id": "template-education-zh-dna-double-helix",
+    "template_id": "template-education-zh",
+    "language": "zh",
+    "category": "学科知识卡片",
+    "parameters": {
+      "topic": "DNA双螺旋结构"
+    },
+    "image_url": "/images/template_cards/template-education-zh-dna-double-helix.jpg",
+    "preview_image_url": "/images/template_cards/template-education-zh-dna-double-helix-prev.jpg"
+  },
+  {
+    "image_id": "template-education-zh-plate-tectonics",
+    "template_id": "template-education-zh",
+    "language": "zh",
+    "category": "学科知识卡片",
+    "parameters": {
+      "topic": "板块构造学说"
+    },
+    "image_url": "/images/template_cards/template-education-zh-plate-tectonics.jpg",
+    "preview_image_url": "/images/template_cards/template-education-zh-plate-tectonics-prev.jpg"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "template-food-bak-kut-teh",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-bak-kut-teh.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-bak-kut-teh-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "bak kut teh"
+      }
+    }
+  },
+  {
+    "id": "template-food-banh-mi",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-banh-mi.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-banh-mi-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "banh mi"
+      }
+    }
+  },
+  {
+    "id": "template-food-beef-bourguignon",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-beef-bourguignon.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-beef-bourguignon-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "beef bourguignon"
+      }
+    }
+  },
+  {
+    "id": "template-food-beef-wellington",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-beef-wellington.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-beef-wellington-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "beef wellington"
+      }
+    }
+  },
+  {
+    "id": "template-food-bun-cha",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-bun-cha.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-bun-cha-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "bun cha"
+      }
+    }
+  },
+  {
+    "id": "template-food-nasi-lemak",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-nasi-lemak.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-nasi-lemak-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "nasi lemak"
+      }
+    }
+  },
+  {
+    "id": "template-food-paella",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-paella.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-paella-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "paella"
+      }
+    }
+  },
+  {
+    "id": "template-food-peking-duck",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-peking-duck.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-peking-duck-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "peking duck"
+      }
+    }
+  },
+  {
+    "id": "template-food-taco",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-taco.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-taco-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "taco"
+      }
+    }
+  },
+  {
+    "id": "template-food-tom-yum-soup",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-tom-yum-soup.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-tom-yum-soup-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "tom yum soup"
+      }
+    }
+  },
+  {
+    "id": "template-food-vietnamese-spring-rolls",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-en-vietnamese-spring-rolls.jpg",
+      "preview_path": "/images/insp_preview/template-food-en-vietnamese-spring-rolls-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "en": {
+        "category": "Food Science Infographic",
+        "title": "vietnamese spring rolls"
+      }
+    }
+  }
+]

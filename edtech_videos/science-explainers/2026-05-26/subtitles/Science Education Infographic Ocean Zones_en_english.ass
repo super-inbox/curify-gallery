@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 928
+PlayResY: 1152
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,65,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,18,18,57,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.71,Default,,0,0,0,,{\alpha&HCC&}Have you ever thought\Nabout what lies beneath the\Nwaves of the ocean?
+Dialogue: 0,0:00:03.71,0:00:07.50,Default,,0,0,0,,{\alpha&HCC&}Let me tell you a story about\Nthe magical layers of the sea
+Dialogue: 0,0:00:07.50,0:00:08.58,Default,,0,0,0,,{\alpha&HCC&}each with its own
+Dialogue: 0,0:00:08.58,0:00:10.58,Default,,0,0,0,,{\alpha&HCC&}special secrets
+Dialogue: 0,0:00:10.58,0:00:13.08,Default,,0,0,0,,{\alpha&HCC&}Imagine the top of the ocean\Nlike a bright
+Dialogue: 0,0:00:13.08,0:00:13.72,Default,,0,0,0,,{\alpha&HCC&}sunny beach
+Dialogue: 0,0:00:13.72,0:00:15.72,Default,,0,0,0,,{\alpha&HCC&}This is the Sunlight Zone
+Dialogue: 0,0:00:15.72,0:00:16.00,Default,,0,0,0,,{\alpha&HCC&}Here
+Dialogue: 0,0:00:16.00,0:00:17.95,Default,,0,0,0,,{\alpha&HCC&}the water sparkles in the\Nsunlight
+Dialogue: 0,0:00:17.95,0:00:20.01,Default,,0,0,0,,{\alpha&HCC&}just like a playground on a\Nsunny day
+Dialogue: 0,0:00:20.01,0:00:24.59,Default,,0,0,0,,{\alpha&HCC&}Plants and lots of fish love\Nthis part because the sun\Nhelps them grow and play
+Dialogue: 0,0:00:24.59,0:00:26.59,Default,,0,0,0,,{\alpha&HCC&}It’s like a garden under the\Nsea!
+Dialogue: 0,0:00:26.59,0:00:27.60,Default,,0,0,0,,{\alpha&HCC&}Dive a bit deeper
+Dialogue: 0,0:00:27.60,0:00:29.45,Default,,0,0,0,,{\alpha&HCC&}and you’ll find the Twilight\NZone
+Dialogue: 0,0:00:29.45,0:00:30.71,Default,,0,0,0,,{\alpha&HCC&}It’s much dimmer here
+Dialogue: 0,0:00:30.71,0:00:33.17,Default,,0,0,0,,{\alpha&HCC&}like when the sun is setting\Nin the evening
+Dialogue: 0,0:00:33.17,0:00:36.60,Default,,0,0,0,,{\alpha&HCC&}Not many creatures live here\Nbecause it’s a little chilly\Nand quiet
+Dialogue: 0,0:00:36.60,0:00:40.32,Default,,0,0,0,,{\alpha&HCC&}Imagine this layer as a cozy\Ntwilight forest where only\Nsome curious animals
+Dialogue: 0,0:00:40.32,0:00:42.32,Default,,0,0,0,,{\alpha&HCC&}wander
+Dialogue: 0,0:00:42.32,0:00:43.34,Default,,0,0,0,,{\alpha&HCC&}Now go even deeper
+Dialogue: 0,0:00:43.34,0:00:45.18,Default,,0,0,0,,{\alpha&HCC&}and you’ll reach the\NMidnight Zone
+Dialogue: 0,0:00:45.18,0:00:46.59,Default,,0,0,0,,{\alpha&HCC&}This place is pitch dark
+Dialogue: 0,0:00:46.59,0:00:49.18,Default,,0,0,0,,{\alpha&HCC&}just like your bedroom when\Nthe lights are off
+Dialogue: 0,0:00:49.18,0:00:51.04,Default,,0,0,0,,{\alpha&HCC&}Strange and glowing\Ncreatures live here
+Dialogue: 0,0:00:51.04,0:00:52.61,Default,,0,0,0,,{\alpha&HCC&}like little twinkling stars in\Nthe
+Dialogue: 0,0:00:52.61,0:00:54.61,Default,,0,0,0,,{\alpha&HCC&}ocean
+Dialogue: 0,0:00:54.61,0:00:58.05,Default,,0,0,0,,{\alpha&HCC&}They have to be very brave\Nto live in the deep dark!
+Dialogue: 0,0:00:58.05,0:01:00.05,Default,,0,0,0,,{\alpha&HCC&}Below that is the Abyssal\NZone
+Dialogue: 0,0:01:00.05,0:01:01.53,Default,,0,0,0,,{\alpha&HCC&}It’s super cold and quiet
+Dialogue: 0,0:01:01.53,0:01:02.62,Default,,0,0,0,,{\alpha&HCC&}like a winter night
+Dialogue: 0,0:01:02.62,0:01:03.96,Default,,0,0,0,,{\alpha&HCC&}Special creatures live here
+Dialogue: 0,0:01:03.96,0:01:05.39,Default,,0,0,0,,{\alpha&HCC&}unlike any you’ve seen\Nbefore
+Dialogue: 0,0:01:05.39,0:01:06.05,Default,,0,0,0,,{\alpha&HCC&}adapted to the
+Dialogue: 0,0:01:06.05,0:01:08.05,Default,,0,0,0,,{\alpha&HCC&}freezing waters
+Dialogue: 0,0:01:08.05,0:01:12.06,Default,,0,0,0,,{\alpha&HCC&}It’s a bit like discovering a\Nhidden world under a thick\Nblanket of snow
+Dialogue: 0,0:01:12.06,0:01:14.06,Default,,0,0,0,,{\alpha&HCC&}Deeper still is the Hadal\NZone
+Dialogue: 0,0:01:14.06,0:01:17.02,Default,,0,0,0,,{\alpha&HCC&}This is where the ocean floor\Ndips into deep trenches
+Dialogue: 0,0:01:17.02,0:01:18.06,Default,,0,0,0,,{\alpha&HCC&}kind of like hidden
+Dialogue: 0,0:01:18.06,0:01:20.06,Default,,0,0,0,,{\alpha&HCC&}valleys
+Dialogue: 0,0:01:20.06,0:01:23.60,Default,,0,0,0,,{\alpha&HCC&}It’s a mysterious place with\Nhigh pressure—much like\Nbeing in a very
+Dialogue: 0,0:01:23.60,0:01:24.07,Default,,0,0,0,,{\alpha&HCC&}very deep
+Dialogue: 0,0:01:24.07,0:01:26.07,Default,,0,0,0,,{\alpha&HCC&}cave under lots of rock
+Dialogue: 0,0:01:26.07,0:01:26.47,Default,,0,0,0,,{\alpha&HCC&}Finally
+Dialogue: 0,0:01:26.47,0:01:27.44,Default,,0,0,0,,{\alpha&HCC&}at the very bottom
+Dialogue: 0,0:01:27.44,0:01:28.35,Default,,0,0,0,,{\alpha&HCC&}there's the Seabed
+Dialogue: 0,0:01:28.35,0:01:29.76,Default,,0,0,0,,{\alpha&HCC&}This is the ocean floor
+Dialogue: 0,0:01:29.76,0:01:31.82,Default,,0,0,0,,{\alpha&HCC&}covered in soft sand and\Nsediments
+Dialogue: 0,0:01:31.82,0:01:32.64,Default,,0,0,0,,{\alpha&HCC&}a bit like the
+Dialogue: 0,0:01:32.64,0:01:34.64,Default,,0,0,0,,{\alpha&HCC&}ground in a peaceful forest

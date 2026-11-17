@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 928
+PlayResY: 1152
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,65,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,18,18,57,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.65,Default,,0,0,0,,{\alpha&HCC&}Did you know the sky above\Nus is like a giant
+Dialogue: 0,0:00:02.65,0:00:04.50,Default,,0,0,0,,{\alpha&HCC&}invisible blanket with\Ndifferent
+Dialogue: 0,0:00:04.50,0:00:06.50,Default,,0,0,0,,{\alpha&HCC&}layers?
+Dialogue: 0,0:00:06.50,0:00:08.61,Default,,0,0,0,,{\alpha&HCC&}Each layer has its own\Nspecial job
+Dialogue: 0,0:00:08.61,0:00:10.61,Default,,0,0,0,,{\alpha&HCC&}Let's explore them together!
+Dialogue: 0,0:00:10.61,0:00:13.01,Default,,0,0,0,,{\alpha&HCC&}Right above where we stand\Nis the troposphere
+Dialogue: 0,0:00:13.01,0:00:15.12,Default,,0,0,0,,{\alpha&HCC&}This is like our playground of\Nweather
+Dialogue: 0,0:00:15.12,0:00:15.39,Default,,0,0,0,,{\alpha&HCC&}Here
+Dialogue: 0,0:00:15.39,0:00:17.56,Default,,0,0,0,,{\alpha&HCC&}clouds float like fluffy cotton\Ncandies
+Dialogue: 0,0:00:17.56,0:00:19.03,Default,,0,0,0,,{\alpha&HCC&}and rain falls to water the
+Dialogue: 0,0:00:19.03,0:00:21.03,Default,,0,0,0,,{\alpha&HCC&}earth
+Dialogue: 0,0:00:21.03,0:00:23.25,Default,,0,0,0,,{\alpha&HCC&}It's where planes zoom\Nthrough the sky
+Dialogue: 0,0:00:23.25,0:00:24.33,Default,,0,0,0,,{\alpha&HCC&}and birds fly about
+Dialogue: 0,0:00:24.33,0:00:27.34,Default,,0,0,0,,{\alpha&HCC&}It’s as close as a cozy\Nsweater keeping us warm
+Dialogue: 0,0:00:27.34,0:00:29.34,Default,,0,0,0,,{\alpha&HCC&}Next up is the stratosphere
+Dialogue: 0,0:00:29.34,0:00:31.34,Default,,0,0,0,,{\alpha&HCC&}Imagine this layer as the\Nprotector
+Dialogue: 0,0:00:31.34,0:00:31.65,Default,,0,0,0,,{\alpha&HCC&}Here
+Dialogue: 0,0:00:31.65,0:00:33.17,Default,,0,0,0,,{\alpha&HCC&}we have the ozone layer
+Dialogue: 0,0:00:33.17,0:00:36.15,Default,,0,0,0,,{\alpha&HCC&}like a shield that blocks out\Nsome of the sun’s
+Dialogue: 0,0:00:36.15,0:00:36.90,Default,,0,0,0,,{\alpha&HCC&}strong rays
+Dialogue: 0,0:00:36.90,0:00:38.15,Default,,0,0,0,,{\alpha&HCC&}just like sunscreen!
+Dialogue: 0,0:00:38.15,0:00:42.06,Default,,0,0,0,,{\alpha&HCC&}It’s also home to the\Nfast-moving jet stream that\Nhelps planes fly quicker
+Dialogue: 0,0:00:42.06,0:00:43.81,Default,,0,0,0,,{\alpha&HCC&}Higher up is the mesosphere
+Dialogue: 0,0:00:43.81,0:00:45.31,Default,,0,0,0,,{\alpha&HCC&}where the air is chilly
+Dialogue: 0,0:00:45.31,0:00:46.56,Default,,0,0,0,,{\alpha&HCC&}like the inside of a
+Dialogue: 0,0:00:46.56,0:00:48.56,Default,,0,0,0,,{\alpha&HCC&}freezer
+Dialogue: 0,0:00:48.56,0:00:51.87,Default,,0,0,0,,{\alpha&HCC&}It’s the place where\Nmeteors come zipping in and\Nburn up
+Dialogue: 0,0:00:51.87,0:00:53.59,Default,,0,0,0,,{\alpha&HCC&}When you see a shooting star
+Dialogue: 0,0:00:53.59,0:00:55.48,Default,,0,0,0,,{\alpha&HCC&}it’s burning in this very\Nlayer!
+Dialogue: 0,0:00:55.48,0:00:57.03,Default,,0,0,0,,{\alpha&HCC&}Then comes the\Nthermosphere
+Dialogue: 0,0:00:57.03,0:00:57.86,Default,,0,0,0,,{\alpha&HCC&}where it's hot
+Dialogue: 0,0:00:57.86,0:00:59.69,Default,,0,0,0,,{\alpha&HCC&}yet feels cold because the air\Nis
+Dialogue: 0,0:00:59.69,0:01:01.69,Default,,0,0,0,,{\alpha&HCC&}super thin
+Dialogue: 0,0:01:01.69,0:01:05.23,Default,,0,0,0,,{\alpha&HCC&}It’s a light show stage\Nwhere colorful auroras\Ndance in the sky
+Dialogue: 0,0:01:05.23,0:01:05.90,Default,,0,0,0,,{\alpha&HCC&}like magical
+Dialogue: 0,0:01:05.90,0:01:07.90,Default,,0,0,0,,{\alpha&HCC&}lights
+Dialogue: 0,0:01:07.90,0:01:10.00,Default,,0,0,0,,{\alpha&HCC&}It’s also where space\Nshuttles sometimes fly
+Dialogue: 0,0:01:10.00,0:01:11.26,Default,,0,0,0,,{\alpha&HCC&}Further and further up
+Dialogue: 0,0:01:11.26,0:01:12.40,Default,,0,0,0,,{\alpha&HCC&}we find the exosphere
+Dialogue: 0,0:01:12.40,0:01:15.41,Default,,0,0,0,,{\alpha&HCC&}This layer feels like the outer\Ncourtyard of our earth-home
+Dialogue: 0,0:01:15.41,0:01:16.56,Default,,0,0,0,,{\alpha&HCC&}Satellites orbit here
+Dialogue: 0,0:01:16.56,0:01:18.38,Default,,0,0,0,,{\alpha&HCC&}circling the earth like tiny\Nmoons
+Dialogue: 0,0:01:18.38,0:01:19.32,Default,,0,0,0,,{\alpha&HCC&}helping us talk to
+Dialogue: 0,0:01:19.32,0:01:21.32,Default,,0,0,0,,{\alpha&HCC&}friends far away
+Dialogue: 0,0:01:21.32,0:01:21.74,Default,,0,0,0,,{\alpha&HCC&}Finally
+Dialogue: 0,0:01:21.74,0:01:23.42,Default,,0,0,0,,{\alpha&HCC&}beyond all these layers is\Nspace

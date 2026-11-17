@@ -1,0 +1,120 @@
+
+📌 Found 377 image files (.png/.jpg/.jpeg) under SOURCE_DIR
+✅ Added 23 new inspiration records to nano_inspiration.json
+
+=== Template Match Summary ===
+Matched:   23
+Unmatched: 55
+
+--- Unmatched files (no template prefix match) ---
+  - template-mbti-animals-zh-love.jpg
+  - template-mbti-contrast-zh-ESTJ vs INTP-high-speed-rail.jpg
+  - template-mbti-contrast-zh-INFJ vs ESFJ-high-speed-rail.JPG
+  - template-mbti-contrast-zh-INFJ vs ESFJ-home.jpg
+  - template-mbti-contrast-zh-INTJ vs ESTP-high-speed-rail.jpg
+  - template-mbti-contrast-zh-ISFJ vs ENTP-farewell.jpg
+  - template-mbti-contrast-zh-ISTJ-vs-ENFP-package.jpg
+  - template-mbti-contrast-zh-love-ENFJ-vs-ISTP-meeting-parents.jpg
+  - template-mbti-contrast-zh-love-ESFJ-vs-INTJ-traveling.jpg
+  - template-mbti-contrast-zh-love-ESTJ-vs-INTP-anniversary.jpg
+  - template-mbti-contrast-zh-love-INFJ-vs-ESTP-daily-interaction.jpg
+  - template-mbti-contrast-zh-love-INFP-vs-ESTP-confession.jpg
+  - template-mbti-contrast-zh-love-ISFJ-vs-ENTP-gift-giving.jpg
+  - template-mbti-contrast-zh-love-ISTJ-vs-ESFP-after-fight.jpg
+  - template-building-en-gothic-cathedral 1.jpg
+  - template-building-en-gothic-cathedral.jpg
+  - template-mbti-zh-spring-festival-1.jpg
+  - template-mbti-zh-spring-festival-2.jpg
+  - template-mbti-zh-spring-festival-3.jpg
+  - template-mbti-zh-spring-festival-4.jpg
+  - template-mbti-zh-spring-festival-5.jpg
+  - template-mbti-zh-spring-festival-6.jpg
+  - template-mbti-zh-annual-meeting 2.jpg
+  - template-mbti-zh-annual-meeting 3.jpg
+  - template-mbti-zh-annual-meeting 4.jpg
+  - template-mbti-zh-annual-meeting 5.jpg
+  - template-mbti-zh-annual-meeting 6.jpg
+  - template-mbti-zh-annual-meeting 7.jpg
+  - template-mbti-zh-annual-meeting.jpg
+  - template-product-ecommerce-zh-hairdryer.jpg
+  - template-mbti-zh-amusement-park 1.jpg
+  - template-mbti-zh-amusement-park 2.jpg
+  - template-mbti-zh-amusement-park 3.jpg
+  - template-mbti-zh-amusement-park 4.jpg
+  - template-mbti-zh-amusement-park 5.jpg
+  - template-mbti-zh-amusement-park 6.jpg
+  - template-mbti-zh-amusement-park 7.jpg
+  - template-mbti-zh-supermarket 2.jpg
+  - template-mbti-zh-supermarket 3.jpg
+  - template-mbti-zh-supermarket 4.jpg
+  - template-mbti-zh-supermarket 5.jpg
+  - template-mbti-zh-supermarket 6.jpg
+  - template-mbti-zh-supermarket.jpg
+  - template-mbti-zh-cafe 2.jpg
+  - template-mbti-zh-cafe 3.jpg
+  - template-mbti-zh-cafe.jpg
+  - template-mbti-zh-plane-1.jpg
+  - template-mbti-zh-plane-2.jpg
+  - template-mbti-zh-plane-3.jpg
+  - template-mbti-zh-sleep.png
+  - template-mbti-zh-cafe.jpg
+  - template-mbti-zh-ski-resort 2.jpg
+  - template-mbti-zh-ski-resort 3.jpg
+  - template-mbti-zh-ski-resort 4.jpg
+  - template-mbti-zh-ski-resort.jpg
+
+--- Matched files ---
+  - template-mbti-animal-zh-annual-concert.jpg
+  - template-mbti-animal-zh-gym.jpg
+  - template-mbti-animal-zh-office.jpg
+  - template-mbti-animal-zh-zoo.jpg
+  - template-mbti-animal-zh-annual-meeting 1.jpg
+  - template-mbti-animal-zh-annual-meeting 2.jpg
+  - template-mbti-animal-zh-annual-meeting 3.jpg
+  - template-mbti-animal-zh-annual-meeting 4.jpg
+  - template-mbti-animal-zh-annual-meeting 5.jpg
+  - template-mbti-animal-zh-annual-meeting 6.jpg
+  - template-mbti-animal-zh-annual-meeting 7.jpg
+  - template-mbti-animal-zh-spring-festival 1.jpg
+  - template-mbti-animal-zh-spring-festival 2.jpg
+  - template-mbti-animal-zh-spring-festival 3.jpg
+  - template-mbti-animal-zh-spring-festival 4.jpg
+  - template-mbti-animal-zh-spring-festival 5.jpg
+  - template-mbti-animal-zh-spring-festival 6.jpg
+  - template-mbti-animal-zh-supermarket 2.jpg
+  - template-mbti-animal-zh-supermarket 3.jpg
+  - template-mbti-animal-zh-supermarket 4.jpg
+  - template-mbti-animal-zh-supermarket 5.jpg
+  - template-mbti-animal-zh-supermarket 6.jpg
+  - template-mbti-animal-zh-supermarket.jpg
+
+=== Images per template ===
+template-herbal-zh: 45
+template-mbti-animal: 42
+template-word-scene: 39
+template-character-zh: 30
+template-food: 28
+template-fashion-ecommerce: 21
+template-solar-term: 8
+template-fruit: 8
+template-character-analysis-zh: 7
+template-intangible-heritage-zh: 6
+template-what-if-history: 6
+template-book-series: 6
+template-mbti-spring-festival-zh: 6
+template-guofeng-scroll-zh: 6
+template-education-zh: 5
+template-costume-zh: 5
+template-evolution: 5
+template-cultural-relic: 5
+template-dog-breed: 5
+template-portrait-retouching-blueprint: 5
+template-recipe-zh: 4
+template-species-science-zh: 4
+template-travel-zh: 4
+template-weather: 4
+template-architecture: 4
+template-species-zh: 3
+template-battle: 3
+template-hot-event-analysis-zh: 2
+template-education-card: 1

@@ -1,0 +1,50 @@
+{
+  "title": "The Lost LEGO Kite",
+  "segments": [
+    {
+      "id": 1,
+      "title": "Chasing the Wind",
+      "description": "A red-orange leaf-shaped kite escapes from a LEGO child's hand. The child, a LEGO minifigure, runs across a lively pumpkin patch, weaving between oversized pumpkins and hay bales. The kite dances through the wind just out of reach.",
+      "visual_keywords": [
+        "lego child chasing kite",
+        "leaf-shaped kite flying",
+        "pumpkin patch",
+        "hay bales",
+        "dynamic camera pan",
+        "fall foliage"
+      ],
+      "mood": "Playful and energetic",
+      "style": "Cinematic, warm lighting, golden autumn"
+    },
+    {
+      "id": 2,
+      "title": "Lost in the Maze",
+      "description": "The kite swoops into a giant leaf maze. The LEGO child pauses at the entrance, unsure which way to go. Birds fly overhead as orange leaves swirl around. The camera slowly pulls up to reveal the entire maze shaped like a maple leaf.",
+      "visual_keywords": [
+        "leaf maze",
+        "lego child confused",
+        "swirling fall leaves",
+        "aerial maze view",
+        "birds flying",
+        "overhead drone shot"
+      ],
+      "mood": "Curious and whimsical",
+      "style": "Soft breeze, golden hour, playful composition"
+    },
+    {
+      "id": 3,
+      "title": "Kite Reborn at Sunset",
+      "description": "On top of a grassy hill at sunset, the LEGO child finds the torn kite. Using LEGO bricks and fallen leaves, they rebuild it creatively. The final shot shows the kite soaring high across the vivid sunset sky as the camera zooms out.",
+      "visual_keywords": [
+        "sunset hilltop",
+        "lego child rebuilding kite",
+        "leaf and brick fusion",
+        "soaring kite",
+        "fiery sky",
+        "emotional zoom out"
+      ],
+      "mood": "Triumphant and peaceful",
+      "style": "Cinematic, backlit with long shadows, emotional"
+    }
+  ]
+}

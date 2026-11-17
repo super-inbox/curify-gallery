@@ -23,4 +23,6 @@
 
 - 2026-11-17 · 红楼美人拳：从荣国府元宵夜宴里的织锦美人拳，接到现代女儿给妈妈轻捶肩背。[28.6 秒竖屏成片](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4)。已收录，待发布。配乐为 Shane Ivers 的 [All The Tea In China](https://www.silvermansound.com/free-music/all-the-tea-in-china)，按 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可截取并混音。
 
+- 2026-11-07 · 圆明园今昔 / Yuanmingyuan, Then and Now：三景 15 秒，中英双语成片。[英文发布文案](posts_fb.md#yuanmingyuan-then-and-now-20261107) · [中文发布文案](posts_rednote_kuaishou.md#yuanmingyuan-then-and-now-20261107) · [成片](../../cultural_videos/yuanmingyuan/yuanmingyuan-then-and-now-15s.mp4)。待发布，未排期。
+
 - 2026-11-17 · S4「向光而生」飞行员纹身纪念短片：69秒，Curify斜向水印，动画定格结尾。[中文文案](posts_rednote_kuaishou.md#s4-tattoo-pilot) · [English caption](posts_fb.md#s4-tattoo-pilot) · [视频](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4)。已接在S3后加入中英文发布序列，未预约、未发布；视频随Git提交保存。

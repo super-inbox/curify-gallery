@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 928
+PlayResY: 1152
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,65,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,18,18,57,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.36,Default,,0,0,0,,{\alpha&HCC&}Did you know that a single\Nbolt of lightning can be\Nhotter than the surface of
+Dialogue: 0,0:00:04.36,0:00:06.36,Default,,0,0,0,,{\alpha&HCC&}the sun?
+Dialogue: 0,0:00:06.36,0:00:08.36,Default,,0,0,0,,{\alpha&HCC&}It’s true!
+Dialogue: 0,0:00:08.36,0:00:10.36,Default,,0,0,0,,{\alpha&HCC&}Imagine being outside\Nduring a storm
+Dialogue: 0,0:00:10.36,0:00:13.08,Default,,0,0,0,,{\alpha&HCC&}You might see a flash of\Nlightning in the sky
+Dialogue: 0,0:00:13.08,0:00:15.26,Default,,0,0,0,,{\alpha&HCC&}That lightning is like a giant\Nelectric spark
+Dialogue: 0,0:00:15.26,0:00:15.57,Default,,0,0,0,,{\alpha&HCC&}Now
+Dialogue: 0,0:00:15.57,0:00:17.26,Default,,0,0,0,,{\alpha&HCC&}think about a campfire
+Dialogue: 0,0:00:17.26,0:00:19.26,Default,,0,0,0,,{\alpha&HCC&}It’s warm and bright
+Dialogue: 0,0:00:19.26,0:00:21.93,Default,,0,0,0,,{\alpha&HCC&}The sun is like a giant\Ncampfire in the sky
+Dialogue: 0,0:00:21.93,0:00:23.08,Default,,0,0,0,,{\alpha&HCC&}keeping us all warm
+Dialogue: 0,0:00:23.08,0:00:26.63,Default,,0,0,0,,{\alpha&HCC&}But here’s the surprising\Npart: that quick flash of\Nlightning is even hotter!
+Dialogue: 0,0:00:26.63,0:00:29.66,Default,,0,0,0,,{\alpha&HCC&}It’s as if the lightning is\Nwearing a special hot coat
+Dialogue: 0,0:00:29.66,0:00:30.99,Default,,0,0,0,,{\alpha&HCC&}making it super warm for
+Dialogue: 0,0:00:30.99,0:00:32.99,Default,,0,0,0,,{\alpha&HCC&}just a moment
+Dialogue: 0,0:00:32.99,0:00:35.99,Default,,0,0,0,,{\alpha&HCC&}Lightning happens when tiny\Nparticles in clouds bump\Ninto each other
+Dialogue: 0,0:00:35.99,0:00:39.53,Default,,0,0,0,,{\alpha&HCC&}It’s like when you rub your\Nhands together really fast to\Nget warm
+Dialogue: 0,0:00:39.53,0:00:43.62,Default,,0,0,0,,{\alpha&HCC&}This makes the clouds full of\Nenergy and creates that\Nbright zigzag we see in
+Dialogue: 0,0:00:43.62,0:00:45.62,Default,,0,0,0,,{\alpha&HCC&}the sky

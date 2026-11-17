@@ -1,0 +1,33 @@
+{
+  "image_tool": "built-in image_gen",
+  "canvas": "vertical 9:16, photorealistic editorial fashion, no generated text/logos",
+  "identity_rule": "Within each sequence preserve exact same face, proportions, gaze, camera framing, body pose, lighting and background; edit garments and styling only.",
+  "era": {
+    "model": "Original adult woman age 28, olive skin, dark brown eyes, oval face, brunette hair with center part and low coiled bun; waist-up portrait, dark muted olive seamless studio, dramatic soft side light, realistic pores and textiles.",
+    "looks": [
+      "Renaissance-inspired emerald velvet square-neck gown, cream lace neckline, puff sleeves, pearl drop earrings.",
+      "1920s Art Deco black beaded evening dress, long pearl necklace, finger-wave hair, thin jeweled headband.",
+      "Futuristic sculptural silver high-collar tailored jacket, black inner layer, brushed metallic fabric and slim silver ear cuff; no armor, robot or sunglasses."
+    ]
+  },
+  "sarong": {
+    "model": "Original adult Malaysian woman age 30, warm medium skin, shoulder-length dark hair brushed back, soft rounded face; full length in teal heritage shophouse with shutters and patterned cement tiles, natural daylight.",
+    "fixed_garment": "Deep teal ankle-length wrapped sarong, fine repeating gold botanical motifs, same wrap/hem and ivory low heels in all three looks.",
+    "looks": [
+      "Ivory embroidered kebaya over camisole, three small gold kerongsang brooches.",
+      "Ivory cotton work shirt, rolled sleeves, open collar, tucked into sarong; remove brooches.",
+      "Rust-red batik jacket with ivory floral motifs, open over plain ivory crewneck blouse; remove brooches."
+    ]
+  },
+  "silk": {
+    "model": "Original adult Chinese woman age 28, oval face, almond eyes, dark low bun and natural makeup; warm pale-stone studio alcove, softly lit, centered stable fashion portrait.",
+    "looks": [
+      "Contemporary Tang-inspired ochre gold high-waisted skirt, crimson cropped embroidered jacket, ivory inner layer and translucent ivory drape over forearms, gold hairpin.",
+      "Contemporary Song-inspired pale celadon open-front beizi outer layer with narrow sleeves, ivory top and jade pleated skirt, small silver hairpin; remove crimson jacket and drape.",
+      "Modern midnight-blue fitted long-sleeve mandarin-collar jacket, fabric frog closures, ivory flowing lower garment and ivory shoes, subtle silver hairpin. Prompt requested wide-leg trousers; selected image renders a flowing skirt, accepted as a coherent contemporary outfit."
+    ],
+    "framing": "Modern fashion interpretations, not historical reconstructions."
+  },
+  "motion": "See stills/*-motion.txt and animate_batch.py for exact submitted motion prompts.",
+  "editing": "See build_shorts.py for exact titles, edit durations and audio processing."
+}

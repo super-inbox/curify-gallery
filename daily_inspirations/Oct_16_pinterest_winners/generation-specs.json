@@ -1,0 +1,77 @@
+[
+  {
+    "suffix": "classic-french-manicure",
+    "theme": "Classic French Manicure",
+    "steps": [
+      "1 CLEAN NAILS",
+      "2 FILE SHAPE",
+      "3 BASE COAT",
+      "4 SHEER PINK",
+      "5 LET DRY",
+      "6 WHITE TIPS",
+      "7 CLEAN EDGES",
+      "8 TOP COAT",
+      "9 AIR DRY"
+    ],
+    "bonus": [
+      "THIN COATS",
+      "FINAL LOOK"
+    ],
+    "details": "Use regular air-dry nail lacquer, not gel. White tips sit only at each nail's free edge. The end result is a sheer blush nail with narrow white tip. Show a clean-up brush around the nail edge, never cutting skin. Panels progress consistently from bare nails to a finished French manicure. Bonus shows thin polish on brush and final manicured hand.",
+    "source_file": "exec-75cced0a-7933-4cf6-9884-cd175083dfe0.png",
+    "example_id": "template-beauty-step-by-step-guide-classic-french-manicure",
+    "template_base_prompt": "（Beauty Step-by-Step Guide Poster Designer）You are a professional beauty and lifestyle step-by-step infographic designer. Based on the user-specified {tutorial_theme}, generate a vertical premium step-by-step guide poster, matching the soft, clean cartoon aesthetic of the reference images. Layout: 1. Header: Large elegant title \"{tutorial_theme} STEP BY STEP\", Curify watermark at bottom right. 2. Step Grid: 9 main steps in 3×3 grid, each with numbered label, bold step title, cartoon illustration of the step, and corresponding tools/items shown. 2 bonus steps at the bottom. Style: Soft pastel color palette, warm friendly cartoon illustrations, clean modern typography, light sparkly background, vertical format, 4K ultra HD, direct image generation. Subject: {tutorial_theme} Step-by-Step Guide Poster.",
+    "generator": "built-in image_gen",
+    "reference_image": "/Users/qqwjq/curify-gallery/daily_inspirations/Apr_16/template-beauty-step-by-step-guide-nail-art.jpg"
+  },
+  {
+    "suffix": "daisy-nail-art",
+    "theme": "Daisy Nail Art",
+    "steps": [
+      "1 CLEAN NAILS",
+      "2 FILE SHAPE",
+      "3 BASE COAT",
+      "4 LILAC COLOR",
+      "5 LET DRY",
+      "6 WHITE PETALS",
+      "7 YELLOW CENTERS",
+      "8 TOP COAT",
+      "9 AIR DRY"
+    ],
+    "bonus": [
+      "DOT PATTERN",
+      "FINAL LOOK"
+    ],
+    "details": "Use regular air-dry nail lacquer, not gel. Soft lilac base. Dot five white petals in a ring with a rounded dotting tool, then add a small yellow center. Illustrations accurately show these steps. Final nails have simple white daisies on lilac. Bonus shows five white dots around a yellow center and final manicured hand.",
+    "source_file": "exec-e99750ce-b948-41a1-a871-9aa058574211.png",
+    "example_id": "template-beauty-step-by-step-guide-daisy-nail-art",
+    "template_base_prompt": "（Beauty Step-by-Step Guide Poster Designer）You are a professional beauty and lifestyle step-by-step infographic designer. Based on the user-specified {tutorial_theme}, generate a vertical premium step-by-step guide poster, matching the soft, clean cartoon aesthetic of the reference images. Layout: 1. Header: Large elegant title \"{tutorial_theme} STEP BY STEP\", Curify watermark at bottom right. 2. Step Grid: 9 main steps in 3×3 grid, each with numbered label, bold step title, cartoon illustration of the step, and corresponding tools/items shown. 2 bonus steps at the bottom. Style: Soft pastel color palette, warm friendly cartoon illustrations, clean modern typography, light sparkly background, vertical format, 4K ultra HD, direct image generation. Subject: {tutorial_theme} Step-by-Step Guide Poster.",
+    "generator": "built-in image_gen",
+    "reference_image": "/Users/qqwjq/curify-gallery/daily_inspirations/Apr_16/template-beauty-step-by-step-guide-nail-art.jpg"
+  },
+  {
+    "suffix": "pastel-polka-dot-nails",
+    "theme": "Pastel Polka Dot Nails",
+    "steps": [
+      "1 CLEAN NAILS",
+      "2 FILE SHAPE",
+      "3 BASE COAT",
+      "4 CREAM COLOR",
+      "5 LET DRY",
+      "6 PASTEL DOTS",
+      "7 LET SET",
+      "8 TOP COAT",
+      "9 AIR DRY"
+    ],
+    "bonus": [
+      "DOT SPACING",
+      "FINAL LOOK"
+    ],
+    "details": "Use regular air-dry nail lacquer, not gel. Cream base with small evenly separated lilac, pink and mint dots applied with a rounded dotting tool. Preserve polka dot design in final panels. Bonus shows evenly spaced dots and final manicured hand.",
+    "source_file": "exec-0eefea4e-9000-46f9-b328-a720525d8fbd.png",
+    "example_id": "template-beauty-step-by-step-guide-pastel-polka-dot-nails",
+    "template_base_prompt": "（Beauty Step-by-Step Guide Poster Designer）You are a professional beauty and lifestyle step-by-step infographic designer. Based on the user-specified {tutorial_theme}, generate a vertical premium step-by-step guide poster, matching the soft, clean cartoon aesthetic of the reference images. Layout: 1. Header: Large elegant title \"{tutorial_theme} STEP BY STEP\", Curify watermark at bottom right. 2. Step Grid: 9 main steps in 3×3 grid, each with numbered label, bold step title, cartoon illustration of the step, and corresponding tools/items shown. 2 bonus steps at the bottom. Style: Soft pastel color palette, warm friendly cartoon illustrations, clean modern typography, light sparkly background, vertical format, 4K ultra HD, direct image generation. Subject: {tutorial_theme} Step-by-Step Guide Poster.",
+    "generator": "built-in image_gen",
+    "reference_image": "/Users/qqwjq/curify-gallery/daily_inspirations/Apr_16/template-beauty-step-by-step-guide-nail-art.jpg"
+  }
+]

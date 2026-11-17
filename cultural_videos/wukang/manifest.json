@@ -1,0 +1,23 @@
+{
+  "project_version": "v03",
+  "duration": 20,
+  "watermark_script": "curify-studio/dev/jayw/video_pipelines/costume_story_video/watermark_video.py",
+  "files": [
+    {
+      "file": "wukang-autumn-fashion-20s.mp4",
+      "sha256": "0d72af5842d5cd30c9e764260df335976290bd07c040cf57d4a5302dd48fbd9f",
+      "bytes": 24222683
+    },
+    {
+      "file": "wukang-autumn-fashion-20s-watermarked.mp4",
+      "sha256": "60299aa97582ebc2957886432d1036f1246549fb56aa12a7c0df722144c72967",
+      "bytes": 24525979
+    }
+  ],
+  "queue": {
+    "series": "destination-souvenir",
+    "position": 6,
+    "facebook": "queued-not-scheduled",
+    "rednote": "queued-not-scheduled"
+  }
+}

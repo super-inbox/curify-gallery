@@ -1,0 +1,36 @@
+Use case: scientific-educational. Create ONE portrait HSK 2 reading lesson poster matching the provided reference template faithfully: identical cream paper, thin rounded tan border, watercolor cloud HSK badge top left, peach ribbon top center, large dark brown Chinese title and smaller English title, round scene top right, eight generously spaced passage rows in left 62% with small pinyin directly above corresponding large Chinese, three stacked rounded watercolor scene panels on right, star/heart dividers, gold New Words ribbon and 2x4 numbered vocabulary boxes at bottom. Same warm hand-painted watercolor children’s-book style and legible classroom typography as reference. Not a redesign. Aspect ratio same as reference (about 0.70 width/height), high resolution for all text.
+
+Use the reference for its layout, typography, warm watercolor style and spacing ONLY. Replace ALL Beijing content with this new story. Characters should be international adult learners and their friends; illustrate specific moments of THIS passage in the three right-side panels plus the round header scene. Clothing and people should be consistent across panels, with natural personal scenes rather than generic country stereotypes. NO extra readable text in illustrations.
+Badge: 适合水平 HSK 2
+Ribbon: 阅读课文 | Reading Lesson
+Title: 春天去野餐
+Subtitle: A Spring Picnic
+Eight passage rows, pinyin ABOVE Chinese, each sentence exactly once. Do not change ANY character, pinyin syllable or tone mark. Prioritize large readable text; do not overlap illustrations.
+Chūn tiān lái le, tiān qì nuǎn huo le.
+春天来了，天气暖和了。
+Xīng qī tiān, wǒ men qù gōng yuán yě cān.
+星期天，我们去公园野餐。
+Wǒ dài le miàn bāo hé jǐ ge píng guǒ.
+我带了面包和几个苹果。
+Péng you dài le shuǐ hé yí ge xiǎo qiú.
+朋友带了水和一个小球。
+Wǒ men zuò zài shù xià chī dōng xi.
+我们坐在树下吃东西。
+Chī wán yǐ hòu, wǒ men yì qǐ wán qiú.
+吃完以后，我们一起玩球。
+Wǒ xué huì le yí ge xīn de Zhōng wén cí.
+我学会了一个新的中文词。
+Zhè ge cí jiù shì yě cān.
+这个词就是野餐。
+Bottom ribbon: 生词 | New Words
+Eight boxes numbered 1–8, each Chinese / pinyin / English and a tiny icon:
+1 春天 / chūn tiān / spring
+2 暖和 / nuǎn huo / warm
+3 野餐 / yě cān / picnic
+4 树下 / shù xià / under a tree
+5 面包 / miàn bāo / bread
+6 苹果 / píng guǒ / apple
+7 朋友 / péng you / friend
+8 天气 / tiān qì / weather
+All eight sentences must be completely visible, without duplicates or omissions. Keep punctuation and diacritics EXACT. Use high resolution. No extra text. The English sentence translations are NOT to be printed.
+CRITICAL vocabulary layout: EACH box MUST contain Chinese on first line, pinyin on second line, ENGLISH MEANING on THIRD line, and a small icon. Never omit English meanings. Leave enough height for all three lines in every vocabulary box.

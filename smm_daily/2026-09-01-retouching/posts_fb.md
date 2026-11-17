@@ -79,7 +79,7 @@ also the better thing to put in a buyer group first.
 | ✅ **10-08** | — | 🏠 R | **R4** · day to dusk, from the photo you already took | `r4-day-to-dusk.jpg` | sent with the **batch CTA** (see R4); group(s) not recorded — fill in | | | |
 | ✅ **reported 10-09** | — | 🏠 R | **R5** · a real hotel room, edited (trial, shared with permission) | `r5-hotel-room.jpg` | a **real estate photos** group (name not recorded) · batch CTA — first post in this file with a real client frame | | | |
 | ✅ **reported 10-09** | — | 🧸 C | **C7** · shoot once, sell every season | `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg` | a **kids & babies photographer** group (name not recorded) · batch CTA | | | |
-| ◻︎ | after C7 | 🧸 C | **C8** · Jurassic rainforest | `demos/scene-worlds-2026-10-11/01-jurassic-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ✅ **reported 10-11** | — | 🧸 C | **C8** · Jurassic rainforest | `demos/scene-worlds-2026-10-11/01-jurassic-before-after-en.jpg` | kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups (user-reported; exact names/URLs not recorded) | | | |
 | ◻︎ | after C7 | 🧸 C | **C9** · Hogwarts-inspired hall | `demos/scene-worlds-2026-10-11/02-hogwarts-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
 | ✅ **reported 10-20** | — | 🧸 C | **C10** · Frozen-inspired ice palace | `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg` | Group search keywords: **kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups** · exact group names, count and publication date not provided | | | |
 | ◻︎ | after C7 | 🧸 C | **C11** · Asgard-inspired golden city | `demos/scene-worlds-2026-10-11/04-asgard-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
@@ -1297,6 +1297,8 @@ Use each English before/after card as a single-image FB post. Keep `overview-en.
 
 ### C8 · Jurassic rainforest
 
+**Posted — user report, 2026-10-11:** kids photographer, kids activities, photographers, and Dubai / Kyoto / Bali photographer groups. Exact group names and post URLs were not supplied. This records Facebook distribution only.
+
 **Attach:** `demos/scene-worlds-2026-10-11/01-jurassic-before-after-en.jpg`
 
 **A dinosaur world, from one studio portrait.**
@@ -1528,7 +1530,6 @@ For a studio planning a similar shoot, photograph the bag closed and fully open 
 
 **First-comment CTA:** We partner with high-end photography studios to create product videos with cinematic camera movement. DM us to discuss your next project.
 
-
 ---
 
 ## 2026-11-11 · G5 · Watch retouching: make the metal read
@@ -1552,3 +1553,21 @@ This comparison is a visual reference for the finishing brief, not a verified ex
 **First-comment CTA — Batch Product Retouching:** We offer batch commercial retouching for watches, jewellery and other products. DM a few originals, your target reference, image count, intended use and deadline. We’ll agree on a sample finish first, then apply the agreed standard across the batch.
 
 **Alt text:** Side-by-side watch-retouching reference. The left image shows a rose-gold-tone bracelet watch with uneven reflections against a grey background; the right shows a white background, more controlled metal highlights and clearer dial details. Chinese labels identify the original and retouched images.
+
+---
+
+## 2026-11-11 · G6 · What makes a watch sparkle in a product photo?
+
+**Status:** Draft.
+**Attach:** [Silver watch with a stone-set bezel](demos/watch-sparkle-reference-2026-11-11/watch-sparkle-reference.jpg)
+**Source:** [Client-supplied visual reference](demos/watch-sparkle-reference-2026-11-11/PROVENANCE.md).
+
+Look at where the light lands on this watch. The stones around the bezel catch small, bright points. The bracelet picks up broader reflections that follow the curve of each link. On the dial, the pearlescent colour stays visible around the hands and hour markers.
+
+That’s a useful brief for a glossy product finish. Keep the brightest highlights on the stones and polished edges, and check at thumbnail size that you can still read the dial and see the bracelet links.
+
+Image supplied by a client as a visual reference.
+
+#WatchPhotography #ProductRetouching #JewelleryPhotography
+
+**Alt text:** Three-quarter view of a silver bracelet watch with a sparkling stone-set bezel, a pearlescent dial and an opening that shows part of the movement.

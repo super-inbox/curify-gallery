@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 928
+PlayResY: 1152
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,65,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,18,18,57,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.36,Default,,0,0,0,,{\alpha&HCC&}Did you know that your brain\Nis like a tiny power station\Ninside your head?
+Dialogue: 0,0:00:04.36,0:00:06.36,Default,,0,0,0,,{\alpha&HCC&}It's true!
+Dialogue: 0,0:00:06.36,0:00:09.35,Default,,0,0,0,,{\alpha&HCC&}Just like the way electricity\Nmakes a lamp light up
+Dialogue: 0,0:00:09.35,0:00:10.73,Default,,0,0,0,,{\alpha&HCC&}your brain makes its own
+Dialogue: 0,0:00:10.73,0:00:12.36,Default,,0,0,0,,{\alpha&HCC&}electricity to help you think
+Dialogue: 0,0:00:12.36,0:00:12.63,Default,,0,0,0,,{\alpha&HCC&}move
+Dialogue: 0,0:00:12.63,0:00:13.06,Default,,0,0,0,,{\alpha&HCC&}and feel
+Dialogue: 0,0:00:13.06,0:00:16.85,Default,,0,0,0,,{\alpha&HCC&}Imagine a cozy blanket made\Nof all the tiny connections in\Nyour brain
+Dialogue: 0,0:00:16.85,0:00:19.18,Default,,0,0,0,,{\alpha&HCC&}These connections are like\Nlittle paths or roads
+Dialogue: 0,0:00:19.18,0:00:20.88,Default,,0,0,0,,{\alpha&HCC&}As thoughts travel along\Nthese paths
+Dialogue: 0,0:00:20.88,0:00:22.67,Default,,0,0,0,,{\alpha&HCC&}they send tiny electric\Nsignals zipping
+Dialogue: 0,0:00:22.67,0:00:24.67,Default,,0,0,0,,{\alpha&HCC&}around
+Dialogue: 0,0:00:24.67,0:00:29.04,Default,,0,0,0,,{\alpha&HCC&}It's like when you charge a\Ntoy and it starts to move or\Nlight up!
+Dialogue: 0,0:00:29.04,0:00:29.24,Default,,0,0,0,,{\alpha&HCC&}Now
+Dialogue: 0,0:00:29.24,0:00:31.37,Default,,0,0,0,,{\alpha&HCC&}why does your brain need\Nthis electricity?
+Dialogue: 0,0:00:31.37,0:00:31.66,Default,,0,0,0,,{\alpha&HCC&}Well
+Dialogue: 0,0:00:31.66,0:00:35.74,Default,,0,0,0,,{\alpha&HCC&}it's because your brain is\Nalways busy talking to the\Nrest of your body
+Dialogue: 0,0:00:35.74,0:00:38.61,Default,,0,0,0,,{\alpha&HCC&}When you decide to wave\Nhello or jump up and down
+Dialogue: 0,0:00:38.61,0:00:40.11,Default,,0,0,0,,{\alpha&HCC&}those thoughts and signals
+Dialogue: 0,0:00:40.11,0:00:42.11,Default,,0,0,0,,{\alpha&HCC&}make it happen
+Dialogue: 0,0:00:42.11,0:00:45.60,Default,,0,0,0,,{\alpha&HCC&}They're like little messengers\Nrunning super fast from your\Nbrain to your
+Dialogue: 0,0:00:45.60,0:00:47.60,Default,,0,0,0,,{\alpha&HCC&}muscles
+Dialogue: 0,0:00:47.60,0:00:51.10,Default,,0,0,0,,{\alpha&HCC&}And here's something\Nsurprising: all those electric\Nsignals in your brain could
+Dialogue: 0,0:00:51.10,0:00:53.10,Default,,0,0,0,,{\alpha&HCC&}actually power a small light\Nbulb!
+Dialogue: 0,0:00:53.10,0:00:56.88,Default,,0,0,0,,{\alpha&HCC&}That's how amazing your\Nbrain is—it’s not just full of\Nimportant ideas and
+Dialogue: 0,0:00:56.88,0:00:57.32,Default,,0,0,0,,{\alpha&HCC&}dreams
+Dialogue: 0,0:00:57.32,0:00:59.21,Default,,0,0,0,,{\alpha&HCC&}but also a little bit of spark
+Dialogue: 0,0:00:59.21,0:01:01.38,Default,,0,0,0,,{\alpha&HCC&}Next time you're playing and\Nyour mind is buzzing with\Nideas
+Dialogue: 0,0:01:01.38,0:01:02.03,Default,,0,0,0,,{\alpha&HCC&}remember there’s a

@@ -1,0 +1,56 @@
+{
+  "files": [
+    {
+      "file": "100-years-of-fashion-30s.mp4",
+      "bytes": 10038441,
+      "sha256": "888ab3987d6e3673401a9d8a1b13f719052debc22ea8fd155ecea9ada870fd15",
+      "duration": "30.000000",
+      "frames": "900",
+      "full_decode": "passed",
+      "status": "local_draft_not_published"
+    },
+    {
+      "file": "gowns-through-time-30s.mp4",
+      "bytes": 13257208,
+      "sha256": "dd6758fc1ff6e0ee026762792d9514be17f1b9fa375b944f94c3988b39641d4b",
+      "duration": "30.000000",
+      "frames": "900",
+      "full_decode": "passed",
+      "status": "local_draft_not_published"
+    },
+    {
+      "file": "100-years-of-bridal-style-30s.mp4",
+      "bytes": 11752274,
+      "sha256": "bbf5b4bf0c7dbdda054ed6cdb31753e1f082c09f6ca33197708c482500d03bdf",
+      "duration": "30.000000",
+      "frames": "900",
+      "full_decode": "passed",
+      "status": "local_draft_not_published"
+    }
+  ],
+  "local_links": "passed",
+  "visual_review": {
+    "status": "passed_sampled_frames",
+    "frames_per_film": 10,
+    "times_seconds": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      25,
+      28
+    ],
+    "checks": [
+      "character and wardrobe continuity",
+      "natural movement between sampled frames",
+      "hands and silhouettes",
+      "bilingual text legibility and placement",
+      "timeline chronological order"
+    ],
+    "limits": "Sampled visual review, not scholarly costume reconstruction or exhaustive frame-by-frame anatomy guarantee."
+  }
+}

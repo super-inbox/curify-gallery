@@ -1,0 +1,287 @@
+[
+  {
+    "id": "template-food-bak-kut-teh",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-bak-kut-teh.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-bak-kut-teh-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "bak kut teh"
+      }
+    }
+  },
+  {
+    "id": "template-food-guilin-rice-noodles",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-guilin-rice-noodles.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-guilin-rice-noodles-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "guilin rice noodles"
+      }
+    }
+  },
+  {
+    "id": "template-food-italian-pasta",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-italian-pasta.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-italian-pasta-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "italian pasta"
+      }
+    }
+  },
+  {
+    "id": "template-food-korean-cold-noodles",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-korean-cold-noodles.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-korean-cold-noodles-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "korean cold noodles"
+      }
+    }
+  },
+  {
+    "id": "template-food-sukiyaki",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-sukiyaki.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-sukiyaki-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "sukiyaki"
+      }
+    }
+  },
+  {
+    "id": "template-food-thai-basil-chicken-rice",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-thai-basil-chicken-rice.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-thai-basil-chicken-rice-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "thai basil chicken rice"
+      }
+    }
+  },
+  {
+    "id": "template-food-tianjin-jianbing-guozi",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-tianjin-jianbing-guozi.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-tianjin-jianbing-guozi-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "tianjin jianbing guozi"
+      }
+    }
+  },
+  {
+    "id": "template-food-vietnamese-spring-rolls",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-vietnamese-spring-rolls.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-vietnamese-spring-rolls-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "vietnamese spring rolls"
+      }
+    }
+  },
+  {
+    "id": "template-food-wine-mussels",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-wine-mussels.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-wine-mussels-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "wine mussels"
+      }
+    }
+  },
+  {
+    "id": "template-food-xian-roujiamo",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-xian-roujiamo.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-xian-roujiamo-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "xian roujiamo"
+      }
+    }
+  },
+  {
+    "id": "template-food-xiangyang-beef-noodles",
+    "template_id": "template-food",
+    "asset": {
+      "image_path": "/images/insp/template-food-zh-xiangyang-beef-noodles.jpg",
+      "preview_path": "/images/insp_preview/template-food-zh-xiangyang-beef-noodles-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "美食科普类",
+        "title": "xiangyang beef noodles"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-chunfen",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-chunfen.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-chunfen-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "chunfen"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-daxue",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-daxue.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-daxue-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "daxue"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-dongzhi",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-dongzhi.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-dongzhi-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "dongzhi"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-guyu",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-guyu.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-guyu-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "guyu"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-lichun",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-lichun.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-lichun-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "lichun"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-lixia",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-lixia.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-lixia-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "lixia"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-qingming",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-qingming.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-qingming-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "qingming"
+      }
+    }
+  },
+  {
+    "id": "template-solar-term-xiaoman",
+    "template_id": "template-solar-term",
+    "asset": {
+      "image_path": "/images/insp/template-solar-term-zh-xiaoman.jpg",
+      "preview_path": "/images/insp_preview/template-solar-term-zh-xiaoman-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "二十四节气类",
+        "title": "xiaoman"
+      }
+    }
+  }
+]

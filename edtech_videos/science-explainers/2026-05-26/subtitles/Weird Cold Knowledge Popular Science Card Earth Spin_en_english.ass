@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 928
+PlayResY: 1152
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,65,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,18,18,57,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.49,Default,,0,0,0,,{\alpha&HCC&}Did you know that our Earth\Nis like a giant spinning top?
+Dialogue: 0,0:00:03.49,0:00:04.52,Default,,0,0,0,,{\alpha&HCC&}It spins really fast
+Dialogue: 0,0:00:04.52,0:00:04.92,Default,,0,0,0,,{\alpha&HCC&}about 1
+Dialogue: 0,0:00:04.92,0:00:06.10,Default,,0,0,0,,{\alpha&HCC&}600 kilometers per hour!
+Dialogue: 0,0:00:06.10,0:00:09.30,Default,,0,0,0,,{\alpha&HCC&}That's much faster than even\Nthe fastest car you can\Nimagine
+Dialogue: 0,0:00:09.30,0:00:11.92,Default,,0,0,0,,{\alpha&HCC&}But here’s something\Ncurious: we don’t feel a\Nthing!
+Dialogue: 0,0:00:11.92,0:00:15.70,Default,,0,0,0,,{\alpha&HCC&}You might wonder why we\Ndon't get dizzy or fly off the\Nsurface
+Dialogue: 0,0:00:15.70,0:00:15.98,Default,,0,0,0,,{\alpha&HCC&}Well
+Dialogue: 0,0:00:15.98,0:00:18.61,Default,,0,0,0,,{\alpha&HCC&}it's all thanks to a clever\Nforce called gravity
+Dialogue: 0,0:00:18.61,0:00:22.20,Default,,0,0,0,,{\alpha&HCC&}Imagine it like an invisible\Nhand holding you snugly to\Nthe ground
+Dialogue: 0,0:00:22.20,0:00:22.69,Default,,0,0,0,,{\alpha&HCC&}like when
+Dialogue: 0,0:00:22.69,0:00:24.69,Default,,0,0,0,,{\alpha&HCC&}you’re tucked under a cozy\Nblanket
+Dialogue: 0,0:00:24.69,0:00:28.19,Default,,0,0,0,,{\alpha&HCC&}And here’s another cool\Npart of the story: the air\Naround us
+Dialogue: 0,0:00:28.19,0:00:28.76,Default,,0,0,0,,{\alpha&HCC&}called the
+Dialogue: 0,0:00:28.76,0:00:29.32,Default,,0,0,0,,{\alpha&HCC&}atmosphere
+Dialogue: 0,0:00:29.32,0:00:30.76,Default,,0,0,0,,{\alpha&HCC&}spins right along with Earth
+Dialogue: 0,0:00:30.76,0:00:34.25,Default,,0,0,0,,{\alpha&HCC&}It’s like when you sit on a\Nmerry-go-round with all your\Nfriends
+Dialogue: 0,0:00:34.25,0:00:36.68,Default,,0,0,0,,{\alpha&HCC&}Because everything moves\Ntogether — the trees
+Dialogue: 0,0:00:36.68,0:00:37.21,Default,,0,0,0,,{\alpha&HCC&}buildings
+Dialogue: 0,0:00:37.21,0:00:38.32,Default,,0,0,0,,{\alpha&HCC&}and even you — all in
+Dialogue: 0,0:00:38.32,0:00:38.77,Default,,0,0,0,,{\alpha&HCC&}one big
+Dialogue: 0,0:00:38.77,0:00:39.49,Default,,0,0,0,,{\alpha&HCC&}steady swirl
+Dialogue: 0,0:00:39.49,0:00:41.81,Default,,0,0,0,,{\alpha&HCC&}you don’t feel like you’re\Nspinning at all
+Dialogue: 0,0:00:41.81,0:00:43.15,Default,,0,0,0,,{\alpha&HCC&}Next time you’re outside
+Dialogue: 0,0:00:43.15,0:00:45.89,Default,,0,0,0,,{\alpha&HCC&}look at the sky and\Nremember that although it\Nfeels
+Dialogue: 0,0:00:45.89,0:00:46.64,Default,,0,0,0,,{\alpha&HCC&}calm and still
+Dialogue: 0,0:00:46.64,0:00:49.38,Default,,0,0,0,,{\alpha&HCC&}we’re all gliding along this\Namazing ride through space

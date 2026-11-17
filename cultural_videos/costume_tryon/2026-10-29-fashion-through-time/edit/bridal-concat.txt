@@ -1,0 +1,5 @@
+file '/Users/qqwjq/curify-gallery/cultural_videos/costume_tryon/2026-10-29-fashion-through-time/edit/bridal-0.mp4'
+file '/Users/qqwjq/curify-gallery/cultural_videos/costume_tryon/2026-10-29-fashion-through-time/edit/bridal-1.mp4'
+file '/Users/qqwjq/curify-gallery/cultural_videos/costume_tryon/2026-10-29-fashion-through-time/edit/bridal-2.mp4'
+file '/Users/qqwjq/curify-gallery/cultural_videos/costume_tryon/2026-10-29-fashion-through-time/edit/bridal-3.mp4'
+file '/Users/qqwjq/curify-gallery/cultural_videos/costume_tryon/2026-10-29-fashion-through-time/edit/bridal-4.mp4'

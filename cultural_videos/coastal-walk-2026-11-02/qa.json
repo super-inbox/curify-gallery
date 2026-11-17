@@ -1,0 +1,32 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 720,
+      "height": 1280,
+      "r_frame_rate": "24/1"
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "r_frame_rate": "0/0"
+    }
+  ],
+  "format": {
+    "duration": "10.000000",
+    "size": "3891059"
+  },
+  "source_sha256": "b073afe70ad811c88f377a04174db0a4dfd83c217f8d14f8063103b95468b48f",
+  "crop": {
+    "width": 630,
+    "height": 1120,
+    "x": 44,
+    "y": 80
+  },
+  "original_audio_pcm_hash_matches": true,
+  "decode_check": "passed",
+  "visual_review": "All ten 1-second samples inspected; bottom and top corner marks excluded by crop."
+}

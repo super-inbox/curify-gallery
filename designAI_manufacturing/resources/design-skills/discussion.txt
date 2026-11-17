@@ -1,0 +1,58 @@
+https://x.com/VibeEverything/status/2088154102119428286
+
+### 标题参考
+
+1. AI 做设计，不只靠 Prompt：这 11 个 Skills 值得收藏
+2. Claude / Codex 的设计能力，正在被 Skills 重新定义
+3. 从 Figma 到成片：设计师值得关注的 AI Skills
+4. 别再只让 AI“生成一个好看页面”了
+
+### 小红书正文
+
+最近整理了一批适合 Claude Code / Codex 的设计类 Skills。
+
+我发现，真正有价值的不是让 AI “审美突然开挂”，而是把需求分析、视觉设计、代码还原、测试和交付，变成一套可以重复执行的工作流。
+
+可以按 5 个环节来看：
+
+**① 视觉与前端设计**
+
+* `frontend-skill`：减少千篇一律的 AI 页面，让网页更接近真实产品
+* `impeccable`：重点优化字体、配色、间距、布局和动效
+* `theme-factory`：统一颜色、字号、间距和 Design Token，避免每个页面各长各的
+
+**② 从设计稿到产品**
+
+* `figma-implement-design`：把 Figma 设计稿更忠实地还原成可运行页面
+* `designer-skills`：覆盖用户研究、交互、视觉、原型和开发交付
+* `design-process-pack`：先梳理需求、用户路径和信息结构，再开始设计
+
+**③ 验证与质量检查**
+
+* `webapp-testing`：让 AI 打开真实页面，检查交互、DOM 和控制台错误
+* `accesslint`：检查对比度、语义结构和无障碍问题
+
+**④ 协作与表达**
+
+* `composio`：把 Figma、GitHub、Slack 等工具连接进同一套协作流程
+* `excalidraw-diagram`：快速生成可编辑的流程图、架构图和产品说明图
+
+**⑤ 视频设计**
+
+* `video-shotcraft`：把产品视频拆解成镜头、景别、机位、运动和转场，让 Agent 不只是“生成视频”，而是开始像导演一样组织画面。
+
+如果只想先装一套最实用的组合，我会推荐：
+
+`frontend-skill` → 管整体审美
+`figma-implement-design` → 管设计还原
+`webapp-testing` → 管真实验证
+
+如果要做品牌化产品，再加上 `theme-factory`；如果要产出产品宣传视频，再补上 `video-shotcraft`。
+
+我更看好的一点是：未来的设计 Agent，不会只是给你生成一张图或一个网页，而是能够理解需求、探索方案、执行设计、调用工具、检查结果，最后完成真实交付。
+
+Skills 本质上是在把优秀设计师的经验，逐渐封装成 AI 可以重复执行的工作方法。
+
+我们也在 Curify 探索从创意、视觉生成到商品化和出厂文件的 Agentic Design 工作流。欢迎设计师、工作室和品牌方一起交流共创。
+
+#AI设计 #AgenticDesign #ClaudeCode #Codex #设计师工具 #VibeCoding #UI设计 #产品设计 #人工智能 #CurifyAI

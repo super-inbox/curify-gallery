@@ -1,0 +1,113 @@
+{
+  "fashion": {
+    "id": "H1",
+    "file": "100-years-of-fashion-30s",
+    "title": "100 YEARS OF FASHION",
+    "zh": "百年女装，轮廓怎么变？",
+    "scope": "BRITAIN / FRANCE · SELECTED STYLES",
+    "scopezh": "英法时装选例 · AI风格演绎",
+    "years": [
+      "1900",
+      "1925",
+      "1950",
+      "1975",
+      "2000"
+    ],
+    "labels": [
+      [
+        "High neck · long skirt",
+        "高领长裙"
+      ],
+      [
+        "Dropped waist · straight line",
+        "低腰直线"
+      ],
+      [
+        "Fitted waist · full skirt",
+        "收腰蓬裙"
+      ],
+      [
+        "Tailoring · flared trousers",
+        "套装喇叭裤"
+      ],
+      [
+        "Blazer · bootcut denim",
+        "短西装与牛仔裤"
+      ]
+    ]
+  },
+  "gowns": {
+    "id": "H2",
+    "file": "gowns-through-time-30s",
+    "title": "400 YEARS OF GOWNS",
+    "zh": "四百年礼服，裙摆里的变化",
+    "scope": "EUROPEAN FORMALWEAR · SELECTED STYLES",
+    "scopezh": "欧洲上层礼服选例 · AI风格演绎",
+    "years": [
+      "1550",
+      "1750",
+      "1810",
+      "1860",
+      "1950"
+    ],
+    "labels": [
+      [
+        "Renaissance · rich sleeves",
+        "文艺复兴：华丽衣袖"
+      ],
+      [
+        "Rococo · wide silhouette",
+        "洛可可：横向裙撑"
+      ],
+      [
+        "Empire · raised waist",
+        "帝政风：高腰长裙"
+      ],
+      [
+        "Crinoline · bell-shaped skirt",
+        "裙撑时代：钟形裙摆"
+      ],
+      [
+        "Eveningwear · sculpted volume",
+        "晚礼服：收腰与量感"
+      ]
+    ]
+  },
+  "bridal": {
+    "id": "H3",
+    "file": "100-years-of-bridal-style-30s",
+    "title": "100 YEARS OF BRIDAL STYLE",
+    "zh": "百年婚纱，浪漫换了轮廓",
+    "scope": "BRITISH WHITE BRIDALWEAR · SELECTED STYLES",
+    "scopezh": "英式白色婚纱选例 · AI风格演绎",
+    "years": [
+      "1920",
+      "1950",
+      "1980",
+      "2000",
+      "2020"
+    ],
+    "labels": [
+      [
+        "Beading · dropped waist",
+        "珠饰与低腰线"
+      ],
+      [
+        "Lace · tea-length skirt",
+        "蕾丝与中长蓬裙"
+      ],
+      [
+        "Puff sleeves · taffeta",
+        "泡泡袖与塔夫绸"
+      ],
+      [
+        "Strapless · A-line",
+        "抹胸与A字裙"
+      ],
+      [
+        "Clean lines · crepe",
+        "简洁线条与绉纱"
+      ]
+    ]
+  }
+}

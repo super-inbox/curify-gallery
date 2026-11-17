@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-08",
+  "platform": "TikTok",
+  "account": "@curify_learning",
+  "status": "scheduled_verified",
+  "items": [
+    {
+      "id": 1,
+      "title": "Muse outfit changes",
+      "file": "social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4",
+      "caption": "One character, a whole wardrobe. Creative reference: @muse on Instagram, not produced by us. We create batch outfit-change visuals for e-commerce. DM BATCH with your product images, target styles and quantity. #Ecommerce #OutfitChange #BatchGeneration",
+      "series": "ecommerce",
+      "note": "Third-party reference; retain attribution.",
+      "status": "scheduled_verified",
+      "post_url": "https://www.tiktok.com/@curify_learning/video/7705965055514299661",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "18.874966"
+        }
+      },
+      "scheduled_at": "2026-11-10T18:00:00+08:00",
+      "ai_label_enabled": false,
+      "own_brand_disclosure": true
+    },
+    {
+      "id": 2,
+      "title": "Friends · Then and Now",
+      "file": "social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4",
+      "caption": "What if your favorite characters could sit beside their younger selves? An AI-created Friends nostalgia montage—not real reunion footage. Source: Emma Park on RedNote. Which character brings back your first watch? #Friends #TVNostalgia #AIVideo",
+      "series": "souvenir",
+      "note": "AI-generated montage; enable AI label when offered.",
+      "status": "scheduled_verified",
+      "post_url": "https://www.tiktok.com/@curify_learning/video/7705965598815046925",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "60.675147"
+        }
+      },
+      "scheduled_at": "2026-11-11T18:00:00+08:00",
+      "ai_label_enabled": true,
+      "own_brand_disclosure": false
+    },
+    {
+      "id": 3,
+      "title": "Coastal Walk",
+      "file": "drama_animation/coastal-walk-10s-cropped.mp4",
+      "caption": "Some souvenirs fit in a suitcase. Others feel like this. Sea breeze, a coastal path, and ten seconds to remember. Would you keep the view or the person beside you? #TravelMemories #CoastalWalk #SouvenirVideo",
+      "series": "souvenir",
+      "note": "User-provided; location and generation method unverified.",
+      "status": "already_published_skipped_duplicate",
+      "post_url": "https://www.tiktok.com/@curify_learning/video/7703394945477971214",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "10.000000"
+        }
+      },
+      "published_at": "2026-11-02T10:26:00+08:00"
+    },
+    {
+      "id": 4,
+      "title": "Pearl painting",
+      "file": "ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4",
+      "caption": "A row of half-pearls becomes fluffy fleece. We turned a photo of the finished artwork into this AI visualization of the making process. Watch the final reveal. #PearlArt #CraftVideo #AIVideo",
+      "series": "souvenir",
+      "note": "AI process visualization; enable AI label when offered.",
+      "status": "scheduled_verified",
+      "post_url": "https://www.tiktok.com/@curify_learning/video/7705965968849112334",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 768,
+            "height": 1344
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "15.083333"
+        }
+      },
+      "scheduled_at": "2026-11-12T18:00:00+08:00",
+      "ai_label_enabled": true,
+      "own_brand_disclosure": false
+    },
+    {
+      "id": 5,
+      "title": "Kids room · green portrait",
+      "file": "ecommerce_ad_videos/furniture/kids-room-green-portrait-20s.mp4",
+      "caption": "A bunk bed looks different when you see the room in use: take the stairs, slide the lower bed forward, and make space to share a book. Which detail helps you picture the room? #KidsRoom #FurnitureDesign #ProductVideo",
+      "series": "ecommerce",
+      "note": "Production notes reviewed; generation method not documented, so AI label left off. Caption does not claim real customer footage.",
+      "status": "scheduled_verified",
+      "post_url": "https://www.tiktok.com/@curify_learning/video/7705966335804607758",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "20.000000"
+        }
+      },
+      "scheduled_at": "2026-11-13T18:00:00+08:00",
+      "ai_label_enabled": false,
+      "own_brand_disclosure": false
+    },
+    {
+      "id": 6,
+      "title": "Zeelum backpack opening",
+      "file": "smm_daily/2026-09-01-retouching/demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4",
+      "caption": "From a product still to an opening sequence: zipper, pocket, interior. A 10-second photo-to-video test. We partner with photography studios on product videos with cinematic camera movement. DM us about your next project. #ProductPhotography #ProductVideo #StudioWorkflow",
+      "series": "retouching",
+      "note": "Photo-to-video demo; review AI label before posting.",
+      "status": "scheduled_verified",
+      "post_url": "https://www.tiktok.com/@curify_learning/video/7705966754287176973",
+      "media": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "10.000000"
+        }
+      },
+      "scheduled_at": "2026-11-14T18:00:00+08:00",
+      "ai_label_enabled": true,
+      "own_brand_disclosure": true
+    }
+  ],
+  "account_display_name": "curify-ecommerce",
+  "verified_on": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "evidence": "schedule-confirmation.jpg"
+}

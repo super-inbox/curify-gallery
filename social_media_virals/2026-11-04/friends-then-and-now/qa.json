@@ -1,0 +1,26 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 720,
+      "height": 1280,
+      "r_frame_rate": "30/1"
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "r_frame_rate": "0/0"
+    }
+  ],
+  "format": {
+    "duration": "60.675147",
+    "size": "11114368"
+  },
+  "decode_check": "passed",
+  "audio_pcm_matches_source": true,
+  "visual_review": "13 samples at 5-second intervals reviewed; RedNote edge overlays absent; interior labels and generator marks retained.",
+  "edit": "Crop 720x1120 at 0,80; black-pad to 720x1280."
+}

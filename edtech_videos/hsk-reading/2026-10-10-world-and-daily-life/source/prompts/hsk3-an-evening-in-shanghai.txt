@@ -1,0 +1,36 @@
+Use case: scientific-educational. Create ONE portrait HSK 3 reading lesson poster matching the provided reference template faithfully: identical cream paper, thin rounded tan border, watercolor cloud HSK badge top left, peach ribbon top center, large dark brown Chinese title and smaller English title, round scene top right, eight generously spaced passage rows in left 62% with small pinyin directly above corresponding large Chinese, three stacked rounded watercolor scene panels on right, star/heart dividers, gold New Words ribbon and 2x4 numbered vocabulary boxes at bottom. Same warm hand-painted watercolor children’s-book style and legible classroom typography as reference. Not a redesign. Aspect ratio same as reference (about 0.70 width/height), high resolution for all text.
+
+Use the reference for its layout, typography, warm watercolor style and spacing ONLY. Replace ALL Beijing content with this new story. Characters should be international adult learners and their friends; illustrate specific moments of THIS passage in the three right-side panels plus the round header scene. Clothing and people should be consistent across panels, with natural personal scenes rather than generic country stereotypes. NO extra readable text in illustrations.
+Badge: 适合水平 HSK 3
+Ribbon: 阅读课文 | Reading Lesson
+Title: 上海的晚上
+Subtitle: An Evening in Shanghai
+Eight passage rows, pinyin ABOVE Chinese, each sentence exactly once. Do not change ANY character, pinyin syllable or tone mark. Prioritize large readable text; do not overlap illustrations.
+Wǒ lái Shàng hǎi yǐ jīng yí ge yuè le.
+我来上海已经一个月了。
+Xià kè yǐ hòu, wǒ hé péng you qù Wài tān.
+下课以后，我和朋友去外滩。
+Wǒ men zhàn zài Huáng pǔ Jiāng biān.
+我们站在黄浦江边。
+Jiāng duì miàn yǒu hěn duō gāo lóu.
+江对面有很多高楼。
+Tiān hēi le, dēng yě liàng le.
+天黑了，灯也亮了。
+Wǒ xiǎng pāi zhào, shǒu jī què méi diàn le.
+我想拍照，手机却没电了。
+Péng you yòng tā de shǒu jī bāng wǒ pāi.
+朋友用他的手机帮我拍。
+Zhè zhāng zhào piàn ràng wǒ xiǎng qǐ nà ge wǎn shang.
+这张照片让我想起那个晚上。
+Bottom ribbon: 生词 | New Words
+Eight boxes numbered 1–8, each Chinese / pinyin / English and a tiny icon:
+1 上海 / Shàng hǎi / Shanghai
+2 外滩 / Wài tān / the Bund
+3 江边 / jiāng biān / riverside
+4 没电 / méi diàn / out of battery
+5 朋友 / péng you / friend
+6 高楼 / gāo lóu / tall building
+7 手机 / shǒu jī / mobile phone
+8 拍照 / pāi zhào / take a photo
+All eight sentences must be completely visible, without duplicates or omissions. Keep punctuation and diacritics EXACT. Use high resolution. No extra text. The English sentence translations are NOT to be printed.
+CRITICAL vocabulary layout: EACH box MUST contain Chinese on first line, pinyin on second line, ENGLISH MEANING on THIRD line, and a small icon. Never omit English meanings. Leave enough height for all three lines in every vocabulary box.

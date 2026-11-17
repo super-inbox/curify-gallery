@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1200
+PlayResY: 896
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,50,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,2,0,2,24,24,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.99,Default,,0,0,0,,{\alpha&HCC&}Did you know that molecules like to make friends\Njust like you do?
+Dialogue: 0,0:00:03.99,0:00:04.93,Default,,0,0,0,,{\alpha&HCC&}They come together
+Dialogue: 0,0:00:04.93,0:00:05.72,Default,,0,0,0,,{\alpha&HCC&}change partners
+Dialogue: 0,0:00:05.72,0:00:06.76,Default,,0,0,0,,{\alpha&HCC&}and even take breaks!
+Dialogue: 0,0:00:06.76,0:00:10.45,Default,,0,0,0,,{\alpha&HCC&}Let me tell you the story of how they do all this
+Dialogue: 0,0:00:10.45,0:00:10.75,Default,,0,0,0,,{\alpha&HCC&}First
+Dialogue: 0,0:00:10.75,0:00:13.52,Default,,0,0,0,,{\alpha&HCC&}imagine two little molecules meeting for the first\Ntime
+Dialogue: 0,0:00:13.52,0:00:15.52,Default,,0,0,0,,{\alpha&HCC&}This is called synthesis
+Dialogue: 0,0:00:15.52,0:00:18.76,Default,,0,0,0,,{\alpha&HCC&}They get together and decide to become one\Nhappy group
+Dialogue: 0,0:00:18.76,0:00:19.83,Default,,0,0,0,,{\alpha&HCC&}just like when two
+Dialogue: 0,0:00:19.83,0:00:23.21,Default,,0,0,0,,{\alpha&HCC&}pieces of a puzzle fit perfectly to make a whole\Npicture
+Dialogue: 0,0:00:23.21,0:00:24.16,Default,,0,0,0,,{\alpha&HCC&}This happens when
+Dialogue: 0,0:00:24.16,0:00:24.84,Default,,0,0,0,,{\alpha&HCC&}for instance
+Dialogue: 0,0:00:24.84,0:00:26.90,Default,,0,0,0,,{\alpha&HCC&}hydrogen and oxygen meet to make water!
+Dialogue: 0,0:00:26.90,0:00:27.11,Default,,0,0,0,,{\alpha&HCC&}Now
+Dialogue: 0,0:00:27.11,0:00:29.05,Default,,0,0,0,,{\alpha&HCC&}sometimes friends need a little space
+Dialogue: 0,0:00:29.05,0:00:30.86,Default,,0,0,0,,{\alpha&HCC&}In a process called decomposition
+Dialogue: 0,0:00:30.86,0:00:32.83,Default,,0,0,0,,{\alpha&HCC&}a molecule decides to split into two
+Dialogue: 0,0:00:32.83,0:00:33.04,Default,,0,0,0,,{\alpha&HCC&}just
+Dialogue: 0,0:00:33.04,0:00:37.04,Default,,0,0,0,,{\alpha&HCC&}like when you break a cookie into halves to share\Nwith a buddy
+Dialogue: 0,0:00:37.04,0:00:40.73,Default,,0,0,0,,{\alpha&HCC&}This happens when water decides to separate\Nback into hydrogen and oxygen
+Dialogue: 0,0:00:40.73,0:00:43.19,Default,,0,0,0,,{\alpha&HCC&}Sometimes molecules like to have a dance party!
+Dialogue: 0,0:00:43.19,0:00:44.45,Default,,0,0,0,,{\alpha&HCC&}In single replacement
+Dialogue: 0,0:00:44.45,0:00:47.49,Default,,0,0,0,,{\alpha&HCC&}one friend steps in to dance with one of the\Npartners
+Dialogue: 0,0:00:47.49,0:00:48.32,Default,,0,0,0,,{\alpha&HCC&}switching places
+Dialogue: 0,0:00:48.32,0:00:49.49,Default,,0,0,0,,{\alpha&HCC&}just like musical chairs
+Dialogue: 0,0:00:49.49,0:00:53.11,Default,,0,0,0,,{\alpha&HCC&}It's like zinc deciding to step in and dance with\Nsome sulfur
+Dialogue: 0,0:00:53.11,0:00:54.10,Default,,0,0,0,,{\alpha&HCC&}leaving copper on
+Dialogue: 0,0:00:54.10,0:00:56.10,Default,,0,0,0,,{\alpha&HCC&}its own
+Dialogue: 0,0:00:56.10,0:00:57.49,Default,,0,0,0,,{\alpha&HCC&}Then there’s double replacement
+Dialogue: 0,0:00:57.49,0:00:58.87,Default,,0,0,0,,{\alpha&HCC&}where everyone finds new friends
+Dialogue: 0,0:00:58.87,0:01:01.02,Default,,0,0,0,,{\alpha&HCC&}Imagine two pairs of friends swapping partners
+Dialogue: 0,0:01:01.02,0:01:05.63,Default,,0,0,0,,{\alpha&HCC&}It’s like a friendship swap where everyone finds\Na new buddy to hang out with
+Dialogue: 0,0:01:05.63,0:01:09.01,Default,,0,0,0,,{\alpha&HCC&}just like silver and chlorine trading partners with\Nsodium and nitrate
+Dialogue: 0,0:01:09.01,0:01:11.32,Default,,0,0,0,,{\alpha&HCC&}There are other exciting things molecules do
+Dialogue: 0,0:01:11.32,0:01:11.47,Default,,0,0,0,,{\alpha&HCC&}too
+Dialogue: 0,0:01:11.47,0:01:12.73,Default,,0,0,0,,{\alpha&HCC&}Like during combustion
+Dialogue: 0,0:01:12.73,0:01:15.03,Default,,0,0,0,,{\alpha&HCC&}where a fuel burns in the presence of air
+Dialogue: 0,0:01:15.03,0:01:15.47,Default,,0,0,0,,{\alpha&HCC&}creating
+Dialogue: 0,0:01:15.47,0:01:15.88,Default,,0,0,0,,{\alpha&HCC&}energy
+Dialogue: 0,0:01:15.88,0:01:18.24,Default,,0,0,0,,{\alpha&HCC&}like the warmth you feel from a campfire
+Dialogue: 0,0:01:18.24,0:01:18.72,Default,,0,0,0,,{\alpha&HCC&}Sometimes
+Dialogue: 0,0:01:18.72,0:01:21.49,Default,,0,0,0,,{\alpha&HCC&}molecules decide to settle down and form\Nsomething solid
+Dialogue: 0,0:01:21.49,0:01:21.93,Default,,0,0,0,,{\alpha&HCC&}like when
+Dialogue: 0,0:01:21.93,0:01:24.08,Default,,0,0,0,,{\alpha&HCC&}raindrops turn into hailstones – that's\Nprecipitation!
+Dialogue: 0,0:01:24.08,0:01:26.84,Default,,0,0,0,,{\alpha&HCC&}And let's not forget when acids and bases meet
+Dialogue: 0,0:01:26.84,0:01:28.32,Default,,0,0,0,,{\alpha&HCC&}They balance each other out
+Dialogue: 0,0:01:28.32,0:01:29.53,Default,,0,0,0,,{\alpha&HCC&}forming salt and water
+Dialogue: 0,0:01:29.53,0:01:30.84,Default,,0,0,0,,{\alpha&HCC&}almost like mixing paints
+Dialogue: 0,0:01:30.84,0:01:32.84,Default,,0,0,0,,{\alpha&HCC&}to create a new color
+Dialogue: 0,0:01:32.84,0:01:36.06,Default,,0,0,0,,{\alpha&HCC&}Next time you’re playing with friends or\Nbuilding with blocks
+Dialogue: 0,0:01:36.06,0:01:36.84,Default,,0,0,0,,{\alpha&HCC&}think about how

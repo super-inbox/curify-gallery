@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1200
+PlayResY: 896
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,50,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,2,0,2,24,24,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.43,Default,,0,0,0,,{\alpha&HCC&}Have you ever noticed how the world around you\Nchanges like a giant magic show?
+Dialogue: 0,0:00:04.43,0:00:07.38,Default,,0,0,0,,{\alpha&HCC&}Let’s explore the incredible story of seasons\Nand weather together!
+Dialogue: 0,0:00:07.38,0:00:08.92,Default,,0,0,0,,{\alpha&HCC&}It all starts with Earth
+Dialogue: 0,0:00:08.92,0:00:09.60,Default,,0,0,0,,{\alpha&HCC&}like a big
+Dialogue: 0,0:00:09.60,0:00:10.34,Default,,0,0,0,,{\alpha&HCC&}spinning top
+Dialogue: 0,0:00:10.34,0:00:12.73,Default,,0,0,0,,{\alpha&HCC&}As Earth tilts and dances around the sun
+Dialogue: 0,0:00:12.73,0:00:14.77,Default,,0,0,0,,{\alpha&HCC&}it changes the way the sun’s warmth
+Dialogue: 0,0:00:14.77,0:00:16.77,Default,,0,0,0,,{\alpha&HCC&}touches different parts of the world
+Dialogue: 0,0:00:16.77,0:00:19.14,Default,,0,0,0,,{\alpha&HCC&}This tilt is what makes the seasons happen
+Dialogue: 0,0:00:19.14,0:00:20.14,Default,,0,0,0,,{\alpha&HCC&}First comes spring
+Dialogue: 0,0:00:20.14,0:00:22.09,Default,,0,0,0,,{\alpha&HCC&}like a gentle wake-up call for nature
+Dialogue: 0,0:00:22.09,0:00:23.19,Default,,0,0,0,,{\alpha&HCC&}Plants begin to bloom
+Dialogue: 0,0:00:23.19,0:00:25.94,Default,,0,0,0,,{\alpha&HCC&}almost like they're yawning and stretching after a\Nlong
+Dialogue: 0,0:00:25.94,0:00:27.94,Default,,0,0,0,,{\alpha&HCC&}nap
+Dialogue: 0,0:00:27.94,0:00:31.48,Default,,0,0,0,,{\alpha&HCC&}You might see flowers peeking out and animals\Nlike bunnies hopping around
+Dialogue: 0,0:00:31.48,0:00:33.48,Default,,0,0,0,,{\alpha&HCC&}excited to play in the sunshine
+Dialogue: 0,0:00:33.48,0:00:33.78,Default,,0,0,0,,{\alpha&HCC&}Then
+Dialogue: 0,0:00:33.78,0:00:35.32,Default,,0,0,0,,{\alpha&HCC&}as we move around the sun
+Dialogue: 0,0:00:35.32,0:00:36.14,Default,,0,0,0,,{\alpha&HCC&}summer arrives
+Dialogue: 0,0:00:36.14,0:00:38.51,Default,,0,0,0,,{\alpha&HCC&}It’s like the world turned up the heat!
+Dialogue: 0,0:00:38.51,0:00:40.13,Default,,0,0,0,,{\alpha&HCC&}The days are long and bright
+Dialogue: 0,0:00:40.13,0:00:42.94,Default,,0,0,0,,{\alpha&HCC&}perfect for building sandy castles at the beach or
+Dialogue: 0,0:00:42.94,0:00:45.01,Default,,0,0,0,,{\alpha&HCC&}eating chilly ice creams to keep cool
+Dialogue: 0,0:00:45.01,0:00:45.27,Default,,0,0,0,,{\alpha&HCC&}Next
+Dialogue: 0,0:00:45.27,0:00:46.72,Default,,0,0,0,,{\alpha&HCC&}the tilt takes us to autumn
+Dialogue: 0,0:00:46.72,0:00:48.49,Default,,0,0,0,,{\alpha&HCC&}where leaves change their outfits
+Dialogue: 0,0:00:48.49,0:00:48.85,Default,,0,0,0,,{\alpha&HCC&}turning
+Dialogue: 0,0:00:48.85,0:00:51.81,Default,,0,0,0,,{\alpha&HCC&}bright orange and red before gently falling to the\Nground
+Dialogue: 0,0:00:51.81,0:00:55.32,Default,,0,0,0,,{\alpha&HCC&}It’s a time for gathering nuts and jumping in\Nleaf piles
+Dialogue: 0,0:00:55.32,0:00:56.24,Default,,0,0,0,,{\alpha&HCC&}as the air gets
+Dialogue: 0,0:00:56.24,0:00:58.24,Default,,0,0,0,,{\alpha&HCC&}crisper and cooler
+Dialogue: 0,0:00:58.24,0:00:58.66,Default,,0,0,0,,{\alpha&HCC&}Finally
+Dialogue: 0,0:00:58.66,0:00:59.49,Default,,0,0,0,,{\alpha&HCC&}we reach winter
+Dialogue: 0,0:00:59.49,0:01:02.08,Default,,0,0,0,,{\alpha&HCC&}where everything feels like it’s covered in a soft
+Dialogue: 0,0:01:02.08,0:01:04.08,Default,,0,0,0,,{\alpha&HCC&}fluffy blanket
+Dialogue: 0,0:01:04.08,0:01:06.04,Default,,0,0,0,,{\alpha&HCC&}Snowflakes twirl down like little dancers
+Dialogue: 0,0:01:06.04,0:01:07.63,Default,,0,0,0,,{\alpha&HCC&}and the world becomes a playground
+Dialogue: 0,0:01:07.63,0:01:09.63,Default,,0,0,0,,{\alpha&HCC&}for snowmen and icy fun
+Dialogue: 0,0:01:09.63,0:01:11.34,Default,,0,0,0,,{\alpha&HCC&}As you watch the seasons change
+Dialogue: 0,0:01:11.34,0:01:13.47,Default,,0,0,0,,{\alpha&HCC&}remember that each one lasts about three
+Dialogue: 0,0:01:13.47,0:01:15.47,Default,,0,0,0,,{\alpha&HCC&}months
+Dialogue: 0,0:01:15.47,0:01:19.61,Default,,0,0,0,,{\alpha&HCC&}And just like how every day the weather might\Nsurprise you with rain or
+Dialogue: 0,0:01:19.61,0:01:20.05,Default,,0,0,0,,{\alpha&HCC&}sunshine
+Dialogue: 0,0:01:20.05,0:01:21.98,Default,,0,0,0,,{\alpha&HCC&}each season has its own special feeling

@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1200
+PlayResY: 896
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,50,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,2,0,2,24,24,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.97,Default,,0,0,0,,{\alpha&HCC&}Did you know your body is like a wonderful\Nmachine
+Dialogue: 0,0:00:02.97,0:00:04.60,Default,,0,0,0,,{\alpha&HCC&}working all the time to keep
+Dialogue: 0,0:00:04.60,0:00:06.60,Default,,0,0,0,,{\alpha&HCC&}you going?
+Dialogue: 0,0:00:06.60,0:00:08.60,Default,,0,0,0,,{\alpha&HCC&}Let me tell you its story
+Dialogue: 0,0:00:08.60,0:00:09.51,Default,,0,0,0,,{\alpha&HCC&}Inside your chest
+Dialogue: 0,0:00:09.51,0:00:11.48,Default,,0,0,0,,{\alpha&HCC&}there's a special pump called the heart
+Dialogue: 0,0:00:11.48,0:00:14.08,Default,,0,0,0,,{\alpha&HCC&}Just like how a faucet pushes water through\Npipes
+Dialogue: 0,0:00:14.08,0:00:15.23,Default,,0,0,0,,{\alpha&HCC&}your heart pumps blood
+Dialogue: 0,0:00:15.23,0:00:17.23,Default,,0,0,0,,{\alpha&HCC&}through your body
+Dialogue: 0,0:00:17.23,0:00:20.69,Default,,0,0,0,,{\alpha&HCC&}This blood carries important things like oxygen\Nand nutrients to all the
+Dialogue: 0,0:00:20.69,0:00:21.39,Default,,0,0,0,,{\alpha&HCC&}different parts
+Dialogue: 0,0:00:21.39,0:00:22.99,Default,,0,0,0,,{\alpha&HCC&}helping them stay healthy and strong
+Dialogue: 0,0:00:22.99,0:00:23.30,Default,,0,0,0,,{\alpha&HCC&}Next
+Dialogue: 0,0:00:23.30,0:00:24.99,Default,,0,0,0,,{\alpha&HCC&}let's talk about your lungs
+Dialogue: 0,0:00:24.99,0:00:28.45,Default,,0,0,0,,{\alpha&HCC&}Imagine them like big sponges that fill up and\Nsqueeze out air
+Dialogue: 0,0:00:28.45,0:00:29.77,Default,,0,0,0,,{\alpha&HCC&}When you take a breath
+Dialogue: 0,0:00:29.77,0:00:31.56,Default,,0,0,0,,{\alpha&HCC&}your lungs fill with fresh air
+Dialogue: 0,0:00:31.56,0:00:32.77,Default,,0,0,0,,{\alpha&HCC&}giving your blood the
+Dialogue: 0,0:00:32.77,0:00:34.77,Default,,0,0,0,,{\alpha&HCC&}oxygen it needs
+Dialogue: 0,0:00:34.77,0:00:38.22,Default,,0,0,0,,{\alpha&HCC&}You can feel them working every time you\Nbreathe in and out
+Dialogue: 0,0:00:38.22,0:00:40.22,Default,,0,0,0,,{\alpha&HCC&}Your brain is like the boss!
+Dialogue: 0,0:00:40.22,0:00:43.10,Default,,0,0,0,,{\alpha&HCC&}It's the one in charge of all your body's jobs
+Dialogue: 0,0:00:43.10,0:00:44.25,Default,,0,0,0,,{\alpha&HCC&}It helps you think
+Dialogue: 0,0:00:44.25,0:00:44.55,Default,,0,0,0,,{\alpha&HCC&}play
+Dialogue: 0,0:00:44.55,0:00:45.70,Default,,0,0,0,,{\alpha&HCC&}and learn every day
+Dialogue: 0,0:00:45.70,0:00:47.08,Default,,0,0,0,,{\alpha&HCC&}Imagine it as a supercomputer
+Dialogue: 0,0:00:47.08,0:00:49.15,Default,,0,0,0,,{\alpha&HCC&}sending messages quickly through your body to
+Dialogue: 0,0:00:49.15,0:00:50.51,Default,,0,0,0,,{\alpha&HCC&}control everything you do
+Dialogue: 0,0:00:50.51,0:00:52.90,Default,,0,0,0,,{\alpha&HCC&}from blinking your eyes to jumping up and down
+Dialogue: 0,0:00:52.90,0:00:53.70,Default,,0,0,0,,{\alpha&HCC&}And your bones
+Dialogue: 0,0:00:53.70,0:00:56.12,Default,,0,0,0,,{\alpha&HCC&}they are like the strong frame of a building
+Dialogue: 0,0:00:56.12,0:00:56.93,Default,,0,0,0,,{\alpha&HCC&}supporting your
+Dialogue: 0,0:00:56.93,0:00:58.93,Default,,0,0,0,,{\alpha&HCC&}body and helping you move
+Dialogue: 0,0:00:58.93,0:01:00.21,Default,,0,0,0,,{\alpha&HCC&}There are 206 of them
+Dialogue: 0,0:01:00.21,0:01:03.54,Default,,0,0,0,,{\alpha&HCC&}all working together to keep you on your feet and\Nprotect
+Dialogue: 0,0:01:03.54,0:01:05.54,Default,,0,0,0,,{\alpha&HCC&}your important insides

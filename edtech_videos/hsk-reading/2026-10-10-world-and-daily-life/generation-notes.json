@@ -1,0 +1,11 @@
+{
+  "generator": "built-in image_gen",
+  "approved_reference": "../template-style-sample/beijing-card.png",
+  "original_template_reference": "raw/hsk-reading-09-06/review/template-hsk-bilingual-reading-text-lesson-poster-hsk2-ordering-food-at-a-restaurant.jpg",
+  "unchanged_story_count": 20,
+  "initial_review_corrections": [
+    {"id":"hsk3-an-evening-in-shanghai","edit":"Add all eight English meanings below the existing Chinese and pinyin in the bottom vocabulary grid; preserve the rest of the poster."},
+    {"id":"hsk3-my-first-dragon-boat-festival","edit":"Add all eight English meanings below the existing Chinese and pinyin in the bottom vocabulary grid; preserve the rest of the poster."},
+    {"id":"hsk2-lantern-festival-with-classmates","edit":"Add all eight English meanings below the existing Chinese and pinyin in the bottom vocabulary grid; preserve the rest of the poster."}
+  ]
+}

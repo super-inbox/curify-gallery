@@ -1,0 +1,2 @@
+Built-in imagegen, one edit per source image.
+Precise image edit: remove only the faint small watermark/logo at the extreme bottom-right corner, replacing it with matching continuous light-gray studio background. Keep the exact same woman, identity, face, body proportions, pose, hair, crochet pattern, garment construction, shoes, lighting, colors, framing and aspect ratio. Do not beautify, restyle, crop, add text or redesign anything. Output one full image, identical composition, with the bottom-right mark removed.

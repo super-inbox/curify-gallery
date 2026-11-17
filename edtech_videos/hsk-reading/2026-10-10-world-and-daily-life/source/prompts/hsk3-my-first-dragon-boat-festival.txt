@@ -1,0 +1,36 @@
+Use case: scientific-educational. Create ONE portrait HSK 3 reading lesson poster matching the provided reference template faithfully: identical cream paper, thin rounded tan border, watercolor cloud HSK badge top left, peach ribbon top center, large dark brown Chinese title and smaller English title, round scene top right, eight generously spaced passage rows in left 62% with small pinyin directly above corresponding large Chinese, three stacked rounded watercolor scene panels on right, star/heart dividers, gold New Words ribbon and 2x4 numbered vocabulary boxes at bottom. Same warm hand-painted watercolor children’s-book style and legible classroom typography as reference. Not a redesign. Aspect ratio same as reference (about 0.70 width/height), high resolution for all text.
+
+Use the reference for its layout, typography, warm watercolor style and spacing ONLY. Replace ALL Beijing content with this new story. Characters should be international adult learners and their friends; illustrate specific moments of THIS passage in the three right-side panels plus the round header scene. Clothing and people should be consistent across panels, with natural personal scenes rather than generic country stereotypes. NO extra readable text in illustrations.
+Badge: 适合水平 HSK 3
+Ribbon: 阅读课文 | Reading Lesson
+Title: 第一次过端午节
+Subtitle: My First Dragon Boat Festival
+Eight passage rows, pinyin ABOVE Chinese, each sentence exactly once. Do not change ANY character, pinyin syllable or tone mark. Prioritize large readable text; do not overlap illustrations.
+Zhè shì wǒ dì yī cì guò Duān wǔ Jié.
+这是我第一次过端午节。
+Zhōng guó péng you qǐng wǒ qù tā jiā.
+中国朋友请我去他家。
+Tā mā ma zhèng zài chú fáng lǐ bāo zòng zi.
+他妈妈正在厨房里包粽子。
+Tā jiāo wǒ bǎ mǐ fàng jìn yè zi lǐ.
+她教我把米放进叶子里。
+Wǒ bāo de bú tài hǎo, dà jiā dōu xiào le.
+我包得不太好，大家都笑了。
+Tā shuō, duō zuò jǐ cì jiù huì le.
+她说，多做几次就会了。
+Xià wǔ, wǒ men yì qǐ kàn lóng zhōu bǐ sài.
+下午，我们一起看龙舟比赛。
+Wǒ jué de zì jǐ xiàng zhè ge jiā de yì yuán.
+我觉得自己像这个家的一员。
+Bottom ribbon: 生词 | New Words
+Eight boxes numbered 1–8, each Chinese / pinyin / English and a tiny icon:
+1 端午节 / Duān wǔ Jié / Dragon Boat Festival
+2 粽子 / zòng zi / rice dumpling
+3 叶子 / yè zi / leaf
+4 龙舟 / lóng zhōu / dragon boat
+5 厨房 / chú fáng / kitchen
+6 妈妈 / mā ma / mother
+7 比赛 / bǐ sài / race
+8 一起 / yì qǐ / together
+All eight sentences must be completely visible, without duplicates or omissions. Keep punctuation and diacritics EXACT. Use high resolution. No extra text. The English sentence translations are NOT to be printed.
+CRITICAL vocabulary layout: EACH box MUST contain Chinese on first line, pinyin on second line, ENGLISH MEANING on THIRD line, and a small icon. Never omit English meanings. Leave enough height for all three lines in every vocabulary box.

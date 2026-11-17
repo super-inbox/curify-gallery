@@ -1181,7 +1181,7 @@ next test has to already exist. That's the bottleneck we take.
 
 ---
 
-## N3 · Fashion / apparel  
+## N3 · Fashion / apparel
 _Buyer: the brand that owns the garments. Studio-side retouching for photographers is a different family — see **P2** in `../2026-09-01-retouching/posts_fb.md`._
 
 **Assets:** `ecommerce_workflow/sneakers_viral_en.mp4`, `ecommerce_workflow/handbag_marketing_kit_en.mp4`

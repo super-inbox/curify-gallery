@@ -1,0 +1,119 @@
+{
+  "fashion-1900": {
+    "task_id": "457631411688005",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands."
+  },
+  "fashion-1925": {
+    "task_id": "457632839323843",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "fashion-1950": {
+    "task_id": "457632042197629",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "fashion-1975": {
+    "task_id": "457632270475902",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "fashion-2000": {
+    "task_id": "457632771080774",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "gowns-1550": {
+    "task_id": "457632308654314",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "gowns-1750": {
+    "task_id": "457632710488272",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "gowns-1810": {
+    "task_id": "457632736854607",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "bridal-1920": {
+    "task_id": "457633529590005",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "bridal-1950": {
+    "task_id": "457633747968620",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "bridal-1980": {
+    "task_id": "457633902576221",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "bridal-2000": {
+    "task_id": "457633925431527",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "bridal-2020": {
+    "task_id": "457634006073560",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "gowns-1860": {
+    "task_id": "457634252976715",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  },
+  "gowns-1950": {
+    "task_id": "457633758458104",
+    "status": "downloaded",
+    "prompt": "A cinematic locked full-body fashion portrait. This adult woman breathes naturally and slowly turns her shoulders by ten degrees toward the camera, then gently settles. Subtle realistic fabric motion and one natural blink. Keep her identity, exact period outfit, colors, framing and backdrop consistent. No walking, no morphing, no outfit transformation, no camera zoom, no text, no logos, no added accessories. Anatomically natural hands.",
+    "model": "MiniMax-Hailuo-2.3",
+    "duration": 6,
+    "resolution": "1080P"
+  }
+}

@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 928
+PlayResY: 1152
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,65,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,18,18,57,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.25,Default,,0,0,0,,{\alpha&HCC&}Did you know that octopuses\Nhave three hearts?
+Dialogue: 0,0:00:02.25,0:00:04.25,Default,,0,0,0,,{\alpha&HCC&}Imagine that!
+Dialogue: 0,0:00:04.25,0:00:06.25,Default,,0,0,0,,{\alpha&HCC&}Let’s explore why they\Nneed so many
+Dialogue: 0,0:00:06.25,0:00:08.55,Default,,0,0,0,,{\alpha&HCC&}Think of one heart as the\Nmain pump
+Dialogue: 0,0:00:08.55,0:00:10.47,Default,,0,0,0,,{\alpha&HCC&}like the big engine of a train
+Dialogue: 0,0:00:10.47,0:00:13.21,Default,,0,0,0,,{\alpha&HCC&}This heart sends blood all\Naround the octopus's body
+Dialogue: 0,0:00:13.21,0:00:14.40,Default,,0,0,0,,{\alpha&HCC&}giving it the energy to
+Dialogue: 0,0:00:14.40,0:00:16.40,Default,,0,0,0,,{\alpha&HCC&}swim and explore the ocean
+Dialogue: 0,0:00:16.40,0:00:20.90,Default,,0,0,0,,{\alpha&HCC&}This is much like how your\Nheart pushes blood through\Nyour body so you can run
+Dialogue: 0,0:00:20.90,0:00:22.90,Default,,0,0,0,,{\alpha&HCC&}and play
+Dialogue: 0,0:00:22.90,0:00:26.26,Default,,0,0,0,,{\alpha&HCC&}But the octopus is special\Nbecause it also has two extra\Nhearts
+Dialogue: 0,0:00:26.26,0:00:26.84,Default,,0,0,0,,{\alpha&HCC&}like little
+Dialogue: 0,0:00:26.84,0:00:28.84,Default,,0,0,0,,{\alpha&HCC&}helpers
+Dialogue: 0,0:00:28.84,0:00:30.76,Default,,0,0,0,,{\alpha&HCC&}These two hearts focus on its\Ngills
+Dialogue: 0,0:00:30.76,0:00:32.78,Default,,0,0,0,,{\alpha&HCC&}which are the octopus's way\Nto breathe
+Dialogue: 0,0:00:32.78,0:00:33.33,Default,,0,0,0,,{\alpha&HCC&}underwater
+Dialogue: 0,0:00:33.33,0:00:35.59,Default,,0,0,0,,{\alpha&HCC&}just like how you breathe air\Nwith your lungs
+Dialogue: 0,0:00:35.59,0:00:38.73,Default,,0,0,0,,{\alpha&HCC&}The helper hearts keep the\Nblood moving through the\Ngills quickly
+Dialogue: 0,0:00:38.73,0:00:39.25,Default,,0,0,0,,{\alpha&HCC&}making sure
+Dialogue: 0,0:00:39.25,0:00:41.78,Default,,0,0,0,,{\alpha&HCC&}the octopus gets plenty of\Noxygen from the water
+Dialogue: 0,0:00:41.78,0:00:43.66,Default,,0,0,0,,{\alpha&HCC&}So next time you think of an\Noctopus
+Dialogue: 0,0:00:43.66,0:00:45.44,Default,,0,0,0,,{\alpha&HCC&}remember those three\Nhearts working
+Dialogue: 0,0:00:45.44,0:00:47.44,Default,,0,0,0,,{\alpha&HCC&}together
+Dialogue: 0,0:00:47.44,0:00:48.63,Default,,0,0,0,,{\alpha&HCC&}It's like having a team of\Nlittle engines
+Dialogue: 0,0:00:48.63,0:00:49.51,Default,,0,0,0,,{\alpha&HCC&}each with its own important\Njob

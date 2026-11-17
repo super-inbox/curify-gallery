@@ -1,0 +1,242 @@
+[
+  {
+    "id": "template-herbal-zh-angelica",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-angelica.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-angelica-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "angelica"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-astragalus",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-astragalus.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-astragalus-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "astragalus"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-goji",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-goji.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-goji-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "goji"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-jujube",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-jujube.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-jujube-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "jujube"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-longan",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-longan.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-longan-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "longan"
+      }
+    }
+  },
+  {
+    "id": "template-travel-zh-xishuangbanna",
+    "template_id": "template-travel-zh",
+    "asset": {
+      "image_path": "/images/insp/template-travel-zh-xishuangbanna.jpg",
+      "preview_path": "/images/insp_preview/template-travel-zh-xishuangbanna-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "旅游规划图",
+        "title": "xishuangbanna"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-military-base 1",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-military-base 1.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-military-base 1-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "military base 1"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-military-base 2",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-military-base 2.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-military-base 2-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "military base 2"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-new-year 1",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-new-year 1.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-new-year 1-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "new year 1"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-new-year 2",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-new-year 2.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-new-year 2-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "new year 2"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-party",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-party.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-party-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "party"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-ski-resort",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-ski-resort.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-ski-resort-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "ski resort"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-supermarket",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-supermarket.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-supermarket-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "supermarket"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-temple-fair 1",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-temple-fair 1.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-temple-fair 1-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "temple fair 1"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-temple-fair 2",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-temple-fair 2.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-temple-fair 2-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "temple fair 2"
+      }
+    }
+  },
+  {
+    "id": "template-word-scene-temple-fair 3",
+    "template_id": "template-word-scene",
+    "asset": {
+      "image_path": "/images/insp/template-word-scene-zh-temple-fair 3.jpg",
+      "preview_path": "/images/insp_preview/template-word-scene-zh-temple-fair 3-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "场景单词学习图",
+        "title": "temple fair 3"
+      }
+    }
+  }
+]

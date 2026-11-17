@@ -1,0 +1,227 @@
+[
+  {
+    "id": "template-character-zh-academic-journey-to-the-west 1",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-academic-journey-to-the-west 1.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-academic-journey-to-the-west 1-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "academic journey to the west 1"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-academic-journey-to-the-west 2",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-academic-journey-to-the-west 2.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-academic-journey-to-the-west 2-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "academic journey to the west 2"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-academic-journey-to-the-west 3",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-academic-journey-to-the-west 3.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-academic-journey-to-the-west 3-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "academic journey to the west 3"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-academic-sandy",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-academic-sandy.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-academic-sandy-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "academic sandy"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-academic-sun-wukong",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-academic-sun-wukong.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-academic-sun-wukong-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "academic sun wukong"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-academic-tang-seng",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-academic-tang-seng.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-academic-tang-seng-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "academic tang seng"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-academic-zhu-bajie",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-academic-zhu-bajie.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-academic-zhu-bajie-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "academic zhu bajie"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-eight-immortals",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-eight-immortals.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-eight-immortals-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "eight immortals"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-twelve-beauties-jinling 2",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-twelve-beauties-jinling 2.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-twelve-beauties-jinling 2-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "twelve beauties jinling 2"
+      }
+    }
+  },
+  {
+    "id": "template-character-zh-twelve-beauties-jinling",
+    "template_id": "template-character-zh",
+    "asset": {
+      "image_path": "/images/insp/template-character-zh-twelve-beauties-jinling.jpg",
+      "preview_path": "/images/insp_preview/template-character-zh-twelve-beauties-jinling-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "人物像素拆解",
+        "title": "twelve beauties jinling"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-adenophora",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-adenophora.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-adenophora-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "adenophora"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-goji",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-goji.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-goji-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "goji"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-lily",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-lily.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-lily-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "lily"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-ophiopogon",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-ophiopogon.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-ophiopogon-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "ophiopogon"
+      }
+    }
+  },
+  {
+    "id": "template-herbal-zh-polygonatum",
+    "template_id": "template-herbal-zh",
+    "asset": {
+      "image_path": "/images/insp/template-herbal-zh-polygonatum.jpg",
+      "preview_path": "/images/insp_preview/template-herbal-zh-polygonatum-prev.jpg"
+    },
+    "params": {},
+    "locales": {
+      "zh": {
+        "category": "中草药类",
+        "title": "polygonatum"
+      }
+    }
+  }
+]

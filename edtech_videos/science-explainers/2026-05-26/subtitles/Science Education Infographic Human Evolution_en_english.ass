@@ -1,0 +1,67 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 928
+PlayResY: 1152
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Style: Default,Noto Sans SC,65,&HFFFFFF&,&HFFFFFF&,&H000000&,&H000000&,&H000000&,&H000000&,100,100,0,0,4,3,0,2,18,18,57,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.43,Default,,0,0,0,,{\alpha&HCC&}Have you ever wondered\Nwhy we can walk on two legs\Nor use our hands to do so
+Dialogue: 0,0:00:05.43,0:00:07.43,Default,,0,0,0,,{\alpha&HCC&}many things?
+Dialogue: 0,0:00:07.43,0:00:10.75,Default,,0,0,0,,{\alpha&HCC&}Let me tell you a story about\Nour journey through time!
+Dialogue: 0,0:00:10.75,0:00:11.09,Default,,0,0,0,,{\alpha&HCC&}A long
+Dialogue: 0,0:00:11.09,0:00:11.77,Default,,0,0,0,,{\alpha&HCC&}long time ago
+Dialogue: 0,0:00:11.77,0:00:13.77,Default,,0,0,0,,{\alpha&HCC&}there were beings called\NAustralopithecus
+Dialogue: 0,0:00:13.77,0:00:16.24,Default,,0,0,0,,{\alpha&HCC&}They roamed the land on\Ntheir two feet
+Dialogue: 0,0:00:16.24,0:00:17.70,Default,,0,0,0,,{\alpha&HCC&}much like how you walk!
+Dialogue: 0,0:00:17.70,0:00:19.18,Default,,0,0,0,,{\alpha&HCC&}But their brains were small
+Dialogue: 0,0:00:19.18,0:00:21.62,Default,,0,0,0,,{\alpha&HCC&}and they mostly wandered\Naround the open lands
+Dialogue: 0,0:00:21.62,0:00:23.62,Default,,0,0,0,,{\alpha&HCC&}looking for food
+Dialogue: 0,0:00:23.62,0:00:24.45,Default,,0,0,0,,{\alpha&HCC&}As time passed
+Dialogue: 0,0:00:24.45,0:00:27.25,Default,,0,0,0,,{\alpha&HCC&}some of these beings started\Nbecoming a bit smarter
+Dialogue: 0,0:00:27.25,0:00:28.44,Default,,0,0,0,,{\alpha&HCC&}They became Homo habilis
+Dialogue: 0,0:00:28.44,0:00:29.68,Default,,0,0,0,,{\alpha&HCC&}which means "handy person
+Dialogue: 0,0:00:29.68,0:00:30.87,Default,,0,0,0,,{\alpha&HCC&}" Imagine always having a
+Dialogue: 0,0:00:30.87,0:00:33.89,Default,,0,0,0,,{\alpha&HCC&}tool kit like when you build\Nblocks or solve puzzles
+Dialogue: 0,0:00:33.89,0:00:35.38,Default,,0,0,0,,{\alpha&HCC&}They used stones as tools
+Dialogue: 0,0:00:35.38,0:00:37.51,Default,,0,0,0,,{\alpha&HCC&}which helped them survive\Nin new ways
+Dialogue: 0,0:00:37.51,0:00:39.51,Default,,0,0,0,,{\alpha&HCC&}Then came Homo erectus
+Dialogue: 0,0:00:39.51,0:00:41.93,Default,,0,0,0,,{\alpha&HCC&}They had learned to stand\Ntall and straight
+Dialogue: 0,0:00:41.93,0:00:43.74,Default,,0,0,0,,{\alpha&HCC&}just like you when you’re\Nshowing
+Dialogue: 0,0:00:43.74,0:00:45.74,Default,,0,0,0,,{\alpha&HCC&}how strong you are
+Dialogue: 0,0:00:45.74,0:00:48.24,Default,,0,0,0,,{\alpha&HCC&}These clever ones\Ndiscovered how to use fire
+Dialogue: 0,0:00:48.24,0:00:49.97,Default,,0,0,0,,{\alpha&HCC&}which kept them warm and\Nhelped
+Dialogue: 0,0:00:49.97,0:00:51.97,Default,,0,0,0,,{\alpha&HCC&}them cook food
+Dialogue: 0,0:00:51.97,0:00:53.60,Default,,0,0,0,,{\alpha&HCC&}It was like having a cozy
+Dialogue: 0,0:00:53.60,0:00:55.29,Default,,0,0,0,,{\alpha&HCC&}warm blanket in the winter!
+Dialogue: 0,0:00:55.29,0:00:55.51,Default,,0,0,0,,{\alpha&HCC&}Now
+Dialogue: 0,0:00:55.51,0:00:56.45,Default,,0,0,0,,{\alpha&HCC&}as it got colder
+Dialogue: 0,0:00:56.45,0:00:59.21,Default,,0,0,0,,{\alpha&HCC&}a human group called\NNeanderthals learned to\Nadapt
+Dialogue: 0,0:00:59.21,0:01:01.93,Default,,0,0,0,,{\alpha&HCC&}Think about wearing a\Nwinter coat to stay warm
+Dialogue: 0,0:01:01.93,0:01:03.42,Default,,0,0,0,,{\alpha&HCC&}They lived during icy times
+Dialogue: 0,0:01:03.42,0:01:04.42,Default,,0,0,0,,{\alpha&HCC&}made complex tools
+Dialogue: 0,0:01:04.42,0:01:05.86,Default,,0,0,0,,{\alpha&HCC&}and hunted big animals like
+Dialogue: 0,0:01:05.86,0:01:07.86,Default,,0,0,0,,{\alpha&HCC&}mammoths!
+Dialogue: 0,0:01:07.86,0:01:08.31,Default,,0,0,0,,{\alpha&HCC&}Eventually
+Dialogue: 0,0:01:08.31,0:01:08.89,Default,,0,0,0,,{\alpha&HCC&}our ancestors
+Dialogue: 0,0:01:08.89,0:01:09.68,Default,,0,0,0,,{\alpha&HCC&}early Homo sapiens
+Dialogue: 0,0:01:09.68,0:01:09.97,Default,,0,0,0,,{\alpha&HCC&}emerged
+Dialogue: 0,0:01:09.97,0:01:11.92,Default,,0,0,0,,{\alpha&HCC&}They brought creativity into\Nthe picture
+Dialogue: 0,0:01:11.92,0:01:13.59,Default,,0,0,0,,{\alpha&HCC&}painting stories on cave\Nwalls like
+Dialogue: 0,0:01:13.59,0:01:15.59,Default,,0,0,0,,{\alpha&HCC&}you might draw pictures
+Dialogue: 0,0:01:15.59,0:01:17.27,Default,,0,0,0,,{\alpha&HCC&}They started to think and\Ncreate
+Dialogue: 0,0:01:17.27,0:01:19.52,Default,,0,0,0,,{\alpha&HCC&}leaving marks that spoke of\Ntheir adventures
+Dialogue: 0,0:01:19.52,0:01:21.52,Default,,0,0,0,,{\alpha&HCC&}and dreams
+Dialogue: 0,0:01:21.52,0:01:22.20,Default,,0,0,0,,{\alpha&HCC&}And finally
+Dialogue: 0,0:01:22.20,0:01:23.85,Default,,0,0,0,,{\alpha&HCC&}we reach modern Homo\Nsapiens
+Dialogue: 0,0:01:23.85,0:01:24.54,Default,,0,0,0,,{\alpha&HCC&}which is us!
+Dialogue: 0,0:01:24.54,0:01:25.08,Default,,0,0,0,,{\alpha&HCC&}Over time
+Dialogue: 0,0:01:25.08,0:01:26.77,Default,,0,0,0,,{\alpha&HCC&}we've learned to grow our\Nfood
+Dialogue: 0,0:01:26.77,0:01:27.48,Default,,0,0,0,,{\alpha&HCC&}build cities
+Dialogue: 0,0:01:27.48,0:01:28.46,Default,,0,0,0,,{\alpha&HCC&}and invent amazing
+Dialogue: 0,0:01:28.46,0:01:30.46,Default,,0,0,0,,{\alpha&HCC&}things like the gadgets you\Nlove
+Dialogue: 0,0:01:30.46,0:01:32.91,Default,,0,0,0,,{\alpha&HCC&}Just like planting seeds and\Nwatching them grow
+Dialogue: 0,0:01:32.91,0:01:34.09,Default,,0,0,0,,{\alpha&HCC&}humans kept growing and
