@@ -6,6 +6,7 @@
 |---|---|---|---|---|
 | [S2 · Friends · Then and Now](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Nostalgia / memory-film exploration; third-party AI montage. |
 | [S3 · Great Wall in Snow](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | Queued / not scheduled / not published | Not specified; follows S2 | Queued / not scheduled / not published | Winter travel memory; third-party source: Simple So. |
+| [S4 · Towards the Light · Tattoo Pilot](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [Caption](#s4-tattoo-pilot) | Queued / not scheduled / not published | Not specified; follows S3 | Queued / not scheduled / not published | Tattoo-inspired keepsake film; turn your story into a video. |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
@@ -868,3 +869,27 @@ Source: Simple So on Facebook. Shared as travel-film inspiration.
 #GreatWall #WinterScenery #TravelMemories #SouvenirVideo #ChinaTravel
 
 **After publishing:** Record each platform’s actual date, post link, views, shares and comments. Keep source attribution; do not describe the footage as today's snowfall or a Curify shoot.
+
+---
+
+<a id="s4-tattoo-pilot"></a>
+
+## 2026-11-17 · S4 · Towards the Light — a tattoo becomes a memory film
+
+**Status:** Added to the local publication sequence after S3. English caption ready for Facebook / Instagram; not scheduled or published. Date/time unassigned.
+
+**Video:** [69-second Curify-watermarked film](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · 1366 × 768 · 24 fps · original audio · animated freeze-frame ending. Video included in Git.
+
+**Caption:**
+
+What if a tattoo could tell its story in motion?
+
+This 69-second animated film began with a pilot-themed tattoo design: an aviator looking upward, a swallow, a sun and a teal scarf. We used those details to build a story about freedom, a childhood dream and finding the courage to begin again.
+
+A child repairs a model plane. A young trainee learns to keep going. An adult finally takes flight—then an accident brings everything to a halt. In the darkest moment, a glimpse of that childhood dream calls the pilot back toward the light.
+
+The film is a creative interpretation of the tattoo artwork, rather than a documentary of its owner's life. Its final image brings the pilot, bird and sun together again.
+
+**We create personalized keepsake videos. Turn your story into a film—from a meaningful tattoo or an old photograph to a memory you want to hold onto. Send us your image and tell us the story behind it.**
+
+#KeepsakeVideo #PersonalizedVideo #TattooStory #AnimatedShort #VisualStorytelling #Curify
