@@ -4,6 +4,8 @@
 
 | Platform | Status | Post | Format | Asset | Destination / schedule | Found via / series | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|---|
+| Facebook | ◻︎ Queued; not scheduled or published | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Date / time not assigned | E-commerce · product motion | | | |
+| Facebook | ◻︎ Queued; not scheduled or published | **Rotating Chair · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/rotation_chair/Curify-Rotating-Chair.mp4) | Date / time not assigned | E-commerce · product motion | | | |
 | Facebook | ◻︎ Queued; not scheduled or published | **E-MUSE** · Muse outfit changes | native video · 18.9s | [Video](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) | Date / time not assigned | E-commerce · batch outfit changes | | | |
 | Instagram | ◻︎ Queued; not scheduled or published | **E-MUSE** · Muse outfit changes | native video · 18.9s | [Video](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) | Date / time not assigned | E-commerce · batch outfit changes | | | |
 | Instagram | ◻︎ Ready / queued; not scheduled or published | **IG-E1** · Jade Portal | native Reel · 15s / 19s CTA | [15s film](../../ecommerce_ad_videos/jade-portal-2026-10-30/jade-portal-15s.mp4) / [19s Batch CTA](../../ecommerce_ad_videos/jade-portal-2026-10-30/jade-portal-19s-batch-cta.mp4) | Instagram; date / time not assigned; post link — | AI product ads · motion exploration | | | |
@@ -1911,3 +1913,35 @@ Reference video by @muse; shown as inspiration, not work produced by us.
 #Ecommerce #OutfitChange #ProductVisuals #BatchGeneration #CreativeReference
 
 **Measurement:** Track Facebook and Instagram separately. Record actual post links, watch time, shares and qualified enquiries; product images, desired styles and quantity distinguish project enquiries from general reactions.
+
+---
+
+## Fabric · From fiber to form
+
+**Video** · [Fabric product motion film, 32s](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4)
+
+**Facebook caption**
+
+How do you show what a fabric feels like on a screen?
+
+We start with a single strand, move close enough to see the weave, then let the fabric move so you can see how it drapes. By the time the shirt appears, you’ve already seen how the material catches light and falls.
+
+If you sell textiles or apparel, what would you want shoppers to notice first: the weave, the sheen, or the drape? Send us a product photo and the detail you’d like to highlight.
+
+#Textiles #ApparelEcommerce #ProductVideo #MotionDesign
+
+---
+
+## Rotating Chair · A closer look
+
+**Video** · [Rotating Chair product motion film, 32s](../../ecommerce_ad_videos/rotation_chair/Curify-Rotating-Chair.mp4)
+
+**Facebook caption**
+
+What do you zoom in on when you shop for an office chair?
+
+This 32-second product film starts with the full chair, then gives the headrest, mesh back and lumbar support their own close-ups. The final wide shot brings those details back into context. A soft piano score gives each shot room to breathe.
+
+If you sell furniture online, which detail do shoppers ask to see more clearly? Send us a product photo and tell us what they’re looking for.
+
+#FurnitureEcommerce #OfficeChair #ProductVideo #MotionDesign
