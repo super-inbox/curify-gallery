@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "scope": "fashion-video",
+  "entries": [
+    {"title":"逝去的诺言","artist":"陈慧娴","style":["经典粤语情歌","怀旧","克制浪漫"],"status":"operator_selected_for_preview","source":"https://music.apple.com/hk/song/1443436224","official_listen":"https://www.youtube.com/watch?v=mNvl_LHWkTw","edit_note":"以平台试听片段第 1 秒为试剪入点，适合约 9–12 秒的街拍与动作细节混剪。","asset_type":"external_reference","clearance":"仅索引试听来源；正式发布授权未核实。"},
+    {"title":"偏偏喜欢你","artist":"陈百强","style":["经典粤语情歌","温柔"],"status":"compared","source":"https://music.apple.com/hk/song/726243548","asset_type":"external_reference","clearance":"正式发布授权未核实。"},
+    {"title":"容易受伤的女人","artist":"王菲","style":["经典粤语情歌","情绪较强"],"status":"compared","source":"https://music.apple.com/hk/song/1463501768","asset_type":"external_reference","clearance":"正式发布授权未核实。"},
+    {"title":"风继续吹","artist":"张国荣","style":["经典粤语情歌","街拍叙事"],"status":"compared","source":"https://music.apple.com/hk/song/892682436","asset_type":"external_reference","clearance":"正式发布授权未核实。"},
+    {"title":"Elegant Style","style":["优雅","时装展示"],"status":"existing_gallery_candidate","file":"crab_audio-elegant-style-301129.mp3","asset_type":"local_asset","clearance":"按现有音源凭证核对用途。"},
+    {"title":"Sweet Life Luxury Chill","style":["轻松","都市"],"status":"existing_gallery_candidate","file":"alexgrohl-sweet-life-luxury-chill-438146.mp3","asset_type":"local_asset","clearance":"按现有音源凭证核对用途。"},
+    {"title":"Romantic Piano","style":["浪漫","钢琴"],"status":"existing_gallery_candidate","file":"leberch-romantic-piano-512030.mp3","asset_type":"local_asset","clearance":"按现有音源凭证核对用途。"}
+  ]
+}
