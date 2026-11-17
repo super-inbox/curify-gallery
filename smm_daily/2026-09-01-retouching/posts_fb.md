@@ -87,6 +87,7 @@ also the better thing to put in a buyer group first.
 | ◻︎ | — | 📦 G | **G2** · Jewellery retouching: sparkle with detail | `demos/product-retouching-2026-10-28/02-ring-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 | ◻︎ | — | 📦 G | **G3** · Light sandals: clean backgrounds, visible edges | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 | ◻︎ | — | 📦 G | **G4** · Zeelum backpack: show the opening | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Product photographers / studios · draft, not scheduled | | | |
+| ◻︎ | — | 🎥 V | **V1** · A camera move needs a destination | [Stadium camera reference](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | Photography studios · after G4 · queued, not scheduled/published · 2026-11-17 | | | |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
@@ -1571,3 +1572,30 @@ Image supplied by a client as a visual reference.
 #WatchPhotography #ProductRetouching #JewelleryPhotography
 
 **Alt text:** Three-quarter view of a silver bracelet watch with a sparkling stone-set bezel, a pearlescent dial and an opening that shows part of the movement.
+
+
+---
+
+## 2026-11-17 · V1 · A camera move needs a destination
+
+**Status / sequence:** Retouching · camera movement and editing reference for photography studios. Queued after G4 in the progress table; Facebook draft, not scheduled or published. Date and post link unassigned.
+
+**Video:** [Clean version](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) · 41.75s · 1024×576 · 30 fps · original audio. [Cover](../../social_media_virals/2026-11-17/stadium-camera-move/cover.jpg). Local-only MP4.
+
+**Source/edit:** [MessiZWX on RedNote](https://www.xiaohongshu.com/explore/6af828cb000000002a038673). Third-party reference, not Curify work or a player endorsement. Moving corner overlays removed by cropping the top/bottom and adding black bars; no time cuts. [Provenance and QA](../../social_media_virals/2026-11-17/stadium-camera-move/README.md). Original creator, event date and AI involvement unverified.
+
+### English caption
+
+A camera move needs somewhere to take you.
+
+This stadium sequence starts with the scale of the stands, descends toward the pitch, passes close to the players, then rises to reveal the whole space again. The change in distance gives each part a job: establish the setting, bring us close, then put the moment in context.
+
+For a product or property film, the same question helps before editing: what should the viewer understand at the start, notice up close, and remember at the end?
+
+Camera-movement reference shared by MessiZWX on RedNote; not filmed or produced by Curify.
+
+#CameraMovement #VideoEditing #VisualStorytelling #CommercialVideo
+
+**First-comment CTA:** We work with photography studios on product and property videos. Send us your existing photos or footage, the intended platform and the key detail you want viewers to notice; we can discuss a camera-movement and editing plan.
+
+**After posting:** Record the actual date, platform link, watch time, shares and qualified enquiries. Preserve source credit; do not use this clip as a Curify portfolio case.

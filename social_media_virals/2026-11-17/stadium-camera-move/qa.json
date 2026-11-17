@@ -1,0 +1,45 @@
+{
+  "source": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1024,
+        "height": 576,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "41.749478"
+    }
+  },
+  "clean": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1024,
+        "height": 576,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "41.749478"
+    }
+  },
+  "audio_source_hash": "SHA256=8326dbf9875694058f4bedc57440d6677d5a60c1d7d36f369a6e2109223b4962",
+  "audio_clean_hash": "SHA256=8326dbf9875694058f4bedc57440d6677d5a60c1d7d36f369a6e2109223b4962",
+  "visual_review": "14 samples at 3-second intervals: moving RedNote logo and uploader corner overlays removed by crop. Image content at top/bottom is lost; black bars preserve canvas dimensions.",
+  "source_sha256": "236cbade53d08e7ffc3c2d6cb5a39ebd722f0c15244bcf55b6fe574fe49c6027",
+  "clean_sha256": "39ab757ea24c59ce97e884b088ff6ac46a538bcec74b12f0a273ec04e220f07e"
+}
