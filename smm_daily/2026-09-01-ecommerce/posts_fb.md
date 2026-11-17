@@ -1,6 +1,50 @@
-# FB Groups · E-commerce — 17 posts + 2 supply-side recuts + 9 category cells (2026-09-01 … 09-21)
+# Facebook / Instagram · E-commerce
 
-_Facebook half of this folder. The Chinese half — 快手 **and** 小红书, one file — is
+## Publication schedule
+
+| Platform | Status | Post | Format | Asset | Destination / schedule | Found via / series | Comments | DMs | Samples |
+|---|---|---|---|---|---|---|---|---|---|
+| Facebook | ◻︎ Queued; not scheduled or published | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Date / time not assigned | E-commerce · product motion | | | |
+| Facebook | ◻︎ Queued; not scheduled or published | **Rotating Chair · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/rotation_chair/Curify-Rotating-Chair.mp4) | Date / time not assigned | E-commerce · product motion | | | |
+| Facebook | ◻︎ Queued; not scheduled or published | **E-MUSE** · Muse outfit changes | native video · 18.9s | [Video](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) | Date / time not assigned | E-commerce · batch outfit changes | | | |
+| Instagram | ◻︎ Queued; not scheduled or published | **E-MUSE** · Muse outfit changes | native video · 18.9s | [Video](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) | Date / time not assigned | E-commerce · batch outfit changes | | | |
+| Facebook | ◻︎ Ready; not scheduled or published | **FB · Kids’ room furniture** | Three 20s videos · with music | [Green · portrait 9:16](../../ecommerce_ad_videos/furniture/kids-room-green-portrait-20s.mp4) / [Green · landscape 4:3](../../ecommerce_ad_videos/furniture/kids-room-green-landscape-20s.mp4) / [Yellow / orange Cityline · portrait 9:16](../../ecommerce_ad_videos/furniture/kids-room-yellow-cityline-portrait-20s.mp4) | Facebook; date not assigned | E-commerce · furniture in use | | | |
+| Instagram | ◻︎ Ready / queued; not scheduled or published | **IG-E1** · Jade Portal | native Reel · 15s / 19s CTA | [15s film](../../ecommerce_ad_videos/jade-portal-2026-10-30/jade-portal-15s.mp4) / [19s Batch CTA](../../ecommerce_ad_videos/jade-portal-2026-10-30/jade-portal-19s-batch-cta.mp4) | Instagram; date / time not assigned; post link — | AI product ads · motion exploration | | | |
+| Facebook | ✅ **09-17** | `rotation_chair` | native video | ad-video library | ×3 — *marketing* · *digital marketing* · *marketing agency* | agency keywords — ⚠️ **a different buyer**, see the log | | | |
+| Facebook | ✅ **09-12** | `wine_viral_en.mp4` · bilingual | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
+| Facebook | ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
+| Facebook | ✅ **09-11** | jewelry — ⚠️ record asset | native video | ⚠️ record name | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
+| Facebook | ✅ **09-19** | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | ×3 — *fashion photo* · *ecommerce seller* · *fashion* · ⚠️ **record names + sizes** | `ecommerce seller` ✅ · `fashion photo` ⚠️ · `fashion` ⚠️ | | | |
+| Facebook | ✅ **09-20** | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | ×3 — *fashion modeling* · *fashion seller* · *ecommerce/shopify sellers* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce/shopify sellers` ✅ · `fashion modeling` ⚠️ | | | |
+| Facebook | ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
+| Facebook | ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
+| Facebook | ◻︎ | **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 | — | | | |
+| Facebook | ◻︎ | **A6** · what breaks a set isn't the garment | text + native image | `a6-outfit-itemised-minimalist.jpg` · `a6-style-variations-one-identity.jpg` | B3, B2 | — | | | |
+| Facebook | ◻︎ | **A7** · one reference ≠ a set | text + native image | `a7-one-sneaker-four-directions.jpg` | B3, B4 | — | | | |
+| Facebook | ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
+| Facebook | ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
+| Facebook | ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
+| Facebook | 🔴 **09-23** | `bellingham_male_dynasty_tryon` | native video | `cultural_videos/costume_tryon/` | ×3 — *ecommerce seller* · *shopify seller* · *fashion* | 🔴 posted against an ⛔ internal tier — see below | | | |
+| Facebook | 🔴 | **变装 lookbook** · other 4 clips | native video | `costume_tryon/` ×2 · `beat-fashion-2026-09-22/` ×2 | 🔴 live on RedNote, not on FB | — | | | |
+| Facebook | ⚠️ | **W5** · one bag, four uses | text + native image | `rn-grid-箱包四图.jpg` (3:4) | B3, B4 — ⚠️ **held on cadence, see below** | — | | | |
+| Facebook | ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
+| Facebook | ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
+| Facebook | ◻︎ candidate | **W4** · one product, a whole campaign | narrated native video | `fashion_batch_campaign` · 22 s | B3 / B4 candidates; no date set · source review pending | — | | | |
+| Facebook | ◻︎ queued · pair #1 | **W6** · English presenter + chair B-roll v2 | native video · 22.6s | [chair v2](../../ecommerce_ad_videos/rotation_chair/chair-presenter-EN-v2-watermarked.mp4) | B4 / relevant ecommerce seller groups; no date set | ecommerce seller / Shopify seller | | | |
+| Facebook | ◻︎ queued · pair #2 | **W7** · hands-on Pocket4P reference | video reference · 40.98s | [Pocket4P](../../ecommerce_ad_videos/RedNote-Pocket4P-unboxing-no-watermark.mp4) | relevant ecommerce seller groups; no date set; third-party reuse scope unconfirmed | ecommerce seller / electronics seller | | | |
+| Facebook | ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
+| Facebook | ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
+| Facebook | ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
+| Facebook | ◻︎ | `matcha_drink` | native video | ad-video library | B1 — last | — | | | |
+| Facebook | ⚠️ | `model_standing` | native video | ad-video library | B3 — **only after the likeness check**. 🔴 already public on RedNote while on hold | — | | | |
+| Facebook | ◻︎ | **Recut A** · reject list | text + native image | `a1-neck-joint-cycling-jersey.jpg` | S1, S2, S3 — **supply** | — | | | |
+| Facebook | ◻︎ | **Recut B** · how do you QC it | text + native image | `a4-two-ratio-check.jpg` | S1, S2 — **supply** | — | | | |
+
+One English file for both platforms. Platform labels preserve each existing publishing status; merging the files does not add Facebook posts to Instagram or schedule Jade Portal on Facebook. IG-E1 was added 2026-10-30 and remains a local queue entry, with dates and post link unassigned. Chinese-platform plans: [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md).
+
+---
+
+_Shared Facebook / Instagram English post file. The Facebook-specific rules below apply to Facebook groups. The Chinese half — 快手 **and** 小红书, one file — is
 **`posts_rednote_kuaishou.md`** — different
 register, not a translation. **Clearance, the group list, cadence and the stop rule
 are in [`README.md`](README.md)** and are not repeated here._
@@ -16,10 +60,9 @@ sellers solution (6.9K).
 freelance suppliers) · **S3** `729600757556835` (4.0K). ⚠️ These are **supply, not
 demand** — they get the two recuts, which *ask* rather than sell. Never the buyer posts.
 
-# The table — what goes where, and what has already gone
+## Facebook distribution rules and historical notes
 
-_One table for the whole folder. Plan and progress were two tables until 2026-09-19;
-they drifted, so they are one now. **Fill the metric columns a few days after each post.**_
+_Facebook and Instagram plans are consolidated in the Publication schedule above. **Fill the metric columns a few days after each post.**_
 
 **Cadence:** one group at a time, **~3 days apart**. Never the same asset into two groups
 the same day. **B1 last for everything except A1** — it carries the explicit anti-spam ban
@@ -28,35 +71,7 @@ whether the register survives there at all.
 
 **Status** ✅ sent · 🔴 sent off-plan · ◻︎ planned · ⚠️ held
 
-| Status | Post | Format | Asset | Group | Found via | Comments | DMs | Samples |
-|---|---|---|---|---|---|---|---|---|
-| ✅ **09-17** | `rotation_chair` | native video | ad-video library | ×3 — *marketing* · *digital marketing* · *marketing agency* | agency keywords — ⚠️ **a different buyer**, see the log | | | |
-| ✅ **09-12** | `wine_viral_en.mp4` · bilingual | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *wine* | `ecommerce` · `shopify` ✅ · `wine` ⚠️ | | | |
-| ✅ **09-11** | `serum_marketing_kit_en.mp4` · EN only | native video | `ecommerce_workflow/` | ×3 — *ecommerce* · *shopify* · *makeup* | `ecommerce` · `shopify` ✅ · `makeup` ⚠️ | | | |
-| ✅ **09-11** | jewelry — ⚠️ record asset | native video | ⚠️ record name | ⚠️ record name + size | `珠宝` + `Shopify` + `Ecommerce` | | | |
-| ✅ **09-19** | **A1** · the neck joint | text + native image | `a1-neck-joint-cycling-jersey.jpg` | ×3 — *fashion photo* · *ecommerce seller* · *fashion* · ⚠️ **record names + sizes** | `ecommerce seller` ✅ · `fashion photo` ⚠️ · `fashion` ⚠️ | | | |
-| ✅ **09-20** | **A2** · inner-layer bleed | text + native image | `a2-inner-layer-bleed.jpg` | ×3 — *fashion modeling* · *fashion seller* · *ecommerce/shopify sellers* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce/shopify sellers` ✅ · `fashion modeling` ⚠️ | | | |
-| ◻︎ | **A3** · silhouette drift | text + native image | `a3-silhouette-drift.jpg` | B3, B1 | — | | | |
-| ◻︎ | **A4** · the two-ratio check | text + native image | `a4-two-ratio-check.jpg` | B1, B2 | — | | | |
-| ◻︎ | **A5** · wrong listing vs right | text + native image | `a5-wrong-vs-right-listing.jpg` | B1, B4, B2 | — | | | |
-| ◻︎ | **A6** · what breaks a set isn't the garment | text + native image | `a6-outfit-itemised-minimalist.jpg` · `a6-style-variations-one-identity.jpg` | B3, B2 | — | | | |
-| ◻︎ | **A7** · one reference ≠ a set | text + native image | `a7-one-sneaker-four-directions.jpg` | B3, B4 | — | | | |
-| ◻︎ | **A9** · check the 4K, not the preview | text + native image | `a9-jewelry-flatlay-detail.jpg` · `a9-necklace-chain-detail.jpg` | B3, B2 | — | | | |
-| ◻︎ | **W1** · the shoot doesn't scale | text + native video | `ecommerce_workflow/*.mp4`, category-matched | B3, B2, B4, then B1 | — | | | |
-| ◻︎ | **W2** · one photo, nine variants | text + native image | `demos/ad-variants-demo-09-10/_one-to-nine.jpg` | B4, B2, then B1 — **not B3** | — | | | |
-| 🔴 **09-23** | `bellingham_male_dynasty_tryon` | native video | `cultural_videos/costume_tryon/` | ×3 — *ecommerce seller* · *shopify seller* · *fashion* | 🔴 posted against an ⛔ internal tier — see below | | | |
-| 🔴 | **变装 lookbook** · other 4 clips | native video | `costume_tryon/` ×2 · `beat-fashion-2026-09-22/` ×2 | 🔴 live on RedNote, not on FB | — | | | |
-| ⚠️ | **W5** · one bag, four uses | text + native image | `rn-grid-箱包四图.jpg` (3:4) | B3, B4 — ⚠️ **held on cadence, see below** | — | | | |
-| ✅ **09-22** | **W4** · batch campaign video | native video (22s, 9:16) | `ecommerce_ad_videos/fashion_batch_campaign/curify_fashion_batch_ad_narrated.mp4` | ×3 — *fashion* · *commerce seller* · *shopify* · ⚠️ **record names + sizes** | all three storefront searches ✅ | | | |
-| ✅ **09-21** | **W3** · one bag, six frames | text + native image | `curify-fashion.png` (1:1) | ×3 — *fashion seller* · *ecommerce seller* · *shopify seller* · ⚠️ **record names + sizes** | `fashion seller` ✅ · `ecommerce seller` ✅ · `shopify seller` ✅ — **3/3** | | | |
-| ◻︎ candidate | **W4** · one product, a whole campaign | narrated native video | `fashion_batch_campaign` · 22 s | B3 / B4 candidates; no date set · source review pending | — | | | |
-| ◻︎ | `fabric_ad` | native video | ad-video library | B3 — **tightest category match in the set** | — | | | |
-| ◻︎ | `angryalert` (landscape cut) | native video | ad-video library | B2 | — | | | |
-| ◻︎ | `kungfu_sf` | native video | ad-video library | B3 | — | | | |
-| ◻︎ | `matcha_drink` | native video | ad-video library | B1 — last | — | | | |
-| ⚠️ | `model_standing` | native video | ad-video library | B3 — **only after the likeness check**. 🔴 already public on RedNote while on hold | — | | | |
-| ◻︎ | **Recut A** · reject list | text + native image | `a1-neck-joint-cycling-jersey.jpg` | S1, S2, S3 — **supply** | — | | | |
-| ◻︎ | **Recut B** · how do you QC it | text + native image | `a4-two-ratio-check.jpg` | S1, S2 — **supply** | — | | | |
+
 
 **Format rules, every post:** never a carousel, never a link in the post body — FB
 throttles link-outs, and a native upload is not a link-out. One asset per post.
@@ -1799,3 +1814,144 @@ Planning your next drop? DM “BATCH” with your store link, number of products
 ### Posting notes
 
 Native upload; no external link in the body. Keep the quote CTA consistent with the video end card. No free-sample or exact-fidelity claim has been added. Leave published date, group and results blank until an actual post is confirmed.
+
+
+## W6 · An English presenter, with the product doing the explaining (2026-10-17)
+
+**Status:** queued, first of this new pair; not scheduled or published. Follow W6 with W7 after the existing cadence interval. Existing scheduled items retain their place.
+**Video:** [chair-presenter-EN-v2-watermarked.mp4](../../ecommerce_ad_videos/rotation_chair/chair-presenter-EN-v2-watermarked.mp4) — 22.6 seconds, 720×1280, English speech and captions, AI presenter alternating with product B-roll. Corrected 7-second transition; do not substitute the older 24-second cut.
+**Provenance:** Curify-created AI concept sample, not a real customer testimonial or evidence of sales performance. Keep the AI disclosure and slanted watermark.
+
+**Draft post:**
+
+A product video needs more than someone talking to camera.
+
+In this chair concept, an AI presenter introduces the product, then the edit cuts to the mesh back, curved profile and armrest details while the explanation continues. The viewer gets both a person to follow and a close look at the product.
+
+This is an AI-made demonstration, not a customer review. For a real campaign, we build the script around the actual product and the claims the seller can support.
+
+Planning several product videos? DM your product category, available footage and the number of versions you need. We can scope the scripts, presenter segments and product edits as a batch.
+
+**Record after posting:** date, group, permalink, replies and qualified enquiries. No posting action was taken when this entry was added.
+
+## W7 · A product demonstration can work without a face on camera (2026-10-17)
+
+**Status:** queued reference, second of this new pair; not scheduled or published. Third-party reuse permission is not recorded; confirm scope before native re-upload. Do not present this as Curify's work.
+**Video:** [RedNote-Pocket4P-unboxing-no-watermark.mp4](../../ecommerce_ad_videos/RedNote-Pocket4P-unboxing-no-watermark.mp4) — 40.98 seconds, 1440×2560, original audio retained. Watermark-free download does not establish ownership.
+**Source credit:** 浮生半盏茶, “算是给我抢到了！大疆Pocket4P开箱”, [original RedNote post](https://www.xiaohongshu.com/explore/6a5c37d4000000000100148e). Include creator credit in the post; put the source link in the first comment per this file's format.
+
+**Draft post:**
+
+Not every product video needs an on-camera presenter.
+
+This hands-on unboxing reference uses opening, handling, accessory details and close-ups to show the product. The hands give the viewer a sense of scale and make each action easy to follow.
+
+Reference credit: 浮生半盏茶 on RedNote. This is third-party work shared for format discussion, not a Curify production.
+
+For your own product, the choice is practical: use a presenter when the explanation benefits from a person, and use hands-on footage when the product demonstration can carry the story.
+
+Which format would help your next launch: presenter-led, hands-only, or a mix? DM your category and available footage if you are planning a batch.
+
+**Record after posting:** date, group, permalink, replies and qualified enquiries. No posting action was taken when this entry was added.
+
+---
+
+## IG-E1 · Jade Portal — a product world beyond the screen
+
+**Platform / status:** Instagram; ready / queued, not scheduled or published. This is a deliberate ecommerce exploration, not an established Instagram winning format. Compare with recent similarly sized Reels.
+
+**Upload:** [15-second vertical film](../../ecommerce_ad_videos/jade-portal-2026-10-30/jade-portal-15s.mp4)
+
+**Additional version:** [19-second Batch Generation CTA cut](../../ecommerce_ad_videos/jade-portal-2026-10-30/jade-portal-19s-batch-cta.mp4). Original 15-second film plus a 4-second Curify end card: DM “BATCH” for a quote. Same queue entry; not a second scheduled post.
+
+**Cover:** [Product hero](../../ecommerce_ad_videos/jade-portal-2026-10-30/cover.jpg)
+
+**Caption:**
+
+What if the product could step out of the screen? ✨
+
+One jade-green jar. A floating portal. An entire product universe.
+
+An original AI concept exploring how camera movement and scale can turn a simple product into a 15-second story.
+
+Which shot would you use for your product: the portal or the floating array?
+
+AI-generated fictional product. No real brand affiliation or product-performance claims.
+
+DM your product category and the kind of film you want to make.
+
+#AICommercial #ProductFilm #CreativeAdvertising #CGI #AIVideo
+
+**Measurement:** Record reach/plays, average watch time, completion where available, saves, shares, profile visits, follows and qualified product enquiries after 24 hours, 72 hours and 7 days. Track tutorial/prompt requests separately from prospective customers. No automated reminder was created.
+
+[Production notes, prompts and reference analysis](../../ecommerce_ad_videos/jade-portal-2026-10-30/README.md).
+
+
+## Facebook · A kids’ room in use
+
+**Video options:** [Green · portrait 9:16](../../ecommerce_ad_videos/furniture/kids-room-green-portrait-20s.mp4) / [Green · landscape 4:3](../../ecommerce_ad_videos/furniture/kids-room-green-landscape-20s.mp4) / [Yellow / orange Cityline · portrait 9:16](../../ecommerce_ad_videos/furniture/kids-room-yellow-cityline-portrait-20s.mp4). Each is a finished 20-second film with music.
+
+**Caption:** A bunk bed looks different when you see how a family uses it. A child takes the stairs, the lower bed slides forward a little, and there’s room to sit and share a book. Which view helps you picture the room better: portrait or landscape?
+
+#KidsRoom #FurnitureDesign #ProductVideo
+
+
+---
+
+## E-MUSE · One character, a whole wardrobe
+
+**Status:** 2026-11-04 · Facebook and Instagram local queued drafts; not scheduled or published. Dates and post links unassigned.
+
+**Video:** [Muse outfit-change reel](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) · 18.875s · 720×1280 · original audio; MP4 local-only.
+
+**Cover:** [Costume preview](../../social_media_virals/2026-11-04/muse-outfit-change/cover.jpg)
+
+**Source:** [@muse on Instagram](https://www.instagram.com/reels/DfFjLJZR1vD/). Third-party creative reference, not a Curify production or customer case. Keep source credit attached. [Source record](../../social_media_virals/2026-11-04/muse-outfit-change/README.md).
+
+**Shared caption — Facebook / Instagram:**
+
+One character. A whole wardrobe of possibilities. ✨
+
+A wizard, a vampire, a pizza slice—changing the outfit gives the same character a different story. Creative reference: @muse.
+
+For e-commerce, that opens up ideas for seasonal collections, different styles and campaign visuals.
+
+**We create batch outfit-change visuals for e-commerce.** DM “BATCH” with your product images, target styles and quantity to discuss your project and get a quote.
+
+Reference video by @muse; shown as inspiration, not work produced by us.
+
+#Ecommerce #OutfitChange #ProductVisuals #BatchGeneration #CreativeReference
+
+**Measurement:** Track Facebook and Instagram separately. Record actual post links, watch time, shares and qualified enquiries; product images, desired styles and quantity distinguish project enquiries from general reactions.
+
+---
+
+## Fabric · From fiber to form
+
+**Video** · [Fabric product motion film, 32s](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4)
+
+**Facebook caption**
+
+How do you show what a fabric feels like on a screen?
+
+We start with a single strand, move close enough to see the weave, then let the fabric move so you can see how it drapes. By the time the shirt appears, you’ve already seen how the material catches light and falls.
+
+If you sell textiles or apparel, what would you want shoppers to notice first: the weave, the sheen, or the drape? Send us a product photo and the detail you’d like to highlight.
+
+#Textiles #ApparelEcommerce #ProductVideo #MotionDesign
+
+---
+
+## Rotating Chair · A closer look
+
+**Video** · [Rotating Chair product motion film, 32s](../../ecommerce_ad_videos/rotation_chair/Curify-Rotating-Chair.mp4)
+
+**Facebook caption**
+
+What do you zoom in on when you shop for an office chair?
+
+This 32-second product film starts with the full chair, then gives the headrest, mesh back and lumbar support their own close-ups. The final wide shot brings those details back into context. A soft piano score gives each shot room to breathe.
+
+If you sell furniture online, which detail do shoppers ask to see more clearly? Send us a product photo and tell us what they’re looking for.
+
+#FurnitureEcommerce #OfficeChair #ProductVideo #MotionDesign

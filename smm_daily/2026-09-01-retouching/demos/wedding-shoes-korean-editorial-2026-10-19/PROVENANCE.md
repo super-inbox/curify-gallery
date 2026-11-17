@@ -14,4 +14,4 @@
 
 以上为概念/效果示意，不作为真实客片交付或实测效果证据。“热门”方向来自用户说明，未独立核验热度。
 
-文案与待发状态见 [小红书 W5 / F2 / P3](../../posts_rednote.md#2026-10-19--生生世世婚礼图女鞋精修韩杂风修图) 和 [Facebook W5 / F2 / P3](../../posts_fb.md#2026-10-19--wedding-generation-and-batch-retouching)。本次仅归档与撰稿，未发布或平台排期。
+文案与待发状态见 [小红书 W5 / F2 / P3](../../posts_rednote.md#w5--六世都是你这一世成婚) 和 [Facebook W5 / F2 / P3](../../posts_fb.md#2026-10-19--wedding-generation-and-batch-retouching)。2026-10-20 用户确认：小红书 W5 / F2 / P3 均已发布或已排期，逐帖状态、日期及链接未提供；FB 状态不变。

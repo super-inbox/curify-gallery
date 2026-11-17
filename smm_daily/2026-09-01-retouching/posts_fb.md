@@ -81,8 +81,12 @@ also the better thing to put in a buyer group first.
 | ✅ **reported 10-09** | — | 🧸 C | **C7** · shoot once, sell every season | `demos/retouch-children-demo-09-10/_sheet-children-3x4-en.jpg` | a **kids & babies photographer** group (name not recorded) · batch CTA | | | |
 | ◻︎ | after C7 | 🧸 C | **C8** · Jurassic rainforest | `demos/scene-worlds-2026-10-11/01-jurassic-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
 | ◻︎ | after C7 | 🧸 C | **C9** · Hogwarts-inspired hall | `demos/scene-worlds-2026-10-11/02-hogwarts-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
-| ◻︎ | after C7 | 🧸 C | **C10** · Frozen-inspired ice palace | `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ✅ **reported 10-20** | — | 🧸 C | **C10** · Frozen-inspired ice palace | `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg` | Group search keywords: **kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups** · exact group names, count and publication date not provided | | | |
 | ◻︎ | after C7 | 🧸 C | **C11** · Asgard-inspired golden city | `demos/scene-worlds-2026-10-11/04-asgard-before-after-en.jpg` | children’s portrait / photography buyers · not scheduled | | | |
+| ◻︎ | — | 📦 G | **G1** · Black headphones need more than a white background | `demos/product-retouching-2026-10-28/01-headphones-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
+| ◻︎ | — | 📦 G | **G2** · Jewellery retouching: sparkle with detail | `demos/product-retouching-2026-10-28/02-ring-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
+| ◻︎ | — | 📦 G | **G3** · Light sandals: clean backgrounds, visible edges | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
+| ◻︎ | — | 📦 G | **G4** · Zeelum backpack: show the opening | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Product photographers / studios · draft, not scheduled | | | |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
@@ -1287,7 +1291,7 @@ From the sheen of leather heels to the satin finish of bridal shoes and the soft
 
 ## 2026-10-11 · Cinematic scene enhancement C8–C11
 
-The user explicitly requested these synthetic-child examples for this retouching sequence. They reuse the existing AI-generated source and contain no real child or client photograph. Earlier blanket exclusions in this historical file do not apply to this specifically authorized synthetic set. Queue C7 → C8 → C9 → C10 → C11 at the existing cadence; do not displace scheduled posts. All four are ready drafts, not platform-scheduled.
+The user explicitly requested these synthetic-child examples for this retouching sequence. They reuse the existing AI-generated source and contain no real child or client photograph. Earlier blanket exclusions in this historical file do not apply to this specifically authorized synthetic set. Queue C7 → C8 → C9 → C10 → C11 at the existing cadence; do not displace scheduled posts. C8 was reported posted on 2026-10-11; C10 was confirmed published on Facebook on 2026-10-20 (actual publication date not provided). C9 and C11 remain ready drafts, not platform-scheduled.
 
 Use each English before/after card as a single-image FB post. Keep `overview-en.jpg` as an optional collection asset, not a duplicate same-day post.
 
@@ -1328,6 +1332,9 @@ We can develop a batch of scene concepts around one reference portrait and a wri
 https://www.curify-ai.com/en/nano-template/studio-digital-backdrop-scene
 
 ### C10 · Frozen-inspired ice palace
+
+**Status:** ✅ Published on Facebook, confirmed by the user on 2026-10-20. Actual publication date and post links were not provided.
+**Group search keywords (as reported):** “kids photographer; kids activities; photographers; Dubai / Kyoto / Bali photographer groups”. These are search keywords, not verified group names; the number of groups was not provided.
 
 **Attach:** `demos/scene-worlds-2026-10-11/03-frozen-before-after-en.jpg`
 
@@ -1425,3 +1432,123 @@ This three-pose concept shows a Korean magazine-inspired colour treatment. Compa
 AI-generated illustration with an adjusted character appearance; not a real-world performance test.
 
 **First-comment CTA:** We offer batch portrait colour grading and retouching, including Korean editorial-inspired looks. DM a few originals, your style reference, image count and intended use so we can establish a sample finish for the full set.
+
+
+---
+
+## 2026-10-20 · F3 · Rose-jewel footwear pair
+
+**Status:** ◻︎ Draft; not published or scheduled. Follows the F2 footwear theme in this retouching series.
+**Attach in order:** [1 · Pink rose heels](demos/rose-jewel-footwear-2026-10-20/01-pink-rose-jewel-heels.jpg), [2 · Blue rose heels](demos/rose-jewel-footwear-2026-10-20/02-blue-rose-jewel-heels.jpg). One two-image post, not a before/after comparison.
+**Source:** [PROVENANCE.md](demos/rose-jewel-footwear-2026-10-20/PROVENANCE.md). User-supplied finished images, presented as visual references.
+**CTA:** Batch bridal / footwear retouching and themed image creation.
+
+### Post
+
+A rose garden or a royal-blue evening? 🌹
+
+Pink roses, green jeweled vines and pearl ankle details give the first look a soft, romantic mood. Blue roses, gold branches and lace give the second a richer evening feel.
+
+For detail-heavy footwear imagery, the finishing brief matters: keep petal edges distinct, control highlights on pearls and stones, and retain fine chains and lace against the background. Across a full set, skin tone, metal colour and lighting should feel consistent.
+
+These two images are visual style references. Which direction would you choose for a bridal campaign: pink or blue?
+
+#BridalInspiration #FootwearPhotography #ProductRetouching #WeddingShoes
+
+**First-comment CTA:** Have a batch of bridal shoes, footwear or accessories to retouch—or a themed image series to create? DM a few source images, your style reference, image count and intended use. We’ll agree on a sample direction before developing the set. Product retouching should preserve the shoe’s original shape, colours and decorative details.
+
+**Alt text, image 1:** Close-up of pink high-heeled sandals with pink roses, green jeweled vines, pearl ankle strands and dangling pink stones, against a warm floral background.
+
+**Alt text, image 2:** Close-up of blue high-heeled sandals with blue roses, gold branches, pearl and jewel details and lace, against a blue-and-white floral background.
+
+
+---
+
+## 2026-10-28 · Product retouching G1–G3
+
+Filed in the retouching series at the user’s request. All three posts are drafts, not published or scheduled. Original images retained; see [PROVENANCE.md](demos/product-retouching-2026-10-28/PROVENANCE.md)。
+
+### G1 · Black headphones need more than a white background
+
+**Attach:** [01-headphones-before-after.jpg](demos/product-retouching-2026-10-28/01-headphones-before-after.jpg)
+
+Black products need enough tonal separation to show their shape without turning grey.
+
+In this headphone comparison, look at the ear-pad texture, the sheen on the outer shell and the separation between the headband and background. A clean backdrop still needs a convincing contact shadow.
+
+For a catalogue batch, agree on black levels, highlight strength and background treatment first. Then check buttons, seams and ear-cup geometry against the source images.
+
+Supplied comparison image shown as a visual reference; not a verified client delivery or performance test.
+
+#ProductRetouching #HeadphonePhotography #EcommercePhotography
+
+**First-comment CTA — Batch Product Retouching:** Have a batch of product photos to edit? DM a few originals, your target reference, image count, intended use and deadline. We handle background cleanup, colour correction, lighting refinement and detail cleanup. Agree on a sample finish first, then roll it out across the batch.
+
+### G2 · Jewellery retouching: sparkle with detail
+
+**Attach:** [02-ring-before-after.jpg](demos/product-retouching-2026-10-28/02-ring-before-after.jpg)
+
+Jewellery images need highlights, but turning every bright area white makes the details harder to read.
+
+This ring comparison is a useful reference for facet definition, prong edges and smooth reflections across the band. Contrast within the stone helps the facets remain visible.
+
+For product work, check stone count, setting structure, band proportions and engraving against the original. The editing brief should preserve those features while refining colour and lighting.
+
+Supplied comparison image shown as a visual reference; not a verified client delivery or performance test.
+
+#JewelleryRetouching #RingPhotography #ProductPhotography
+
+**First-comment CTA — Batch Product Retouching:** Have a batch of product photos to edit? DM a few originals, your target reference, image count, intended use and deadline. We handle background cleanup, colour correction, lighting refinement and detail cleanup. Agree on a sample finish first, then roll it out across the batch.
+
+### G3 · Light sandals: clean backgrounds, visible edges
+
+**Attach:** [03-sandals-before-after.jpg](demos/product-retouching-2026-10-28/03-sandals-before-after.jpg)
+
+Beige footwear on a pale background can lose its edges—or its actual colour—during cleanup.
+
+In this sandal comparison, look at the strap edges, surface texture and shadow beneath the soles. A brighter background should still leave the beige colour and the shape of the heels readable.
+
+Across a footwear batch, keep background, colour treatment and framing consistent while checking each style’s buckles, stitching, silhouette and heel proportions against the originals.
+
+Supplied comparison image shown as a visual reference; not a verified client delivery or performance test.
+
+#FootwearRetouching #ProductRetouching #EcommercePhotography
+
+**First-comment CTA — Batch Product Retouching:** Have a batch of product photos to edit? DM a few originals, your target reference, image count, intended use and deadline. We handle background cleanup, colour correction, lighting refinement and detail cleanup. Agree on a sample finish first, then roll it out across the batch.
+
+## 2026-11-05 · G4 · From a product still to an opening sequence
+
+**Attach:** [10-second backpack demo](demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4)
+
+A closed backpack tells you very little about the space inside. In this 10-second photo-to-video test, the lower zipper travels around the pocket, the flap folds down, and the camera cuts to the lining of the main compartment. No hands enter the frame.
+
+For a studio planning a similar shoot, photograph the bag closed and fully open from the same angle. Then get a close-up of the zipper path and the interior you want the viewer to see. Those views give the edit a clear starting point and a clear reveal.
+
+#ProductPhotography #ProductVideo #StudioWorkflow
+
+**First-comment CTA:** We partner with high-end photography studios to create product videos with cinematic camera movement. DM us to discuss your next project.
+
+
+---
+
+## 2026-11-11 · G5 · Watch retouching: make the metal read
+
+**Status:** Draft; not published or scheduled. Product-retouching continuation, filed in this series at the user’s request.
+**Attach:** [Watch before/after reference](demos/watch-commercial-retouching-2026-11-11/watch-before-after.jpg)
+**Source:** [PROVENANCE.md](demos/watch-commercial-retouching-2026-11-11/PROVENANCE.md). User-supplied visual reference, not a verified Curify client delivery.
+
+### Post
+
+A clean background is only the starting point for a watch photo.
+
+In this supplied comparison, look at the highlights along the bracelet, the brushed finish around the case and the separation between the dial, hands and hour markers. Those small transitions make the metal easier to read.
+
+For a catalogue batch, agree on metal colour, reflection strength and background treatment with a sample first. Then check each image against its original: lettering, dial markings, hands and bracelet structure should still describe the same product.
+
+This comparison is a visual reference for the finishing brief, not a verified example of our own client work.
+
+#WatchPhotography #ProductRetouching #CommercialRetouching #EcommercePhotography
+
+**First-comment CTA — Batch Product Retouching:** We offer batch commercial retouching for watches, jewellery and other products. DM a few originals, your target reference, image count, intended use and deadline. We’ll agree on a sample finish first, then apply the agreed standard across the batch.
+
+**Alt text:** Side-by-side watch-retouching reference. The left image shows a rose-gold-tone bracelet watch with uneven reflections against a grey background; the right shows a white background, more controlled metal highlights and clearer dial details. Chinese labels identify the original and retouched images.

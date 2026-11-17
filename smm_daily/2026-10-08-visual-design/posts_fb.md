@@ -77,3 +77,59 @@ Original AI-generated mythology concept art. Which detail anchors the world for 
 First comment:
 We can help develop a consistent visual series from a scene brief. Start with the world, the mood and the elements that should repeat.
 https://www.curify-ai.com/en/nano-template/media-theme-wallpaper-poster
+
+
+## V18 · One pumpkin cat, four styles
+
+**Status:** Draft, not published or scheduled. Single-image Halloween encore / evergreen style exploration.
+**Attach:** [Four-style poster](halloween-style-lab-2026-11-01/halloween-cat-four-styles.png).
+
+Halloween may be over, but this pumpkin cat is staying a little longer. 🎃
+
+One character idea, four materials: sculpted clay, soft needle felt, layered paper and crisp pixel art. The amber eyes, purple hat and pumpkin connect the set; texture changes the mood.
+
+Which version would you choose for a sticker, a campaign illustration or a game character?
+
+AI-generated style concepts, not a reference-photo fidelity test.
+
+**First-comment CTA:** Have a character, product or learning theme to turn into a visual series? DM your brief, references, intended use and image count. We offer batch image generation and series style design for ecommerce, entertainment and education, starting with a sample direction.
+
+#HalloweenArt #CharacterDesign #StyleExploration #AIDesign
+
+
+## V19 · Three Halloween makeup and styling directions
+
+**Status:** Draft, not published or scheduled. Separate single-image post from V18's cat style grid.
+**Attach:** [Three-look collage](halloween-style-lab-2026-11-01/halloween-makeup-three-looks.png). Two portraits above, one centered below.
+
+A Halloween encore: which makeup and styling direction would you try? 🎃
+
+Moonlit witch: soft curls, a black bow and a moon-and-bat backdrop.
+Playful pumpkin: an overhead angle, theatrical makeup and an expressive pose.
+Dark pumpkin: twin ponytails, a deeper lip and a close-up composition.
+
+Makeup, hair, wardrobe, props and setting work together to shape each look. These are AI-generated concept references, not client photos or a same-person before-and-after test.
+
+**First-comment CTA:** Need a themed portrait series or a batch of visuals for a beauty brand or photography studio? We offer AI makeup-and-styling concepts and batch image generation. DM “LOOKS” with your theme, references, intended use and image count. Approve a sample direction, then expand it into poses, compositions and scenes.
+
+#HalloweenMakeup #MakeupAndStyling #AIPortraits #BatchImageGeneration #CreativeStudio
+
+
+## V20 · Same model, four crochet looks
+
+**Status:** Draft, not published or scheduled. Intentional fashion-production exploration for studio / apparel audiences.
+**Format:** Single-image FB lead post using [01 — mist-blue camisole](crochet-tryon-2026-11-05/01-mist-blue-camisole.png); 02–04 are supporting look options, not a prescribed FB carousel.
+
+What makes an AI outfit change feel natural?
+
+The answer is in the small details: visible yarn stitches, a slight crease in linen, stray hairs, skin texture and shadows that follow the light.
+
+We built four pastel crochet looks around one original AI model: a mist-blue camisole, a sage halter, an ivory asymmetric top and a light crochet cardigan. A shared pose, background and lighting make the clothing changes easier to compare.
+
+Which detail matters most when you review an AI fashion image: fabric, fit or the face?
+
+These are AI-generated model and garment concepts. They show a visual direction, not verified fit or exact reproduction of a physical product.
+
+**First-comment CTA:** Planning an apparel launch? We create AI outfit changes and batch model-on-garment visuals. DM “TRY-ON” with your garment photos or design references, model direction, intended use and image count. Start with a sample, then expand the approved direction across styles and colors.
+
+#AIFashion #VirtualTryOn #CrochetFashion #FashionPhotography #BatchImageGeneration
