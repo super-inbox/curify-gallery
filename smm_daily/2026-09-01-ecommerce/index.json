@@ -305,6 +305,34 @@
    },
    "provenance_file": "fashion_batch_campaign/production_notes.md",
    "narration_script": "fashion_batch_campaign/narration_script.txt"
+  },
+  {
+   "id": "womenswear_lifestyle",
+   "file": "womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4",
+   "watermarked": "womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4",
+   "duration_s": 9.875,
+   "resolution": "768x1364",
+   "fps": 24,
+   "orientation": "vertical",
+   "category": "fashion / apparel",
+   "subject": "AI-generated wool top and navy velvet skirt in everyday outdoor scenes",
+   "brand_on_screen": "Curify",
+   "audio": "逝去的诺言; retained sample soundtrack; social commercial-use license not documented in project records",
+   "status": "queued",
+   "added_at": "2026-11-18",
+   "platform_status": {
+    "facebook": "queued_date_pending",
+    "instagram": "queued_date_pending",
+    "rednote": "queued_date_pending",
+    "kuaishou": "queued_date_pending"
+   },
+   "post_refs": {
+    "english": "posts_fb.md#e-womenswear--clothes-in-everyday-motion",
+    "chinese": "posts_rednote_kuaishou.md#c15--女装生活场景--批量服装视频与换装图"
+   },
+   "cta_zh": "我们可以批量制作服装视频和换装图。",
+   "cta_en": "We create apparel videos and virtual outfit-change images in batches.",
+   "provenance_file": "womenswear-lifestyle/README.md"
   }
  ]
 }

@@ -233,3 +233,5 @@ one per folder. If 20 comments produce no real conversation, stop and re-read th
 demand rather than posting more.
 
 - 2026-11-04 · Muse换装参考：[小红书 C14](posts_rednote_kuaishou.md#c14--muse换装--电商批量换装) · [Facebook／Instagram E-MUSE](posts_fb.md#e-muse--one-character-a-whole-wardrobe)。CTA：为电商提供批量换装。均本地待发布、未预约、未发布；视频来源 @muse，非我们的制作案例。
+
+- 2026-11-18 · 女装生活场景样片 A：[成片与归档](../../ecommerce_ad_videos/womenswear-lifestyle/README.md) · 中文 C15 · 英文 E-WOMENSWEAR。CTA 为批量制作服装视频和换装图；待发布，日期待定。

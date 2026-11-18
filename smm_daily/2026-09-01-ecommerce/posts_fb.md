@@ -39,6 +39,8 @@
 | Facebook | ⚠️ | `model_standing` | native video | ad-video library | B3 — **only after the likeness check**. 🔴 already public on RedNote while on hold | — | | | |
 | Facebook | ◻︎ | **Recut A** · reject list | text + native image | `a1-neck-joint-cycling-jersey.jpg` | S1, S2, S3 — **supply** | — | | | |
 | Facebook | ◻︎ | **Recut B** · how do you QC it | text + native image | `a4-two-ratio-check.jpg` | S1, S2 — **supply** | — | | | |
+| Facebook | ◻︎ Queued | **E-WOMENSWEAR** · apparel in everyday motion | native video · 9.875s · portrait | [Video](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | Date / time pending | E-commerce · batch apparel videos and outfit-change images | | | |
+| Instagram | ◻︎ Queued | **E-WOMENSWEAR** · apparel in everyday motion | native Reel · 9.875s · portrait | [Video](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | Date / time pending | E-commerce · batch apparel videos and outfit-change images | | | |
 
 One English file for both platforms. Platform labels preserve each existing publishing status; merging the files does not add Facebook posts to Instagram or schedule Jade Portal on Facebook. IG-E1 was added 2026-10-30 and remains a local queue entry, with dates and post link unassigned. Chinese-platform plans: [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md).
 
@@ -1955,3 +1957,23 @@ This 32-second product film starts with the full chair, then gives the headrest,
 If you sell furniture online, which detail do shoppers ask to see more clearly? Send us a product photo and tell us what they’re looking for.
 
 #FurnitureEcommerce #OfficeChair #ProductVideo #MotionDesign
+
+---
+
+## E-WOMENSWEAR · Clothes in everyday motion
+
+**Status** · Added 2026-11-18 to the ecommerce publication sequence. Queued for Facebook and Instagram. Publication date and post links pending.
+
+**Video** · [Feedback V1 A · slanted Curify watermark](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) · 9.875s · 768×1364 · AI-generated apparel sample.
+
+**Caption**
+
+A glance to the side, a hand brushing through hair, a few easy steps. Small movements help shoppers see how an outfit looks in motion.
+
+This AI-generated womenswear sample brings a wool top and navy velvet skirt into everyday outdoor scenes, with attention to fit, fabric drape and a consistent look across shots.
+
+We create apparel videos and virtual outfit-change images in batches. DM “FASHION” with your garment photos, preferred style and quantity to discuss your project.
+
+#FashionEcommerce #ApparelVideo #VirtualTryOn #AIContent #Curify
+
+**After publication** · Record the date, post link, watch time and enquiries with garment photos and requested quantities.
