@@ -9,6 +9,7 @@
 | 时光纪念 / 怀旧 | [S2 · 老友记 · 与年轻的自己同框](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | 待发布，未预约、未发布（11-04新增） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 旅行纪念 / 冬日风景 | [S3 · 长城落雪](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | 待发布，未预约、未发布（11-10新增）；接 S2 | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 人生故事 / 纹身纪念 | [S4 · 向光而生 · 飞行员纹身](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [文案](#s4-tattoo-pilot) | 待发布，未预约、未发布 | 文案备齐，渠道待安排 | 文案备齐，渠道待安排 | 文案备齐，渠道待安排 | 未指定；接在 S3 后 |
+| 文学文化 / 商品故事 | [S5 · 红楼美人拳](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [文案](#s5-red-chamber) | 待发布，未预约、未发布；接 S4 | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 工艺品制作 | [《瑞羊纳福》珍珠画](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | 待发布 | 待发布 | 未安排 | 未安排 | 未排期 |
 | 旅行纪念 | [S1 · 海边散步 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | 已加入待发布队列，未预约、未发布（11-02） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 服饰年代演变 | [H1 · 百年女装](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | 待发布，未预约、未发布（10-30更新） | 待发布，未预约、未发布（10-30新增） | 未排期 | 未排期 | 未指定 |
@@ -981,3 +982,29 @@ AI 时装演绎；atlas 长袍采用当代女装搭配。
 **我们制作专属纪念视频，把你的故事变成视频。一个有意义的纹身、一张老照片、一段舍不得忘记的经历，都可以成为起点。把图片和背后的故事发给我们，一起把它做成可以重看的纪念。**
 
 #纪念视频 #故事定制 #纹身故事 #动画短片 #把回忆拍成电影 #Curify
+
+<a id="s5-red-chamber"></a>
+
+## 2026-11-18 · S5 · 从红楼夜宴到妈妈的肩头
+
+小红书本地待发布，接在 S4 后，发布时间待定。
+
+[最终成片](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · 28.6 秒 · 竖屏 768 × 1344 · 视频保留在本地。
+
+《红楼梦》里，琥珀拿着美人拳，给贾母轻轻捶腿。
+
+我们把这个小细节拍成一支商品故事短片。先在夜宴灯影里看织锦、长柄和挂绳，再跟着拿起美人拳的那只手，来到今天的家里。
+
+“妈，今天累了吧？我给你捶捶。”
+
+一件传统小物，也能装下日常的关心。
+
+这支 AI 辅助制作短片从商品图片出发，把文化来历、产品细节和母女互动串在一起。你手里的文创或纪念物，也有什么想讲的故事？
+
+文创商品故事短片制作可了解 curify-ai.com。
+
+#红楼梦 #美人拳 #文创产品 #传统文化 #母女日常 #AI视频 #Curify
+
+Music: All The Tea In China by Shane Ivers — https://www.silvermansound.com/free-music/all-the-tea-in-china
+Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Excerpted and mixed.

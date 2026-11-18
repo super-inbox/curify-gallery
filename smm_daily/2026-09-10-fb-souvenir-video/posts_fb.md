@@ -7,6 +7,7 @@
 | [S2 · Friends · Then and Now](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Nostalgia / memory-film exploration; third-party AI montage. |
 | [S3 · Great Wall in Snow](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | Queued / not scheduled / not published | Not specified; follows S2 | Queued / not scheduled / not published | Winter travel memory; third-party source: Simple So. |
 | [S4 · Towards the Light · Tattoo Pilot](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [Caption](#s4-tattoo-pilot) | Queued / not scheduled / not published | Not specified; follows S3 | Queued / not scheduled / not published | Tattoo-inspired keepsake film; turn your story into a video. |
+| [S5 · Red Chamber · A Small Gesture of Care](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [Caption](#s5-red-chamber) | Not requested | Not specified; follows S4 on Facebook | Queued / not scheduled / not published | Literary heritage, product detail and a mother–daughter moment. |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
@@ -893,3 +894,27 @@ The film is a creative interpretation of the tattoo artwork, rather than a docum
 **We create personalized keepsake videos. Turn your story into a film—from a meaningful tattoo or an old photograph to a memory you want to hold onto. Send us your image and tell us the story behind it.**
 
 #KeepsakeVideo #PersonalizedVideo #TattooStory #AnimatedShort #VisualStorytelling #Curify
+
+<a id="s5-red-chamber"></a>
+
+## 2026-11-18 · S5 · Red Chamber · A Small Gesture of Care
+
+Queued after S4 on Facebook. Posting date pending.
+
+[Final video](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · 28.6 seconds · vertical 768 × 1344 · Chinese dialogue and narration. Video retained locally.
+
+A small object from a classic story, carried into an everyday moment of care.
+
+Inspired by the beauty mallet mentioned in Dream of the Red Chamber, this film moves from a lantern-lit banquet to a daughter gently tending to her mother's tired shoulders.
+
+Brocade, a woven handle, a hanging loop—and a familiar question. “Mum, has it been a long day?”
+
+We made this AI-assisted product film from supplied product images, pairing literary atmosphere with a warm family scene.
+
+Have a keepsake or cultural product with a story to tell? Explore video creation at curify-ai.com.
+
+#Curify #ProductStorytelling #ChineseCulture #AIvideo #DreamOfTheRedChamber
+
+Music: All The Tea In China by Shane Ivers — https://www.silvermansound.com/free-music/all-the-tea-in-china
+Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Excerpted and mixed.
