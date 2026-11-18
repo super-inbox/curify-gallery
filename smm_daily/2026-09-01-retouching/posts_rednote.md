@@ -54,6 +54,7 @@ _本文件和 **`posts_fb.md`** 是同一批素材的两个版本，**结构、�
 | ◻︎ | 📦 G | **G3** 浅色凉鞋，干净不等于一片白 | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | 2026-10-28 新增；待发，未排期；CTA：批量商品精修 | | | |
 | ◻︎ | 📦 G | **G4** 背包拉开后，里面是什么样？ | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Zeelum 产品动态测试；待发，未排期 | | | |
 | ◻︎ | 🎥 V | **V1** 运镜不是一直飞，要让人看懂 | [球场运镜参考](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | 2026-11-17 新增；接 G4 后；小红书待发，未预约、未发布；第三方参考，非 Curify 制作 | | | |
+| ◻︎ | 🎥 V | **V2** 五张照片，怎么剪出一段伦敦运镜？ | [A 都市电子](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [D 难念的经](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4) | 2026-11-18 新增；接 V1 后；待发、未排期 | | | |
 
 **2026-10-20 更新：** W5、F2、P3、F3 四帖均已在小红书发布或排期，已纳入上方总表及对应声线正文；未区分逐帖状态，不据此增加已发布数量。
 
@@ -1228,3 +1229,15 @@ C1 的论点放在**一支精华瓶**上讲，C7 直接用合成的孩子展示�
 #运镜 #视频剪辑 #摄影工作室 #产品视频 #房产视频 #商业摄影
 
 **发布后回填：** 实际日期、帖子链接、播放、收藏、分享及有效私信；保留来源说明，不作为 Curify 客户案例展示。
+
+---
+
+## 2026-11-18 · V2 · 五张照片，怎么剪出一段伦敦运镜？
+
+**素材** [A 都市电子](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [D 周华健《难念的经》](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4)。两版画面一致，全长 16.90 秒。A 作主选，D 为 Apple Music 试听片段配乐备选，公开使用授权待核实。
+
+**小红书正文草稿**
+
+先贴住地铁车身转一个弯，再顺着木扶手绕进楼梯井。经过鲸骨大厅与金融城，最后从石雕开口穿出来，在泰晤士河边把速度慢下来。
+
+这条短片用五张伦敦照片做运镜试验。河景无遮挡部分由原照辅助补绘。想看的是镜头方向和快慢怎么让这些不同空间接得顺。

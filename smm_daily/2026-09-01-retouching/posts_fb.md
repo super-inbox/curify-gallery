@@ -88,6 +88,7 @@ also the better thing to put in a buyer group first.
 | ◻︎ | — | 📦 G | **G3** · Light sandals: clean backgrounds, visible edges | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 | ◻︎ | — | 📦 G | **G4** · Zeelum backpack: show the opening | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Product photographers / studios · draft, not scheduled | | | |
 | ◻︎ | — | 🎥 V | **V1** · A camera move needs a destination | [Stadium camera reference](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | Photography studios · after G4 · queued, not scheduled/published · 2026-11-17 | | | |
+| ◻︎ | — | 🎥 V | **V2** · London in five camera moves | [Urban electronic](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [Wakin Chau alternate](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4) | After V1 · queued, not scheduled · 2026-11-18 | | | |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
@@ -1599,3 +1600,15 @@ Camera-movement reference shared by MessiZWX on RedNote; not filmed or produced 
 **First-comment CTA:** We work with photography studios on product and property videos. Send us your existing photos or footage, the intended platform and the key detail you want viewers to notice; we can discuss a camera-movement and editing plan.
 
 **After posting:** Record the actual date, platform link, watch time, shares and qualified enquiries. Preserve source credit; do not use this clip as a Curify portfolio case.
+
+---
+
+## 2026-11-18 · V2 · London in five camera moves
+
+**Assets:** [A · Urban electronic](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [D · Wakin Chau, “難唸的經”](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4). Same 16.90-second edit. A is the lead version. D is an alternate using the Apple Music preview excerpt. Public-use clearance is unverified.
+
+**Facebook draft**
+
+Five photographs, one route through London. Follow the train into the bend, spiral into the stairwell, then pass through a stone frame to open water and the opposite bank.
+
+We built this as a photo-to-motion study for photographers and studios. Camera direction and pacing connect five distinct views. The unobstructed Thames view uses an AI-assisted extension of the source photograph.

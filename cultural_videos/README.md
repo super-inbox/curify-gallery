@@ -12,6 +12,7 @@ two entries at the root.
 | `dubai/` | DUBAI — two generations, see below |
 | `granada/` | GRANADA「palace, hill, cave」 — Nasrid courts down to a Sacromonte zambra |
 | `wukang/` | 上海武康大楼 — autumn street-style souvenir; current v03, 20s, clean + slanted Curify watermark |
+| [`london-camera-motion/`](london-camera-motion/) | London city photography motion study, 16.90s, with two music versions |
 | `costume_tryon/` | earlier dynasty-costume try-on tests |
 | loose files at root | earlier cultural pieces, pre-dating the subfolder convention |
 
