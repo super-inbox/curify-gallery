@@ -1612,3 +1612,5 @@ Camera-movement reference shared by MessiZWX on RedNote; not filmed or produced 
 Five photographs, one route through London. Follow the train into the bend, spiral into the stairwell, then pass through a stone frame to open water and the opposite bank.
 
 We built this as a photo-to-motion study for photographers and studios. Camera direction and pacing connect five distinct views. The unobstructed Thames view uses an AI-assisted extension of the source photograph.
+
+We work with photography studios to turn existing photos and footage into short product and property videos, with camera-movement planning and editing. DM us “CAMERA MOVE” with your material, where you plan to post, and the detail you want to highlight. We’ll work out the first video together.
