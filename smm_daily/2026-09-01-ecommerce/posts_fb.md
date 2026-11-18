@@ -2,9 +2,13 @@
 
 ## Publication schedule
 
+**2026-11-18 publication update:** The user confirmed Fabric / 面料动效广告, E-WOMENSWEAR / C15 are published on Facebook, Instagram and YouTube. This is the confirmation date, not an assumed publication date; actual dates and URLs remain unrecorded.
+
 | Platform | Status | Post | Format | Asset | Destination / schedule | Found via / series | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|---|
-| Facebook | ◻︎ Queued; not scheduled or published | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Date / time not assigned | E-commerce · product motion | | | |
+| Facebook | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Actual date/time and post URL not provided | E-commerce · product motion |  |  |  |
+| Instagram | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Actual date/time and post URL not provided | E-commerce · product motion |  |  |  |
+| YouTube | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Actual date/time and post URL not provided | E-commerce · product motion |  |  |  |
 | Facebook | ◻︎ Queued; not scheduled or published | **Rotating Chair · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/rotation_chair/Curify-Rotating-Chair.mp4) | Date / time not assigned | E-commerce · product motion | | | |
 | Facebook | ◻︎ Queued; not scheduled or published | **E-MUSE** · Muse outfit changes | native video · 18.9s | [Video](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) | Date / time not assigned | E-commerce · batch outfit changes | | | |
 | Instagram | ◻︎ Queued; not scheduled or published | **E-MUSE** · Muse outfit changes | native video · 18.9s | [Video](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) | Date / time not assigned | E-commerce · batch outfit changes | | | |
@@ -39,8 +43,9 @@
 | Facebook | ⚠️ | `model_standing` | native video | ad-video library | B3 — **only after the likeness check**. 🔴 already public on RedNote while on hold | — | | | |
 | Facebook | ◻︎ | **Recut A** · reject list | text + native image | `a1-neck-joint-cycling-jersey.jpg` | S1, S2, S3 — **supply** | — | | | |
 | Facebook | ◻︎ | **Recut B** · how do you QC it | text + native image | `a4-two-ratio-check.jpg` | S1, S2 — **supply** | — | | | |
-| Facebook | ◻︎ Queued | **E-WOMENSWEAR** · apparel in everyday motion | native video · 9.875s · portrait | [Video](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | Date / time pending | E-commerce · batch apparel videos and outfit-change images | | | |
-| Instagram | ◻︎ Queued | **E-WOMENSWEAR** · apparel in everyday motion | native Reel · 9.875s · portrait | [Video](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | Date / time pending | E-commerce · batch apparel videos and outfit-change images | | | |
+| Facebook | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **E-WOMENSWEAR** · apparel in everyday motion | native video · 9.875s · portrait | [Video](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | Actual date/time and post URL not provided | E-commerce · batch apparel videos and outfit-change images |  |  |  |
+| Instagram | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **E-WOMENSWEAR** · apparel in everyday motion | native Reel · 9.875s · portrait | [Video](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | Actual date/time and post URL not provided | E-commerce · batch apparel videos and outfit-change images |  |  |  |
+| YouTube | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **E-WOMENSWEAR** · apparel in everyday motion | native video · 9.875s · portrait | [Video](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | Actual date/time and post URL not provided | E-commerce · batch apparel videos and outfit-change images |  |  |  |
 
 One English file for both platforms. Platform labels preserve each existing publishing status; merging the files does not add Facebook posts to Instagram or schedule Jade Portal on Facebook. IG-E1 was added 2026-10-30 and remains a local queue entry, with dates and post link unassigned. Chinese-platform plans: [posts_rednote_kuaishou.md](posts_rednote_kuaishou.md).
 
@@ -1930,6 +1935,8 @@ Reference video by @muse; shown as inspiration, not work produced by us.
 
 ## Fabric · From fiber to form
 
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided.
+
 **Video** · [Fabric product motion film, 32s](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4)
 
 **Facebook caption**
@@ -1962,7 +1969,7 @@ If you sell furniture online, which detail do shoppers ask to see more clearly? 
 
 ## E-WOMENSWEAR · Clothes in everyday motion
 
-**Status** · Added 2026-11-18 to the ecommerce publication sequence. Queued for Facebook and Instagram. Publication date and post links pending.
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided.
 
 **Video** · [Feedback V1 A · slanted Curify watermark](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) · 9.875s · 768×1364 · AI-generated apparel sample.
 

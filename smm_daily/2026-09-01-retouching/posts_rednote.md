@@ -15,6 +15,8 @@ _本文件和 **`posts_fb.md`** 是同一批素材的两个版本，**结构、�
 
 # 发布节奏与进度
 
+**2026-11-18 发布更新：** 用户确认 V1、V2 均已在小红书、快手、微信视频号发布。11-18 为确认日期，不推定为实际发布日期；具体日期和帖子链接待补。其他平台状态未据此推定。
+
 和 `posts_fb.md` 的 **Schedule & progress** 一一对应：同样的帖、同样的声线、同样的顺序，
 只是换到小红书。**每周最多两个声线**，理由同 FB —— 一个 pilot 一个停止规则，
 四条同时跑会在任何一格够 n 之前烧完分母。
@@ -53,8 +55,8 @@ _本文件和 **`posts_fb.md`** 是同一批素材的两个版本，**结构、�
 | ◻︎ | 📦 G | **G2** 戒指修图，闪耀也要留住细节 | `demos/product-retouching-2026-10-28/02-ring-before-after.jpg` | 2026-10-28 新增；待发，未排期；CTA：批量商品精修 | | | |
 | ◻︎ | 📦 G | **G3** 浅色凉鞋，干净不等于一片白 | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | 2026-10-28 新增；待发，未排期；CTA：批量商品精修 | | | |
 | ◻︎ | 📦 G | **G4** 背包拉开后，里面是什么样？ | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Zeelum 产品动态测试；待发，未排期 | | | |
-| ◻︎ | 🎥 V | **V1** 运镜不是一直飞，要让人看懂 | [球场运镜参考](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | 2026-11-17 新增；接 G4 后；小红书待发，未预约、未发布；第三方参考，非 Curify 制作 | | | |
-| ◻︎ | 🎥 V | **V2** 五张照片，怎么剪出一段伦敦运镜？ | [A 都市电子](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [D 难念的经](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4) | 2026-11-18 新增；接 V1 后；待发、未排期 | | | |
+| ✅ 已发布 · 小红书／快手／视频号 | 🎥 V | **V1** 运镜不是一直飞，要让人看懂 | [球场运镜参考](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | 2026-11-18 用户确认；实际日期／链接未提供；第三方运镜参考，非 Curify 制作 |  |  |  |
+| ✅ 已发布 · 小红书／快手／视频号 | 🎥 V | **V2** 五张照片，怎么剪出一段伦敦运镜？ | [A 都市电子](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [D 难念的经](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4) | 2026-11-18 用户确认；实际日期／链接未提供；实际发布的配乐版本未指定 |  |  |  |
 
 **2026-10-20 更新：** W5、F2、P3、F3 四帖均已在小红书发布或排期，已纳入上方总表及对应声线正文；未区分逐帖状态，不据此增加已发布数量。
 
@@ -1206,7 +1208,7 @@ C1 的论点放在**一支精华瓶**上讲，C7 直接用合成的孩子展示�
 
 ## 2026-11-17 · V1 · 运镜不是一直飞，要让人看懂
 
-**状态 / 顺序：** Retouching · 摄影工作室运镜与剪辑参考；进度表接 G4 后。小红书草稿，待发布、未预约、未发布；日期和帖子链接未指定。
+**状态：** ✅ 已在小红书、快手、微信视频号发布（2026-11-18 用户确认）；实际发布日期、时间及帖子链接未提供。
 
 **视频：** [去角标版](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) · 41.75秒 · 1024×576 · 30fps · 原音轨。[封面](../../social_media_virals/2026-11-17/stadium-camera-move/cover.jpg)。视频仅存本地。
 
@@ -1234,9 +1236,11 @@ C1 的论点放在**一支精华瓶**上讲，C7 直接用合成的孩子展示�
 
 ## 2026-11-18 · V2 · 五张照片，怎么剪出一段伦敦运镜？
 
+**状态：** ✅ 已在小红书、快手、微信视频号发布（2026-11-18 用户确认）；实际发布日期、时间及帖子链接未提供。实际发布的配乐版本未指定；下方版本说明保留供参考。
+
 **素材** [A 都市电子](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [D 周华健《难念的经》](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4)。两版画面一致，全长 16.90 秒。A 作主选，D 为 Apple Music 试听片段配乐备选，公开使用授权待核实。
 
-**小红书正文草稿**
+**小红书正文**
 
 先贴住地铁车身转一个弯，再顺着木扶手绕进楼梯井。经过鲸骨大厅与金融城，最后从石雕开口穿出来，在泰晤士河边把速度慢下来。
 

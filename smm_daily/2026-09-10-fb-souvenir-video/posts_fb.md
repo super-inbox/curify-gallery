@@ -2,38 +2,40 @@
 
 ## Publication schedule
 
-| Series / video | Instagram status | Scheduled date / time | Facebook status | Voice |
-|---|---|---|---|---|
-| [S2 · Friends · Then and Now](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Nostalgia / memory-film exploration; third-party AI montage. |
-| [S3 · Great Wall in Snow](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | Queued / not scheduled / not published | Not specified; follows S2 | Queued / not scheduled / not published | Winter travel memory; third-party source: Simple So. |
-| [S4 · Towards the Light · Tattoo Pilot](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [Caption](#s4-tattoo-pilot) | Queued / not scheduled / not published | Not specified; follows S3 | Queued / not scheduled / not published | Tattoo-inspired keepsake film; turn your story into a video. |
-| [S5 · Red Chamber · A Small Gesture of Care](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [Caption](#s5-red-chamber) | Not requested | Not specified; follows S4 on Facebook | Queued / not scheduled / not published | Literary heritage, product detail and a mother–daughter moment. |
-| [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. |
-| [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. |
-| [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
-| [H2 · 400 Years of Gowns](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/gowns-through-time-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
-| [H3 · 100 Years of Bridal Style](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-bridal-style-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. |
-| [Fashion Time Machine](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/fashion-time-machine-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Playful fashion discovery; invite viewers to choose an era. |
-| [One Sarong, Three Moods](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/one-sarong-three-moods-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. |
-| [Chinese Silhouettes Remixed](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. |
-| [Feitian · The Lost Name](../../drama/feitian-shiming-30s-music-v2-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. |
-| [Q1 · Rollover Wardrobe · Chinese Embroidery](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Playful rollover reveal; embroidery and colour details. |
-| [Q2 · Fan Sweep · Asian Silhouettes](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Playful suspense; silhouette and drape. |
-| [Q3 · Glowstick Wardrobe · World Textiles](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Curious textile discovery; distinct references. |
-| [Bali · Melukat](../../cultural_videos/bali/bali-melukat-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
-| [Dubai · The Creek](../../cultural_videos/dubai/dubai-creek-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
-| [Granada · Alhambra](../../cultural_videos/granada/granada-alhambra-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
-| [Kyoto · Kimono](../../cultural_videos/kyoto/kyoto-kimono-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
-| [Tengwang Pavilion · Preview](../../cultural_videos/tengwangge/tengwangge-30s-preview-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. |
-| [Love Scene](../../drama_animation/love-scene.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Emotional short film. |
-| [W1 · Shanghai Wukang](../../cultural_videos/wukang/wukang-autumn-fashion-20s-watermarked.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Autumn street style. |
-| [Yuanmingyuan, Then and Now](../../cultural_videos/yuanmingyuan/yuanmingyuan-then-and-now-15s.mp4) | Not requested | Not scheduled | Queued / unpublished | Reflective destination souvenir with bilingual titles. |
-| [K1 · Tummy Feelings](2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. |
-| [K2 · Fridge Transport Team](2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. |
-| Bali · Resort (superseded) | Do not publish | — | Do not publish | Retired version. |
-| Dubai · Desert (superseded) | Do not publish | — | Do not publish | Retired version. |
-| Tengwang Pavilion · `-realmodel` / `-v3` | Do not publish | — | Do not publish | Restricted versions. |
-| `fashion_Renaissance.mp4` / NANYA styling reel | Reference only; no publication plan | — | Reference only; no publication plan | Production references, not queued posts. |
+**2026-11-18 publication update:** The user confirmed S2, S3, S4, S5 are published on Facebook, Instagram and YouTube. This is the confirmation date, not an assumed publication date; actual dates and URLs remain unrecorded.
+
+| Series / video | Instagram status | Scheduled date / time | Facebook status | Voice | YouTube status |
+| --- | --- | --- | --- | --- | --- |
+| [S2 · Friends · Then and Now](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Nostalgia / memory-film exploration; third-party AI montage. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
+| [S3 · Great Wall in Snow](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Winter travel memory; third-party source: Simple So. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
+| [S4 · Towards the Light · Tattoo Pilot](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [Caption](#s4-tattoo-pilot) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Tattoo-inspired keepsake film; turn your story into a video. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
+| [S5 · Red Chamber · A Small Gesture of Care](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [Caption](#s5-red-chamber) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Literary heritage, product detail and a mother–daughter moment. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
+| [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. | Not recorded |
+| [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. | Not recorded |
+| [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. | Not recorded |
+| [H2 · 400 Years of Gowns](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/gowns-through-time-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. | Not recorded |
+| [H3 · 100 Years of Bridal Style](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-bridal-style-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. | Not recorded |
+| [Fashion Time Machine](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/fashion-time-machine-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Playful fashion discovery; invite viewers to choose an era. | Not recorded |
+| [One Sarong, Three Moods](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/one-sarong-three-moods-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Warm, practical styling; one garment across everyday occasions. | Not recorded |
+| [Chinese Silhouettes Remixed](../../cultural_videos/costume_tryon/2026-10-10-fashion-culture/chinese-silhouettes-remixed-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Contemporary cultural style; connect traditional silhouettes with today's wardrobe. | Not recorded |
+| [Feitian · The Lost Name](../../drama/feitian-shiming-30s-music-v2-curify.mp4) | **Scheduled** | Not recorded | Draft / not posted | Cinematic fantasy; lead with atmosphere, mystery and story. | Not recorded |
+| [Q1 · Rollover Wardrobe · Chinese Embroidery](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-chinese-embroidery-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Playful rollover reveal; embroidery and colour details. | Not recorded |
+| [Q2 · Fan Sweep · Asian Silhouettes](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/fan-sweep-asian-silhouettes-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Playful suspense; silhouette and drape. | Not recorded |
+| [Q3 · Glowstick Wardrobe · World Textiles](../../cultural_videos/costume_tryon/2026-10-11-overhead-costume/glowstick-world-textiles-curify.mp4) | **Scheduled** | Not recorded | Queued / draft | Curious textile discovery; distinct references. | Not recorded |
+| [Bali · Melukat](../../cultural_videos/bali/bali-melukat-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. | Not recorded |
+| [Dubai · The Creek](../../cultural_videos/dubai/dubai-creek-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. | Not recorded |
+| [Granada · Alhambra](../../cultural_videos/granada/granada-alhambra-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. | Not recorded |
+| [Kyoto · Kimono](../../cultural_videos/kyoto/kyoto-kimono-30s-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. | Not recorded |
+| [Tengwang Pavilion · Preview](../../cultural_videos/tengwangge/tengwangge-30s-preview-watermarked.mp4) | No plan recorded | Not recorded | Copy ready; publication status not recorded | Destination souvenir; Facebook groups only. | Not recorded |
+| [Love Scene](../../drama_animation/love-scene.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Emotional short film. | Not recorded |
+| [W1 · Shanghai Wukang](../../cultural_videos/wukang/wukang-autumn-fashion-20s-watermarked.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Autumn street style. | Not recorded |
+| [Yuanmingyuan, Then and Now](../../cultural_videos/yuanmingyuan/yuanmingyuan-then-and-now-15s.mp4) | Not requested | Not scheduled | Queued / unpublished | Reflective destination souvenir with bilingual titles. | Not recorded |
+| [K1 · Tummy Feelings](2026-10-12-kids-3d-knowledge-animation/assets/tummy-feelings-30s-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. | Not recorded |
+| [K2 · Fridge Transport Team](2026-10-12-kids-3d-knowledge-animation/assets/fridge-transport-team-30s-v2-curify.mp4) | Draft / not scheduled / not published | Not specified | Draft / not scheduled / not published | 3D knowledge animation. | Not recorded |
+| Bali · Resort (superseded) | Do not publish | — | Do not publish | Retired version. | Not recorded |
+| Dubai · Desert (superseded) | Do not publish | — | Do not publish | Retired version. | Not recorded |
+| Tengwang Pavilion · `-realmodel` / `-v3` | Do not publish | — | Do not publish | Restricted versions. | Not recorded |
+| `fashion_Renaissance.mp4` / NANYA styling reel | Reference only; no publication plan | — | Reference only; no publication plan | Production references, not queued posts. | Not recorded |
 
 **2026-10-30 update:** H1–H3 are queued for both Facebook and Instagram, in order H1 → H2 → H3. Local publication plan only; no platform scheduling or publishing has occurred. Dates/times are not assigned. English captions and upload links are in the H1–H3 section below.
 
@@ -803,7 +805,7 @@ We used a photo of the finished artwork to create this 15-second AI rendering of
 
 ## 2026-11-04 · S2 · Friends · Then and Now
 
-**Status:** Added to the souvenir / memory-film series for Facebook and Instagram. Local queue only; neither scheduled nor published. Dates and post links unassigned. This nostalgia experiment is separate from the destination-travel posts.
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided.
 
 **Upload:** [RedNote-overlay-cleaned video](../../social_media_virals/2026-11-04/friends-then-and-now/friends-then-and-now-rednote-clean.mp4) · about 61 seconds · 720×1280 · original audio. MP4 is local-only, not pushed to Git.
 
@@ -849,7 +851,7 @@ Have a campaign or a topic to explain? Curify produces ad videos, TV commercials
 
 ## 2026-11-10 · S3 · Great Wall in Snow
 
-**Status / sequence:** Local souvenir publication queue, after S2 · Friends. English shared copy for Facebook and Instagram; neither scheduled nor published. Date/time and post URLs unassigned.
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided.
 
 **Upload:** [Original reel](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) · 7.223s · 1440×2560 · 30 fps · audio included. Video remains local-only.
 
@@ -877,7 +879,7 @@ Source: Simple So on Facebook. Shared as travel-film inspiration.
 
 ## 2026-11-17 · S4 · Towards the Light — a tattoo becomes a memory film
 
-**Status:** Added to the local publication sequence after S3. English caption ready for Facebook / Instagram; not scheduled or published. Date/time unassigned.
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided.
 
 **Video:** [69-second Curify-watermarked film](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · 1366 × 768 · 24 fps · original audio · animated freeze-frame ending. Video included in Git.
 
@@ -899,7 +901,7 @@ The film is a creative interpretation of the tattoo artwork, rather than a docum
 
 ## 2026-11-18 · S5 · Red Chamber · A Small Gesture of Care
 
-Queued after S4 on Facebook. Posting date pending.
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided.
 
 [Final video](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · 28.6 seconds · vertical 768 × 1344 · Chinese dialogue and narration. Video retained locally.
 

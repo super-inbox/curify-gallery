@@ -2,9 +2,11 @@
 
 ## Publication schedule
 
+**2026-11-18 发布更新：** 用户确认 Fabric / 面料动效广告、E-WOMENSWEAR / C15 均已在小红书、快手、微信视频号发布。11-18 为确认日期，不推定为实际发布日期；具体日期和帖子链接待补。其他平台状态未据此推定。
+
 | 帖 | 素材 | 快手 | 小红书 | 微信视频号（WeChat Channels） | 抖音 |
 |---|---|---|---|---|---|
-| **面料动效广告** | [32 秒横版成片](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | — | ◻︎ 待发布，未排期 | — | — |
+| **面料动效广告** | [32 秒横版成片](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | — |
 | **旋转椅动效广告** | [32 秒横版成片](../../ecommerce_ad_videos/rotation_chair/Curify-Rotating-Chair.mp4) | — | ◻︎ 待发布，未排期 | — | — |
 | **C14 · Muse换装 · 电商批量换装** | [18.9秒换装视频](../../social_media_virals/2026-11-04/muse-outfit-change/muse-outfit-change.mp4) | — 本次未安排 | ◻︎ 待发布，未预约、未发布（11-04）；日期待定 | — 本次未安排 | — 本次未安排 |
 | **C13 · 儿童房里的20秒** | [绿色竖屏 · 9:16](../../ecommerce_ad_videos/furniture/kids-room-green-portrait-20s.mp4) / [绿色横屏 · 4:3](../../ecommerce_ad_videos/furniture/kids-room-green-landscape-20s.mp4) / [黄橙色 Cityline 竖屏 · 9:16](../../ecommerce_ad_videos/furniture/kids-room-yellow-cityline-portrait-20s.mp4) | — | ◻︎ 待发布，未排期 | — | — |
@@ -37,7 +39,7 @@
 | **C6** 一个 SKU 几张图 | `rn-C6-一个SKU几张图.jpg` · `a7-one-sneaker-four-directions.jpg` | — | ◻︎ | 待确认 | 待确认 |
 | **C7** 预览图是干净的 | `rn-C7-预览图是干净的.jpg` | — | ◻︎ **服装-4 换封面重发** | 待确认 | 待确认 |
 | **C8** 7 个验收点 | `rn-C8-七个验收点.jpg` | — | ◻︎ **服装-1 换封面重发** | 待确认 | 待确认 |
-| **C15 · 女装生活场景** | [9.875 秒竖屏 A 版](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | ◻︎ 待发布，日期待定 | ◻︎ 待发布，日期待定 | — | — |
+| **C15 · 女装生活场景** | [9.875 秒竖屏 A 版](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | — |
 
 本表覆盖本文件已有全部条目；保留历史发布状态。C12 仅新增小红书，实际预约后再填写日期，发布后填写链接。Instagram 与 Facebook 统一记录在 [posts_fb.md](posts_fb.md#publication-schedule)。
 
@@ -1230,6 +1232,8 @@ _2026-09-22 加入。**这条是服务贴，不是干货贴** —— 服装-1~4 
 
 ## 面料动效广告 · 从一根纤维到一件衬衫
 
+**状态：** ✅ 已在小红书、快手、微信视频号发布（2026-11-18 用户确认）；实际发布日期、时间及帖子链接未提供。
+
 **视频** · [Fabric 32 秒横版成片](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4)
 
 **小红书标题** · 面料视频，怎么把手感拍出来？
@@ -1262,7 +1266,7 @@ _2026-09-22 加入。**这条是服务贴，不是干货贴** —— 服装-1~4 
 
 ## C15 · 女装生活场景 · 批量服装视频与换装图
 
-**状态** · 2026-11-18 加入 ecommerce 发布序列，小红书／快手待发布，日期及帖子链接待回填。
+**状态：** ✅ 已在小红书、快手、微信视频号发布（2026-11-18 用户确认）；实际发布日期、时间及帖子链接未提供。
 
 **视频** · [Feedback V1 A · 斜铺 Curify 水印](../../ecommerce_ad_videos/womenswear-lifestyle/curify-womenswear-feedback-v1-A-watermarked.mp4) · 9.875 秒 · 768×1364。
 

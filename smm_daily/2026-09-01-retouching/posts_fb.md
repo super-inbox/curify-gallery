@@ -40,6 +40,8 @@ at a wedding, in a headshot and on a four-year-old.
 
 # Schedule & progress
 
+**2026-11-18 publication update:** The user confirmed V1, V2 are published on Facebook, Instagram and YouTube. This is the confirmation date, not an assumed publication date; actual dates and URLs remain unrecorded.
+
 One post per group per **~3 days**; never the same post into two groups on the same day —
 FB collapses that as duplicate distribution. **Two voices per week, maximum.** This is one
 pilot with a single 20-comment stop rule; four voices at once burns the denominator before
@@ -87,8 +89,8 @@ also the better thing to put in a buyer group first.
 | ◻︎ | — | 📦 G | **G2** · Jewellery retouching: sparkle with detail | `demos/product-retouching-2026-10-28/02-ring-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 | ◻︎ | — | 📦 G | **G3** · Light sandals: clean backgrounds, visible edges | `demos/product-retouching-2026-10-28/03-sandals-before-after.jpg` | Product / ecommerce buyers · draft, not scheduled | | | |
 | ◻︎ | — | 📦 G | **G4** · Zeelum backpack: show the opening | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Product photographers / studios · draft, not scheduled | | | |
-| ◻︎ | — | 🎥 V | **V1** · A camera move needs a destination | [Stadium camera reference](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | Photography studios · after G4 · queued, not scheduled/published · 2026-11-17 | | | |
-| ◻︎ | — | 🎥 V | **V2** · London in five camera moves | [Urban electronic](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [Wakin Chau alternate](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4) | After V1 · queued, not scheduled · 2026-11-18 | | | |
+| ✅ Published · FB / Instagram / YouTube | — | 🎥 V | **V1** · A camera move needs a destination | [Stadium camera reference](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | User confirmed 2026-11-18; actual dates and URLs not provided. Third-party camera reference. |  |  |  |
+| ✅ Published · FB / Instagram / YouTube | — | 🎥 V | **V2** · London in five camera moves | [Urban electronic](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [Wakin Chau alternate](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4) | User confirmed 2026-11-18; actual dates and URLs not provided. Published music version not specified. |  |  |  |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
@@ -1579,7 +1581,7 @@ Image supplied by a client as a visual reference.
 
 ## 2026-11-17 · V1 · A camera move needs a destination
 
-**Status / sequence:** Retouching · camera movement and editing reference for photography studios. Queued after G4 in the progress table; Facebook draft, not scheduled or published. Date and post link unassigned.
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided.
 
 **Video:** [Clean version](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) · 41.75s · 1024×576 · 30 fps · original audio. [Cover](../../social_media_virals/2026-11-17/stadium-camera-move/cover.jpg). Local-only MP4.
 
@@ -1605,9 +1607,11 @@ Camera-movement reference shared by MessiZWX on RedNote; not filmed or produced 
 
 ## 2026-11-18 · V2 · London in five camera moves
 
+**Status:** ✅ Published on Facebook, Instagram and YouTube, confirmed by the user on 2026-11-18. Actual publication dates/times and post URLs were not provided. Published music version was not specified; existing version notes below remain reference information.
+
 **Assets:** [A · Urban electronic](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [D · Wakin Chau, “難唸的經”](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4). Same 16.90-second edit. A is the lead version. D is an alternate using the Apple Music preview excerpt. Public-use clearance is unverified.
 
-**Facebook draft**
+**Facebook caption**
 
 Five photographs, one route through London. Follow the train into the bend, spiral into the stairwell, then pass through a stone frame to open water and the opposite bank.
 
