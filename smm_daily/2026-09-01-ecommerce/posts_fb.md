@@ -6,6 +6,8 @@
 
 | Platform | Status | Post | Format | Asset | Destination / schedule | Found via / series | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|---|
+| Facebook | ◻︎ Approved / queued; not scheduled or published | **E-MONSTER · C16** · Curify. Ideas in batch. | native Reel · 20s · 9:16 · EN voice / EN+ZH subtitles | [Approved H3 V5 · local video](../../ecommerce_ad_videos/2026-11-19-monster-product-ad/v5/curify-monster-h3-tagline-v5.mp4) | Date / time not assigned | E-commerce · creative product ads / batch ideas | | | |
+| Instagram | ◻︎ Approved / queued; scheduling paused by user; not published | **E-MONSTER · C16** · Curify. Ideas in batch. | native Reel · 20s · 9:16 · EN voice / EN+ZH subtitles | [Approved H3 V5 · local video](../../ecommerce_ad_videos/2026-11-19-monster-product-ad/v5/curify-monster-h3-tagline-v5.mp4) | Date / time unassigned; scheduling paused 2026-11-19 | E-commerce · creative product ads / batch ideas | | | |
 | Facebook | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Actual date/time and post URL not provided | E-commerce · product motion |  |  |  |
 | Instagram | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Actual date/time and post URL not provided | E-commerce · product motion |  |  |  |
 | YouTube | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Actual date/time and post URL not provided | E-commerce · product motion |  |  |  |
@@ -1984,3 +1986,26 @@ We create apparel videos and virtual outfit-change images in batches. DM “FASH
 #FashionEcommerce #ApparelVideo #VirtualTryOn #AIContent #Curify
 
 **After publication** · Record the date, post link, watch time and enquiries with garment photos and requested quantities.
+
+---
+
+## E-MONSTER · C16 · Curify. Ideas in batch.
+
+**Status** · Approved by the user on 2026-11-19; Facebook queued (date unassigned). Instagram approved / queued; the user paused scheduling on 2026-11-19 after initially requesting tomorrow. No platform scheduling or publication was performed; date/time and post URLs are unassigned.
+
+**Final asset** · [H3 V5 · spoken tagline](../../ecommerce_ad_videos/2026-11-19-monster-product-ad/v5/curify-monster-h3-tagline-v5.mp4) · 20s · 1080×1920 · 9:16 · English character voice, English/Chinese subtitles, playful spooky sound effects. Closing line: **“Curify. Ideas in batch.”** Use V5, not the earlier comparison cuts. Video is retained locally and intentionally excluded from Git/push.
+
+**Facebook / Instagram caption**
+
+He wanted a product ad. He got a shower. 💦
+
+One little monster. One big idea. A whole product line waiting its turn.
+
+Start with your product photo. Find your next creative direction.
+
+Curify. Ideas in batch.
+https://curify-ai.com
+
+#Curify #AIProductPhotography #EcommerceCreative #ProductAds
+
+**Publishing note** · Native vertical video; this creative demonstrates a single product-image workflow. The product queue expresses the next collection of ideas, not a recorded completed batch. The fantasy water shot is concept imagery; the UI segment contains real captured steps. Instagram scheduling is paused at the request of the user. Publication dates and platform links remain unassigned.
