@@ -4,7 +4,7 @@
 
 | 顺序 | 主题 / Topic | ICP | 素材 | 小红书 | 快手 | 视频号 | 抖音 | 计划发布时间（北京时间） |
 |---|---|---|---|---|---|---|---|---|
-| UC01 | 看到喜欢的效果，怎么做成自己的？ | 设计师 / Designers | [视频](../../Marketing_media/use-case-design-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-20 18:00 |
+| UC01 | 看到喜欢的效果，怎么做成自己的？ | 设计师 / Designers | [视频](../../Marketing_media/use-case-design-cn.mp4) | 已提交，审核中 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-20 18:00 |
 | UC02 | 旅行、兴趣、知识，都可以变成视觉内容 | 内容创作者 / Creators | [视频](../../Marketing_media/use-case-creator-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-21 18:00 |
 | UC03 | 明天要练的单词，今天先做成一组卡 | 家长 / Parents & tutors | [视频](../../Marketing_media/use-case-parents-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-22 18:00 |
 | UC04 | 一段故事，能延伸出哪些学习材料？ | 教师 / Educators | [视频](../../Marketing_media/use-case-learning-packs-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-23 18:00 |
