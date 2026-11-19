@@ -8,7 +8,7 @@
 | UC02 | 旅行、兴趣、知识，都可以变成视觉内容 | 内容创作者 / Creators | [视频](../../Marketing_media/use-case-creator-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-21 18:00 |
 | UC03 | 明天要练的单词，今天先做成一组卡 | 家长 / Parents & tutors | [视频](../../Marketing_media/use-case-parents-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-22 18:00 |
 | UC04 | 一段故事，能延伸出哪些学习材料？ | 教师 / Educators | [视频](../../Marketing_media/use-case-learning-packs-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-23 18:00 |
-| UC05 | 一个品牌，不止一种内容表达 | 电商品牌 / DTC teams | [视频](../../Marketing_media/use-case-dtc-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 待后台排程 | 2026-11-24 18:00 |
+| UC05 | 一个品牌，不止一种内容表达 | 电商品牌 / DTC teams | [视频](../../Marketing_media/use-case-dtc-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 已提交，审核中 | 2026-11-24 18:00 |
 | UC06 | 从一个创意，规划一组内容 | 营销团队 / Marketing teams | [视频](../../Marketing_media/use-case-marketer-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 待后台排程 | 2026-11-25 18:00 |
 | UC07 | 一个角色，怎么延伸成一组周边概念？ | IP与文创团队 / Merch teams | [视频](../../Marketing_media/use-case-merch-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 待后台排程 | 2026-11-26 18:00 |
 | UC08 | 同一个知识主题，做成不同版本 | 出版与教育机构 / Publishers | [视频](../../Marketing_media/use-case-publisher-cn.mp4) | 待后台排程 | 待定 | 待后台排程 | 待后台排程 | 2026-11-27 18:00 |
