@@ -1,6 +1,6 @@
 # Reddit 需求选题研究｜DS × AI × Engineering｜2026-11-16
 
-本轮交付：六个选题、六篇小红书中文稿、六篇 Facebook 英文稿。定位为 Jay 的求职／转行 coaching 与 AI startup 技术及产品 coaching；全部是草稿，未排期、未发布。编辑顺序不代表 Reddit 热度排名。
+本轮交付：六个选题、六篇小红书中文稿、六篇 Facebook 英文稿。定位为 Jay 的求职／转行 coaching 与 AI startup 技术及产品 coaching；创建时全部为草稿；2026-11-20 操作者确认 Facebook S11–S12、小红书 S11–S13 已发布，实际日期和链接未提供。其余仍为草稿／未排期。编辑顺序不代表 Reddit 热度排名。
 
 ## 方法与证据边界
 

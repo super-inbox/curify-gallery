@@ -1,12 +1,12 @@
 # Data Science × AI｜Facebook · Jay
 
-本表仅维护 Facebook 状态，截至 2026-10-29，S01 AI Stack 已于 2026-10-28 发布，S02 Time Series Forecasting 已于 2026-10-29 发布；其余仍为草稿、未排期。 各篇按主题采用不同视角：技术总览、机制科普、专家对比、工程实践或行业讨论。
+本表仅维护 Facebook 状态，截至 2026-11-20，S01 AI Stack 已于 2026-10-28 发布，S02 Time Series Forecasting 已于 2026-10-29 发布；S11–S12 已确认发布，具体日期和链接未提供；其余仍为草稿、未排期。 各篇按主题采用不同视角：技术总览、机制科普、专家对比、工程实践或行业讨论。
 
 下方为英文文案，面向 Jay 的专业受众；S01–S08 沿用 MentorCruise CTA，S09 面向多模态数据需求，采用私信与圈内引荐 CTA；S10 为作者书籍介绍，采用 Amazon 购书与讨论 CTA。
 
 定位、素材说明及资料核对见 [系列编辑说明](README.md)。
 
-2026-11-16 新增 S11–S16：基于 Reddit 需求讨论的 coaching 系列草稿，尚未排期或发布；编号跨平台统一。选题依据与建议顺序见 [本轮研究记录](reddit-demand-mining-2026-11-16.md)。
+2026-11-16 新增 S11–S16：基于 Reddit 需求讨论的 coaching 系列；截至 2026-11-20，S11–S12 已发布，S13–S16 仍为草稿／未排期；编号跨平台统一。选题依据与建议顺序见 [本轮研究记录](reddit-demand-mining-2026-11-16.md)。
 
 ## Publication Sequence
 
@@ -22,8 +22,8 @@
 | S08 | B · AI 创业与咨询 | 创业观点 | If the model improves next month, why will customers still need you? | [素材](assets/anthropic_vs_saas.jpeg) | [查看文案](#s08) | 草稿／未排期 | — |
 | S09 | B · 多模态数据负责人／研究与采购 | 需求验证＋圈内引荐 | 3D reconstruction, design-task trajectories and evaluation data | [配套3D重建视频](../../drama_animation/white-model-reconstruction-2026-11-02/source-vs-white-model-v14.mp4) | [查看文案](#s09) | 草稿／未排期 | — |
 | S10 | A → B · DS／AI 学习者与推荐系统从业者 | 作者视角＋技术导读 | My book: Building Recommender Systems Using Large Language Models | [书封](../../ds_ai/book_recommendation/LLM%20book.jpg) | [查看文案](#s10) | 草稿／未排期 | — |
-| S11 | A · DS／AI 求职者 | 求职 coaching＋作品集实操 | Build a portfolio your target team has a reason to care about. | 文字帖／无需新增素材 | [查看文案](#s11) | 草稿／未排期 | — |
-| S12 | B · AI startup 创始人 | 创业 coaching＋pilot 设计 | An AI project gets harder when you promise the unproven parts. | 文字帖／无需新增素材 | [查看文案](#s12) | 草稿／未排期 | — |
+| S11 | A · DS／AI 求职者 | 求职 coaching＋作品集实操 | Build a portfolio your target team has a reason to care about. | 文字帖／无需新增素材 | [查看文案](#s11) | 已发布（操作者确认） | 具体日期／链接未提供；2026-11-20 确认 |
+| S12 | B · AI startup 创始人 | 创业 coaching＋pilot 设计 | An AI project gets harder when you promise the unproven parts. | 文字帖／无需新增素材 | [查看文案](#s12) | 已发布（操作者确认） | 具体日期／链接未提供；2026-11-20 确认 |
 | S13 | A · DS／DE／软件工程转 AI | 职业路径＋差距诊断 | An AI career transition needs a schedule that leaves room for depth. | 文字帖／无需新增素材 | [查看文案](#s13) | 草稿／未排期 | — |
 | S14 | B · AI 产品技术负责人 | 工程科普＋上线评审 | Your agent says “done.” What actually changed? | 文字帖／无需新增素材 | [查看文案](#s14) | 草稿／未排期 | — |
 | S15 | A → B · 工程师／小团队技术负责人 | 工程观点＋review 练习 | “Fully implemented.” Excellent. Now show me what actually works. | 文字帖／无需新增素材 | [查看文案](#s15) | 草稿／未排期 | — |
