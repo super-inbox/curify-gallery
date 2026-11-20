@@ -28,6 +28,8 @@
 | S14 | B · AI 产品技术负责人 | 工程科普＋上线评审 | Your agent says “done.” What actually changed? | 文字帖／无需新增素材 | [查看文案](#s14) | 草稿／未排期 | — |
 | S15 | A → B · 工程师／小团队技术负责人 | 工程观点＋review 练习 | “Fully implemented.” Excellent. Now show me what actually works. | 文字帖／无需新增素材 | [查看文案](#s15) | 草稿／未排期 | — |
 | S16 | A · DS 求职／DA 转 DS | 面试 coaching＋练习设计 | Prepare for the work behind the data science title. | 文字帖／无需新增素材 | [查看文案](#s16) | 草稿／未排期 | — |
+| S17 | A · 有经验的 DS／职业转型 | 专家观察＋职业选择 | Why are people reconsidering a data science career? | 文字帖／无需新增素材 | [查看文案](#s17) | 草稿／未排期 | — |
+| S18 | A → B · 新人／带教负责人 | 培养路径＋mentorship | If AI handles beginner tasks, where does experience come from? | 文字帖／无需新增素材 | [查看文案](#s18) | 草稿／未排期 | — |
 
 ---
 
@@ -481,3 +483,56 @@ If you want a focused preparation plan, bring a target job description and a que
 https://mentorcruise.com/mentor/jaywang/
 
 #DataScience #InterviewPreparation #CareerDevelopment
+
+
+---
+
+## S17
+
+**A few years ago, everyone wanted to get into data science. Now I hear more questions about leaving.**
+
+Around 2019–2020, data science still carried the “sexiest job” reputation that dates back to 2012. I remember people moving from finance, relocating from the East Coast to the West Coast, and investing in expensive programmes that combined statistics, computing, and business. They could see room to grow.
+
+Over the past four or five years, the conversations I encounter have become more varied: moving into AI, returning to finance, exploring biostatistics, or taking data skills outside tech. That is an observation from my professional circle, not a measure of industry-wide outflows.
+
+I see three different motivations worth separating.
+
+**Ownership.** You analyse a problem and recommend an answer, while other people define the question, decide what happens, and own implementation. Some people feel caught between analyst and engineer, without responsibility for a complete outcome. A different team with clearer ownership may address that frustration.
+
+**A move toward building AI.** Data, modelling, and experimentation experience can provide a foundation for AI work. Some people want to build products and own systems more directly. That requires specific new capabilities, not just a new title.
+
+**A different working life.** Layoffs and organisational uncertainty lead some people to reconsider tech. They may still want to use data skills in another industry. Finance and biostatistics have their own requirements; a traditional employer is not automatically a stable one.
+
+Before deciding to leave DS, I would ask: Do you want more decision-making responsibility, different work, or a different employment environment?
+
+Those answers lead to very different moves.
+
+If you are weighing that decision, bring your background and the part of your work you most want to change:
+https://mentorcruise.com/mentor/jaywang/
+
+#DataScience #CareerTransition #AI
+
+---
+
+## S18
+
+**If AI handles the beginner tasks, where does a beginner get experience?**
+
+We need to design more of that learning deliberately. I would combine simulation, real work, and feedback from someone who can assess the learner’s judgment.
+
+Think of the role a simulator plays in pilot training. A controlled environment lets you practise difficult situations repeatedly without putting a live system at risk.
+
+For a data project, start with a normal dataset, then introduce leakage, a distribution shift, or missing fields. The learner diagnoses the problem, chooses a response, and checks the result. AI can generate variations and play a demanding stakeholder. The exercise and its reference answers still need verification; an encouraging AI response does not establish competence.
+
+Then add real work. Changing requirements, messy inputs, and people depending on the result teach things a tutorial rarely captures.
+
+I have seen people gain that exposure through startup internships, including unpaid arrangements. A small team and an early-career learner may have complementary needs, but a limited budget is not enough to make an internship worthwhile. Look for defined work, actual supervision, regular feedback, and an agreed way to demonstrate what you learned. Be clear about compensation and duration; unpaid arrangements must meet local rules and should not disguise ordinary employment.
+
+Finally, get feedback on your decisions. Repeating a project without noticing the same mistake can reinforce the mistake.
+
+My coaching covers data science, AI, and deep learning. Depending on the person, that can mean an AMA-style conversation, guided reading, an experiment review, or closer mentorship through a project.
+
+If you are looking for that first meaningful experience, tell me what you have tried and where you need feedback:
+https://mentorcruise.com/mentor/jaywang/
+
+#AI #CareerDevelopment #Mentorship
