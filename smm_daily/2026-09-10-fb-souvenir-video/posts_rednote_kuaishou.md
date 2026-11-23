@@ -12,6 +12,7 @@
 | 旅行纪念 / 冬日风景 | [S3 · 长城落雪](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | 本次未安排 | 实际日期／时间未提供 |
 | 人生故事 / 纹身纪念 | [S4 · 向光而生 · 飞行员纹身](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [文案](#s4-tattoo-pilot) | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | 文案备齐，渠道待安排 | 实际日期／时间未提供 |
 | 文学文化 / 商品故事 | [S5 · 红楼美人拳](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [文案](#s5-red-chamber) | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | ✅ 已发布（2026-11-18 确认；实际日期／链接未提供） | 本次未安排 | 实际日期／时间未提供 |
+| 婚礼纪念 / 六世爱情 | [S6 · 六世都是你 · 10秒花絮](../../drama_animation/six-lifetimes-wedding-highlights-10s-clean.mp4) · [文案](#s6-wedding-highlights) | 本地待发布，未预约、未发布 | 本地待发布，未预约、未发布 | 本地待发布，未预约、未发布 | 渠道待安排 | 未指定 |
 | 工艺品制作 | [《瑞羊纳福》珍珠画](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | 待发布 | 待发布 | 未安排 | 未安排 | 未排期 |
 | 旅行纪念 | [S1 · 海边散步 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | 已加入待发布队列，未预约、未发布（11-02） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 服饰年代演变 | [H1 · 百年女装](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | 待发布，未预约、未发布（10-30更新） | 待发布，未预约、未发布（10-30新增） | 未排期 | 未排期 | 未指定 |
@@ -1010,3 +1011,26 @@ AI 时装演绎；atlas 长袍采用当代女装搭配。
 Music: All The Tea In China by Shane Ivers — https://www.silvermansound.com/free-music/all-the-tea-in-china
 Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
 Excerpted and mixed.
+
+
+<a id="s6-wedding-highlights"></a>
+
+## 2026-11-23 · S6 · 六世都是你 婚礼短片花絮
+
+**发布顺序：** S5 → S6。已加入 souvenir video 系列本地发布序列，未预约、未发布，具体日期待定。
+
+**视频：** [10秒花絮](../../drama_animation/six-lifetimes-wedding-highlights-10s-clean.mp4) · 横屏1920 × 1080 · 24fps · 保留原片配乐片段 · 无水印、无品牌片尾。取自婚礼视频V23，六世各选一镜；为成片精选，不是幕后实拍。
+
+**标题：** 如果相爱六世，每一世都是你
+
+**正文：**
+
+从远古篝火、云上仙界，到战国并肩、凤冠霞帔，再到民国共舞和现代海边。❤️
+
+把两个人的照片，做成一段属于自己的 AI 婚礼纪念短片。这是《六世都是你》的10秒花絮。
+
+如果可以选，你最想和另一半在哪一世相遇？
+
+我们承制 AI 婚礼视频，也可以用你们的照片定制 AI 婚纱照。想做专属婚礼短片或婚纱照，欢迎私信婚期和喜欢的风格，一起聊聊你们的方案。
+
+#AI婚礼视频 #婚礼纪念 #六世都是你 #定制视频 #婚礼灵感

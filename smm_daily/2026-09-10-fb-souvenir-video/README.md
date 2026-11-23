@@ -26,3 +26,5 @@
 - 2026-11-07 · 圆明园今昔 / Yuanmingyuan, Then and Now：三景 15 秒，中英双语成片。[英文发布文案](posts_fb.md#yuanmingyuan-then-and-now-20261107) · [中文发布文案](posts_rednote_kuaishou.md#yuanmingyuan-then-and-now-20261107) · [成片](../../cultural_videos/yuanmingyuan/yuanmingyuan-then-and-now-15s.mp4)。待发布，未排期。
 
 - 2026-11-17 · S4「向光而生」飞行员纹身纪念短片：69秒，Curify斜向水印，动画定格结尾。[中文文案](posts_rednote_kuaishou.md#s4-tattoo-pilot) · [English caption](posts_fb.md#s4-tattoo-pilot) · [视频](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4)。已接在S3后加入中英文发布序列，未预约、未发布；视频随Git提交保存。
+
+- 2026-11-23 · S6《六世都是你》婚礼短片10秒花絮：无水印，六世各选一镜。[本地视频](../../drama_animation/six-lifetimes-wedding-highlights-10s-clean.mp4) · [中文发布序列与文案](posts_rednote_kuaishou.md#s6-wedding-highlights) · [English sequence and caption](posts_fb.md#s6-wedding-highlights)。接在 S5 后，本地待发布，未预约、未发布。
