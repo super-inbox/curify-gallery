@@ -6,6 +6,8 @@
 
 | Platform | Status | Post | Format | Asset | Destination / schedule | Found via / series | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|---|
+| Facebook | ◻︎ Queued; not scheduled or published | **E-APPAREL-LIVE · C17** · Same top, two colors | native Reel · 20s · vertical | [Video](../../ecommerce_ad_videos/apparel-digital-human-livestream/apparel-tryon-20s-v2-curify.mp4) | Date / time not assigned | E-commerce · AI livestream demo | | | |
+| Instagram | ◻︎ Queued; not scheduled or published | **E-APPAREL-LIVE · C17** · Same top, two colors | native Reel · 20s · vertical | [Video](../../ecommerce_ad_videos/apparel-digital-human-livestream/apparel-tryon-20s-v2-curify.mp4) | Date / time not assigned | E-commerce · AI livestream demo | | | |
 | Facebook | ◻︎ Approved / queued; not scheduled or published | **E-MONSTER · C16** · Curify. Ideas in batch. | native Reel · 20s · 9:16 · EN voice / EN+ZH subtitles | [Approved H3 V5 · local video](../../ecommerce_ad_videos/2026-11-19-monster-product-ad/v5/curify-monster-h3-tagline-v5.mp4) | Date / time not assigned | E-commerce · creative product ads / batch ideas | | | |
 | Instagram | ◻︎ Approved / queued; scheduling paused by user; not published | **E-MONSTER · C16** · Curify. Ideas in batch. | native Reel · 20s · 9:16 · EN voice / EN+ZH subtitles | [Approved H3 V5 · local video](../../ecommerce_ad_videos/2026-11-19-monster-product-ad/v5/curify-monster-h3-tagline-v5.mp4) | Date / time unassigned; scheduling paused 2026-11-19 | E-commerce · creative product ads / batch ideas | | | |
 | Facebook | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | **Fabric · product motion film** | native video · 32s · 16:9 | [Video](../../ecommerce_ad_videos/fabric_ad/Curify-Fabric.mp4) | Actual date/time and post URL not provided | E-commerce · product motion |  |  |  |
@@ -2009,3 +2011,21 @@ https://curify-ai.com
 #Curify #AIProductPhotography #EcommerceCreative #ProductAds
 
 **Publishing note** · Native vertical video; this creative demonstrates a single product-image workflow. The product queue expresses the next collection of ideas, not a recorded completed batch. The fantasy water shot is concept imagery; the UI segment contains real captured steps. Instagram scheduling is paused at the request of the user. Publication dates and platform links remain unassigned.
+
+---
+
+## E-APPAREL-LIVE · C17 · Same top, two colors
+
+**Status** · Added 2026-11-23. Queued for Facebook and Instagram. Date and post URLs pending.
+
+**Video** · [20-second Curify-watermarked demo](../../ecommerce_ad_videos/apparel-digital-human-livestream/apparel-tryon-20s-v2-curify.mp4) · Vertical · Mandarin narration. Use the English caption below with this asset.
+
+**Facebook / Instagram caption**
+
+Gray or black? Which would you pick?
+
+In this 20-second AI livestream demo, a virtual model shows the plaid collar and hem up close, turns for a side view, then switches to black so you can compare both colors.
+
+What would you want to see next in a live try-on?
+
+#Curify #FashionEcommerce #VirtualTryOn #LivestreamShopping

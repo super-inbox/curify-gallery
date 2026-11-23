@@ -333,6 +333,31 @@
    "cta_zh": "我们可以批量制作服装视频和换装图。",
    "cta_en": "We create apparel videos and virtual outfit-change images in batches.",
    "provenance_file": "womenswear-lifestyle/README.md"
+  },
+  {
+   "id": "apparel_digital_human_livestream",
+   "file": "apparel-digital-human-livestream/apparel-tryon-20s-v2-curify.mp4",
+   "watermarked": "apparel-digital-human-livestream/apparel-tryon-20s-v2-curify.mp4",
+   "duration_s": 20.0,
+   "resolution": "768x1366",
+   "fps": 24,
+   "orientation": "vertical",
+   "category": "fashion / apparel / AI livestream demo",
+   "subject": "A virtual model shows a plaid-trim top in gray and black.",
+   "brand_on_screen": "Curify",
+   "audio": "Mandarin AI narration",
+   "status": "queued",
+   "added_at": "2026-11-23",
+   "platform_status": {
+    "facebook": "queued_date_pending",
+    "instagram": "queued_date_pending",
+    "rednote": "queued_date_pending",
+    "kuaishou": "queued_date_pending"
+   },
+   "post_refs": {
+    "english": "posts_fb.md#e-apparel-live--c17--same-top-two-colors",
+    "chinese": "posts_rednote_kuaishou.md#c17--数字人直播试穿--同款灰黑对比"
+   }
   }
  ]
 }
