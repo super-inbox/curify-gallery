@@ -10,7 +10,7 @@
 | [S3 · Great Wall in Snow](../../social_media_virals/2026-11-10/facebook-1490040333004144/facebook-1490040333004144.mp4) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Winter travel memory; third-party source: Simple So. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
 | [S4 · Towards the Light · Tattoo Pilot](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [Caption](#s4-tattoo-pilot) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Tattoo-inspired keepsake film; turn your story into a video. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
 | [S5 · Red Chamber · A Small Gesture of Care](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [Caption](#s5-red-chamber) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Literary heritage, product detail and a mother–daughter moment. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
-| [S6 · Six Lifetimes, One Love · Wedding Highlights](../../drama_animation/six-lifetimes-wedding-highlights-10s-clean.mp4) · [Caption](#s6-wedding-highlights) | Local queue; not scheduled / not published | Not assigned | Local queue; not scheduled / not published | Personalized AI wedding keepsake; 10-second highlight, no watermark. | Channel not assigned |
+| [S6 · Six Lifetimes, One Love · Fictional Couple Demo](../../drama_animation/six-lifetimes-fictional-couple-vertical-10s-clean.mp4) · [Caption](#s6-wedding-highlights) | Local queue; not scheduled / not published | Not assigned | Local queue; not scheduled / not published | AI wedding concept sample; fictional couple, 10-second vertical video, no watermark. | Channel not assigned |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. | Not recorded |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. | Not recorded |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. | Not recorded |
@@ -925,19 +925,19 @@ Excerpted and mixed.
 
 <a id="s6-wedding-highlights"></a>
 
-## 2026-11-23 · S6 · Six Lifetimes, One Love
+## 2026-11-25 · S6 · Six Lifetimes, One Love
 
 **Sequence:** S5 → S6. Local publication queue only; not scheduled or published. No date assigned.
 
-**Video:** [10-second wedding highlights](../../drama_animation/six-lifetimes-wedding-highlights-10s-clean.mp4) · 1920 × 1080 · 24 fps · original soundtrack excerpt · no watermark or brand end card. Selected from the V23 wedding film; six scenes from the Stone Age to the present. This is a finished-film highlight, not behind-the-scenes footage.
+**Video:** [10-second vertical demo](../../drama_animation/six-lifetimes-fictional-couple-vertical-10s-clean.mp4) · 1080 × 1920 (9:16) · 24 fps · same music as the previous highlight · no watermark or brand end card. Six eras featuring a newly generated fictional adult couple; no customer likeness. Replaces the previous customer highlight for S6. Video stays on local disk and is not committed to Git.
 
 **Caption:**
 
 Six lifetimes. Still you. ❤️
 
-From a fireside encounter to a celestial palace, from ancient wedding robes to an afternoon by the sea — a couple's photos become a personalized AI wedding film.
+From a fireside encounter to a celestial palace, from ancient wedding robes to an afternoon by the sea — one fictional couple, six lifetimes of love. This AI-generated concept sample features fictional characters, not a real customer couple.
 
-A ten-second glimpse of their story. Which era would you choose for yours?
+A ten-second glimpse of what an AI wedding film can look like. Which era would you choose for yours?
 
 We create personalized AI wedding videos and AI bridal portraits from your photos. Message us with your wedding date and favorite style to plan your own film or photo collection.
 
