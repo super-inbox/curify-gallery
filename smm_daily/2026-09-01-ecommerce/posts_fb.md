@@ -6,6 +6,8 @@
 
 | Platform | Status | Post | Format | Asset | Destination / schedule | Found via / series | Comments | DMs | Samples |
 |---|---|---|---|---|---|---|---|---|---|
+| Facebook | ◻︎ Queued, date unassigned | **E-HOODIE · C18** · Blue hoodie in motion | native Reel · 6.9s · portrait | [Final video](../../ecommerce_ad_videos/blue-hoodie-early-winter/blue-hoodie-fast-leaf-opening-768p.mp4) | Date / time not assigned | E-commerce · AI-assisted apparel motion | | | |
+| Instagram | ◻︎ Queued, date unassigned | **E-HOODIE · C18** · Blue hoodie in motion | native Reel · 6.9s · portrait | [Final video](../../ecommerce_ad_videos/blue-hoodie-early-winter/blue-hoodie-fast-leaf-opening-768p.mp4) | Date / time not assigned | E-commerce · AI-assisted apparel motion | | | |
 | Facebook | ◻︎ Queued; not scheduled or published | **E-APPAREL-LIVE · C17** · Same top, two colors | native Reel · 20s · vertical | [Video](../../ecommerce_ad_videos/apparel-digital-human-livestream/apparel-tryon-20s-v2-curify.mp4) | Date / time not assigned | E-commerce · AI livestream demo | | | |
 | Instagram | ◻︎ Queued; not scheduled or published | **E-APPAREL-LIVE · C17** · Same top, two colors | native Reel · 20s · vertical | [Video](../../ecommerce_ad_videos/apparel-digital-human-livestream/apparel-tryon-20s-v2-curify.mp4) | Date / time not assigned | E-commerce · AI livestream demo | | | |
 | Facebook | ◻︎ Approved / queued; not scheduled or published | **E-MONSTER · C16** · Curify. Ideas in batch. | native Reel · 20s · 9:16 · EN voice / EN+ZH subtitles | [Approved H3 V5 · local video](../../ecommerce_ad_videos/2026-11-19-monster-product-ad/v5/curify-monster-h3-tagline-v5.mp4) | Date / time not assigned | E-commerce · creative product ads / batch ideas | | | |
@@ -2029,3 +2031,19 @@ In this 20-second AI livestream demo, a virtual model shows the plaid collar and
 What would you want to see next in a live try-on?
 
 #Curify #FashionEcommerce #VirtualTryOn #LivestreamShopping
+
+---
+
+## E-HOODIE · C18 · Blue hoodie in motion
+
+**Status** · Queued for Facebook and Instagram. Date and time unassigned.
+
+**Final video** · [Leaf-toss opening](../../ecommerce_ad_videos/blue-hoodie-early-winter/blue-hoodie-fast-leaf-opening-768p.mp4) · 6.9s · 768×1344 · AI-assisted apparel showcase.
+
+**Caption**
+
+A quick turn, a handful of autumn leaves, and a closer look at the jacket. Watch how the blue hoodie sits at the shoulders, how the zip closes, and how the hem moves on the next step.
+
+Have a new apparel drop coming up? DM “FASHION” with a product photo and the details you want shoppers to see.
+
+#Curify #ApparelVideo #FashionEcommerce #ProductVideo
