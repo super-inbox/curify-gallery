@@ -18,7 +18,7 @@
 | 日常入天宫 / 梦境纪念 | [S7 · 电梯门外，怎么是天宫？](../../cultural_videos/2026-11-26-everyday-to-heaven/elevator-v1.mp4) · [文案](#s7-heaven) | 不发布；保留备选 | 不发布；保留备选 | 本次未安排 | 本次未安排 | — · 仅 S10 待发 |
 | 日常入天宫 / 梦境纪念 | [S8 · 上班又迟到了，但公司搬到天宫了](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · [文案](#s8-heaven) | 不发布；保留备选 | 不发布；保留备选 | 本次未安排 | 本次未安排 | — · 仅 S10 待发 |
 | 日常入天宫 / 梦境纪念 | [S9 · 点了份外卖，怎么天宫来人了](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · [文案](#s9-heaven) | 不发布；保留备选 | 不发布；保留备选 | 本次未安排 | 本次未安排 | — · 仅 S10 待发 |
-| 日常入天宫 / 梦境纪念 | [S10 · 三个人，怎么做了同一个梦？](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [文案](#s10-heaven) | 本地待发布，未预约、未发布 | 已提交定时发布，审核中 | 本次未安排 | 待完成短信验证 | 2026-11-27 18:00 北京时间 · 快手 |
+| 日常入天宫 / 梦境纪念 | [S10 · 三个人，怎么做了同一个梦？](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [文案](#s10-heaven) | 本地待发布，未预约、未发布 | 已提交定时发布，审核中 | 本次未安排 | 定时发布中 | 2026-11-27 18:00 北京时间 · 快手／抖音 |
 | 古画动起来 / 文化影像 | [S11 · 羽扇轻摇，画中人走出来了](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/painting-brought-to-life-clean.mp4) · [文案](#s11-painting) | 本地待发布，未预约、未发布 | 本地待发布，未预约、未发布 | 本次未安排 | 本次未安排 | 待定 · 接 S10 |
 | 工艺品制作 | [《瑞羊纳福》珍珠画](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | 待发布 | 待发布 | 未安排 | 未安排 | 未排期 |
 | 旅行纪念 | [S1 · 海边散步 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | 已加入待发布队列，未预约、未发布（11-02） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
@@ -1092,7 +1092,7 @@ Excerpted and mixed.
 <a id="s10-heaven"></a>
 ## 2026-11-26 · S10 · 三个人，怎么做了同一个梦？
 
-**状态：** 快手已提交 2026-11-27 北京时间 18:00 的排程，后台审核中。抖音待短信验证，小红书暂停。
+**状态：** 快手已提交 2026-11-27 北京时间 18:00 的排程，后台审核中。抖音后台确认定时发布中，时间相同。小红书暂停。
 
 **视频（仅本地）：** [shared-dream-v4.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · 18秒 · 1080 × 1920 · 英文配音、中英双语字幕。视频不提交到 Git。
 

@@ -16,7 +16,7 @@
 | [S7 · Wrong Floor, Right Universe](../../cultural_videos/2026-11-26-everyday-to-heaven/elevator-v1.mp4) · [Caption](#s7-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
 | [S8 · My New Office](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · [Caption](#s8-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
 | [S9 · Heavenly Delivery](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · [Caption](#s9-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
-| [S10 · Different Doors, the Same Dream](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [Caption](#s10-heaven) | Scheduled · @curify_ai | Local queue; not scheduled / not published | [Scheduled · YouTube Shorts](https://youtube.com/shorts/_Fr4Gzf8jXI) | Not recorded | 2026-11-27 18:00 Beijing time · Instagram / YouTube |
+| [S10 · Different Doors, the Same Dream](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [Caption](#s10-heaven) | Scheduled · @curify_ai | Local queue; not scheduled / not published | [Scheduled · YouTube Shorts](https://youtube.com/shorts/_Fr4Gzf8jXI) | Scheduled · Douyin | 2026-11-27 18:00 Beijing time · Instagram / YouTube / Douyin |
 | [S11 · When a Painting Comes to Life](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/painting-brought-to-life-clean.mp4) · [Caption](#s11-painting) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | Not assigned | Not assigned | Unassigned · after S10 |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Queued / unpublished | Not recorded | Not recorded | Not scheduled |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Queued / draft; not scheduled / not published | Not recorded | Not recorded | Not specified |
@@ -1002,7 +1002,7 @@ We create visual stories in batches—from one creative direction to a series of
 <a id="s10-heaven"></a>
 ## 2026-11-26 · S10 · Different Doors, the Same Dream
 
-**Status:** [YouTube Shorts](https://youtube.com/shorts/_Fr4Gzf8jXI) scheduled for 2026-11-27 at 18:00 Beijing time. Instagram also scheduled for the same time.
+**Status:** [YouTube Shorts](https://youtube.com/shorts/_Fr4Gzf8jXI) scheduled for 2026-11-27 at 18:00 Beijing time. Instagram and Douyin also scheduled for the same time.
 
 **Video (local only):** [shared-dream-v4.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · 18s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
 
