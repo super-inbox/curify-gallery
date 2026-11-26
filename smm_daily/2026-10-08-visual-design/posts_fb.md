@@ -4,6 +4,8 @@ Status: DRAFT — not published. Two independent single-image posts, for commerc
 
 Merged from `2026-09-01-retouching/2026-10-08-editorial-collection-v3/` on 2026-10-09; numbered V13/V14 to match [`posts_rednote.md`](posts_rednote.md).
 
+**2026-11-26 queue addition:** V21 · One era, a whole visual world follows V20. Nine-image reference set by 干姜LOST&FOUND; local queue only, not scheduled or published. [Caption](#v21-jazz-age).
+
 ## Publishing queue extension — 2026-10-11
 
 V13 → V14 → **V15 South Heavenly Gate** → **V16 Jade Emperor’s Palace**. V15/V16 are ready drafts, not scheduled or published. Use one image per post for visual-design / concept-art audiences; this is the user-requested visual-design exploration lane.
@@ -134,3 +136,25 @@ These are AI-generated model and garment concepts. They show a visual direction,
 **First-comment CTA:** Planning an apparel launch? We create AI outfit changes and batch model-on-garment visuals. DM “TRY-ON” with your garment photos or design references, model direction, intended use and image count. Start with a sample, then expand the approved direction across styles and colors.
 
 #AIFashion #VirtualTryOn #CrochetFashion #FashionPhotography #BatchImageGeneration
+
+---
+
+<a id="v21-jazz-age"></a>
+## V21 · One era, a whole visual world
+
+**Status:** Local publication queue; not scheduled or published. Date/time unassigned.
+**Format:** Nine-image reference carousel, 01 → 09; original images and watermark retained. The source is an image post, not a video.
+**Assets:** [01](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/01.webp) · [02](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/02.webp) · [03](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/03.webp) · [04](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/04.webp) · [05](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/05.webp) · [06](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/06.webp) · [07](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/07.webp) · [08](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/08.webp) · [09](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/09.webp)
+**Source:** [干姜LOST&FOUND · original Rednote post](https://www.xiaohongshu.com/explore/6b052a59000000001c031ac4). Third-party inspiration, not a Curify-produced portfolio example. [Asset record](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/README.md).
+
+Pearl headpieces, sculpted curls, long gloves, and light catching every detail.
+
+What makes this Jazz Age-inspired illustration series feel connected is more than the clothing: a consistent drawing style, coordinated accessories, and lighting that gives each pose a mood.
+
+Which would you build a visual series around—the sparkle, the silhouettes, or the warm cinematic interiors?
+
+Visual inspiration by 干姜LOST&FOUND on Rednote. These reference images are not our production work.
+
+We help turn a creative direction into a batch of visuals, exploring styling, palettes and scenes around an agreed look. Visit https://curify-ai.com
+
+#VisualDesign #JazzAgeStyle #FashionIllustration #VisualStorytelling #BatchVisualProduction

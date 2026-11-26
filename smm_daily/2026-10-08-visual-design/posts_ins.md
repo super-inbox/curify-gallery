@@ -40,6 +40,7 @@ for one product category, already published on RedNote, and it shows the same ba
 | ◻︎ | **V14** Still-life AI sample board | _not a template_: original AI board, 8 frames | — | **`02-still-life-page2-v3.png`** (single image) | 📦 Batch | Same as V13. Bottles, bags and jewellery are imagined, not reproductions of a client's product |
 | ◻︎ | **V15** What makes a gateway feel heavenly? | `media-theme-wallpaper-poster` | — | `celestial-south-heavenly-gate-ig-4x5.jpg` | 📦 Batch | Added 2026-10-11; after V14, not platform-scheduled |
 | ◻︎ | **V16** Through the gate. Into the celestial court. | `media-theme-wallpaper-poster` | — | `celestial-jade-emperor-palace-ig-4x5.jpg` | 📦 Batch | Added 2026-10-11; after V14, not platform-scheduled |
+| ◻︎ | **V21** One era, a whole visual world | Third-party illustration reference | 干姜LOST&FOUND | [9-image set](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/README.md) | 📦 Batch | Added after existing queue; not scheduled/published; retain source attribution |
 
 **Original suggested order (existing schedule takes precedence):** V3 → V2 → V11 → V12 → V4 → V13 → V1 → V8 → V14 → V6 → V10 → V9 → V7 → V5.
 This differs from RedNote on purpose: English-text and fashion carousels go first, and
@@ -411,3 +412,25 @@ Building a visual series around a story or game world? Send us the theme and the
 #VisualDevelopment #ChineseMythology #EnvironmentDesign #AIConceptArt #PosterDesign
 
 Bio destination: https://www.curify-ai.com/en/nano-template/media-theme-wallpaper-poster
+
+---
+
+<a id="v21-jazz-age"></a>
+## V21 · One era, a whole visual world
+
+**Status:** Local publication queue; not scheduled or published. Date/time unassigned.
+**Format:** Nine-image reference carousel, 01 → 09; original images and watermark retained. The source is an image post, not a video.
+**Assets:** [01](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/01.webp) · [02](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/02.webp) · [03](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/03.webp) · [04](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/04.webp) · [05](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/05.webp) · [06](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/06.webp) · [07](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/07.webp) · [08](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/08.webp) · [09](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/09.webp)
+**Source:** [干姜LOST&FOUND · original Rednote post](https://www.xiaohongshu.com/explore/6b052a59000000001c031ac4). Third-party inspiration, not a Curify-produced portfolio example. [Asset record](../../social_media_virals/2026-11-26/rednote-6b052a59000000001c031ac4/README.md).
+
+Pearl headpieces, sculpted curls, long gloves, and light catching every detail.
+
+What makes this Jazz Age-inspired illustration series feel connected is more than the clothing: a consistent drawing style, coordinated accessories, and lighting that gives each pose a mood.
+
+Which would you build a visual series around—the sparkle, the silhouettes, or the warm cinematic interiors?
+
+Visual inspiration by 干姜LOST&FOUND on Rednote. These reference images are not our production work.
+
+We help turn a creative direction into a batch of visuals, exploring styling, palettes and scenes around an agreed look. Visit https://curify-ai.com
+
+#VisualDesign #JazzAgeStyle #FashionIllustration #VisualStorytelling #BatchVisualProduction
