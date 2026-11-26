@@ -30,3 +30,5 @@
 - 2026-11-25 · S6《六世都是你》虚构人物竖屏样片：10秒、1080×1920、无水印；使用全新虚构情侣，不含客户肖像，沿用原花絮音乐。视频仅保留本地，不提交Git。[本地视频](../../drama_animation/six-lifetimes-fictional-couple-vertical-10s-clean.mp4) · [中文发布序列与文案](posts_rednote_kuaishou.md#s6-wedding-highlights) · [English sequence and caption](posts_fb.md#s6-wedding-highlights)。接在 S5 后，本地待发布，未预约、未发布。
 
 - 2026-11-26 · 天宫系列：仅 S10 三人合剪版待发；S7–S9 不发布，保留备选。
+
+- 2026-11-26 · S11「羽扇轻摇，画中人走出来了」：第三方古画动效参考，10秒竖屏；加入[英文 FB / Instagram 队列](posts_fb.md#s11-painting)和[中文小红书／快手队列](posts_rednote_kuaishou.md#s11-painting)，接 S10，未预约、未发布；CTA 为图片动起来与 visual production。视频仅本地保存。

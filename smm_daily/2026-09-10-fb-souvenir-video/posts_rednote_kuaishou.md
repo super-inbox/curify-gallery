@@ -19,6 +19,7 @@
 | 日常入天宫 / 梦境纪念 | [S8 · 上班又迟到了，但公司搬到天宫了](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · [文案](#s8-heaven) | 不发布；保留备选 | 不发布；保留备选 | 本次未安排 | 本次未安排 | — · 仅 S10 待发 |
 | 日常入天宫 / 梦境纪念 | [S9 · 点了份外卖，怎么天宫来人了](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · [文案](#s9-heaven) | 不发布；保留备选 | 不发布；保留备选 | 本次未安排 | 本次未安排 | — · 仅 S10 待发 |
 | 日常入天宫 / 梦境纪念 | [S10 · 三个人，怎么做了同一个梦？](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [文案](#s10-heaven) | 本地待发布，未预约、未发布 | 本地待发布，未预约、未发布 | 本次未安排 | 本次未安排 | 待定 · 顺序 S10 |
+| 古画动起来 / 文化影像 | [S11 · 羽扇轻摇，画中人走出来了](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/painting-brought-to-life-clean.mp4) · [文案](#s11-painting) | 本地待发布，未预约、未发布 | 本地待发布，未预约、未发布 | 本次未安排 | 本次未安排 | 待定 · 接 S10 |
 | 工艺品制作 | [《瑞羊纳福》珍珠画](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | 待发布 | 待发布 | 未安排 | 未安排 | 未排期 |
 | 旅行纪念 | [S1 · 海边散步 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | 已加入待发布队列，未预约、未发布（11-02） | 本次未安排 | 本次未安排 | 本次未安排 | 未指定 |
 | 服饰年代演变 | [H1 · 百年女装](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | 待发布，未预约、未发布（10-30更新） | 待发布，未预约、未发布（10-30新增） | 未排期 | 未排期 | 未指定 |
@@ -1110,3 +1111,30 @@ Excerpted and mixed.
 我们可以批量制作视觉内容，把一个创意延展成一组图片和视频。想为品牌、文旅或自己的故事做一组内容，欢迎了解 Curify：https://curify-ai.com
 
 #中式美学 #天宫 #AI短片 #视觉创意 #Curify
+
+---
+
+<a id="s11-painting"></a>
+## 2026-11-26 · S11 · 羽扇轻摇，画中人走出来了
+
+**平台：** 小红书／快手。**状态：** 接 S10 加入本地发布队列，未预约、未发布；日期／时间待定。视频号／抖音本次未安排。
+
+**视频：** [无平台水印源流](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/painting-brought-to-life-clean.mp4) · 10.008秒 · 720×1280 · 24fps · 保留原音轨。[封面](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/cover.jpg) · [来源与检查记录](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/README.md)。视频、封面仅本地保存，不提交 Git。
+
+**素材来源：** [小红书原帖](https://www.xiaohongshu.com/explore/6b06d597000000002b0059e1)，原题《一袭青衣，一扇羽扇。画中人走出来了》。第三方参考，非 Curify 制作案例；作者显示名、原画归属和具体生成方式未核实。下载源流的抽帧检查未见平台水印，未做裁切、模糊或修补；画作题字与印章保留。
+
+**标题：** 羽扇轻摇，画中人走出来了
+
+**正文：**
+
+如果画中人忽然看向你，会是什么感觉？
+
+羽扇轻摇，衣袖有了起伏，原本静止的仕女形象像是从纸上走了出来。暖色的画面还在，一点点动作，就让故事有了呼吸。
+
+分享一条「让图片动起来」的视觉参考，原帖：https://www.xiaohongshu.com/explore/6b06d597000000002b0059e1
+
+你也有想动起来的照片、插画或品牌图片吗？我们可以把静态图片做成动态短片，承接视觉内容制作（visual production），用于个人纪念、文旅故事、品牌宣传，也可以按统一风格批量制作。
+
+了解更多：https://curify-ai.com
+
+#图片动起来 #古画活起来 #国风美学 #图生视频 #视觉制作 #Curify

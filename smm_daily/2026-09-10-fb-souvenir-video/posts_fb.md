@@ -17,6 +17,7 @@
 | [S8 · My New Office](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · [Caption](#s8-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
 | [S9 · Heavenly Delivery](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · [Caption](#s9-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
 | [S10 · Different Doors, the Same Dream](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [Caption](#s10-heaven) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | Not scheduled / not published | Not recorded | Unassigned · sequence S10 |
+| [S11 · When a Painting Comes to Life](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/painting-brought-to-life-clean.mp4) · [Caption](#s11-painting) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | Not assigned | Not assigned | Unassigned · after S10 |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Queued / unpublished | Not recorded | Not recorded | Not scheduled |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Queued / draft; not scheduled / not published | Not recorded | Not recorded | Not specified |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Queued / not scheduled / not published | Not recorded | Not recorded | Not specified |
@@ -1017,3 +1018,28 @@ An AI-imagined story inspired by Chinese celestial imagery.
 We create visual stories in batches—from one creative direction to a series of images and videos. Explore what we can make for you: https://curify-ai.com
 
 #VisualStorytelling #ChineseFantasy #AIShortFilm #Curify
+
+---
+
+<a id="s11-painting"></a>
+## 2026-11-26 · S11 · When a Painting Comes to Life
+
+**Platforms:** Facebook / Instagram. **Status:** Local publication queue after S10; not scheduled or published. Date/time unassigned.
+
+**Video:** [Clean source stream](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/painting-brought-to-life-clean.mp4) · 10.008s · 720×1280 · 24fps · original audio retained. [Cover](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/cover.jpg) · [Source / QA](../../social_media_virals/2026-11-26/rednote-6b06d597000000002b0059e1/README.md). Video and cover remain local; not uploaded to Git.
+
+**Source:** [Original Rednote post](https://www.xiaohongshu.com/explore/6b06d597000000002b0059e1), titled “一袭青衣，一扇羽扇。画中人走出来了”. Third-party reference, not a Curify production. Creator display name, original painting attribution and generation method unverified. No platform watermark was visible in the downloaded stream's sampled frames; no crop, blur or inpainting was applied. Painted inscriptions and seals remain intact.
+
+**Caption:**
+
+What if the figure in a painting looked back at you?
+
+A feather fan begins to move. A painted silhouette becomes a living presence. The scene keeps its warm paper tones while the smallest gestures change everything.
+
+Sharing this image-to-motion reference from Rednote: https://www.xiaohongshu.com/explore/6b06d597000000002b0059e1
+
+Have a photograph, illustration or brand image you want to bring to life? We animate still images and offer visual production for personal stories, cultural projects and campaigns—from a single short to a coordinated batch.
+
+Explore: https://curify-ai.com
+
+#ImageToVideo #ArtInMotion #ChineseAesthetics #VisualProduction #Curify
