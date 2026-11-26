@@ -2,6 +2,8 @@
 
 ## Publication schedule
 
+**2026-11-26 update:** S7 → S8 → S9 → S10 are the new Everyday → Chinese Heaven batch, queued for Facebook and Instagram in that order. Dates/times remain unassigned; this is a local publication sequence, not platform scheduling. All four captions include the batch visual production + curify-ai.com CTA. Videos remain local.
+
 **2026-11-18 publication update:** The user confirmed S2, S3, S4, S5 are published on Facebook, Instagram and YouTube. This is the confirmation date, not an assumed publication date; actual dates and URLs remain unrecorded.
 
 | Series / video | Instagram status | Scheduled date / time | Facebook status | Voice | YouTube status |
@@ -11,6 +13,10 @@
 | [S4 · Towards the Light · Tattoo Pilot](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [Caption](#s4-tattoo-pilot) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Tattoo-inspired keepsake film; turn your story into a video. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
 | [S5 · Red Chamber · A Small Gesture of Care](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [Caption](#s5-red-chamber) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Actual date/time and post URLs not provided | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Literary heritage, product detail and a mother–daughter moment. | ✅ Published (confirmed 2026-11-18; actual date/link not provided) |
 | [S6 · Six Lifetimes, One Love · Fictional Couple Demo](../../drama_animation/six-lifetimes-fictional-couple-vertical-10s-clean.mp4) · [Caption](#s6-wedding-highlights) | Local queue; not scheduled / not published | Not assigned | Local queue; not scheduled / not published | AI wedding concept sample; fictional couple, 10-second vertical video, no watermark. | [Published · YouTube Shorts · 2026-11-25](https://youtube.com/shorts/Shx1kD6krZg) |
+| [S7 · Wrong Floor, Right Universe](../../cultural_videos/2026-11-26-everyday-to-heaven/elevator-v1.mp4) · [Caption](#s7-heaven) | Local queue; not scheduled / not published | Unassigned · sequence S7 | Local queue; not scheduled / not published | Everyday → Chinese heaven; 12s; English voice + EN/ZH subtitles; batch visual production CTA. | Not scheduled / not published |
+| [S8 · My New Office](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · [Caption](#s8-heaven) | Local queue; not scheduled / not published | Unassigned · sequence S8 | Local queue; not scheduled / not published | Everyday → Chinese heaven; 12s; English voice + EN/ZH subtitles; batch visual production CTA. | Not scheduled / not published |
+| [S9 · Heavenly Delivery](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · [Caption](#s9-heaven) | Local queue; not scheduled / not published | Unassigned · sequence S9 | Local queue; not scheduled / not published | Everyday → Chinese heaven; 12s; English voice + EN/ZH subtitles; batch visual production CTA. | Not scheduled / not published |
+| [S10 · Different Doors, the Same Dream](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [Caption](#s10-heaven) | Local queue; not scheduled / not published | Unassigned · sequence S10 | Local queue; not scheduled / not published | Everyday → Chinese heaven; 18s; English voice + EN/ZH subtitles; batch visual production CTA. | Not scheduled / not published |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Not scheduled | Queued / unpublished | AI visualization of the making process. | Not recorded |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Not specified | Queued / draft; not scheduled / not published | Coastal souvenir; user-supplied clip, cropped corner marks. | Not recorded |
 | [H1 · 100 Years of Fashion](../../cultural_videos/costume_tryon/2026-10-29-fashion-through-time/100-years-of-fashion-30s.mp4) | Queued / not scheduled / not published | Not specified | Queued / not scheduled / not published | Historical fashion exploration; bilingual timeline. | Not recorded |
@@ -942,3 +948,91 @@ A ten-second glimpse of what an AI wedding film can look like. Which era would y
 We create personalized AI wedding videos and AI bridal portraits from your photos. Message us with your wedding date and favorite style to plan your own film or photo collection.
 
 #AIWeddingFilm #WeddingMemories #PersonalizedVideo #LoveAcrossTime
+
+---
+
+<a id="s7-heaven"></a>
+## 2026-11-26 · S7 · Wrong Floor, Right Universe
+
+**Platforms:** Facebook / Instagram. **Status:** Added to the local publication sequence; no platform scheduling or publishing performed. Date/time unassigned.
+
+**Video (local only):** [elevator-v1.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/elevator-v1.mp4) · 12s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
+
+**Caption:**
+
+Just another Monday. Until the elevator opened. ☁️
+
+Same coffee. Same suit. A very different floor.
+Which button would you press next?
+
+An AI-imagined story inspired by Chinese celestial imagery.
+
+We create visual stories in batches—from one creative direction to a series of images and videos. Explore what we can make for you: https://curify-ai.com
+
+#VisualStorytelling #ChineseFantasy #AIShortFilm #Curify
+
+---
+
+<a id="s8-heaven"></a>
+## 2026-11-26 · S8 · My New Office
+
+**Platforms:** Facebook / Instagram. **Status:** Added to the local publication sequence; no platform scheduling or publishing performed. Date/time unassigned.
+
+**Video (local only):** [commute-v1.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · 12s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
+
+**Caption:**
+
+Rainy commute. Familiar umbrella. Unfamiliar office. ☁️
+
+One doorway later, the clouds are below you—and you probably don’t need that umbrella.
+Would you trade your commute for this?
+
+An AI-imagined story inspired by Chinese celestial imagery.
+
+We create visual stories in batches—from one creative direction to a series of images and videos. Explore what we can make for you: https://curify-ai.com
+
+#VisualStorytelling #ChineseFantasy #AIShortFilm #Curify
+
+---
+
+<a id="s9-heaven"></a>
+## 2026-11-26 · S9 · Heavenly Delivery
+
+**Platforms:** Facebook / Instagram. **Status:** Added to the local publication sequence; no platform scheduling or publishing performed. Date/time unassigned.
+
+**Video (local only):** [delivery-v1.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · 12s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
+
+**Caption:**
+
+I ordered dinner. Not a doorway to heaven. ☁️
+
+Pajamas, a paper bag, and a celestial courier at the front door.
+What do you think is inside?
+
+An AI-imagined story inspired by Chinese celestial imagery.
+
+We create visual stories in batches—from one creative direction to a series of images and videos. Explore what we can make for you: https://curify-ai.com
+
+#VisualStorytelling #ChineseFantasy #AIShortFilm #Curify
+
+---
+
+<a id="s10-heaven"></a>
+## 2026-11-26 · S10 · Different Doors, the Same Dream
+
+**Platforms:** Facebook / Instagram. **Status:** Added to the local publication sequence; no platform scheduling or publishing performed. Date/time unassigned.
+
+**Video (local only):** [shared-dream-v4.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · 18s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
+
+**Caption:**
+
+Three ordinary lives. Three different doors. The same impossible sky. ☁️
+
+An elevator, a rainy commute, a delivery at the door—what if we all stepped into the same dream?
+Which doorway would be yours?
+
+An AI-imagined story inspired by Chinese celestial imagery.
+
+We create visual stories in batches—from one creative direction to a series of images and videos. Explore what we can make for you: https://curify-ai.com
+
+#VisualStorytelling #ChineseFantasy #AIShortFilm #Curify
