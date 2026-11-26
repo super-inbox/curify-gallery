@@ -30,6 +30,7 @@
 | S16 | A · DS 求职／DA 转 DS | 面试 coaching＋练习设计 | Prepare for the work behind the data science title. | 文字帖／无需新增素材 | [查看文案](#s16) | 草稿／未排期 | — |
 | S17 | A · 有经验的 DS／职业转型 | 专家观察＋职业选择 | Why are people reconsidering a data science career? | 文字帖／无需新增素材 | [查看文案](#s17) | 草稿／未排期 | — |
 | S18 | A → B · 新人／带教负责人 | 培养路径＋mentorship | If AI handles beginner tasks, where does experience come from? | 文字帖／无需新增素材 | [查看文案](#s18) | 草稿／未排期 | — |
+| S19 | A → B · AI 学习者／Agent 开发者 | 架构科普＋工程实践 | Understanding the Six Layers of an AI Agent, Step by Step | [配图](assets/agent-six-layers-light-en-v1.png) | [博客与文案](#s19) | 草稿／未排期 | — |
 
 ---
 
@@ -536,3 +537,24 @@ If you are looking for that first meaningful experience, tell me what you have t
 https://mentorcruise.com/mentor/jaywang/
 
 #AI #CareerDevelopment #Mentorship
+
+
+---
+
+## S19
+
+[完整博客](drafts/agent-six-layers.en.md) · [配图](assets/agent-six-layers-light-en-v1.png)
+
+**A tool-enabled model can make a convincing demo. What helps it finish a real task?**
+
+Using one sales-analysis request, I walk through six responsibilities: intent routing, context engineering, reasoning and planning, tools and skills, the runtime harness, and verification and evaluation.
+
+The article explains how a plan changes when data is missing, why a timeout does not prove an action failed, and what to check before accepting “done.” These are architectural responsibilities, not a requirement to deploy six separate agents.
+
+For coaching on AI learning and agent projects:
+https://mentorcruise.com/mentor/jaywang/
+
+Explore our visual creation and design workflow work:
+https://curify-ai.com/
+
+#AIAgents #AIEngineering #AgentArchitecture

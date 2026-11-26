@@ -9,6 +9,7 @@ S09 added 2026-11-02. Draft only; not scheduled or published. This file records 
 | S09 | Multimodal researchers, training-data leads, dataset QA and data sourcing teams | 3D reconstruction, design-task trajectories and evaluation data | [Draft](#s09) | Draft / unscheduled | — |
 | S17 | Experienced DS / career transitions | What does a data scientist actually want to leave? | [Draft](#s17) | Draft / unscheduled | — |
 | S18 | Early-career practitioners / engineering leads | Designing how juniors learn when AI handles routine tasks | [Draft](#s18) | Draft / unscheduled | — |
+| S19 | AI learners / agent builders | Understanding the Six Layers of an AI Agent, Step by Step | [Article and image](#s19) | Draft / unscheduled | — |
 
 ## S09
 
@@ -93,3 +94,24 @@ If you are developing your own experience—or thinking about how your team trai
 https://mentorcruise.com/mentor/jaywang/
 
 #EngineeringLeadership #AI #Mentorship
+
+
+---
+
+## S19
+
+[完整博客](drafts/agent-six-layers.en.md) · [配图](assets/agent-six-layers-light-en-v1.png)
+
+**A tool-enabled model can make a convincing demo. What helps it finish a real task?**
+
+Using one sales-analysis request, I walk through six responsibilities: intent routing, context engineering, reasoning and planning, tools and skills, the runtime harness, and verification and evaluation.
+
+The article explains how a plan changes when data is missing, why a timeout does not prove an action failed, and what to check before accepting “done.” These are architectural responsibilities, not a requirement to deploy six separate agents.
+
+For coaching on AI learning and agent projects:
+https://mentorcruise.com/mentor/jaywang/
+
+Explore our visual creation and design workflow work:
+https://curify-ai.com/
+
+#AIAgents #AIEngineering #AgentArchitecture

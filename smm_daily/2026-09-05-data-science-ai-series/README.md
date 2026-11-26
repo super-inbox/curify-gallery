@@ -133,3 +133,14 @@ Facebook S11、S12；小红书 S11、S12、S13 已由操作者确认发布。202
 - [选题优先级与事实核对](reddit-topic-watchlist-2026-11-20.md)
 - [Facebook](posts_fb.md#s17) · [LinkedIn](posts_linkedin.md#s17) · [小红书](posts_rednote.md#s17)
 - LinkedIn 的 S09 保留原独立状态；此前其他系列稿没有被推定为 LinkedIn 已发布内容。三平台共用 S17／S18 编号。
+
+
+## S19 · Agent 六层架构博客与配图
+
+2026-11-26 将审核稿加入 Facebook、LinkedIn、小红书 Publication Sequence，状态均为草稿／未排期。未指定发布日期，未执行任何平台发布或预约。
+
+- [中文博客](drafts/agent-six-layers.zh.md) · [英文博客](drafts/agent-six-layers.en.md)
+- [中文／双语深色图](assets/agent-six-layers-tech-v1.png) · [英文浅色精简图](assets/agent-six-layers-light-en-v1.png)
+- [Facebook S19](posts_fb.md#s19) · [LinkedIn S19](posts_linkedin.md#s19) · [小红书 S19](posts_rednote.md#s19)
+- 两篇博客均保留 MentorCruise 与 Curify 网站 CTA；小红书发布入口提供无外链 CTA 替换，并提示移除长文中的外链。Facebook、LinkedIn 使用英文博客和浅色图。
+- 六层作为工程职责拆解，不声称统一行业标准。Harness 跨越执行过程，反馈连接规划与验证；不将图片解释为必须单向依序通过的流水线。
