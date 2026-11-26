@@ -2,7 +2,7 @@
 
 ## Publication schedule
 
-**2026-11-26 update:** S7 → S8 → S9 → S10 are the new Everyday → Chinese Heaven batch, queued for Facebook and Instagram in that order. Dates/times remain unassigned; this is a local publication sequence, not platform scheduling. All four captions include the batch visual production + curify-ai.com CTA. Videos remain local.
+**2026-11-26 selection update:** Only S10 (Different Doors, the Same Dream, 18s) remains queued for Facebook / Instagram. S7–S9 are retained as alternate cuts and will not be published. Date/time unassigned; no platform scheduling performed.
 
 **2026-11-18 publication update:** The user confirmed S2, S3, S4, S5 are published on Facebook, Instagram and YouTube. This is the confirmation date, not an assumed publication date; actual dates and URLs remain unrecorded.
 
@@ -13,9 +13,9 @@
 | [S4 · Towards the Light · Tattoo Pilot](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4) · [Caption](#s4-tattoo-pilot) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Not recorded | Actual date/time and post URLs not provided |
 | [S5 · Red Chamber · A Small Gesture of Care](../../drama_animation/red-chamber-beauty-mallet-28s-768p.mp4) · [Caption](#s5-red-chamber) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | ✅ Published (confirmed 2026-11-18; actual date/link not provided) | Not recorded | Actual date/time and post URLs not provided |
 | [S6 · Six Lifetimes, One Love · Fictional Couple Demo](../../drama_animation/six-lifetimes-fictional-couple-vertical-10s-clean.mp4) · [Caption](#s6-wedding-highlights) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | [Published · YouTube Shorts · 2026-11-25](https://youtube.com/shorts/Shx1kD6krZg) | Not recorded | Not assigned |
-| [S7 · Wrong Floor, Right Universe](../../cultural_videos/2026-11-26-everyday-to-heaven/elevator-v1.mp4) · [Caption](#s7-heaven) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | Not scheduled / not published | Not recorded | Unassigned · sequence S7 |
-| [S8 · My New Office](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · [Caption](#s8-heaven) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | Not scheduled / not published | Not recorded | Unassigned · sequence S8 |
-| [S9 · Heavenly Delivery](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · [Caption](#s9-heaven) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | Not scheduled / not published | Not recorded | Unassigned · sequence S9 |
+| [S7 · Wrong Floor, Right Universe](../../cultural_videos/2026-11-26-everyday-to-heaven/elevator-v1.mp4) · [Caption](#s7-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
+| [S8 · My New Office](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · [Caption](#s8-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
+| [S9 · Heavenly Delivery](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · [Caption](#s9-heaven) | Not selected; retained as alternate | Not selected; retained as alternate | Not selected | Not selected | — · only S10 queued |
 | [S10 · Different Doors, the Same Dream](../../cultural_videos/2026-11-26-everyday-to-heaven/shared-dream-v4.mp4) · [Caption](#s10-heaven) | Local queue; not scheduled / not published | Local queue; not scheduled / not published | Not scheduled / not published | Not recorded | Unassigned · sequence S10 |
 | [Pearl painting · 瑞羊纳福](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) | Not requested | Queued / unpublished | Not recorded | Not recorded | Not scheduled |
 | [S1 · Coastal Walk](../../drama_animation/coastal-walk-10s-cropped.mp4) | Not requested | Queued / draft; not scheduled / not published | Not recorded | Not recorded | Not specified |
@@ -776,27 +776,6 @@ What part of a trip would you keep in a ten-second film: the view, the walk, or 
 
 **After publishing:** Record the actual date, post URL, group if used, views, shares and replies in the schedule above.
 
-## 2026-11-02 · White-model reconstruction · 展示候选
-
-**素材：** [原视频＋生成白模对照](../../drama_animation/white-model-reconstruction-2026-11-02/source-vs-white-model-v14.mp4) · [封面](../../drama_animation/white-model-reconstruction-2026-11-02/cover-v14.jpg)。1080×1920、25fps、3.12秒、两个原速样段；视频仅存本地。候选草稿，未排期、未发布。
-
-### Facebook · White-model reconstruction & training data
-
-Status: candidate draft, pending visual review; not scheduled or published.
-
-### Post
-We turn video footage into simplified 3D white-model animations—and we welcome custom training-data projects with AI model developers.
-
-Top: the original footage. Bottom: our reconstruction. These two work-in-progress excerpts show our approach: simplify appearance while reconstructing motion, character orientation, scene layout and camera movement.
-
-We take on custom video and 3D white-model data production for large-model training needs. Projects can be scoped around paired source videos and reconstructions, motion and scene requirements, delivery formats and agreed acceptance criteria. We start with sample validation before defining a larger production batch.
-
-We’re open to working with major AI model vendors, AI companies and research teams on data production for video understanding, motion generation and 3D scenes.
-
-Looking for a data-production partner or a joint development project? Message us with your data type, target volume and quality requirements.
-
-#3DReconstruction #WhiteModelAnimation #AITrainingData #CustomData #AIPartnerships
-
 <a id="pearl-painting-20261103"></a>
 
 ## 2026-11-03 · Pearl painting
@@ -956,7 +935,7 @@ We create personalized AI wedding videos and AI bridal portraits from your photo
 <a id="s7-heaven"></a>
 ## 2026-11-26 · S7 · Wrong Floor, Right Universe
 
-**Platforms:** Facebook / Instagram. **Status:** Added to the local publication sequence; no platform scheduling or publishing performed. Date/time unassigned.
+**Platforms:** Facebook / Instagram. **Status:** Not selected for publication (2026-11-26); retained as an alternate. Only S10 remains in the publication queue.
 
 **Video (local only):** [elevator-v1.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/elevator-v1.mp4) · 12s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
 
@@ -978,7 +957,7 @@ We create visual stories in batches—from one creative direction to a series of
 <a id="s8-heaven"></a>
 ## 2026-11-26 · S8 · My New Office
 
-**Platforms:** Facebook / Instagram. **Status:** Added to the local publication sequence; no platform scheduling or publishing performed. Date/time unassigned.
+**Platforms:** Facebook / Instagram. **Status:** Not selected for publication (2026-11-26); retained as an alternate. Only S10 remains in the publication queue.
 
 **Video (local only):** [commute-v1.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/commute-v1.mp4) · 12s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
 
@@ -1000,7 +979,7 @@ We create visual stories in batches—from one creative direction to a series of
 <a id="s9-heaven"></a>
 ## 2026-11-26 · S9 · Heavenly Delivery
 
-**Platforms:** Facebook / Instagram. **Status:** Added to the local publication sequence; no platform scheduling or publishing performed. Date/time unassigned.
+**Platforms:** Facebook / Instagram. **Status:** Not selected for publication (2026-11-26); retained as an alternate. Only S10 remains in the publication queue.
 
 **Video (local only):** [delivery-v1.mp4](../../cultural_videos/2026-11-26-everyday-to-heaven/delivery-v1.mp4) · 12s · 1080 × 1920 · English voice, bilingual EN/ZH subtitles. Media is intentionally not committed to Git.
 

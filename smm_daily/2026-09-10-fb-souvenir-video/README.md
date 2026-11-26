@@ -15,7 +15,7 @@
 
 - 2026-11-02 · Coastal Walk 同步加入[小红书旅行纪念系列 S1](posts_rednote_kuaishou.md#2026-11-02--s1--海边散步)：中文标题、正文、视频与封面链接已备齐；本地待发布、未预约、未发布。视频仅存本地 `drama_animation/`。
 
-- 2026-11-02 · 白模复刻与训练数据合作 v14（[Facebook英文文案](posts_fb.md) · [小红书中文文案](posts_rednote_kuaishou.md)）：原片与生成白模对照，小红书中文＋Facebook英文；本地展示候选，待视觉确认，未排期、未发布。
+- 白模复刻与训练数据合作已迁移至独立[白模视频系列](../2026-11-26-white-model/README.md)，原 v14 候选状态保留，后续在新系列维护。
 
 - 2026-11-03 · 《瑞羊纳福》珍珠画制作过程：根据工艺品成品图生成的 AI 演示。[Facebook 英文文案](posts_fb.md#pearl-painting-20261103) · [小红书／快手中文文案](posts_rednote_kuaishou.md#pearl-painting-20261103) · [15 秒成片](../../ecommerce_ad_videos/ruiyang-pearl-painting/ruiyang-pearl-painting-v3.mp4) · [Curify 视频报价单（精简版）](2026-11-03-pearl-painting/curify-video-pricing-zh.png)。待发布，未排期。
 
@@ -28,3 +28,5 @@
 - 2026-11-17 · S4「向光而生」飞行员纹身纪念短片：69秒，Curify斜向水印，动画定格结尾。[中文文案](posts_rednote_kuaishou.md#s4-tattoo-pilot) · [English caption](posts_fb.md#s4-tattoo-pilot) · [视频](../../drama_animation/tattoo-pilot-69s-768p-curify-watermarked.mp4)。已接在S3后加入中英文发布序列，未预约、未发布；视频随Git提交保存。
 
 - 2026-11-25 · S6《六世都是你》虚构人物竖屏样片：10秒、1080×1920、无水印；使用全新虚构情侣，不含客户肖像，沿用原花絮音乐。视频仅保留本地，不提交Git。[本地视频](../../drama_animation/six-lifetimes-fictional-couple-vertical-10s-clean.mp4) · [中文发布序列与文案](posts_rednote_kuaishou.md#s6-wedding-highlights) · [English sequence and caption](posts_fb.md#s6-wedding-highlights)。接在 S5 后，本地待发布，未预约、未发布。
+
+- 2026-11-26 · 天宫系列：仅 S10 三人合剪版待发；S7–S9 不发布，保留备选。

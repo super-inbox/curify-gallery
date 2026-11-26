@@ -91,6 +91,7 @@ also the better thing to put in a buyer group first.
 | ◻︎ | — | 📦 G | **G4** · Zeelum backpack: show the opening | `demos/zeelum-backpack-2026-11-05/zeelum-backpack-product-demo.mp4` | Product photographers / studios · draft, not scheduled | | | |
 | ✅ Published · FB / Instagram / YouTube | — | 🎥 V | **V1** · A camera move needs a destination | [Stadium camera reference](../../social_media_virals/2026-11-17/stadium-camera-move/stadium-camera-move-clean.mp4) | User confirmed 2026-11-18; actual dates and URLs not provided. Third-party camera reference. |  |  |  |
 | ✅ Published · FB / Instagram / YouTube | — | 🎥 V | **V2** · London in five camera moves | [Urban electronic](../../cultural_videos/london-camera-motion/london-camera-motion-urban-electronic.mp4) · [Wakin Chau alternate](../../cultural_videos/london-camera-motion/london-camera-motion-wakin-chau.mp4) | User confirmed 2026-11-18; actual dates and URLs not provided. Published music version not specified. |  |  |  |
+| ◻︎ Queued · FB / Instagram; not scheduled / not published | — | 🎥 V | **V3** · A sunset worth slowing down for | [Sunset reference](../../social_media_virals/2026-11-26/sunset-natural-beauty/4o7RV6ZOJegdrCsn.mp4) | User-supplied nature reference; creator / generation method unverified; dates unassigned. AI video services CTA. |  |  |  |
 
 **Original batch: 14 postable files for 15 posts**, because two are shared: `shared-retouching-blueprint.jpg`
 runs both **P1 and C3**, and `_contact-sheet.jpg` runs **S1** in all three of its placements
@@ -1618,3 +1619,24 @@ Five photographs, one route through London. Follow the train into the bend, spir
 We built this as a photo-to-motion study for photographers and studios. Camera direction and pacing connect five distinct views. The unobstructed Thames view uses an AI-assisted extension of the source photograph.
 
 We work with photography studios to turn existing photos and footage into short product and property videos, with camera-movement planning and editing. DM us “CAMERA MOVE” with your material, where you plan to post, and the detail you want to highlight. We’ll work out the first video together.
+
+---
+
+<a id="v3-sunset"></a>
+## 2026-11-26 · V3 · A sunset worth slowing down for
+
+**Status:** Facebook / Instagram local queue; not scheduled or published. Date/time unassigned.
+**Video:** [Coastal road under a glowing sunset](../../social_media_virals/2026-11-26/sunset-natural-beauty/4o7RV6ZOJegdrCsn.mp4) · 8.22s · 720×1280 · original audio retained; local only.
+**Provenance:** User-supplied visual reference. Original creator and whether it is filmed or AI-generated are unverified; do not present this clip as Curify's own production.
+
+**Caption:**
+
+Some evenings make the whole sky feel alive. 🌅
+
+Golden clouds, a winding coastal road, and that brief moment when everything slows down. A little reminder to look up.
+
+Sharing this sunset as visual inspiration. Want to turn a mood or an idea into a film? We create AI-generated videos for fashion, AI wedding stories, brand promos and more—including batch visual production.
+
+Explore: https://curify-ai.com
+
+#Sunset #NatureBeauty #VisualStorytelling #AIVideo #Curify
