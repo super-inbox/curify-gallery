@@ -4,7 +4,7 @@
 
 | 计划 | 选题 | 已确认 | 待处理 |
 |---|---|---|---|
-| 11-27 18:00 | [S10 · 三个人，怎么做了同一个梦？](2026-09-10-fb-souvenir-video/posts_fb.md#s10-heaven) | [YouTube Shorts 已排程](https://youtube.com/shorts/_Fr4Gzf8jXI) | Instagram、抖音、快手待登录。小红书已选择视频文件，待核对账号与表单、提交 |
+| 11-27 18:00 | [S10 · 三个人，怎么做了同一个梦？](2026-09-10-fb-souvenir-video/posts_fb.md#s10-heaven) | [YouTube Shorts 已排程](https://youtube.com/shorts/_Fr4Gzf8jXI)；Instagram 已排程；快手已提交定时，审核中 | 抖音待短信验证；小红书按用户要求暂停 |
 | 11-28 18:00 | [白模 · WM1 原片／白模对照候选](2026-11-26-white-model/README.md) | — | 候选仍标记待视觉确认，核定公开版后排程 |
 | 11-29 18:00 | [V3 · 晚霞把整片天空点亮了](2026-09-01-retouching/posts_rednote.md) | — | 原片及音轨发布授权未记录 |
 | 11-30 18:00 | [V21 · 爵士时代](2026-10-08-visual-design/posts_rednote.md#v21-jazz-age) | — | 九图第三方参考，公开使用授权未记录。YouTube Shorts 需视频版 |
