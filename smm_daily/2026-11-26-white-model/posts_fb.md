@@ -20,7 +20,7 @@ We welcome custom video / 3D training-data projects with AI model developers, st
 
 Explore: https://curify-ai.com
 
-#WhiteModelAnimation #3DReconstruction #AITrainingData #BatchProduction #Curify
+#WhiteModelAnimation #3DReconstruction #AITrainingData #BatchProduction
 
 ## Provenance line for each post
 
